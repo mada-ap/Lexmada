@@ -1,0 +1,1001 @@
+{
+  "titre": "La règle de droit est obligatoire",
+  "module": "Module 2 — Les caractères de la règle de droit",
+  "niveau": "Débutant",
+  "contenu": [
+    {
+      "titre": "Une règle qui s'impose à tous, sans exception",
+      "texte": "Parmi toutes les règles qui existent dans une société — les règles de politesse, les règles religieuses, les règles morales — la règle de droit se distingue par un caractère essentiel : elle est obligatoire. Cela veut dire qu'elle s'impose à toutes les personnes auxquelles elle s'adresse, qu'elles le veuillent ou non. On ne choisit pas d'obéir à la loi comme on choisit de respecter une coutume familiale. La règle de droit s'impose, et si on ne la respecte pas, une conséquence s'ensuit.",
+      "definition": "Caractère obligatoire de la règle de droit : la règle de droit s'impose à tous ceux qu'elle vise, indépendamment de leur volonté individuelle d'y obéir ou non."
+    },
+    {
+      "titre": "Ce qui rend la règle de droit vraiment obligatoire : la sanction étatique",
+      "texte": "Ce qui distingue fondamentalement la règle de droit des autres règles sociales (morale, religion, politesse), c'est que son non-respect est sanctionné par l'État. L'État — à travers ses juges, ses tribunaux, ses officiers de justice — dispose de la force publique pour contraindre les individus à respecter le droit, et pour punir ou réparer lorsqu'une règle a été violée. Un voisin qui viole votre droit de propriété, un employeur qui ne paie pas les salaires dus, un conducteur qui renverse un piéton : dans chaque cas, le droit prévoit une sanction, et l'État dispose des moyens de la faire appliquer. C'est ce qu'on appelle la « coercition étatique ».",
+      "definition": "Sanction étatique : conséquence juridique prévue et appliquée par l'État en cas de violation d'une règle de droit. C'est ce qui rend la règle de droit véritablement obligatoire, à la différence des règles morales ou religieuses dont la sanction est intérieure ou spirituelle."
+    },
+    {
+      "titre": "Les différentes formes de sanctions",
+      "texte": "Les sanctions juridiques ne sont pas toutes identiques. Elles se divisent en grandes catégories selon la nature de la règle violée. En droit pénal, la sanction peut être une peine de prison, une amende, des travaux d'intérêt général. En droit civil, la sanction prend le plus souvent la forme d'une réparation : l'auteur d'un dommage devra indemniser sa victime, un contractant défaillant devra exécuter ce qu'il a promis ou payer des dommages-intérêts. En droit administratif, une décision illégale peut être annulée par le juge. Dans tous les cas, c'est le juge qui prononce la sanction, et l'État qui dispose des moyens de la faire exécuter.",
+      "exemple": "Solofo ne paie pas le loyer qu'il doit à son propriétaire depuis trois mois. Le propriétaire saisit le tribunal. Le juge condamne Solofo à payer les loyers impayés et, éventuellement, à quitter les lieux. Si Solofo ne s'exécute pas, un huissier de justice — officier de l'État — peut venir faire appliquer la décision de justice par la force."
+    },
+    {
+      "titre": "Obligation civile et obligation naturelle",
+      "texte": "Toutes les obligations reconnues par le droit ne sont pas sanctionnées de la même façon. Il faut distinguer l'obligation civile et l'obligation naturelle. L'obligation civile est une obligation juridiquement parfaite : son exécution peut être exigée devant un tribunal et, si nécessaire, obtenue par la force. L'obligation naturelle, elle, est une obligation que le droit reconnaît, mais dont l'exécution ne peut pas être imposée par un tribunal : on ne peut pas y contraindre quelqu'un. Cependant, si la personne l'exécute volontairement, elle ne peut pas ensuite réclamer ce qu'elle a donné : le paiement est valable.",
+      "definition": "Obligation civile : obligation dont l'exécution peut être forcée par un tribunal (ex. : payer une dette contractuelle). Obligation naturelle : obligation reconnue moralement par le droit mais que l'on ne peut pas exiger en justice (ex. : nourrir un parent adulte non à charge). Si on l'exécute librement, le paiement est irrévocable.",
+      "exemple": "Voahangy a jadis promis oralement à sa sœur de lui donner une somme d'argent pour l'aider à monter un commerce, sans signer aucun contrat. Juridiquement, cette promesse non formalisée peut constituer une obligation naturelle : la sœur ne peut pas traîner Voahangy en justice pour l'y contraindre. Mais si Voahangy verse quand même la somme de son plein gré, elle ne peut pas ensuite en réclamer le remboursement en disant qu'elle « n'était pas obligée »."
+    },
+    {
+      "titre": "Règle de droit et règle morale : des frontières à ne pas confondre",
+      "texte": "La règle de droit et la règle morale ont souvent le même contenu (ne pas voler, ne pas mentir en justice, respecter ses engagements), mais leur nature est différente. La règle morale s'adresse à la conscience individuelle : sa sanction est intérieure (remords, honte) ou religieuse (dans une perspective de foi). La règle de droit, elle, est extérieure à l'individu et sa sanction est organisée par l'État. On peut très bien violer une règle de droit sans aucun remords moral (un excès de vitesse) ou respecter scrupuleusement une règle morale sans que le droit l'impose (aider un ami en difficulté). Et inversement, une règle peut être légale sans être morale (il a existé des lois injustes dans l'histoire).",
+      "exemple": "À Madagascar, un commerçant qui vend de la marchandise avariée viole à la fois une règle de droit (la loi sur la protection des consommateurs) et une règle morale (ne pas nuire à autrui). Mais un entrepreneur qui licencie un salarié en respectant strictement le code du travail agit légalement, même si certains trouvent la décision moralement difficile à accepter."
+    },
+    {
+      "titre": "Le cas particulier des règles impératives et des règles supplétives",
+      "texte": "Toutes les règles de droit ne sont pas obligatoires de la même manière. On distingue les règles impératives (ou d'ordre public) et les règles supplétives (ou dispositives). Les règles impératives s'imposent absolument : personne ne peut y déroger, même d'un commun accord. Elles protègent des intérêts jugés fondamentaux pour la société ou pour les individus vulnérables. Les règles supplétives, elles, s'appliquent par défaut — si les parties n'ont rien prévu d'autre — mais peuvent être écartées par la volonté des parties. Elles comblent les silences des contrats.",
+      "definition": "Règle impérative (ordre public) : règle à laquelle on ne peut pas déroger par contrat ou par accord. Ex. : l'interdiction du travail des enfants. Règle supplétive : règle qui s'applique à défaut d'accord contraire entre les parties. Ex. : les règles sur le lieu de livraison dans une vente si le contrat n'en précise pas.",
+      "exemple": "Un contrat de travail à Antananarivo ne peut pas prévoir un salaire inférieur au SMIG (Salaire Minimum d'Intérêt Général) : cette règle est impérative, d'ordre public, et on ne peut pas y déroger même si le salarié accepte. En revanche, les parties peuvent librement fixer les modalités de paiement du salaire (hebdomadaire, mensuel, etc.) si la loi ne l'impose pas : c'est une règle supplétive."
+    }
+  ],
+  "quiz": [
+    {
+      "question": "Qu'est-ce qui distingue fondamentalement la règle de droit des autres règles sociales (morale, politesse, religion) ?",
+      "choix": [
+        "Elle est écrite dans un texte officiel",
+        "Son non-respect est sanctionné par l'État",
+        "Elle est toujours plus juste que les règles morales",
+        "Elle ne s'applique qu'aux adultes"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Pensez à ce qui permet à la règle de droit d'être vraiment respectée, même par ceux qui n'en ont pas envie.",
+        "La sanction de la règle morale est intérieure (remords) ; celle de la règle de droit vient de l'extérieur.",
+        "La réponse correcte mentionne une institution précise qui intervient en cas de violation."
+      ],
+      "explication": "Ce qui distingue fondamentalement la règle de droit, c'est que son non-respect est sanctionné par l'État. Les règles morales ou religieuses ont des sanctions intérieures (remords, culpabilité) ou spirituelles, mais seule la règle de droit mobilise la force publique de l'État pour contraindre à l'obéissance et punir les violations."
+    },
+    {
+      "question": "Vrai ou faux : une personne peut choisir librement de ne pas obéir à la règle de droit si elle estime qu'elle est injuste, sans conséquence juridique.",
+      "choix": [
+        "Vrai",
+        "Faux"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Rappelez-vous le sens du mot « obligatoire » appliqué à la règle de droit.",
+        "Le caractère obligatoire signifie que la règle s'impose indépendamment de la volonté individuelle.",
+        "La leçon distingue le fait de trouver une règle injuste et le fait d'être juridiquement soumis à elle."
+      ],
+      "explication": "Faux. Le caractère obligatoire de la règle de droit signifie précisément qu'elle s'impose à tous, indépendamment de l'opinion ou de la volonté individuelle. On peut trouver une règle injuste et chercher à la faire modifier légalement, mais on ne peut pas décider unilatéralement de l'ignorer sans s'exposer à une sanction."
+    },
+    {
+      "question": "Solofo ne paie pas son loyer depuis trois mois. Le juge le condamne à payer, et un huissier vient exécuter la décision. Quel principe juridique est illustré ici ?",
+      "choix": [
+        "L'obligation naturelle",
+        "La règle supplétive",
+        "La coercition étatique au service du caractère obligatoire de la règle de droit",
+        "La liberté contractuelle"
+      ],
+      "reponse": 2,
+      "indices": [
+        "L'État intervient ici via ses agents (juge, huissier) pour faire respecter une règle.",
+        "Cette intervention de force est ce qu'on appelle la « coercition étatique ».",
+        "Elle illustre concrètement ce qui rend la règle de droit obligatoire, à la différence d'une règle morale."
+      ],
+      "explication": "Cette situation illustre la coercition étatique : l'État, à travers le tribunal et l'huissier de justice, dispose des moyens de forcer l'exécution d'une règle de droit (l'obligation de payer le loyer). C'est cela qui rend la règle de droit véritablement obligatoire, au-delà d'un simple appel à la conscience individuelle."
+    },
+    {
+      "question": "Qu'est-ce qu'une obligation civile ?",
+      "choix": [
+        "Une obligation reconnue moralement, mais qu'on ne peut pas forcer en justice",
+        "Une obligation dont l'exécution peut être exigée devant un tribunal et obtenue par la force si nécessaire",
+        "Une obligation qui ne concerne que les fonctionnaires de l'État",
+        "Une recommandation non contraignante faite par un juge"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Le mot « civile » ici ne désigne pas une qualité morale, mais un type juridique d'obligation.",
+        "Pensez à la différence avec l'obligation naturelle : laquelle peut-on forcer en justice ?",
+        "La réponse correcte mentionne explicitement la possibilité de recourir à un tribunal et à la force."
+      ],
+      "explication": "L'obligation civile est une obligation juridiquement parfaite : son créancier peut en exiger l'exécution devant un tribunal, et si le débiteur refuse, la force publique peut être mobilisée pour obtenir cette exécution. C'est le type d'obligation qui correspond au régime normal du droit."
+    },
+    {
+      "question": "Qu'est-ce qu'une obligation naturelle ?",
+      "choix": [
+        "Une obligation issue des lois de la nature, comme la gravité",
+        "Une obligation reconnue par le droit mais dont on ne peut pas exiger l'exécution forcée en justice",
+        "Une obligation identique à l'obligation civile, simplement appelée différemment",
+        "Une obligation propre au droit de l'environnement"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Rappellez-vous l'exemple de Voahangy et de sa promesse à sa sœur.",
+        "L'obligation naturelle est reconnue, mais elle manque de quelque chose que possède l'obligation civile.",
+        "Ce qui lui manque, c'est la possibilité d'être imposée par la force."
+      ],
+      "explication": "L'obligation naturelle est une obligation que le droit reconnaît sur le plan moral, mais dont l'exécution ne peut pas être forcée par un tribunal. On ne peut pas traîner quelqu'un en justice pour l'y contraindre. Cependant, si la personne l'exécute volontairement, le paiement est valable et irrévocable."
+    },
+    {
+      "question": "Voahangy verse volontairement la somme promise à sa sœur, alors qu'il s'agissait d'une obligation naturelle. Peut-elle ensuite en réclamer le remboursement ?",
+      "choix": [
+        "Oui, car elle n'était pas juridiquement obligée de payer",
+        "Non, car un paiement librement consenti sur une obligation naturelle est irrévocable",
+        "Oui, mais seulement dans un délai de trois mois",
+        "Cela dépend du montant versé"
+      ],
+      "reponse": 1,
+      "indices": [
+        "La leçon précise ce qui se passe lorsqu'une obligation naturelle est exécutée volontairement.",
+        "Le fait qu'on ne puisse pas y forcer quelqu'un ne signifie pas que l'exécution volontaire est sans effet.",
+        "Une fois le paiement effectué librement, il ne peut pas être « repris »."
+      ],
+      "explication": "Non. La règle est la suivante : si une obligation naturelle est exécutée volontairement, le paiement est valable et définitif. Voahangy ne peut pas ensuite réclamer ce qu'elle a librement donné en prétextant qu'elle n'était « pas obligée ». L'acte volontaire a transformé l'obligation naturelle en paiement valide."
+    },
+    {
+      "question": "Quelle est la différence entre la sanction d'une règle morale et la sanction d'une règle de droit ?",
+      "choix": [
+        "Il n'y a aucune différence : les deux sont organisées par l'État",
+        "La sanction morale est extérieure (amende, prison) et la sanction juridique est intérieure (remords)",
+        "La sanction morale est intérieure (remords, culpabilité) ; la sanction juridique est extérieure, organisée par l'État",
+        "Seule la règle morale a une sanction ; la règle de droit n'en a pas"
+      ],
+      "reponse": 2,
+      "indices": [
+        "Rappelez-vous où se situe la sanction dans chaque cas : à l'intérieur de l'individu, ou à l'extérieur ?",
+        "Le remords ou la honte sont des sanctions intérieures.",
+        "La prison, l'amende, la condamnation à payer sont des sanctions extérieures imposées par l'État."
+      ],
+      "explication": "La sanction morale est intérieure : elle se manifeste dans la conscience de l'individu (remords, honte, sentiment de culpabilité). La sanction juridique est extérieure : elle est organisée par l'État (tribunal, amende, prison, réparation forcée). C'est cette différence de nature de la sanction qui distingue fondamentalement le droit de la morale."
+    },
+    {
+      "question": "Un commerçant vend de la marchandise avariée à Antananarivo. Il viole ainsi :",
+      "choix": [
+        "Uniquement une règle morale, sans violation du droit",
+        "Uniquement une règle de droit, sans dimension morale",
+        "À la fois une règle de droit (loi sur la protection des consommateurs) et une règle morale (ne pas nuire à autrui)",
+        "Aucune règle, car la vente est libre à Madagascar"
+      ],
+      "reponse": 2,
+      "indices": [
+        "Demandez-vous si une seule catégorie de règle est concernée, ou si plusieurs peuvent s'appliquer simultanément.",
+        "La leçon explique que droit et morale ont souvent le même contenu, même si leur nature diffère.",
+        "Vendre un produit dangereux est à la fois interdit par la loi et condamnable moralement."
+      ],
+      "explication": "Cette situation illustre que droit et morale peuvent se recouper : vendre de la marchandise avariée est à la fois une violation de la loi sur la protection des consommateurs (règle de droit, sanctionnée par l'État) et une atteinte à la règle morale de ne pas nuire à autrui (sanctionnée par la conscience). Les deux catégories de règles ne s'excluent pas."
+    },
+    {
+      "question": "Qu'est-ce qu'une règle impérative (ou d'ordre public) ?",
+      "choix": [
+        "Une règle que les parties peuvent écarter d'un commun accord",
+        "Une règle qui s'impose absolument et à laquelle on ne peut jamais déroger, même par contrat",
+        "Une règle qui ne s'applique qu'en cas d'urgence",
+        "Une règle que seul le président peut modifier"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Pensez à l'opposé : la règle supplétive, elle, peut être écartée.",
+        "La règle impérative protège des intérêts fondamentaux que la société juge non négociables.",
+        "L'exemple du SMIG illustre bien une règle à laquelle même un accord entre parties ne peut déroger."
+      ],
+      "explication": "Une règle impérative (d'ordre public) est une règle à laquelle on ne peut absolument pas déroger, même d'un commun accord entre les parties. Elle protège des intérêts jugés fondamentaux — pour la société ou pour des personnes vulnérables — et s'impose donc sans possibilité de l'écarter par contrat."
+    },
+    {
+      "question": "Qu'est-ce qu'une règle supplétive ?",
+      "choix": [
+        "Une règle qui remplace les règles impératives en cas de conflit",
+        "Une règle qui s'applique par défaut, mais que les parties peuvent écarter par accord contraire",
+        "Une règle qui ne s'applique que dans les contrats de vente",
+        "Une règle purement symbolique, sans valeur obligatoire"
+      ],
+      "reponse": 1,
+      "indices": [
+        "« Supplétive » vient de « suppléer » : cette règle comble ce que les parties n'ont pas prévu.",
+        "Les parties ont la liberté de prévoir autre chose ; la règle supplétive n'intervient qu'en l'absence d'accord.",
+        "Contrairement à la règle impérative, on peut s'en écarter."
+      ],
+      "explication": "Une règle supplétive (ou dispositive) s'applique par défaut, c'est-à-dire lorsque les parties n'ont rien prévu d'autre dans leur contrat. Elle comble les silences de la convention. Mais si les parties ont expressément organisé la question autrement, la règle supplétive s'efface devant leur accord."
+    },
+    {
+      "question": "Un contrat de travail à Antananarivo prévoit un salaire inférieur au SMIG. Ce contrat est-il valide ?",
+      "choix": [
+        "Oui, car la liberté contractuelle est absolue",
+        "Oui, si les deux parties ont signé librement",
+        "Non, car le SMIG est une règle impérative à laquelle on ne peut pas déroger",
+        "Cela dépend du secteur d'activité concerné"
+      ],
+      "reponse": 2,
+      "indices": [
+        "Le SMIG est un exemple de règle d'ordre public dans la leçon.",
+        "Même si les deux parties consentent, certaines règles ne peuvent pas être écartées.",
+        "La liberté contractuelle a des limites : elle ne peut pas aller contre les règles impératives."
+      ],
+      "explication": "Non, ce contrat est invalide sur ce point. Le SMIG est une règle impérative (d'ordre public) : même si le salarié accepte un salaire inférieur, cette clause est nulle de plein droit. La liberté contractuelle ne peut pas aller à l'encontre des règles d'ordre public."
+    },
+    {
+      "question": "Vrai ou faux : une règle peut être légale (conforme au droit) sans être moralement juste.",
+      "choix": [
+        "Vrai",
+        "Faux"
+      ],
+      "reponse": 0,
+      "indices": [
+        "La leçon rappelle l'existence de lois injustes dans l'histoire.",
+        "Pensez à la différence entre ce que le droit impose et ce que la morale exige.",
+        "Légal et moral ne sont pas toujours synonymes."
+      ],
+      "explication": "Vrai. La leçon souligne qu'une règle peut être légale sans être morale : il a existé des lois injustes dans l'histoire (par exemple des lois légalisant la discrimination). Le droit et la morale ne coïncident pas toujours parfaitement, même si dans une société démocratique on cherche à les rapprocher."
+    },
+    {
+      "question": "En droit pénal, quelles formes la sanction peut-elle prendre ?",
+      "choix": [
+        "Uniquement l'annulation d'un contrat",
+        "Uniquement le versement de dommages-intérêts à la victime",
+        "Une peine de prison, une amende, des travaux d'intérêt général",
+        "Uniquement une réprimande morale prononcée par le juge"
+      ],
+      "reponse": 2,
+      "indices": [
+        "Le droit pénal concerne les infractions les plus graves contre l'ordre social.",
+        "Ses sanctions visent à punir et à décourager les comportements criminels.",
+        "Cherchez la réponse qui mentionne les trois types de peines les plus courants en matière pénale."
+      ],
+      "explication": "En droit pénal, les sanctions peuvent prendre plusieurs formes : la peine de prison (privation de liberté), l'amende (sanction financière), les travaux d'intérêt général (peine alternative à l'emprisonnement). Ces sanctions visent à punir l'auteur d'une infraction et à protéger la société."
+    },
+    {
+      "question": "En droit civil, quelle est la forme la plus courante de sanction ?",
+      "choix": [
+        "La peine de prison",
+        "La réparation du préjudice subi (indemnisation ou exécution forcée de l'obligation)",
+        "La suppression du droit de vote",
+        "Une réprimande orale du juge sans suite"
+      ],
+      "reponse": 1,
+      "indices": [
+        "En droit civil, on cherche moins à punir qu'à rétablir un équilibre entre les parties.",
+        "La victime cherche à être « remise dans l'état où elle était » avant le dommage.",
+        "Cela peut prendre la forme d'une somme d'argent (dommages-intérêts) ou de l'exécution de ce qui a été promis."
+      ],
+      "explication": "En droit civil, la sanction prend le plus souvent la forme d'une réparation : l'auteur d'un dommage devra indemniser la victime (dommages-intérêts), et un contractant défaillant devra exécuter ce qu'il a promis ou payer en compensation. L'objectif est de rétablir l'équilibre, non de punir au sens pénal du terme."
+    },
+    {
+      "question": "En droit administratif, quelle sanction le juge peut-il prononcer contre une décision illégale de l'administration ?",
+      "choix": [
+        "La mise en prison du fonctionnaire responsable",
+        "L'annulation de la décision illégale",
+        "Une amende versée à la victime",
+        "Un avertissement sans autre conséquence"
+      ],
+      "reponse": 1,
+      "indices": [
+        "En droit administratif, le juge administratif contrôle la légalité des actes de l'administration.",
+        "Si un acte est contraire à la loi, la sanction la plus directe est de le faire disparaître de l'ordre juridique.",
+        "Cherchez la réponse qui correspond à « rendre nul et non avenu » un acte illégal."
+      ],
+      "explication": "En droit administratif, lorsqu'une décision de l'administration est illégale (contraire à la loi ou à la Constitution), le juge administratif peut prononcer son annulation : la décision est retirée de l'ordre juridique, comme si elle n'avait jamais existé. D'autres sanctions peuvent s'y ajouter, mais l'annulation est la sanction type du juge administratif."
+    },
+    {
+      "question": "Un individu respecte scrupuleusement ses obligations morales mais viole régulièrement le code de la route. Que peut-on dire de sa situation juridique ?",
+      "choix": [
+        "Il n'a commis aucune faute, car il respecte la morale",
+        "Il viole des règles de droit et s'expose à des sanctions étatiques, même si sa conduite est moralement irréprochable par ailleurs",
+        "La morale prime sur le droit : ses bonnes mœurs le protègent des sanctions juridiques",
+        "Il ne peut pas être poursuivi tant qu'il n'a pas causé d'accident"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Rappellez-vous que droit et morale sont deux systèmes distincts.",
+        "On peut violer une règle de droit (excès de vitesse) sans aucun remords moral.",
+        "La conformité à la morale n'efface pas les violations du droit."
+      ],
+      "explication": "Droit et morale sont deux systèmes distincts. On peut respecter la morale et violer le droit simultanément. Cet individu, en violant le code de la route, s'expose à des sanctions étatiques (amendes, retrait de permis) indépendamment de sa bonne conduite morale par ailleurs. La vertu morale ne protège pas des conséquences juridiques."
+    },
+    {
+      "question": "Pourquoi dit-on que la règle de droit s'impose « indépendamment de la volonté individuelle » ?",
+      "choix": [
+        "Parce que personne ne lit jamais les lois",
+        "Parce que même celui qui ne veut pas obéir y est soumis et s'expose à une sanction s'il ne le fait pas",
+        "Parce que les individus n'ont aucun moyen de participer à la création des règles",
+        "Parce que la volonté individuelle n'existe pas en droit"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Pensez au contraire d'une règle facultative : on ne choisit pas de lui obéir, on y est soumis.",
+        "La règle de droit produit ses effets même envers celui qui l'ignore ou la refuse.",
+        "Cherchez la réponse qui exprime l'idée de contrainte indépendante du consentement personnel."
+      ],
+      "explication": "Le caractère obligatoire de la règle de droit signifie qu'elle produit ses effets sur les personnes qu'elle vise, que celles-ci l'approuvent ou non, la connaissent ou non. La personne qui viole une règle de droit ne peut pas se défendre en disant qu'elle n'a pas « accepté » de l'appliquer. L'ignorance de la loi n'est d'ailleurs pas une excuse reconnue en droit (principe : « nul n'est censé ignorer la loi »)."
+    },
+    {
+      "question": "Vrai ou faux : une règle supplétive peut être écartée par un accord entre les parties à un contrat.",
+      "choix": [
+        "Vrai",
+        "Faux"
+      ],
+      "reponse": 0,
+      "indices": [
+        "Relisez la définition de la règle supplétive dans la leçon.",
+        "« Supplétive » signifie qu'elle s'applique « à défaut d'autre chose ».",
+        "Si les parties ont prévu quelque chose, la règle supplétive n'a plus lieu de s'appliquer."
+      ],
+      "explication": "Vrai. La règle supplétive s'applique par défaut, mais les parties peuvent librement la carte si elles le souhaitent. Par exemple, des commerçants peuvent convenir d'un mode de livraison différent de celui prévu par défaut par la loi. C'est la différence essentielle avec la règle impérative, qu'on ne peut jamais écarter."
+    },
+    {
+      "question": "Laquelle de ces sanctions relève-t-elle exclusivement du domaine du droit (et non de la morale) ?",
+      "choix": [
+        "Le remords que ressent une personne après avoir menti",
+        "La honte sociale ressentie dans son entourage",
+        "La condamnation par un tribunal à payer des dommages-intérêts",
+        "La prière de repentance conseillée par un leader religieux"
+      ],
+      "reponse": 2,
+      "indices": [
+        "Cherchez la sanction qui implique une institution étatique formelle.",
+        "Les trois autres sanctions sont intérieures, sociales ou religieuses — pas étatiques.",
+        "La condamnation judiciaire est le signe distinctif de la sanction juridique."
+      ],
+      "explication": "La condamnation par un tribunal à payer des dommages-intérêts est une sanction purement juridique : elle émane d'une institution étatique (le tribunal) et peut être exécutée par la force si nécessaire. Le remords, la honte ou la prière sont des réactions intérieures, sociales ou religieuses — elles ne relèvent pas du domaine du droit."
+    },
+    {
+      "question": "Dans l'exemple du contrat de travail, pourquoi les parties ne peuvent-elles pas décider d'un salaire inférieur au SMIG même si elles sont toutes deux d'accord ?",
+      "choix": [
+        "Parce que la loi exige la présence d'un avocat pour tout accord salarial",
+        "Parce que le SMIG est une règle impérative d'ordre public que la volonté des parties ne peut pas effacer",
+        "Parce que le salarié n'est jamais vraiment libre dans un contrat de travail",
+        "Parce que seul le gouvernement peut fixer les salaires dans tous les cas"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Rappelez-vous la définition de la règle impérative.",
+        "L'ordre public protège des intérêts que la société juge non négociables, même par accord.",
+        "L'accord mutuel des parties ne suffit pas à écarter une règle d'ordre public."
+      ],
+      "explication": "Le SMIG est une règle impérative (d'ordre public) : elle protège le salarié contre une exploitation que même son consentement ne pourrait légitimer. La liberté contractuelle a des limites : elle ne peut pas s'exercer contre des règles que le législateur a jugées fondamentales pour protéger la partie la plus faible ou l'intérêt général."
+    },
+    {
+      "question": "Un entrepreneur licencie un salarié en respectant strictement toutes les règles du code du travail. Certains trouvent cette décision moralement difficile. Quelle affirmation est juridiquement exacte ?",
+      "choix": [
+        "La décision est illégale car elle est moralement contestable",
+        "La décision est légale, même si elle soulève des questions morales — le droit et la morale ne coïncident pas toujours",
+        "Le juge peut annuler la décision si elle est jugée moralement mauvaise par la société",
+        "La règle morale prime toujours sur la règle juridique en matière de travail"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Rappelez-vous la distinction entre légalité et moralité.",
+        "Respecter le code du travail rend une décision légale, même si certains la désapprouvent moralement.",
+        "Le juge applique le droit, pas la morale dominante."
+      ],
+      "explication": "Une décision peut être légale (conforme au droit) sans être moralement approuvée de tous. Dès lors que l'entrepreneur respecte les dispositions du code du travail, sa décision est juridiquement valide. Le juge n'a pas pour rôle de censurer une décision légale au motif qu'elle semble moralement difficile — à moins que la loi n'ait elle-même incorporé des critères moraux (bonne foi, abus de droit, etc.)."
+    },
+    {
+      "question": "Que signifie l'expression « coercition étatique » ?",
+      "choix": [
+        "Le droit de l'État de créer de nouvelles lois",
+        "La capacité de l'État à contraindre par la force le respect des règles de droit et à sanctionner leurs violations",
+        "L'obligation pour les citoyens de voter aux élections",
+        "La possibilité pour l'État de modifier la Constitution"
+      ],
+      "reponse": 1,
+      "indices": [
+        "« Coercition » vient d'un mot latin signifiant « contrainte ».",
+        "Il s'agit de la capacité de l'État à forcer quelqu'un à agir dans un sens déterminé.",
+        "C'est ce qui donne à la règle de droit son caractère véritablement obligatoire."
+      ],
+      "explication": "La coercition étatique désigne la capacité de l'État à contraindre les individus à respecter les règles de droit et, en cas de violation, à appliquer des sanctions par la force si nécessaire. C'est cette coercition qui distingue la règle de droit des autres règles sociales : elle seule bénéficie de la force organisée de l'État pour s'imposer."
+    },
+    {
+      "question": "Rakoto a une dette de jeu envers un ami. Son ami peut-il l'obliger à payer cette dette devant un tribunal à Madagascar ?",
+      "choix": [
+        "Oui, toute dette est une obligation civile exigible en justice",
+        "Non, les dettes de jeu sont en principe des obligations naturelles que la justice ne peut pas forcer",
+        "Oui, si la somme dépasse un certain montant",
+        "Cela dépend du type de jeu pratiqué"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Demandez-vous si toutes les obligations reconnues peuvent être forcées en justice.",
+        "Certaines obligations relèvent de la catégorie des obligations naturelles.",
+        "Les dettes de jeu sont un exemple classique d'obligation naturelle dans de nombreux systèmes juridiques."
+      ],
+      "explication": "Les dettes de jeu constituent classiquement des obligations naturelles dans de nombreux systèmes juridiques : le droit les reconnaît, mais ne permet pas de les forcer en justice. L'ami ne peut pas traîner Rakoto devant un tribunal pour obtenir le paiement. En revanche, si Rakoto paie spontanément, il ne peut pas ensuite réclamer le remboursement."
+    },
+    {
+      "question": "Lequel de ces exemples illustre le mieux une règle supplétive ?",
+      "choix": [
+        "L'interdiction du travail forcé, à laquelle aucun contrat ne peut déroger",
+        "La règle qui fixe le lieu de paiement d'une dette à défaut de stipulation contraire dans le contrat",
+        "La règle pénale qui punit le meurtre",
+        "L'obligation de respecter les droits fondamentaux de la personne"
+      ],
+      "reponse": 1,
+      "indices": [
+        "La règle supplétive comble les silences des contrats — elle s'applique « à défaut ».",
+        "Cherchez la règle qui ne s'applique que si les parties n'ont pas organisé elles-mêmes la question.",
+        "Les règles sur le meurtre ou le travail forcé ne peuvent jamais être écartées : elles sont impératives."
+      ],
+      "explication": "La règle qui fixe le lieu de paiement d'une dette « à défaut de stipulation contraire » est un exemple typique de règle supplétive : elle comble le silence du contrat sur ce point. Si les parties ont expressément prévu un autre lieu de paiement, cette règle s'efface. Les autres exemples (travail forcé, meurtre, droits fondamentaux) relèvent de règles impératives auxquelles on ne peut jamais déroger."
+    },
+    {
+      "question": "Vrai ou faux : la règle de droit et la règle morale ont toujours le même contenu.",
+      "choix": [
+        "Vrai",
+        "Faux"
+      ],
+      "reponse": 1,
+      "indices": [
+        "La leçon donne l'exemple d'une règle légale qui peut être moralement contestable.",
+        "Il existe aussi des actes moralement bons que le droit n'impose pas.",
+        "Les deux systèmes se recoupent souvent, mais pas toujours."
+      ],
+      "explication": "Faux. La leçon précise que droit et morale ont souvent le même contenu, mais pas toujours. Il peut exister des règles légales jugées immorales (des lois injustes ont existé dans l'histoire), et des obligations morales que le droit n'impose pas (aider un inconnu en difficulté est moralement louable mais n'est pas toujours une obligation juridique). Les deux systèmes se croisent sans se confondre."
+    },
+    {
+      "question": "Un huissier de justice est un agent de l'État qui intervient pour :",
+      "choix": [
+        "Voter les lois au Parlement",
+        "Faire exécuter les décisions de justice par la force si le condamné ne s'y soumet pas volontairement",
+        "Écrire les textes de loi sur ordre du gouvernement",
+        "Défendre les justiciables devant les tribunaux"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Dans l'exemple de Solofo, c'est l'huissier qui intervient en dernier recours.",
+        "Sa fonction est d'exécuter les décisions de justice, pas de les prendre.",
+        "Il représente la force publique au service des décisions judiciaires."
+      ],
+      "explication": "L'huissier de justice est un officier ministériel chargé, notamment, d'exécuter les décisions de justice lorsque le condamné ne s'y soumet pas volontairement. C'est lui qui peut, par exemple, procéder à la saisie des biens d'un débiteur récalcitrant. Il incarne la coercition étatique dans sa dimension la plus concrète."
+    },
+    {
+      "question": "Quel principe juridique interdit à quelqu'un de se défendre en disant « je ne savais pas que c'était interdit » ?",
+      "choix": [
+        "Le principe de légalité",
+        "Le principe selon lequel « nul n'est censé ignorer la loi »",
+        "Le principe de présomption d'innocence",
+        "Le principe de liberté individuelle"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Ce principe est une conséquence logique du caractère obligatoire de la règle de droit.",
+        "Si l'ignorance était une excuse valable, n'importe qui pourrait se soustraire au droit.",
+        "La formule traditionnelle commence par « nul n'est censé... »"
+      ],
+      "explication": "Le principe selon lequel « nul n'est censé ignorer la loi » (ou « nemo censetur ignorare legem ») est une conséquence du caractère obligatoire de la règle de droit. Si chacun pouvait invoquer son ignorance pour se soustraire à la règle, celle-ci perdrait tout caractère contraignant. La loi est publiée officiellement, et cette publication est présumée la rendre opposable à tous."
+    },
+    {
+      "question": "Une règle d'ordre public protège principalement :",
+      "choix": [
+        "Les intérêts exclusifs de l'État contre les citoyens",
+        "Des intérêts jugés fondamentaux pour la société ou pour des personnes vulnérables, que la volonté des parties ne peut pas mettre de côté",
+        "Uniquement les intérêts commerciaux des entreprises",
+        "Uniquement les droits des étrangers sur le territoire malgache"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Pensez à pourquoi certaines règles ne peuvent jamais être écartées, même par accord.",
+        "Il s'agit de protéger des valeurs ou des personnes que la société juge trop importantes pour les laisser à la seule liberté contractuelle.",
+        "L'exemple du SMIG montre que l'ordre public protège notamment les personnes en position de faiblesse."
+      ],
+      "explication": "Une règle d'ordre public protège des intérêts jugés fondamentaux — pour la société dans son ensemble (sécurité, moralité publique) ou pour des personnes vulnérables (salariés, consommateurs, mineurs) — que la volonté individuelle des parties à un contrat ne peut pas sacrifier. Ces règles posent des limites à la liberté contractuelle."
+    },
+    {
+      "question": "Si deux commerçants décident librement, dans leur contrat, d'organiser la livraison différemment de ce que prévoit la loi par défaut, ont-ils le droit de le faire ?",
+      "choix": [
+        "Non, les règles légales sur la livraison sont toujours impératives",
+        "Oui, si les règles légales sur la livraison sont supplétives, les parties peuvent y déroger librement",
+        "Non, seul le juge peut modifier les règles légales dans un contrat",
+        "Oui, mais seulement si le gouvernement leur donne une autorisation spéciale"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Demandez-vous si les règles sur les modalités de livraison sont impératives ou supplétives.",
+        "Les règles supplétives existent précisément pour combler les silences des contrats — mais on peut s'en écarter.",
+        "La liberté contractuelle s'exerce pleinement dans le cadre des règles supplétives."
+      ],
+      "explication": "Oui. Si les règles légales sur la livraison sont supplétives (ce qui est généralement le cas), les commerçants peuvent librement convenir d'autres modalités dans leur contrat. La règle supplétive s'efface devant leur accord. La liberté contractuelle s'exerce pleinement dans l'espace laissé ouvert par les règles supplétives, à condition de ne pas violer les règles impératives."
+    },
+    {
+      "question": "Lequel de ces énoncés décrit correctement la relation entre règle de droit et caractère obligatoire ?",
+      "choix": [
+        "Toutes les règles obligatoires sont des règles de droit",
+        "Toutes les règles de droit sont obligatoires (sauf à préciser qu'elles peuvent être supplétives)",
+        "Aucune règle de droit n'est obligatoire dans un État démocratique",
+        "Seules les règles pénales sont obligatoires ; les règles civiles sont facultatives"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Le caractère obligatoire est présenté comme un caractère essentiel de la règle de droit.",
+        "Même les règles supplétives sont obligatoires : elles s'appliquent dès lors que les parties n'ont pas organisé elles-mêmes la question.",
+        "Cherchez la réponse qui affirme l'universalité du caractère obligatoire, tout en nuançant correctement."
+      ],
+      "explication": "Toutes les règles de droit sont obligatoires en ce sens qu'elles s'imposent aux personnes qu'elles visent. Même une règle supplétive est obligatoire : si les parties n'ont pas prévu autre chose, elle s'applique et s'impose. La nuance est que les règles supplétives laissent aux parties la liberté d'organiser les choses autrement, alors que les règles impératives ne le permettent pas."
+    },
+    {
+      "question": "Vrai ou faux : en droit, un même acte peut être à la fois une faute civile et une infraction pénale.",
+      "choix": [
+        "Vrai",
+        "Faux"
+      ],
+      "reponse": 0,
+      "indices": [
+        "Pensez à l'exemple de l'automobiliste qui renverse un piéton : il peut être poursuivi pénalement ET civilement.",
+        "Les branches du droit ne s'excluent pas mutuellement.",
+        "Un même fait peut violer plusieurs règles à la fois."
+      ],
+      "explication": "Vrai. Un même acte peut entraîner simultanément des conséquences civiles (indemnisation de la victime) et pénales (poursuite pour conduite dangereuse, blessures involontaires, etc.). Par exemple, un conducteur ivre qui blesse un piéton peut être condamné pénalement (amende, prison) et civilement (dommages-intérêts à la victime). Les deux procédures sont distinctes mais peuvent se cumuler."
+    },
+    {
+      "question": "Quelle est la principale différence entre la sanction civile et la sanction pénale ?",
+      "choix": [
+        "La sanction civile est prononcée par le Parlement ; la sanction pénale par le gouvernement",
+        "La sanction civile vise à réparer un préjudice subi par une personne ; la sanction pénale vise à punir une atteinte à l'ordre social",
+        "La sanction civile est toujours une peine de prison ; la sanction pénale est toujours une amende",
+        "Il n'y a aucune différence pratique entre les deux"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Pensez aux objectifs de chaque type de sanction.",
+        "En civil, la victime cherche à être « remise dans son état antérieur ».",
+        "En pénal, c'est la société qui réagit à une atteinte à l'ordre public."
+      ],
+      "explication": "La sanction civile vise principalement à réparer le préjudice subi par une victime (dommages-intérêts, restitution, exécution forcée). La sanction pénale vise à punir l'auteur d'une infraction pour une atteinte à l'ordre social et à le dissuader de recommencer (prison, amende pénale). Les deux logiques sont différentes même si elles peuvent se cumuler."
+    },
+    {
+      "question": "Pourquoi la règle morale n'a-t-elle pas le même effet contraignant que la règle de droit ?",
+      "choix": [
+        "Parce que la morale est toujours fausse et le droit est toujours juste",
+        "Parce que la sanction morale repose sur la conscience individuelle et non sur la force organisée de l'État",
+        "Parce que les règles morales ne s'appliquent qu'aux personnes religieuses",
+        "Parce que la morale ne contient aucune règle précise"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Pensez à ce que la conscience peut « infliger » et comparez-le à ce que l'État peut imposer.",
+        "La sanction morale dépend de la sensibilité individuelle : certains ont des remords, d'autres non.",
+        "La force publique de l'État est objective et extérieure ; le remords est subjectif et intérieur."
+      ],
+      "explication": "La règle morale ne bénéficie pas du soutien de la force publique. Sa sanction — le remords, la culpabilité, la honte — dépend de la conscience et de la sensibilité de chaque individu. Une personne sans scrupules peut violer une règle morale sans en ressentir aucune conséquence. La règle de droit, elle, s'impose indépendamment de la conscience individuelle, grâce à la coercition étatique."
+    },
+    {
+      "question": "Dans le contexte de la leçon, que veut-on dire lorsqu'on dit que les règles supplétives « comblent les silences des contrats » ?",
+      "choix": [
+        "Qu'elles remplissent physiquement les pages vierges des contrats",
+        "Qu'elles s'appliquent pour régler les questions que les parties n'ont pas organisées elles-mêmes dans leur accord",
+        "Qu'elles interdisent aux parties de se taire lors de la négociation d'un contrat",
+        "Qu'elles remplacent entièrement les clauses rédigées par les parties"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Les parties à un contrat ne peuvent pas prévoir tous les cas de figure.",
+        "Quand une situation non prévue survient, le juge applique la règle légale supplétive.",
+        "Les parties restent libres d'avoir organisé elles-mêmes cette situation si elles l'ont voulu."
+      ],
+      "explication": "Les règles supplétives comblent les silences des contrats au sens figuré : elles s'appliquent pour régir les aspects de la relation contractuelle que les parties n'ont pas expressément organisés. Plutôt que de laisser des questions sans réponse juridique, le législateur a prévu des règles « par défaut » applicables dans ce cas, sans pour autant empêcher les parties de prévoir autre chose."
+    },
+    {
+      "question": "Vrai ou faux : si une obligation naturelle est exécutée par erreur, on peut toujours en demander le remboursement.",
+      "choix": [
+        "Vrai",
+        "Faux"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Distinguez deux hypothèses : payer volontairement et payer par erreur.",
+        "La leçon traite du cas où l'on exécute librement une obligation naturelle.",
+        "Dans ce cas, le paiement est valable et irrévocable — sauf erreur prouvée, selon les circonstances."
+      ],
+      "explication": "La règle générale est que l'exécution volontaire d'une obligation naturelle est irrévocable. Cependant, si l'exécution a eu lieu par erreur (par exemple, en croyant à tort être juridiquement obligé), des règles spécifiques sur le paiement indu peuvent permettre d'en réclamer le remboursement. La leçon enseigne le principe général : un paiement librement consenti ne peut pas être repris."
+    },
+    {
+      "question": "Lequel de ces exemples illustre une situation où l'État intervient pour faire appliquer une règle de droit ?",
+      "choix": [
+        "Un père qui gronde son enfant pour lui avoir menti",
+        "Un prêtre qui impose une pénitence à un croyant",
+        "Un tribunal qui condamne un employeur à payer les salaires impayés de ses salariés",
+        "Un groupe d'amis qui décide collectivement d'exclure quelqu'un de leur cercle"
+      ],
+      "reponse": 2,
+      "indices": [
+        "Cherchez la situation qui implique une institution étatique formelle.",
+        "Les autres exemples relèvent de la sanction familiale, religieuse ou sociale.",
+        "Seul le tribunal représente la puissance publique de l'État."
+      ],
+      "explication": "La condamnation par un tribunal est l'illustration typique de l'intervention de l'État pour faire respecter une règle de droit. Les autres exemples relèvent de sanctions privées, sociales ou religieuses — elles ne mobilisent pas la force publique de l'État et n'ont donc pas le caractère juridiquement contraignant de la sanction étatique."
+    },
+    {
+      "question": "Quel est l'objectif principal des règles d'ordre public par rapport à la liberté contractuelle ?",
+      "choix": [
+        "Les supprimer entièrement",
+        "Les favoriser en donnant aux parties une liberté illimitée",
+        "Les encadrer en posant des limites que les parties ne peuvent pas franchir, même d'un commun accord",
+        "Les remplacer par des règles coutumières"
+      ],
+      "reponse": 2,
+      "indices": [
+        "L'ordre public et la liberté contractuelle ne s'excluent pas : l'un encadre l'autre.",
+        "Penser aux raisons pour lesquelles la société interdit certains accords même consentis.",
+        "L'objectif est de protéger des valeurs fondamentales que la simple volonté des parties ne suffit pas à garantir."
+      ],
+      "explication": "Les règles d'ordre public encadrent la liberté contractuelle en posant des limites infranchissables. Les parties sont libres de contracter, mais cette liberté a des bornes : elles ne peuvent pas conclure des accords qui vont à l'encontre de valeurs fondamentales protégées par la société (dignité de la personne, protection des plus faibles, sécurité publique, etc.)."
+    },
+    {
+      "question": "Laquelle de ces propositions décrit le mieux le rôle du juge dans l'application des sanctions ?",
+      "choix": [
+        "Le juge invente librement les sanctions sans se référer à aucun texte",
+        "Le juge prononce les sanctions prévues par le droit applicable à la situation, et l'État dispose des moyens de les faire exécuter",
+        "Le juge ne peut prononcer de sanctions que si la victime est d'accord",
+        "Le juge applique uniquement les règles morales, pas les règles juridiques"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Le juge n'est pas souverain : il applique le droit existant.",
+        "Les sanctions sont prévues par les textes juridiques en vigueur.",
+        "L'État, à travers ses agents, veille à l'exécution des décisions du juge."
+      ],
+      "explication": "Le juge prononce des sanctions conformes au droit applicable — il ne les invente pas. En matière pénale, les peines sont prévues par la loi (principe de légalité des peines). En matière civile, le juge condamne à réparer en application des règles de la responsabilité civile. Après le jugement, l'État dispose des moyens (huissiers, forces de l'ordre) pour en assurer l'exécution si nécessaire."
+    },
+    {
+      "question": "Pourquoi la leçon dit-elle que la sanction de la règle de droit est « organisée par l'État » ?",
+      "choix": [
+        "Parce que l'État choisit arbitrairement qui sera sanctionné",
+        "Parce que la sanction suit des procédures formelles établies à l'avance (tribunal, jugement, exécution) et ne dépend pas de la seule initiative privée",
+        "Parce que la sanction est toujours décidée par le chef de l'État",
+        "Parce que l'État paye lui-même les amendes à la place des condamnés"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Pensez à la différence entre une vengeance privée et une sanction judiciaire.",
+        "La sanction étatique passe par des procédures : porter plainte, saisir un tribunal, obtenir un jugement.",
+        "L'État a mis en place tout un système (institutions, procédures) pour organiser ces sanctions."
+      ],
+      "explication": "Dire que la sanction est « organisée par l'État » signifie qu'elle suit des procédures formelles établies à l'avance : on ne se fait pas justice soi-même, on saisit un tribunal qui applique le droit et prononce une sanction selon des règles prédéfinies. L'État a le monopole de la sanction juridique, et celle-ci se distingue de la vengeance privée ou de la pression sociale."
+    },
+    {
+      "question": "Lequel de ces caractères est PROPRE à la règle de droit par rapport à toutes les autres règles sociales ?",
+      "choix": [
+        "Elle vise à distinguer le bien du mal",
+        "Elle s'applique à tous les membres d'un groupe",
+        "Son non-respect est sanctionné par la force organisée de l'État",
+        "Elle est transmise de génération en génération"
+      ],
+      "reponse": 2,
+      "indices": [
+        "Les règles morales et religieuses visent aussi à distinguer le bien du mal.",
+        "Les règles d'un groupe social, d'une famille ou d'une religion s'appliquent aussi à leurs membres.",
+        "Seule la règle de droit bénéficie du soutien de la force publique étatique."
+      ],
+      "explication": "La caractéristique propre à la règle de droit est que son non-respect est sanctionné par la force organisée de l'État. Les autres caractères mentionnés (distinguer bien et mal, s'appliquer à un groupe, être transmise dans le temps) sont partagés par d'autres types de règles sociales (morale, religion, coutume). C'est la coercition étatique qui est le critère distinctif."
+    },
+    {
+      "question": "Une personne exécute spontanément une obligation naturelle envers un parent éloigné, en lui versant de l'argent. Quel est l'effet juridique de cet acte ?",
+      "choix": [
+        "Le paiement est nul car l'obligation naturelle n'a aucun effet juridique",
+        "La personne peut réclamer le remboursement à tout moment car elle n'était pas obligée",
+        "Le paiement est valable et définitif : la personne ne peut pas ensuite réclamer le remboursement",
+        "Cela crée automatiquement une obligation civile réciproque pour le bénéficiaire"
+      ],
+      "reponse": 2,
+      "indices": [
+        "Rappellez-vous ce qui se passe quand on exécute volontairement une obligation naturelle.",
+        "L'acte volontaire produit un effet juridique : le paiement devient valide.",
+        "Cet effet est à sens unique : le paiement ne peut pas être « repris »."
+      ],
+      "explication": "L'exécution volontaire d'une obligation naturelle produit un effet juridique important : le paiement est valable et définitif. La personne qui a librement versé une somme dans ce cadre ne peut pas ensuite réclamer son remboursement en prétextant qu'elle n'était pas juridiquement obligée. L'acte libre transforme l'obligation naturelle en paiement valide et irrévocable."
+    },
+    {
+      "question": "Vrai ou faux : les règles d'ordre public s'appliquent même lorsque les parties ont expressément prévu le contraire dans leur contrat.",
+      "choix": [
+        "Vrai",
+        "Faux"
+      ],
+      "reponse": 0,
+      "indices": [
+        "Relisez la définition de la règle impérative d'ordre public.",
+        "La volonté des parties, même concordante, ne peut pas effacer une règle d'ordre public.",
+        "C'est précisément là que réside la différence entre règle impérative et règle supplétive."
+      ],
+      "explication": "Vrai. Par définition, les règles d'ordre public s'appliquent même si les parties ont expressément convenu du contraire dans leur contrat. La clause contraire à l'ordre public est nulle et réputée non écrite. La loi du contrat (la volonté des parties) s'arrête là où commence l'ordre public."
+    },
+    {
+      "question": "Parmi ces situations, laquelle ne constitue PAS une sanction juridique au sens de la leçon ?",
+      "choix": [
+        "Une amende de circulation infligée par la police",
+        "La condamnation à payer des dommages-intérêts par un tribunal",
+        "L'exclusion sociale d'un individu par ses voisins qui le jugent malhonnête",
+        "L'annulation d'un contrat illégal par un juge"
+      ],
+      "reponse": 2,
+      "indices": [
+        "La sanction juridique est organisée et imposée par l'État.",
+        "L'exclusion sociale est une réaction du groupe, pas de l'État.",
+        "Cherchez la sanction qui ne mobilise pas une institution étatique formelle."
+      ],
+      "explication": "L'exclusion sociale par des voisins est une sanction sociale, pas une sanction juridique. Elle ne mobilise aucune institution étatique et ne suit aucune procédure formelle. Les trois autres exemples (amende, dommages-intérêts, annulation de contrat) sont des sanctions juridiques : elles sont prononcées ou infligées par des institutions de l'État."
+    },
+    {
+      "question": "En quoi consiste l'exécution forcée d'une obligation civile ?",
+      "choix": [
+        "L'État oblige moralement le débiteur à exécuter son obligation en faisant appel à sa conscience",
+        "L'État peut, si nécessaire, contraindre physiquement le débiteur à exécuter son obligation ou saisir ses biens pour désintéresser le créancier",
+        "Le créancier se fait justice lui-même en reprenant ce qui lui est dû",
+        "Un comité de médiateurs tente de convaincre le débiteur de payer"
+      ],
+      "reponse": 1,
+      "indices": [
+        "L'exécution « forcée » s'oppose à l'exécution volontaire.",
+        "Pensez au rôle de l'huissier dans l'exemple de Solofo.",
+        "L'État dispose de moyens concrets (saisie, expulsion) pour assurer l'exécution."
+      ],
+      "explication": "L'exécution forcée d'une obligation civile signifie que si le débiteur ne s'exécute pas volontairement, l'État peut intervenir concrètement pour y contraindre : l'huissier peut saisir les biens du débiteur, procéder à des ventes aux enchères pour rembourser le créancier, ou procéder à une expulsion dans le cas d'un locataire récalcitrant. C'est le bras armé du caractère obligatoire de la règle de droit."
+    },
+    {
+      "question": "Laquelle de ces règles est la plus clairement supplétive (et non impérative) ?",
+      "choix": [
+        "L'interdiction de torturer un suspect lors d'une garde à vue",
+        "Le droit de l'enfant à être protégé contre les violences",
+        "La règle qui prévoit, sauf accord contraire, que le vendeur supporte les frais d'emballage d'une marchandise",
+        "L'interdiction de l'esclavage"
+      ],
+      "reponse": 2,
+      "indices": [
+        "Cherchez la règle dont les parties peuvent librement s'écarter d'un commun accord.",
+        "Les règles sur la torture, la protection de l'enfant et l'interdiction de l'esclavage protègent des valeurs fondamentales : elles sont impératives.",
+        "« Sauf accord contraire » est la formulation typique d'une règle supplétive."
+      ],
+      "explication": "La règle sur les frais d'emballage « sauf accord contraire » est clairement supplétive : les parties peuvent librement décider que ce sera l'acheteur ou un tiers qui les supporte. La formule « sauf accord contraire » est le signal d'une règle supplétive. Les trois autres exemples relèvent de l'ordre public le plus fondamental (droits humains, dignité) et sont donc impératives."
+    },
+    {
+      "question": "Quel est l'effet de la publication d'une loi au Journal officiel ?",
+      "choix": [
+        "Elle n'a aucun effet sur l'opposabilité de la loi",
+        "Elle rend la loi opposable à tous, ce qui fonde le principe selon lequel nul n'est censé ignorer la loi",
+        "Elle donne aux citoyens un délai de grâce pour décider d'y obéir ou non",
+        "Elle concerne uniquement les fonctionnaires, pas les particuliers"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Pensez au principe « nul n'est censé ignorer la loi » et à ce qui le justifie.",
+        "La publication officielle est la condition pour que la loi soit connue de tous — du moins présumée connue.",
+        "Sans publication, on ne pourrait pas raisonnablement imposer à quelqu'un de respecter une règle inconnue."
+      ],
+      "explication": "La publication d'une loi au Journal officiel (ou équivalent national) la rend opposable à tous. C'est ce qui justifie le principe selon lequel « nul n'est censé ignorer la loi » : une fois publiée, la loi est présumée connue de tous les citoyens, qu'ils l'aient effectivement lue ou non. L'ignorance de la loi publiée ne peut donc pas servir d'excuse."
+    },
+    {
+      "question": "Un employeur et un salarié à Madagascar concluent un contrat prévoyant 60 heures de travail par semaine sans majoration de salaire, en violation du code du travail. Ce contrat est-il valide sur ce point ?",
+      "choix": [
+        "Oui, car les deux parties ont librement signé",
+        "Oui, si le salarié n'a pas protesté immédiatement",
+        "Non, car les règles du code du travail protégeant les salariés sont des règles d'ordre public impératives",
+        "Cela dépend du secteur d'activité et de la taille de l'entreprise"
+      ],
+      "reponse": 2,
+      "indices": [
+        "Rappelez-vous pourquoi on ne peut pas déroger aux règles d'ordre public.",
+        "Les règles protectrices du salarié (durée maximale du travail, rémunération des heures supplémentaires) sont impératives.",
+        "Le consentement du salarié ne peut pas légitimer une violation de l'ordre public."
+      ],
+      "explication": "Non. Les règles du code du travail protégeant les salariés (durée maximale du travail, obligation de majoration des heures supplémentaires) sont des règles impératives d'ordre public. Le consentement du salarié ne suffit pas à les écarter, précisément parce que ces règles existent pour protéger la partie la plus faible dans la relation de travail."
+    },
+    {
+      "question": "Qu'est-ce que « l'obligation de réparation » en droit civil ?",
+      "choix": [
+        "L'obligation pour l'État de réparer les routes endommagées",
+        "L'obligation pour l'auteur d'un dommage de remettre la victime dans l'état où elle était avant le préjudice, généralement par le versement de dommages-intérêts",
+        "L'obligation morale de s'excuser après avoir fait du mal",
+        "La possibilité pour le juge de réduire la peine du condamné s'il exprime des regrets"
+      ],
+      "reponse": 1,
+      "indices": [
+        "En droit civil, l'objectif principal n'est pas de punir mais de réparer.",
+        "La victime doit être « indemnisée » de son préjudice.",
+        "Cela se traduit généralement par le versement d'une somme d'argent."
+      ],
+      "explication": "L'obligation de réparation en droit civil impose à l'auteur d'un dommage de remettre la victime dans l'état où elle se trouvait avant le préjudice, autant que possible. Cette réparation prend généralement la forme de dommages-intérêts (somme d'argent compensant le préjudice). C'est la sanction civile par excellence, distincte de la peine pénale qui vise à punir."
+    },
+    {
+      "question": "Vrai ou faux : une règle morale peut devenir une règle de droit si le législateur décide de la consacrer dans une loi.",
+      "choix": [
+        "Vrai",
+        "Faux"
+      ],
+      "reponse": 0,
+      "indices": [
+        "Pensez à des exemples concrets : l'interdiction de tuer est à la fois une règle morale et une règle pénale.",
+        "Le législateur s'inspire souvent de la morale pour créer des règles de droit.",
+        "La règle change de nature (morale → juridique) quand l'État lui attache une sanction officielle."
+      ],
+      "explication": "Vrai. Le législateur peut décider de consacrer une règle morale dans une loi, lui conférant ainsi le statut de règle de droit assortie d'une sanction étatique. C'est d'ailleurs ainsi que beaucoup de règles juridiques sont nées : l'interdiction de tuer, de voler, de mentir sous serment sont autant de règles morales que le droit a reprises à son compte. La règle change de nature par cette transformation."
+    },
+    {
+      "question": "Pourquoi dit-on que la règle de droit a un caractère « général et abstrait » en plus d'être obligatoire ?",
+      "choix": [
+        "Parce qu'elle est difficile à comprendre pour les non-juristes",
+        "Parce qu'elle s'applique à toutes les situations et personnes qu'elle vise, sans personnaliser son contenu pour chaque individu",
+        "Parce qu'elle est rédigée dans un langage vague intentionnellement",
+        "Parce qu'elle ne peut jamais être appliquée à des cas concrets"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Rappellez-vous la distinction entre droit objectif (règle générale) et droits subjectifs (prérogatives individuelles) vue dans la leçon précédente.",
+        "Une règle qui dit « tout propriétaire... » est générale : elle ne vise pas une personne précise.",
+        "« Abstrait » signifie qu'elle est formulée sans référence à une situation concrète particulière."
+      ],
+      "explication": "La règle de droit est générale (elle s'adresse à une catégorie de personnes, pas à un individu précis) et abstraite (elle est formulée pour s'appliquer à toutes les situations correspondant à son champ d'application, pas à un cas précis). Ce caractère général et abstrait est le pendant du caractère obligatoire : c'est parce qu'elle s'adresse à tous qu'elle peut s'imposer à tous."
+    },
+    {
+      "question": "Dans l'exemple du commerçant qui vend de la marchandise avariée, quelle institution peut sanctionner ce comportement ?",
+      "choix": [
+        "Uniquement les voisins mécontents",
+        "Uniquement l'Église ou la communauté religieuse locale",
+        "Un tribunal, au nom de l'État, en application des règles du droit de la consommation",
+        "Personne, car la liberté du commerce est absolue"
+      ],
+      "reponse": 2,
+      "indices": [
+        "Rappellez-vous ce qui distingue la sanction juridique des autres formes de sanction.",
+        "Le droit de la consommation prévoit des règles et des sanctions pour protéger les acheteurs.",
+        "L'État, via ses tribunaux, est le seul à disposer de la sanction juridique officielle."
+      ],
+      "explication": "Un tribunal peut sanctionner le commerçant en application des règles du droit de la consommation : condamnation à rembourser les acheteurs lésés, à indemniser les victimes d'un préjudice, voire des sanctions pénales en cas d'infraction grave. La voisinage ou la communauté religieuse peuvent exprimer leur désapprobation, mais seul l'État, à travers ses tribunaux, dispose du pouvoir de sanction juridique officielle."
+    },
+    {
+      "question": "Laquelle de ces obligations est la plus clairement une obligation civile (et non naturelle) ?",
+      "choix": [
+        "La promesse orale non formalisée d'aider un ami à titre gratuit",
+        "La dette née d'un contrat de vente signé entre deux parties",
+        "Le sentiment moral qu'on devrait aider un inconnu en difficulté",
+        "La résolution personnelle de donner davantage à une association caritative"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Une obligation civile naît d'une source juridiquement reconnue (contrat, loi, etc.).",
+        "Sa caractéristique principale : on peut en forcer l'exécution devant un tribunal.",
+        "Un contrat signé crée des obligations que chaque partie peut faire respecter en justice."
+      ],
+      "explication": "La dette née d'un contrat de vente signé est une obligation civile par excellence : elle naît d'une source juridique reconnue (le contrat), et son exécution peut être exigée devant un tribunal si le débiteur ne paie pas. Les autres exemples (promesse informelle, sentiment moral, résolution personnelle) relèvent d'obligations morales ou naturelles que le droit ne sanctionne pas de la même façon."
+    },
+    {
+      "question": "Pourquoi la distinction entre règles impératives et supplétives est-elle importante pour les personnes qui rédigent des contrats ?",
+      "choix": [
+        "Elle n'a aucune importance pratique pour la rédaction des contrats",
+        "Elle permet de savoir quelles règles on peut librement adapter à sa situation et lesquelles on ne peut pas écarter",
+        "Elle indique uniquement le type de papier sur lequel rédiger le contrat",
+        "Elle détermine le tribunal compétent en cas de litige"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Imaginez que vous rédigez un contrat : quelles clauses pouvez-vous inclure librement, et lesquelles sont interdites ?",
+        "Les règles supplétives vous donnent de la liberté ; les règles impératives vous posent des limites.",
+        "Ignorer cette distinction peut rendre certaines clauses nulles de plein droit."
+      ],
+      "explication": "Cette distinction est fondamentale pour toute personne qui rédige un contrat. Les règles supplétives peuvent être librement adaptées, modifiées ou écartées par les parties. Les règles impératives, en revanche, posent des limites infranchissables : toute clause qui y contrevient est nulle. Connaître cette distinction permet d'éviter d'insérer des clauses invalides dans un contrat."
+    },
+    {
+      "question": "Vrai ou faux : un État qui n'aurait pas de système judiciaire ni de force publique pourrait quand même avoir des règles de droit au sens juridique strict.",
+      "choix": [
+        "Vrai",
+        "Faux"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Rappellez-vous ce qui est essentiel pour qu'une règle soit une règle de droit et non simplement une règle morale.",
+        "La sanction étatique organisée est un élément constitutif de la règle de droit.",
+        "Sans institution pour appliquer la sanction, peut-on vraiment parler de règle de droit ?"
+      ],
+      "explication": "Faux, au sens strict. La sanction étatique organisée est un caractère essentiel de la règle de droit : c'est ce qui la distingue des autres règles sociales. Un État sans système judiciaire ni force publique ne pourrait pas assurer l'effectivité de ses règles. Ces règles resteraient des vœux pieux ou des règles morales, mais perdraient leur caractère contraignant propre au droit."
+    },
+    {
+      "question": "Lequel de ces exemples illustre le mieux une obligation naturelle, sans obligation civile correspondante ?",
+      "choix": [
+        "Le remboursement d'un prêt bancaire stipulé dans un contrat écrit",
+        "Le paiement d'une dette prescrite (dont le délai légal pour agir en justice est expiré), effectué volontairement",
+        "Le paiement d'un loyer mensuel convenu dans un bail écrit",
+        "L'indemnisation d'une victime d'accident par la compagnie d'assurance"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Une dette prescrite est une dette dont le créancier ne peut plus réclamer le paiement en justice (le délai est dépassé).",
+        "Mais si le débiteur paie quand même volontairement, ce paiement est-il valide ?",
+        "Cherchez la situation où une obligation existe moralement, mais ne peut plus être forcée juridiquement."
+      ],
+      "explication": "Le paiement d'une dette prescrite est un exemple classique d'obligation naturelle : le délai légal pour agir en justice étant expiré, le créancier ne peut plus contraindre le débiteur à payer (l'obligation civile est éteinte). Mais si le débiteur paie volontairement (reconnaissant moralement sa dette), ce paiement est valide et irrévocable. C'est exactement la définition de l'obligation naturelle : reconnue moralement, non contraignable juridiquement, mais valide si exécutée librement."
+    },
+    {
+      "question": "Si une loi est injuste mais légalement en vigueur, quelle est la bonne attitude juridique à adopter ?",
+      "choix": [
+        "L'ignorer sans conséquence, car la justice prime sur la loi",
+        "La respecter tant qu'elle est en vigueur, tout en cherchant à la faire modifier par les voies légales (recours constitutionnel, pression politique, etc.)",
+        "Décider individuellement de son application selon ses convictions morales",
+        "Saisir directement les forces de l'ordre pour la faire abroger immédiatement"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Le caractère obligatoire de la règle de droit ne dépend pas de sa valeur morale.",
+        "Il existe des voies légales pour contester une loi jugée injuste.",
+        "Cherchez la réponse qui respecte l'État de droit tout en ouvrant la porte à la contestation légitime."
+      ],
+      "explication": "La bonne attitude dans un État de droit est de respecter la loi tant qu'elle est en vigueur — son caractère obligatoire ne dépend pas de l'approbation individuelle — tout en cherchant à la faire modifier ou abroger par les voies légitimes : recours constitutionnel, pression politique, plaidoyer civique, etc. Se soustraire individuellement à une loi en vigueur sous prétexte de son injustice expose à des sanctions juridiques."
+    },
+    {
+      "question": "Parmi ces couples, lequel associe correctement un type d'obligation à sa description ?",
+      "choix": [
+        "Obligation civile → obligation morale que le juge ne peut pas imposer",
+        "Obligation naturelle → obligation dont l'exécution peut être obtenue par la force devant un tribunal",
+        "Obligation civile → obligation juridiquement parfaite, dont l'exécution peut être forcée en justice",
+        "Obligation naturelle → obligation absolue à laquelle nul ne peut déroger"
+      ],
+      "reponse": 2,
+      "indices": [
+        "Rappelez-vous les définitions données dans la leçon.",
+        "L'obligation civile est la plus complète : elle peut être forcée.",
+        "L'obligation naturelle est reconnue mais ne peut pas être imposée par la force."
+      ],
+      "explication": "L'obligation civile est une obligation juridiquement parfaite dont l'exécution peut être exigée en justice et obtenue par la force si nécessaire. L'obligation naturelle, elle, est reconnue moralement par le droit, mais ne peut pas être imposée par un tribunal. Les autres couples confondent les deux définitions."
+    },
+    {
+      "question": "Qu'est-ce que la « force publique » dans le contexte de l'application des règles de droit ?",
+      "choix": [
+        "L'opinion publique qui influence les décisions de justice",
+        "L'ensemble des moyens coercitifs dont dispose l'État (police, huissiers, forces de l'ordre) pour faire respecter les règles et appliquer les sanctions",
+        "La pression sociale exercée par la communauté sur les contrevenants",
+        "Le pouvoir des médias d'informer sur les violations du droit"
+      ],
+      "reponse": 1,
+      "indices": [
+        "La « force publique » est une expression technique qui désigne les agents de l'État habilités à user de la contrainte.",
+        "Pensez à la police, aux gendarmes, aux huissiers de justice.",
+        "C'est ce qui rend la coercition étatique concrète et effective."
+      ],
+      "explication": "La force publique désigne l'ensemble des moyens coercitifs dont dispose l'État pour faire respecter les règles de droit et appliquer les sanctions prononcées : la police, la gendarmerie, les huissiers de justice, etc. C'est ce qui donne à la règle de droit sa dimension véritablement contraignante, au-delà du simple texte écrit."
+    },
+    {
+      "question": "Laquelle de ces affirmations résume le mieux le contenu de cette leçon ?",
+      "choix": [
+        "La règle de droit est obligatoire parce qu'elle est juste, et sa sanction est intérieure à chaque individu",
+        "La règle de droit est obligatoire parce que son non-respect est sanctionné par l'État ; cette sanction peut prendre plusieurs formes (pénale, civile, administrative) et s'impose même à ceux qui n'y consentent pas",
+        "La règle de droit n'est obligatoire que pour les personnes qui ont participé à son élaboration",
+        "La règle de droit est toujours supplétive : les individus peuvent toujours décider de ne pas y obéir"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Cherchez la réponse qui reprend les trois idées principales de la leçon : obligatoire, sanction étatique, différentes formes.",
+        "La règle de droit n'est pas obligatoire parce qu'elle est juste — elle peut être injuste et rester obligatoire.",
+        "Elle ne s'applique pas seulement à ceux qui l'ont approuvée."
+      ],
+      "explication": "Cette affirmation résume correctement les enseignements de la leçon : la règle de droit est obligatoire en raison de la sanction étatique qui s'attache à son non-respect. Cette sanction peut prendre des formes variées (pénale, civile, administrative) selon la nature de la règle violée. Elle s'impose à tous ceux que la règle vise, indépendamment de leur consentement ou de leur opinion sur la règle."
+    }
+  ],
+  "exercices": [
+    {
+      "question": "CAS PRATIQUE 1 : Ravaka est locataire d'un appartement à Antsiranana. Son contrat de bail, signé par les deux parties, prévoit une clause interdisant à Ravaka d'inviter des amis après 20h, sous peine d'une amende de 500 000 ariary payable au propriétaire. Ravaka conteste cette clause en affirmant qu'elle est illégale. Son propriétaire lui répond : « Nous avons tous les deux signé librement ce contrat, donc cette clause est valide. » Qui a raison, et pourquoi ?",
+      "choix": [
+        "Le propriétaire a raison : la liberté contractuelle est absolue, et tout ce qui est librement signé est valide",
+        "Ravaka a raison : cette clause porte atteinte à des droits fondamentaux (liberté d'aller et venir, vie privée) protégés par des règles impératives d'ordre public que le contrat ne peut pas écarter",
+        "Aucun des deux n'a raison : le juge devra décider au cas par cas sans règle applicable",
+        "Le propriétaire a raison uniquement si Ravaka a signé le contrat sans contrainte"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Demandez-vous si la liberté de recevoir des amis chez soi relève de droits fondamentaux protégés par des règles impératives.",
+        "Rappelez-vous que la liberté contractuelle a des limites : elle ne peut pas déroger aux règles d'ordre public.",
+        "Une clause qui restreint des libertés fondamentales sans justification légitime peut être nulle même si les deux parties l'ont signée."
+      ],
+      "explication": "Ravaka a raison. La liberté contractuelle n'est pas absolue : elle ne peut pas s'exercer contre des règles impératives d'ordre public. Une clause qui restreint de façon disproportionnée la liberté personnelle du locataire (liberté d'inviter des personnes chez soi, droit à la vie privée) peut être considérée comme nulle, car elle heurte des règles d'ordre public protégeant la dignité et les libertés fondamentales du locataire. Le consentement des deux parties ne suffit pas à valider une clause contraire à l'ordre public : c'est précisément la limite que les règles impératives imposent à la liberté contractuelle."
+    },
+    {
+      "question": "CAS PRATIQUE 2 : Tiana avait prêté de l'argent à son cousin il y a dix ans sans signer aucun document écrit. Le délai légal pour agir en justice (la prescription) est désormais expiré : Tiana ne peut plus saisir un tribunal pour réclamer ce remboursement. Mais un jour, son cousin la contacte spontanément et lui rembourse intégralement la somme. Deux semaines plus tard, le cousin regrette ce geste et demande à Tiana de lui rendre l'argent, en affirmant qu'il « n'était plus obligé de payer » et qu'il a « payé par erreur de jugement ». Tiana doit-elle rembourser ? Analysez la situation au regard des notions d'obligation civile, d'obligation naturelle et de leurs effets.",
+      "choix": [
+        "Oui, Tiana doit rembourser, car son cousin n'était plus juridiquement obligé de payer et peut réclamer l'indu",
+        "Non, Tiana n'a pas à rembourser : la dette, bien que prescrite comme obligation civile, subsistait comme obligation naturelle, et le paiement volontaire effectué sur une obligation naturelle est valable et irrévocable",
+        "Cela dépend du montant remboursé : en dessous d'un certain seuil, le cousin peut reprendre l'argent",
+        "Oui, Tiana doit rembourser la moitié de la somme par équité"
+      ],
+      "reponse": 1,
+      "indices": [
+        "La prescription éteint l'obligation civile (on ne peut plus saisir un tribunal), mais qu'advient-il de l'obligation naturelle sous-jacente ?",
+        "Quand le cousin a payé, il a-t-il agi librement, ou sous la contrainte d'une obligation civile encore en vigueur ?",
+        "Rappelez-vous l'effet juridique de l'exécution volontaire d'une obligation naturelle : le paiement est-il irrévocable ?"
+      ],
+      "explication": "Tiana n'a pas à rembourser. Voici l'analyse : la prescription du délai légal a éteint l'obligation civile (Tiana ne pouvait plus forcer son cousin à payer en justice). Mais la dette subsistait comme obligation naturelle : le cousin devait moralement rembourser ce qu'il avait emprunté, même si on ne pouvait pas l'y contraindre. Lorsqu'il a effectué le paiement spontanément, il a exécuté librement cette obligation naturelle. Or, l'exécution volontaire d'une obligation naturelle est valable et irrévocable : le cousin ne peut pas ensuite réclamer le remboursement en prétendant qu'il « n'était plus obligé ». L'argument du cousin est juridiquement inopérant : il a agi librement, et ce paiement libre produit un effet définitif."
+    }
+  ]
+}
