@@ -981,6 +981,15 @@ function renderHearts() {
   el.innerHTML = html;
 }
 
+function shuffleArray(arr) {
+  const a = arr.slice();
+  for (let i = a.length - 1; i > 0; i--) {
+    const j = Math.floor(Math.random() * (i + 1));
+    [a[i], a[j]] = [a[j], a[i]];
+  }
+  return a;
+}
+
 function renderQuestion() {
   const q = quizState.questions[quizState.index];
   const total = quizState.questions.length;
@@ -993,14 +1002,19 @@ function renderQuestion() {
 
   document.getElementById('quiz-question').textContent = q.question;
 
+  // Mélange l'ordre d'affichage des choix à chaque question, pour éviter
+  // que les utilisateurs ne mémorisent une position plutôt que le contenu.
+  const order = shuffleArray(q.choix.map((_, i) => i));
+  quizState.currentOrder = order;
+
   const choicesEl = document.getElementById('quiz-choices');
   choicesEl.innerHTML = '';
   const letters = ['A','B','C','D','E','F'];
-  q.choix.forEach((choice, ci) => {
+  order.forEach((origIndex, displayIndex) => {
     const div = document.createElement('div');
     div.className = 'quiz-choice';
-    div.innerHTML = '<div class="choice-letter">'+letters[ci]+'</div><div>'+choice+'</div>';
-    div.onclick = () => selectAnswer(ci);
+    div.innerHTML = '<div class="choice-letter">'+letters[displayIndex]+'</div><div>'+q.choix[origIndex]+'</div>';
+    div.onclick = () => selectAnswer(displayIndex);
     choicesEl.appendChild(div);
   });
 
@@ -1017,7 +1031,13 @@ function selectAnswer(ci) {
   const choicesEl = document.getElementById('quiz-choices');
   const choiceDivs = choicesEl.querySelectorAll('.quiz-choice');
 
-  if (ci === q.reponse) {
+  // ci = position affichée ; on la traduit vers l'index réel du choix dans q.choix
+  const order = quizState.currentOrder;
+  const realIndex = order[ci];
+  // position affichée de la bonne réponse (pour la mettre en évidence)
+  const correctDisplayIndex = order.indexOf(q.reponse);
+
+  if (realIndex === q.reponse) {
     // bonne réponse
     quizState.answered = true;
     choiceDivs.forEach(d => d.classList.add('disabled'));
@@ -1063,11 +1083,11 @@ function selectAnswer(ci) {
       // révèle la réponse après 3 erreurs (+ indices déjà donnés)
       quizState.answered = true;
       choiceDivs.forEach(d => d.classList.add('disabled'));
-      choiceDivs[q.reponse].classList.add('correct');
+      choiceDivs[correctDisplayIndex].classList.add('correct');
 
       const fb = document.createElement('div');
       fb.className = 'feedback-panel reveal';
-      fb.innerHTML = '<div class="feedback-title">La réponse était : '+letters_global[q.reponse]+'</div><div class="feedback-text"></div>';
+      fb.innerHTML = '<div class="feedback-title">La réponse était : '+letters_global[correctDisplayIndex]+'</div><div class="feedback-text"></div>';
       fb.querySelector('.feedback-text').textContent = q.explication;
       document.getElementById('quiz-feedback-area').appendChild(fb);
 
