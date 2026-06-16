@@ -1,0 +1,962 @@
+{
+  "titre": "L'organisation juridictionnelle : qui rend la justice à Madagascar ?",
+  "module": "Module 6 — L'organisation juridictionnelle",
+  "niveau": "Débutant",
+  "contenu": [
+    {
+      "titre": "Pourquoi organiser la justice ?",
+      "texte": "La justice ne s'improvise pas. Elle ne peut pas être rendue par n'importe qui, n'importe comment, n'importe où. Pour qu'une société fonctionne, il faut des règles claires sur qui a le droit de trancher les conflits et comment. L'organisation juridictionnelle répond précisément à cette question : elle décrit l'ensemble des juridictions — c'est-à-dire des institutions habilitées à rendre des décisions de justice — et la façon dont elles s'articulent entre elles. Sans cette organisation, tout serait chaotique. Imaginez qu'un même litige soit jugé différemment selon qu'on s'adresse à un tribunal de la capitale ou d'une ville de province, sans aucune possibilité de recours. L'organisation juridictionnelle garantit la cohérence, l'accessibilité et la légitimité de la justice. À Madagascar, cette organisation est encadrée par la Constitution de la IVe République, qui prévoit plusieurs ordres de juridiction distincts, chacun avec ses propres compétences.",
+      "definition": "Organisation juridictionnelle : ensemble des institutions de justice (juridictions), de leurs compétences et de leurs articulations, définissant qui a le droit de juger quoi, où et selon quelle procédure."
+    },
+    {
+      "titre": "La notion de juridiction",
+      "texte": "Le mot juridiction vient du latin jus dicere : dire le droit. Une juridiction est donc une institution officielle qui a le pouvoir de trancher des conflits en appliquant le droit et de rendre des décisions dotées de la force obligatoire. Ce n'est pas n'importe quel organisme qui arbitre des différends — c'est une institution créée par la loi, composée de juges nommés selon des règles précises, et qui suit des procédures encadrées. Les décisions d'une juridiction s'appellent des jugements quand elles sont rendues par un tribunal, et des arrêts quand elles émanent d'une cour. La distinction entre tribunal et cour est importante : les tribunaux sont en général les juridictions du premier degré, celles devant lesquelles l'affaire est jugée pour la première fois ; les cours sont en général des juridictions supérieures qui examinent les affaires déjà jugées par les tribunaux. Il ne faut pas confondre une juridiction avec d'autres organismes qui peuvent aussi trancher des différends mais qui ne sont pas des juridictions au sens strict, comme certaines commissions administratives ou les arbitres privés.",
+      "definition": "Juridiction : institution créée par la loi, habilitée à trancher des conflits en appliquant le droit et à rendre des décisions obligatoires (jugements pour les tribunaux, arrêts pour les cours). À distinguer des autres modes de résolution des conflits comme l'arbitrage ou la médiation.",
+      "exemple": "Le Tribunal de Première Instance d'Antsiranana est une juridiction : il est créé par la loi, ses juges sont des magistrats nommés par l'État, il suit une procédure précise, et ses décisions s'imposent aux parties. En revanche, une commission de conciliation dans un litige de voisinage n'est pas une juridiction : elle propose un accord mais ne peut pas l'imposer."
+    },
+    {
+      "titre": "Les trois ordres de juridiction à Madagascar",
+      "texte": "Le système judiciaire malgache repose sur une organisation en trois ordres distincts, chacun avec une compétence propre. L'ordre judiciaire est le plus connu du grand public. Il traite des litiges entre personnes privées (civil) et des affaires pénales (infractions punies par l'État). C'est devant lui que l'on porte une demande de divorce, un conflit entre voisins, une action en réparation d'un préjudice, ou une poursuite pour vol ou meurtre. L'ordre administratif traite des litiges impliquant l'administration publique. Quand un citoyen conteste une décision d'un fonctionnaire, d'un ministre ou d'une collectivité locale, c'est devant l'ordre administratif qu'il doit porter son affaire. L'ordre financier contrôle l'utilisation des deniers publics. Il vérifie que les comptables publics — ceux qui manient l'argent de l'État — ont bien fait leur travail, et il peut les condamner à rembourser des sommes irrégulièrement engagées. Ces trois ordres sont distincts et parallèles : un justiciable ne peut pas porter le même litige devant l'ordre judiciaire et l'ordre administratif en même temps.",
+      "definition": "Trois ordres de juridiction à Madagascar : (1) l'ordre judiciaire (litiges entre privés et affaires pénales), (2) l'ordre administratif (litiges avec l'administration), (3) l'ordre financier (contrôle de l'utilisation des fonds publics). Chaque ordre dispose de ses propres juridictions et de sa propre voie de recours.",
+      "exemple": "Votre employeur, une entreprise privée, ne vous paie pas. Vous portez l'affaire devant l'ordre judiciaire. En revanche, si c'est l'État — votre employeur public — qui ne vous verse pas votre salaire de fonctionnaire, vous vous adressez à l'ordre administratif. La nature de votre adversaire détermine l'ordre compétent."
+    },
+    {
+      "titre": "Le principe du double degré de juridiction",
+      "texte": "L'une des garanties fondamentales de la justice est le droit à un recours. On ne peut pas accepter qu'une décision injuste ou erronée soit définitive sans possibilité de la contester. C'est pourquoi l'organisation juridictionnelle repose sur le principe du double degré de juridiction : toute affaire peut en principe être jugée deux fois, par deux juridictions de rang différent. Au premier degré se trouvent les tribunaux. Ils jugent l'affaire pour la première fois, en examinant les faits et en appliquant le droit. Au deuxième degré se trouvent les cours d'appel. Lorsqu'une partie est mécontente d'un jugement de première instance, elle peut faire appel : la Cour d'appel réexamine alors l'affaire dans son ensemble — les faits et le droit — et peut confirmer, modifier ou infirmer le jugement du tribunal. Au-delà du double degré, il existe encore un recours exceptionnel : le pourvoi en cassation devant la Cour de cassation. Mais la cassation ne rejuge pas l'affaire sur le fond : elle vérifie seulement si le droit a été correctement appliqué par les juges du fond.",
+      "definition": "Double degré de juridiction : principe selon lequel toute affaire peut être jugée deux fois — d'abord par une juridiction de premier degré (tribunal), puis en cas d'appel par une juridiction de second degré (cour d'appel). Au-delà, le pourvoi en cassation permet un contrôle de droit mais pas un nouveau jugement des faits.",
+      "exemple": "Rakoto est condamné par le Tribunal de Première Instance d'Antananarivo à payer 5 millions d'ariary à son voisin. Il estime le jugement injuste. Il fait appel devant la Cour d'Appel d'Antananarivo, qui réexamine toute l'affaire et peut réduire, annuler ou confirmer la condamnation. Si Rakoto conteste encore, il peut former un pourvoi en cassation, mais la Cour de cassation ne rejugera pas les faits — elle vérifiera seulement si le droit a été bien appliqué."
+    },
+    {
+      "titre": "Les juridictions de l'ordre judiciaire",
+      "texte": "L'ordre judiciaire comprend plusieurs niveaux. À la base se trouvent les Tribunaux de Première Instance (TPI). Ils constituent la juridiction de droit commun du premier degré : c'est là que la grande majorité des affaires civiles et pénales commence. Chaque grande ville de Madagascar dispose d'un TPI. Pour les affaires pénales, le TPI peut siéger sous différentes compositions selon la gravité des faits : en chambre correctionnelle pour les délits, et les crimes les plus graves sont renvoyés devant la Cour criminelle. Pour les litiges du travail, des juridictions spécialisées — les Tribunaux du Travail — traitent les conflits entre employeurs et salariés. Pour les affaires commerciales, la juridiction compétente est le Tribunal de Commerce. Au deuxième degré se trouvent les Cours d'Appel. Leur ressort territorial couvre plusieurs TPI. Elles réexaminent les affaires jugées en premier ressort par les tribunaux qui leur sont rattachés, que ce soit en matière civile, pénale, commerciale ou du travail. Tout en haut de l'ordre judiciaire siège la Cour de cassation, chambre de la Cour Suprême, qui contrôle l'application uniforme du droit sur tout le territoire.",
+      "definition": "Principales juridictions de l'ordre judiciaire : Tribunal de Première Instance (droit commun du premier degré), Tribunaux spécialisés (Tribunal du Travail, Tribunal de Commerce), Cours d'Appel (second degré), Cour de cassation (contrôle de droit en dernier ressort).",
+      "exemple": "Un employeur à Antsiranana licencie abusivement un salarié. Le salarié saisit le Tribunal du Travail d'Antsiranana (spécialisé). S'il n'est pas satisfait du jugement, il fait appel devant la Cour d'Appel d'Antsiranana. Si un point de droit reste contesté, un pourvoi en cassation est possible devant la Cour de cassation à Antananarivo."
+    },
+    {
+      "titre": "Les juridictions de l'ordre administratif",
+      "texte": "L'ordre administratif est né d'un principe fondamental : on ne peut pas juger l'administration comme un simple particulier. L'État obéit à des règles spéciales — le droit administratif — et il doit exister des juges spécialisés pour appliquer ces règles. Au premier degré, ce sont les Tribunaux administratifs qui examinent les recours formés contre les décisions des autorités administratives locales ou régionales : les communes, les régions, les services déconcentrés de l'État. Quand un citoyen estime qu'une décision administrative est illégale — un permis de construire refusé sans motif valable, une décision de révocation injustifiée d'un fonctionnaire — c'est devant le Tribunal administratif qu'il porte son recours. Au sommet de l'ordre administratif siège le Conseil d'État, chambre de la Cour Suprême. Il est le juge de droit commun du contentieux administratif au niveau national. Il statue sur les recours en annulation des actes des autorités administratives centrales et provinciales, il tranche les litiges fiscaux, et il connaît des actions en réparation de dommages causés par l'administration. Il exerce également une fonction consultative : il peut être consulté par le Premier ministre ou les gouverneurs sur des projets de textes législatifs.",
+      "definition": "Principales juridictions de l'ordre administratif : Tribunaux administratifs (premier degré, recours contre les décisions administratives locales), Conseil d'État chambre de la Cour Suprême (juridiction suprême administrative, juge des actes des autorités centrales, conseiller du gouvernement).",
+      "exemple": "La mairie d'Antsiranana refuse de délivrer un permis de construire à Valérie, sans motif légal. Valérie forme un recours en annulation de cette décision devant le Tribunal administratif. Si elle n'obtient pas satisfaction, elle peut se pourvoir devant le Conseil d'État."
+    },
+    {
+      "titre": "L'ordre financier : la Cour des comptes",
+      "texte": "L'ordre financier est le moins connu du grand public, mais son rôle est essentiel dans un État de droit. La Cour des comptes — chambre de la Cour Suprême — en est la pièce maîtresse. Sa mission première est de juger les comptes des comptables publics : ceux qui manient les fonds de l'État, des provinces, des établissements publics. Si un comptable public a engagé des dépenses irrégulières, la Cour des comptes peut le condamner à rembourser personnellement les sommes concernées. Mais son rôle ne s'arrête pas là. Elle contrôle l'exécution des lois de finances — elle vérifie que le budget voté par le Parlement a bien été exécuté comme prévu. Elle contrôle également la gestion des ordonnateurs du budget (les ministres, les préfets, les directeurs d'établissements publics qui autorisent les dépenses). Elle établit à l'attention du Parlement un rapport annuel et une déclaration générale de conformité entre les écritures des ordonnateurs et celles des comptables. Elle assiste les assemblées parlementaires et le gouvernement dans le contrôle de l'exécution budgétaire, et peut procéder à des enquêtes ou études à leur demande.",
+      "definition": "Cour des comptes : juridiction financière, chambre de la Cour Suprême, chargée de juger les comptes des comptables publics, de contrôler l'exécution du budget de l'État et de la gestion des ordonnateurs, et d'assister le Parlement et le gouvernement dans le contrôle financier public.",
+      "exemple": "Le trésorier d'un établissement public malgache effectue des paiements sans pièces justificatives valables. La Cour des comptes examine ses comptes et peut le condamner à rembourser personnellement les sommes irrégulièrement décaissées. Cette sanction personnelle incite les comptables publics à la rigueur."
+    },
+    {
+      "titre": "La Cour Suprême : la plus haute instance",
+      "texte": "Au sommet de toute cette organisation siège la Cour Suprême de Madagascar. Elle est la plus haute instance juridictionnelle du pays. Sa particularité est de réunir en elle les trois ordres : elle comprend la Cour de cassation (pour l'ordre judiciaire), le Conseil d'État (pour l'ordre administratif) et la Cour des comptes (pour l'ordre financier). En assemblée plénière — c'est-à-dire réunie avec l'ensemble de ses membres — la Cour Suprême est une juridiction à part entière. Dans cette formation, elle tranche les conflits de compétence entre deux juridictions d'ordres différents : si un même litige est revendiqué à la fois par une juridiction judiciaire et une juridiction administrative, c'est la Cour Suprême en assemblée plénière qui désigne laquelle est compétente. Elle veille aussi au bon fonctionnement de l'ensemble des juridictions et reçoit le serment des magistrats nouvellement nommés. La Cour de cassation, en tant que chambre, statue sur les pourvois formés contre les décisions définitives des juridictions judiciaires, sur les demandes en révision, les règlements de juges entre juridictions sans supérieur commun, et les contrariétés de jugements.",
+      "definition": "Cour Suprême de Madagascar : plus haute instance juridictionnelle, composée de trois chambres — la Cour de cassation (ordre judiciaire), le Conseil d'État (ordre administratif) et la Cour des comptes (ordre financier). En assemblée plénière, elle tranche les conflits de compétence entre ordres et veille au bon fonctionnement de la justice.",
+      "exemple": "Un litige concernant un contrat passé entre une société privée et l'État est revendiqué à la fois par le Tribunal de Commerce (ordre judiciaire) et le Tribunal administratif (ordre administratif). La Cour Suprême en assemblée plénière tranche : quel ordre est compétent ? En pratique, les contrats administratifs relèvent de l'ordre administratif."
+    },
+    {
+      "titre": "La Haute Cour Constitutionnelle : en dehors des trois ordres",
+      "texte": "Il existe à Madagascar une juridiction très particulière qui ne fait partie d'aucun des trois ordres classiques : la Haute Cour Constitutionnelle. C'est la plus haute juridiction de l'État en matière constitutionnelle. Sa mission est de veiller à la suprématie de la Constitution sur toutes les autres normes juridiques. Elle est chargée du contrôle de constitutionnalité : elle vérifie que les lois, les ordonnances, les traités et les règlements autonomes sont conformes à la Constitution. Si une loi est votée par le Parlement mais que son contenu contredit la Constitution, la Haute Cour Constitutionnelle peut la déclarer inconstitutionnelle — et cette loi ne pourra pas être appliquée. Elle statue également sur les litiges relatifs aux élections présidentielle, législatives et sénatoriales, ainsi que sur les référendums. Elle tranche les conflits d'attribution entre les institutions constitutionnelles. La Haute Cour Constitutionnelle est donc le gardien de la Constitution : au-dessus de tous les tribunaux ordinaires, elle garantit que le droit le plus élevé — la Constitution — ne soit jamais violé par les autres pouvoirs.",
+      "definition": "Haute Cour Constitutionnelle : plus haute juridiction constitutionnelle, en dehors des trois ordres classiques. Elle contrôle la constitutionnalité des lois, ordonnances et traités, statue sur les contentieux électoraux nationaux et tranche les conflits entre institutions. Elle est le gardien de la suprématie de la Constitution.",
+      "exemple": "Le Parlement vote une loi qui restreint la liberté de la presse d'une façon que certains estiment inconstitutionnelle. Le Président de la République saisit la Haute Cour Constitutionnelle avant de promulguer la loi. Si la Haute Cour constate que la loi contredit la Constitution, elle la déclare inconstitutionnelle : le Président ne peut pas la promulguer."
+    },
+    {
+      "titre": "Les professionnels de la justice",
+      "texte": "La justice ne fonctionne pas sans les personnes qui la font vivre au quotidien. Les magistrats sont les juges : fonctionnaires de l'État qui rendent la justice en son nom. On distingue la magistrature du siège — les juges qui rendent les décisions, assis derrière leur bureau — et la magistrature debout ou Parquet, aussi appelé Ministère Public, qui représente la société et l'intérêt général. Le Ministère Public poursuit les auteurs d'infractions au nom de la société. Les avocats assistent et représentent les parties. À Madagascar, ils sont réunis au sein d'un unique Barreau, dirigé par le Conseil de l'Ordre présidé par le Bâtonnier. Pour devenir avocat, il faut obtenir le certificat d'aptitude à la profession d'avocat (CAPA) délivré par l'Institut de Formation Professionnelle des Avocats (IFPA). Les notaires sont des officiers publics qui reçoivent les actes auxquels les parties veulent conférer l'authenticité : actes de vente immobilière, contrats de mariage, testaments. Les huissiers de justice sont des officiers ministériels chargés de la signification des actes judiciaires et extrajudiciaires, et de l'exécution forcée des décisions de justice.",
+      "definition": "Principaux acteurs de la justice : magistrats du siège (juges qui rendent les décisions) et magistrats debout / Ministère Public (qui représentent la société) ; avocats (assistants et représentants des parties) ; notaires (officiers publics, authentification des actes) ; huissiers (signification des actes et exécution forcée).",
+      "exemple": "Dans un procès pénal pour abus de confiance : le Procureur (magistrat debout) poursuit l'accusé au nom de la société ; l'avocat de l'accusé le défend ; l'avocat de la victime la représente pour obtenir réparation ; si l'accusé est condamné et ne paye pas, l'huissier peut saisir ses biens pour exécuter la décision. Chaque professionnel joue un rôle distinct et complémentaire."
+    },
+    {
+      "titre": "Les garanties de la justice : indépendance et impartialité",
+      "texte": "Pour que la justice soit réelle et pas seulement formelle, elle doit réunir deux conditions essentielles : l'indépendance et l'impartialité. L'indépendance signifie que les juges ne reçoivent d'ordres de personne — ni du gouvernement, ni des partis politiques, ni des parties au procès. La Constitution de Madagascar consacre l'indépendance du pouvoir judiciaire à l'égard du pouvoir exécutif et du pouvoir législatif. Le Conseil Supérieur de la Magistrature (CSM), présidé par le Chef de l'État, est chargé de garantir cette indépendance : il gère la carrière des magistrats, veille à l'application de leur statut et est l'organe disciplinaire du corps de la magistrature. L'impartialité signifie que le juge tranche sans faveur ni préjugé : il n'a pas d'intérêt personnel dans l'affaire et traite les parties de façon égale. Un juge peut être récusé — c'est-à-dire écarté du dossier — s'il existe des raisons objectives de douter de son impartialité. Ces deux garanties — indépendance et impartialité — sont les piliers sans lesquels la confiance dans la justice est impossible. Elles protègent à la fois le justiciable contre l'arbitraire et le juge contre les pressions.",
+      "definition": "Indépendance judiciaire : les juges ne sont soumis à aucune autorité extérieure dans l'exercice de leurs fonctions juridictionnelles ; elle est garantie par le Conseil Supérieur de la Magistrature. Impartialité : le juge statue sans intérêt personnel ni préjugé ; une partie peut demander la récusation d'un juge partial. Ces deux principes fondent la légitimité de la justice.",
+      "exemple": "Un ministre est jugé pour des malversations financières. Le juge d'instruction est convoqué par son ministre de tutelle et invité à classer l'affaire. Grâce à l'indépendance judiciaire protégée par le CSM, le juge peut résister à cette pression et instruire l'affaire normalement. Sans cette indépendance, les puissants seraient toujours au-dessus des lois."
+    }
+  ],
+  "quiz": [
+    {
+      "question": "Que désigne l'expression « organisation juridictionnelle » ?",
+      "choix": [
+        "La façon dont les avocats organisent leur cabinet",
+        "L'ensemble des institutions de justice, de leurs compétences et de leurs articulations",
+        "Le règlement intérieur des tribunaux",
+        "La liste des lois applicables devant chaque tribunal"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Le terme juridiction désigne une institution de justice.",
+        "L'organisation décrit comment ces institutions sont structurées et reliées.",
+        "Pensez : qui juge quoi, où, et selon quel recours possible ?"
+      ],
+      "explication": "L'organisation juridictionnelle désigne l'ensemble des institutions de justice (juridictions), leurs compétences respectives et la façon dont elles s'articulent entre elles. Elle répond aux questions : qui a le droit de juger ? Quoi ? Où ? Et quels recours existent ?"
+    },
+    {
+      "question": "D'où vient le mot « juridiction » et que signifie-t-il littéralement ?",
+      "choix": [
+        "Du latin jus dicere : dire le droit",
+        "Du grec dikaion : la justice",
+        "Du latin judex : le juge",
+        "Du grec nomos : la loi"
+      ],
+      "reponse": 0,
+      "indices": [
+        "Les deux mots latins sont jus (le droit) et dicere (dire, énoncer).",
+        "Une juridiction est une institution qui énonce le droit pour trancher un litige.",
+        "Le préfixe jurid- renvoie directement à jus."
+      ],
+      "explication": "Le mot juridiction vient du latin jus dicere, qui signifie littéralement « dire le droit ». Une juridiction est donc une institution habilitée à énoncer le droit applicable pour trancher un conflit et rendre une décision obligatoire."
+    },
+    {
+      "question": "Qu'est-ce qui distingue une juridiction d'une simple commission administrative ?",
+      "choix": [
+        "La juridiction est plus grande en nombre de membres",
+        "La juridiction est créée par la loi, composée de juges nommés selon des règles précises, et ses décisions sont obligatoires ; la commission propose des solutions sans pouvoir les imposer",
+        "La juridiction traite uniquement les affaires pénales",
+        "La juridiction est toujours présidée par un avocat"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Une juridiction a le pouvoir d'imposer sa décision.",
+        "Elle est créée par la loi et suit une procédure encadrée.",
+        "Une commission de conciliation ne peut que proposer un accord."
+      ],
+      "explication": "Une juridiction se distingue d'une simple commission par trois caractéristiques : elle est créée par la loi, ses membres (les juges) sont nommés selon des règles précises, et ses décisions (jugements ou arrêts) sont dotées de la force obligatoire et peuvent être exécutées de force. Une commission administrative peut proposer des solutions, mais ne peut pas les imposer."
+    },
+    {
+      "question": "Comment appelle-t-on les décisions rendues par une cour (par opposition à un tribunal) ?",
+      "choix": [
+        "Des ordonnances",
+        "Des jugements",
+        "Des arrêts",
+        "Des décrets"
+      ],
+      "reponse": 2,
+      "indices": [
+        "Les tribunaux rendent des jugements.",
+        "Les cours — Cour d'appel, Cour de cassation — rendent quelque chose de différent.",
+        "Le mot commence par arr-."
+      ],
+      "explication": "Les décisions des cours (Cour d'appel, Cour de cassation, Cour Suprême) s'appellent des arrêts. Les décisions des tribunaux (Tribunal de Première Instance, Tribunal de Commerce, etc.) s'appellent des jugements. Cette distinction terminologique est importante en droit."
+    },
+    {
+      "question": "Combien y a-t-il d'ordres de juridiction distincts à Madagascar ?",
+      "choix": [
+        "Un seul",
+        "Deux",
+        "Trois",
+        "Quatre"
+      ],
+      "reponse": 2,
+      "indices": [
+        "La leçon énumère les ordres : judiciaire, administratif, et un troisième.",
+        "Le troisième ordre concerne l'utilisation des fonds publics.",
+        "Comptez : judiciaire + administratif + financier."
+      ],
+      "explication": "Il existe trois ordres de juridiction distincts à Madagascar : l'ordre judiciaire (litiges entre privés et affaires pénales), l'ordre administratif (litiges avec l'administration publique) et l'ordre financier (contrôle de l'utilisation des fonds publics). Chaque ordre dispose de ses propres juridictions et de sa propre voie de recours."
+    },
+    {
+      "question": "Devant quel ordre faut-il porter un litige entre deux particuliers concernant un loyer impayé ?",
+      "choix": [
+        "L'ordre administratif",
+        "L'ordre financier",
+        "L'ordre judiciaire",
+        "La Haute Cour Constitutionnelle"
+      ],
+      "reponse": 2,
+      "indices": [
+        "Le litige oppose deux particuliers, pas un particulier à l'État.",
+        "L'ordre judiciaire traite les litiges entre personnes privées.",
+        "Un contrat de bail entre un propriétaire et un locataire privés relève du droit civil."
+      ],
+      "explication": "Un litige entre deux particuliers sur un loyer impayé relève de l'ordre judiciaire. L'ordre judiciaire est compétent pour tous les litiges entre personnes privées (civil) et pour les affaires pénales. C'est la nature des parties — deux personnes privées — qui détermine l'ordre compétent."
+    },
+    {
+      "question": "Un fonctionnaire conteste sa révocation par son administration. Devant quel ordre porte-t-il son recours ?",
+      "choix": [
+        "L'ordre judiciaire, car il s'agit d'un litige de travail",
+        "L'ordre administratif, car il s'agit d'une décision prise par l'administration publique",
+        "L'ordre financier, car le fonctionnaire reçoit un salaire de l'État",
+        "La Haute Cour Constitutionnelle"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Quelle est la nature du litige ? Qui est l'auteur de la décision contestée ?",
+        "L'ordre administratif traite les litiges impliquant l'administration publique.",
+        "La révocation d'un fonctionnaire est une décision administrative."
+      ],
+      "explication": "Le fonctionnaire doit porter son recours devant l'ordre administratif. L'ordre administratif est compétent pour les litiges qui impliquent l'administration publique — y compris les décisions concernant les fonctionnaires, qui sont soumis à des règles spéciales de droit public. Ce n'est pas un Tribunal du Travail ordinaire qui est compétent pour ces litiges."
+    },
+    {
+      "question": "Que signifie le principe du double degré de juridiction ?",
+      "choix": [
+        "Que toute affaire doit être jugée par deux juges en même temps",
+        "Que toute affaire peut être jugée deux fois, d'abord par un tribunal puis par une cour d'appel si une partie fait appel",
+        "Que les peines pénales peuvent être doublées en cas de récidive",
+        "Que deux avocats doivent être présents à chaque audience"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Double degré signifie deux niveaux de juridiction successifs.",
+        "Le premier degré = le tribunal ; le deuxième degré = la cour d'appel.",
+        "Ce principe garantit le droit à un recours contre une décision injuste."
+      ],
+      "explication": "Le double degré de juridiction signifie que toute affaire peut être jugée deux fois. Au premier degré, le tribunal juge l'affaire pour la première fois. Si une partie est mécontente, elle peut faire appel : la cour d'appel réexamine alors l'affaire dans son ensemble. Ce principe est une garantie fondamentale du droit à un procès équitable."
+    },
+    {
+      "question": "Que fait la Cour de cassation quand elle est saisie d'un pourvoi ?",
+      "choix": [
+        "Elle rejuge toute l'affaire — faits et droit — comme une troisième instance",
+        "Elle vérifie seulement si le droit a été correctement appliqué par les juges du fond, sans rejuger les faits",
+        "Elle annule automatiquement la décision attaquée",
+        "Elle renvoie l'affaire à la police pour une nouvelle enquête"
+      ],
+      "reponse": 1,
+      "indices": [
+        "La cassation n'est pas un troisième degré de fond.",
+        "Elle ne rejuge pas les faits — cela a déjà été fait deux fois.",
+        "Elle contrôle l'application du droit, pas la réalité des faits."
+      ],
+      "explication": "La Cour de cassation ne rejuge pas l'affaire sur le fond. Elle vérifie uniquement si le droit a été correctement appliqué par les juges du fond (tribunal et cour d'appel). Si elle constate une erreur de droit, elle casse (annule) la décision et renvoie l'affaire devant une autre juridiction du même niveau pour qu'elle rejuge l'affaire en appliquant le droit correctement."
+    },
+    {
+      "question": "Quelle est la juridiction de droit commun du premier degré en matière civile et pénale à Madagascar ?",
+      "choix": [
+        "La Cour d'Appel",
+        "Le Tribunal de Commerce",
+        "Le Tribunal de Première Instance (TPI)",
+        "Le Conseil d'État"
+      ],
+      "reponse": 2,
+      "indices": [
+        "La leçon le nomme expressément comme la juridiction de base.",
+        "Le droit commun signifie qu'il est compétent pour tout ce qui n'est pas attribué à une juridiction spécialisée.",
+        "Son nom indique qu'il juge en « première instance » — pour la première fois."
+      ],
+      "explication": "Le Tribunal de Première Instance (TPI) est la juridiction de droit commun du premier degré. Il est compétent pour la grande majorité des affaires civiles et pénales, sauf celles expressément attribuées à une juridiction spécialisée (Tribunal du Travail, Tribunal de Commerce). Il est présent dans toutes les grandes villes de Madagascar."
+    },
+    {
+      "question": "Devant quelle juridiction un salarié licencié abusivement doit-il porter son recours en première instance ?",
+      "choix": [
+        "Le Tribunal de Première Instance",
+        "Le Tribunal du Travail",
+        "La Cour d'Appel",
+        "Le Conseil d'État"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Il s'agit d'un litige de droit du travail.",
+        "Il existe une juridiction spécialisée pour ce type de litige.",
+        "Cette juridiction porte le nom de la matière qu'elle traite."
+      ],
+      "explication": "Pour un licenciement abusif, c'est le Tribunal du Travail qui est compétent en première instance. C'est une juridiction spécialisée dans les litiges entre employeurs et salariés. Sa spécialisation garantit que les juges connaissent bien le droit du travail, qui a ses propres règles et procédures."
+    },
+    {
+      "question": "Quel rôle joue la Cour d'Appel dans l'organisation juridictionnelle ?",
+      "choix": [
+        "Elle juge les affaires pour la première fois",
+        "Elle réexamine en second degré les affaires jugées par les tribunaux qui lui sont rattachés, en fait et en droit",
+        "Elle contrôle uniquement la constitutionnalité des lois",
+        "Elle est compétente seulement pour les affaires pénales"
+      ],
+      "reponse": 1,
+      "indices": [
+        "La Cour d'Appel est une juridiction de deuxième degré.",
+        "Elle intervient quand une partie fait appel d'une décision de tribunal.",
+        "Elle peut réexaminer à la fois les faits et le droit — contrairement à la cassation."
+      ],
+      "explication": "La Cour d'Appel est la juridiction du second degré. Elle réexamine les affaires déjà jugées par les tribunaux qui lui sont rattachés (TPI, Tribunal du Travail, Tribunal de Commerce). Elle peut revoir à la fois les faits et le droit, et a le pouvoir de confirmer, modifier ou infirmer (annuler) le jugement du tribunal."
+    },
+    {
+      "question": "Quel est le rôle de l'ordre administratif par rapport à l'administration ?",
+      "choix": [
+        "Il aide l'administration à rédiger ses actes",
+        "Il juge les litiges dans lesquels l'administration est partie, notamment les recours contre les décisions administratives",
+        "Il gère les finances de l'État",
+        "Il nomme les fonctionnaires"
+      ],
+      "reponse": 1,
+      "indices": [
+        "L'ordre administratif traite les litiges impliquant l'administration.",
+        "Un citoyen qui conteste une décision de l'État se tourne vers cet ordre.",
+        "L'État obéit à des règles spéciales — le droit administratif — et doit être jugé par des juges spécialisés."
+      ],
+      "explication": "L'ordre administratif juge les litiges dans lesquels l'administration publique est partie. Quand un citoyen conteste une décision administrative — un refus de permis, une sanction disciplinaire, une expropriation contestée — c'est devant les juridictions administratives (Tribunaux administratifs, Conseil d'État) qu'il porte son recours."
+    },
+    {
+      "question": "Quelle juridiction siège au sommet de l'ordre administratif à Madagascar ?",
+      "choix": [
+        "La Cour d'Appel d'Antananarivo",
+        "Le Conseil d'État, chambre de la Cour Suprême",
+        "La Haute Cour Constitutionnelle",
+        "Le Tribunal administratif d'Antananarivo"
+      ],
+      "reponse": 1,
+      "indices": [
+        "C'est la chambre administrative de la Cour Suprême.",
+        "Son nom rappelle son rôle de conseil et de juge suprême administratif.",
+        "En France, son équivalent s'appelle aussi Conseil d'État."
+      ],
+      "explication": "Le Conseil d'État, chambre de la Cour Suprême, est la plus haute juridiction de l'ordre administratif à Madagascar. Il est juge de droit commun du contentieux administratif national, statute sur les recours en annulation des actes des autorités administratives centrales, et exerce également une fonction consultative auprès du Premier ministre et des gouverneurs."
+    },
+    {
+      "question": "Parmi ces compétences, laquelle appartient au Conseil d'État ?",
+      "choix": [
+        "Juger les comptes des comptables publics",
+        "Contrôler la constitutionnalité des lois",
+        "Statuer sur les recours en annulation des actes des autorités administratives centrales et provinciales",
+        "Juger les crimes les plus graves"
+      ],
+      "reponse": 2,
+      "indices": [
+        "Le Conseil d'État est une juridiction administrative.",
+        "Il annule les actes de l'administration qui sont illégaux.",
+        "Il ne juge pas les comptes (Cour des comptes) ni la constitutionnalité (Haute Cour Constitutionnelle)."
+      ],
+      "explication": "Le Conseil d'État est compétent pour statuer sur les recours en annulation des actes des autorités administratives centrales ou provinciales. Un citoyen ou une entité qui estime qu'un acte de l'administration nationale est illégal peut former un recours devant le Conseil d'État pour en demander l'annulation."
+    },
+    {
+      "question": "Quelle est la mission principale de la Cour des comptes ?",
+      "choix": [
+        "Juger les affaires pénales impliquant des fonctionnaires",
+        "Contrôler l'utilisation des fonds publics et juger les comptes des comptables publics",
+        "Contrôler la conformité des lois à la Constitution",
+        "Traiter les litiges entre employeurs publics et leurs agents"
+      ],
+      "reponse": 1,
+      "indices": [
+        "La Cour des comptes appartient à l'ordre financier.",
+        "Elle vérifie que l'argent public a été correctement utilisé.",
+        "Elle peut condamner personnellement un comptable public qui a mal géré les fonds."
+      ],
+      "explication": "La mission principale de la Cour des comptes est de contrôler l'utilisation des fonds publics et de juger les comptes des comptables publics. Si un comptable public a engagé des dépenses irrégulières, elle peut le condamner à rembourser personnellement les sommes concernées. Elle contrôle également l'exécution des lois de finances et assiste le Parlement dans le contrôle budgétaire."
+    },
+    {
+      "question": "Un trésorier d'un établissement public engage des dépenses sans pièces justificatives. Quelle juridiction peut le condamner personnellement ?",
+      "choix": [
+        "Le Tribunal de Première Instance",
+        "Le Conseil d'État",
+        "La Cour des comptes",
+        "La Haute Cour Constitutionnelle"
+      ],
+      "reponse": 2,
+      "indices": [
+        "Ce litige concerne l'utilisation des fonds publics.",
+        "L'ordre financier est compétent pour contrôler les comptables publics.",
+        "La Cour des comptes peut prononcer des sanctions personnelles contre les comptables publics défaillants."
+      ],
+      "explication": "C'est la Cour des comptes qui est compétente pour juger le trésorier. Elle est la juridiction de l'ordre financier chargée de juger les comptes des comptables publics. Si des irrégularités sont constatées, elle peut condamner personnellement le trésorier à rembourser les sommes irrégulièrement engagées. Cette responsabilité personnelle du comptable est une garantie importante de la bonne gestion des fonds publics."
+    },
+    {
+      "question": "Qu'est-ce que la Cour Suprême de Madagascar et de quelles chambres est-elle composée ?",
+      "choix": [
+        "La juridiction suprême en matière constitutionnelle uniquement",
+        "La plus haute instance juridictionnelle, composée de la Cour de cassation, du Conseil d'État et de la Cour des comptes",
+        "Une cour d'appel nationale qui réexamine toutes les affaires jugées en province",
+        "Une juridiction spécialisée dans les crimes contre l'État"
+      ],
+      "reponse": 1,
+      "indices": [
+        "La Cour Suprême réunit les trois ordres de juridiction.",
+        "Ses trois chambres correspondent aux trois ordres : judiciaire, administratif, financier.",
+        "Elle est au sommet de toute l'organisation juridictionnelle ordinaire."
+      ],
+      "explication": "La Cour Suprême de Madagascar est la plus haute instance juridictionnelle ordinaire. Elle est composée de trois chambres : la Cour de cassation (sommet de l'ordre judiciaire), le Conseil d'État (sommet de l'ordre administratif) et la Cour des comptes (sommet de l'ordre financier). En assemblée plénière, elle tranche les conflits de compétence entre ordres."
+    },
+    {
+      "question": "Quel est le rôle de la Cour Suprême en assemblée plénière ?",
+      "choix": [
+        "Juger toutes les affaires criminelles du pays",
+        "Trancher les conflits de compétence entre deux juridictions d'ordres différents et veiller au bon fonctionnement des juridictions",
+        "Nommer les ministres du gouvernement",
+        "Contrôler la constitutionnalité des lois"
+      ],
+      "reponse": 1,
+      "indices": [
+        "L'assemblée plénière réunit les trois chambres ensemble.",
+        "Elle intervient quand deux ordres se disputent la compétence sur un même litige.",
+        "Elle veille aussi au fonctionnement général de la justice."
+      ],
+      "explication": "En assemblée plénière (réunissant ses trois chambres), la Cour Suprême tranche les conflits de compétence entre juridictions d'ordres différents : si un même litige est revendiqué à la fois par une juridiction judiciaire et une juridiction administrative, c'est la Cour Suprême en assemblée plénière qui désigne laquelle est compétente. Elle veille également au bon fonctionnement de l'ensemble des juridictions."
+    },
+    {
+      "question": "Un même litige est revendiqué à la fois par un Tribunal de Première Instance et un Tribunal administratif. Quelle instance tranche ce conflit de compétence ?",
+      "choix": [
+        "Le ministère de la Justice",
+        "La Haute Cour Constitutionnelle",
+        "La Cour Suprême en assemblée plénière",
+        "Le Parlement"
+      ],
+      "reponse": 2,
+      "indices": [
+        "Un TPI appartient à l'ordre judiciaire ; un Tribunal administratif à l'ordre administratif.",
+        "Il y a conflit entre deux ordres différents.",
+        "La leçon attribue précisément ce rôle à la Cour Suprême en assemblée plénière."
+      ],
+      "explication": "La Cour Suprême en assemblée plénière est chargée de trancher les conflits de compétence entre deux juridictions d'ordres différents. Quand un Tribunal de Première Instance (ordre judiciaire) et un Tribunal administratif (ordre administratif) revendiquent tous deux la compétence sur un même litige, la Cour Suprême en assemblée plénière désigne laquelle est compétente."
+    },
+    {
+      "question": "En quoi la Haute Cour Constitutionnelle est-elle différente des trois ordres de juridiction classiques ?",
+      "choix": [
+        "Elle fait partie de l'ordre administratif",
+        "Elle n'est pas une vraie juridiction",
+        "Elle se situe en dehors des trois ordres classiques et est compétente spécifiquement en matière constitutionnelle et électorale",
+        "Elle est une chambre de la Cour Suprême"
+      ],
+      "reponse": 2,
+      "indices": [
+        "La leçon la présente séparément des trois ordres judiciaire, administratif et financier.",
+        "Sa compétence est constitutionnelle, pas civile, pénale ou administrative.",
+        "Elle est le « gardien de la Constitution »."
+      ],
+      "explication": "La Haute Cour Constitutionnelle se situe en dehors des trois ordres classiques (judiciaire, administratif, financier). Elle n'est pas une chambre de la Cour Suprême. Sa compétence est spécifique : contrôle de constitutionnalité des lois, des ordonnances et des traités, contentieux électoral national, et conflits d'attribution entre institutions constitutionnelles. C'est le gardien de la suprématie de la Constitution."
+    },
+    {
+      "question": "Que se passe-t-il lorsque la Haute Cour Constitutionnelle déclare une loi inconstitutionnelle ?",
+      "choix": [
+        "La loi est modifiée automatiquement par le Parlement",
+        "La loi ne peut pas être promulguée ou appliquée",
+        "La loi reste en vigueur mais les tribunaux peuvent l'ignorer",
+        "Le Président de la République peut quand même l'appliquer par décret"
+      ],
+      "reponse": 1,
+      "indices": [
+        "La Constitution est au sommet de la hiérarchie des normes.",
+        "Une loi contraire à la Constitution ne peut pas avoir force obligatoire.",
+        "La déclaration d'inconstitutionnalité empêche la promulgation ou l'application."
+      ],
+      "explication": "Lorsque la Haute Cour Constitutionnelle déclare une loi inconstitutionnelle, cette loi ne peut pas être promulguée (si le contrôle est préalable) ou ne peut pas être appliquée (si le contrôle intervient après promulgation). La supériorité de la Constitution sur la loi interdit qu'une loi contraire à la Constitution puisse produire des effets juridiques."
+    },
+    {
+      "question": "Parmi les professionnels de la justice, lequel représente la société et poursuit les auteurs d'infractions au nom de l'intérêt général ?",
+      "choix": [
+        "L'avocat de la défense",
+        "Le notaire",
+        "Le Procureur, magistrat du Parquet (Ministère Public)",
+        "L'huissier de justice"
+      ],
+      "reponse": 2,
+      "indices": [
+        "La leçon distingue magistrature du siège et magistrature debout.",
+        "La magistrature debout est aussi appelée Parquet ou Ministère Public.",
+        "Son rôle est de défendre l'intérêt général de la société, pas celui d'une partie privée."
+      ],
+      "explication": "C'est le Procureur, représentant du Ministère Public (aussi appelé Parquet ou magistrature debout), qui représente la société et poursuit les auteurs d'infractions au nom de l'intérêt général. Contrairement à l'avocat de la défense qui représente son client, le Procureur agit au nom de la collectivité tout entière."
+    },
+    {
+      "question": "Quelle est la différence entre la magistrature du siège et la magistrature debout ?",
+      "choix": [
+        "La magistrature du siège travaille au tribunal, la magistrature debout travaille au ministère",
+        "La magistrature du siège rend les décisions de justice ; la magistrature debout (Parquet) représente la société et poursuit les infractions",
+        "La magistrature du siège est composée d'avocats ; la magistrature debout est composée de notaires",
+        "La magistrature du siège traite le pénal ; la magistrature debout traite le civil"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Siège et debout renvoient à des postures dans la salle d'audience.",
+        "Le juge est assis et rend la décision ; le Procureur est debout et plaide.",
+        "Leurs rôles sont fondamentalement différents."
+      ],
+      "explication": "La magistrature du siège désigne les juges qui rendent les décisions de justice : ils siègent (sont assis) derrière leur bureau. La magistrature debout (ou Parquet, ou Ministère Public) représente la société, défend l'intérêt général et poursuit les auteurs d'infractions. Ces deux corps forment ensemble la magistrature, mais avec des fonctions radicalement différentes."
+    },
+    {
+      "question": "Quel organisme regroupe les avocats malgaches et qui le dirige ?",
+      "choix": [
+        "La Chambre Nationale des Avocats, dirigée par un Président",
+        "L'unique Barreau de Madagascar, dirigé par le Conseil de l'Ordre présidé par le Bâtonnier",
+        "L'Association des Avocats de Madagascar, dirigée par un Secrétaire Général",
+        "Le Syndicat des Avocats, dirigé par un Président élu"
+      ],
+      "reponse": 1,
+      "indices": [
+        "La leçon mentionne qu'il n'existe qu'un seul Barreau pour tout Madagascar.",
+        "Le chef du Barreau porte un titre spécifique lié à son bâton de commandement.",
+        "Il est dirigé par un Conseil composé de l'ensemble des avocats."
+      ],
+      "explication": "Les avocats malgaches sont réunis au sein d'un unique Barreau de Madagascar, dirigé par le Conseil de l'Ordre présidé par le Bâtonnier. Ce Barreau est rattaché à la Cour d'appel d'Antananarivo. Il veille à ce que ses membres respectent les règles professionnelles et déontologiques."
+    },
+    {
+      "question": "Quel diplôme faut-il obtenir pour exercer la profession d'avocat à Madagascar ?",
+      "choix": [
+        "Le diplôme national de droit (DND)",
+        "Le master en droit des affaires",
+        "Le certificat d'aptitude à la profession d'avocat (CAPA) délivré par l'IFPA",
+        "Le doctorat en droit"
+      ],
+      "reponse": 2,
+      "indices": [
+        "La leçon mentionne une institution spécifique qui délivre ce certificat.",
+        "CAPA signifie Certificat d'Aptitude à la Profession d'Avocat.",
+        "L'IFPA est l'Institut de Formation Professionnelle des Avocats."
+      ],
+      "explication": "Pour exercer la profession d'avocat à Madagascar, il faut obtenir le Certificat d'Aptitude à la Profession d'Avocat (CAPA), délivré par l'Institut de Formation Professionnelle des Avocats (IFPA) après concours de recrutement, formation et examen final. Ce certificat est distinct des diplômes universitaires en droit."
+    },
+    {
+      "question": "Quelle est la mission d'un notaire ?",
+      "choix": [
+        "Exécuter les décisions de justice par la force",
+        "Représenter les parties devant les tribunaux",
+        "Recevoir les actes auxquels les parties veulent conférer l'authenticité et les conserver",
+        "Poursuivre les auteurs d'infractions pénales"
+      ],
+      "reponse": 2,
+      "indices": [
+        "Le notaire est un officier public, pas un avocat.",
+        "L'authenticité d'un acte notarié lui confère une force probante et exécutoire spéciale.",
+        "Actes de vente, contrats de mariage, testaments : ce sont des exemples d'actes notariés."
+      ],
+      "explication": "Le notaire est un officier public chargé de recevoir les actes auxquels les parties veulent conférer le caractère d'authenticité — c'est-à-dire la force probante et exécutoire d'un acte officiel. Il assure également leur conservation et peut délivrer des copies. Il agit aussi comme conseiller des personnes qui font appel à ses services. Il exerce à titre libéral."
+    },
+    {
+      "question": "Quel professionnel de la justice est chargé d'exécuter concrètement les décisions de justice (par exemple, procéder à une saisie) ?",
+      "choix": [
+        "L'avocat",
+        "Le notaire",
+        "Le Procureur",
+        "L'huissier de justice"
+      ],
+      "reponse": 3,
+      "indices": [
+        "Ce professionnel met en œuvre l'exécution forcée des décisions.",
+        "Il signifie également les actes judiciaires aux parties.",
+        "Son nom évoque le fait de « heurter » à la porte pour signifier un acte."
+      ],
+      "explication": "L'huissier de justice est l'officier ministériel chargé de la signification des actes judiciaires et extrajudiciaires, et de l'exécution forcée des décisions de justice et des actes notariés. C'est lui qui procède concrètement aux saisies, aux expulsions et à toutes les mesures d'exécution forcée. Les huissiers malgaches sont regroupés au sein de la Chambre Nationale des Huissiers de Justice."
+    },
+    {
+      "question": "Que signifie l'indépendance du pouvoir judiciaire ?",
+      "choix": [
+        "Les juges peuvent faire ce qu'ils veulent sans aucun contrôle",
+        "Les juges ne reçoivent d'ordres de personne dans l'exercice de leurs fonctions juridictionnelles, notamment pas du gouvernement",
+        "Les tribunaux sont financièrement indépendants du budget de l'État",
+        "Les juges sont élus par la population"
+      ],
+      "reponse": 1,
+      "indices": [
+        "L'indépendance protège les juges contre les pressions extérieures.",
+        "Elle ne signifie pas l'absence de contrôle, mais l'absence d'ordres sur les décisions à rendre.",
+        "La Constitution de Madagascar consacre cette indépendance."
+      ],
+      "explication": "L'indépendance du pouvoir judiciaire signifie que les juges ne reçoivent d'ordres de personne dans l'exercice de leurs fonctions : ni du gouvernement, ni des partis politiques, ni des parties au procès. Cette indépendance est consacrée par la Constitution et garantie par le Conseil Supérieur de la Magistrature. Elle protège à la fois le justiciable contre l'arbitraire et le juge contre les pressions."
+    },
+    {
+      "question": "Quel organisme est chargé de garantir l'indépendance de la magistrature à Madagascar ?",
+      "choix": [
+        "Le ministère de la Justice",
+        "Le Parlement",
+        "Le Conseil Supérieur de la Magistrature (CSM)",
+        "La Haute Cour Constitutionnelle"
+      ],
+      "reponse": 2,
+      "indices": [
+        "Son nom indique qu'il est au-dessus de la magistrature et la supervise.",
+        "Il gère la carrière des magistrats et est leur organe disciplinaire.",
+        "La leçon précise qui le préside."
+      ],
+      "explication": "Le Conseil Supérieur de la Magistrature (CSM) est l'organe constitutionnel chargé de garantir l'indépendance de la justice. Il gère la carrière des magistrats, veille à l'application de leur statut et est l'organe disciplinaire du corps. Il est présidé par le Chef de l'État."
+    },
+    {
+      "question": "Qu'est-ce que l'impartialité d'un juge ?",
+      "choix": [
+        "Le juge doit toujours donner raison à la partie la plus faible",
+        "Le juge statue sans intérêt personnel ni préjugé, en traitant les parties de façon égale",
+        "Le juge ne doit jamais donner d'explications sur ses décisions",
+        "Le juge doit systématiquement consulter le gouvernement avant de décider"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Impartial signifie sans parti pris, sans faveur.",
+        "Un juge impartial n'a pas d'intérêt personnel dans l'affaire.",
+        "Il traite les deux parties de la même façon."
+      ],
+      "explication": "L'impartialité signifie que le juge statue sans intérêt personnel dans l'affaire et sans préjugé, en traitant les parties de façon égale. Si des raisons objectives permettent de douter de l'impartialité d'un juge (liens avec une partie, intérêt dans l'affaire), la partie concernée peut demander sa récusation — c'est-à-dire son écartement du dossier."
+    },
+    {
+      "question": "Qu'est-ce que la récusation d'un juge ?",
+      "choix": [
+        "La nomination d'un juge à un nouveau poste",
+        "La sanction d'un juge qui a rendu une mauvaise décision",
+        "La demande d'écartement d'un juge du dossier en raison d'un doute objectif sur son impartialité",
+        "La démission volontaire d'un juge"
+      ],
+      "reponse": 2,
+      "indices": [
+        "La récusation est liée à l'impartialité.",
+        "C'est une partie au procès qui peut la demander.",
+        "Elle vise à protéger le justiciable contre un juge partial."
+      ],
+      "explication": "La récusation est la procédure par laquelle une partie demande qu'un juge soit écarté d'un dossier en raison d'un doute objectif sur son impartialité (liens familiaux avec l'autre partie, intérêt personnel dans l'issue du litige, etc.). Elle protège le droit à un procès équitable en garantissant que la décision sera rendue par un juge neutre."
+    },
+    {
+      "question": "Vrai ou faux : à Madagascar, il existe plusieurs barreaux d'avocats, un par grande ville.",
+      "choix": [
+        "Vrai",
+        "Faux"
+      ],
+      "reponse": 1,
+      "indices": [
+        "La leçon précise le nombre de barreaux à Madagascar.",
+        "La leçon dit « unique Barreau ».",
+        "Le Barreau est rattaché à la Cour d'appel d'Antananarivo."
+      ],
+      "explication": "Faux. À Madagascar, il n'existe qu'un seul Barreau — l'unique Barreau de Madagascar — qui regroupe tous les avocats du pays. Il est rattaché à la Cour d'appel d'Antananarivo et dirigé par le Conseil de l'Ordre présidé par le Bâtonnier. Il n'y a pas un barreau par ville comme dans certains autres pays."
+    },
+    {
+      "question": "Quel est le ressort territorial d'une Cour d'Appel par rapport aux Tribunaux de Première Instance ?",
+      "choix": [
+        "Une Cour d'Appel ne couvre qu'un seul TPI",
+        "Une Cour d'Appel couvre le ressort de plusieurs TPI qui lui sont rattachés",
+        "Une Cour d'Appel couvre tout le territoire national",
+        "Le ressort territorial est identique pour les TPI et les Cours d'Appel"
+      ],
+      "reponse": 1,
+      "indices": [
+        "La Cour d'Appel est une juridiction supérieure aux TPI.",
+        "Son ressort est plus large que celui d'un TPI.",
+        "Plusieurs TPI se trouvent dans la zone géographique d'une Cour d'Appel."
+      ],
+      "explication": "Le ressort territorial d'une Cour d'Appel couvre plusieurs Tribunaux de Première Instance qui lui sont rattachés. Quand une partie fait appel d'un jugement rendu par l'un de ces TPI, l'affaire est portée devant cette Cour d'Appel. Il existe donc moins de Cours d'Appel que de TPI sur le territoire."
+    },
+    {
+      "question": "La Cour de cassation peut-elle modifier les faits établis par le tribunal et la cour d'appel ?",
+      "choix": [
+        "Oui, elle peut réapprécier toutes les preuves et modifier les faits",
+        "Non, elle ne contrôle que l'application du droit, pas l'appréciation des faits",
+        "Oui, mais seulement en matière pénale",
+        "Non, et elle ne peut pas non plus contrôler l'application du droit"
+      ],
+      "reponse": 1,
+      "indices": [
+        "La Cour de cassation n'est pas un troisième degré de fond.",
+        "Elle est juge du droit, pas juge des faits.",
+        "Les faits ont déjà été appréciés deux fois — par le tribunal et par la cour d'appel."
+      ],
+      "explication": "Non. La Cour de cassation est juge du droit et uniquement du droit. Elle ne peut pas modifier les faits établis souverainement par les juges du fond (tribunal et cour d'appel). Elle vérifie seulement si le droit applicable a été correctement identifié et appliqué. Si elle estime que non, elle casse la décision et renvoie l'affaire devant une autre juridiction du fond pour rejuger — en droit, cette fois — les mêmes faits."
+    },
+    {
+      "question": "Quelle est la compétence de la Haute Cour Constitutionnelle en matière électorale ?",
+      "choix": [
+        "Elle organise les élections",
+        "Elle proclame les résultats de toutes les élections locales",
+        "Elle statue sur les contentieux relatifs aux élections présidentielle, législatives et sénatoriales, ainsi qu'aux référendums",
+        "Elle contrôle les bulletins de vote"
+      ],
+      "reponse": 2,
+      "indices": [
+        "La Haute Cour Constitutionnelle intervient pour les élections nationales.",
+        "Elle tranche les litiges qui surgissent lors de ces élections.",
+        "Les élections locales (communes, régions) relèvent des tribunaux administratifs."
+      ],
+      "explication": "La Haute Cour Constitutionnelle statue sur les contentieux relatifs aux élections présidentielle, législatives et sénatoriales, ainsi qu'aux référendums. En cas de contestation des résultats de ces scrutins nationaux, c'est elle qui tranche. Elle proclame également les résultats définitifs de l'élection présidentielle. Les contentieux des élections locales (communales, régionales) relèvent en revanche des tribunaux administratifs."
+    },
+    {
+      "question": "Vrai ou faux : l'indépendance judiciaire et l'impartialité du juge sont deux notions identiques.",
+      "choix": [
+        "Vrai",
+        "Faux"
+      ],
+      "reponse": 1,
+      "indices": [
+        "L'indépendance concerne les relations du juge avec les pouvoirs extérieurs.",
+        "L'impartialité concerne la relation du juge avec les parties au procès spécifique.",
+        "Ce sont deux garanties complémentaires, mais distinctes."
+      ],
+      "explication": "Faux. Ce sont deux notions complémentaires mais distinctes. L'indépendance judiciaire concerne les relations du juge avec les pouvoirs extérieurs (gouvernement, partis politiques) : il ne reçoit d'ordres de personne. L'impartialité concerne la relation du juge avec les parties au procès qu'il instruit : il statue sans intérêt personnel ni préjugé. Un juge peut être indépendant du gouvernement mais partial dans une affaire précise, ou inversement."
+    },
+    {
+      "question": "Quel est le rôle de la Cour des comptes vis-à-vis du Parlement ?",
+      "choix": [
+        "Elle vote le budget à la place du Parlement",
+        "Elle assiste les assemblées parlementaires dans le contrôle de l'exécution des lois de finances et établit un rapport annuel à leur intention",
+        "Elle nomme les membres de la commission des finances du Parlement",
+        "Elle n'a aucun lien avec le Parlement"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Le Parlement vote le budget ; quelqu'un doit vérifier qu'il a été bien exécuté.",
+        "La Cour des comptes établit un rapport annuel pour le Parlement.",
+        "Elle peut aussi procéder à des enquêtes à la demande des assemblées."
+      ],
+      "explication": "La Cour des comptes assiste les assemblées parlementaires dans le contrôle de l'exécution des lois de finances. Elle établit à leur attention un rapport annuel et une déclaration générale de conformité entre les écritures des ordonnateurs et celles des comptables de l'État. Sur demande des assemblées, elle peut aussi mener des enquêtes ou études portant sur des observations issues de ses propres rapports."
+    },
+    {
+      "question": "Pourquoi l'ordre administratif existe-t-il séparément de l'ordre judiciaire ?",
+      "choix": [
+        "Pour permettre aux fonctionnaires d'être toujours acquittés",
+        "Parce que l'administration obéit à des règles spéciales (droit administratif) qui nécessitent des juges spécialisés",
+        "Parce que l'ordre judiciaire est surchargé",
+        "Pour que l'État puisse contrôler ses propres juges"
+      ],
+      "reponse": 1,
+      "indices": [
+        "L'État et ses agents obéissent à des règles spéciales.",
+        "Le droit administratif est distinct du droit civil ordinaire.",
+        "Des juges spécialisés sont nécessaires pour maîtriser ces règles spécifiques."
+      ],
+      "explication": "L'ordre administratif existe séparément parce que l'administration publique obéit à des règles spéciales — le droit administratif — qui diffèrent du droit privé applicable entre particuliers. Juger l'État comme un simple particulier serait inadapté. Des juges spécialisés dans les règles de droit public sont nécessaires pour traiter ces litiges avec la compétence qu'ils requièrent."
+    },
+    {
+      "question": "Quelle juridiction juge en premier ressort les recours contre les décisions des autorités administratives locales (communes, régions) ?",
+      "choix": [
+        "La Cour d'Appel",
+        "Le Conseil d'État",
+        "Le Tribunal de Première Instance",
+        "Le Tribunal administratif"
+      ],
+      "reponse": 3,
+      "indices": [
+        "C'est la juridiction de premier degré de l'ordre administratif.",
+        "Le Conseil d'État est au sommet — donc pas au premier degré.",
+        "Son nom indique sa nature."
+      ],
+      "explication": "Le Tribunal administratif est la juridiction de premier degré de l'ordre administratif. Il examine les recours formés contre les décisions des autorités administratives locales ou régionales (communes, régions, services déconcentrés). En cas d'insatisfaction, le justiciable peut se pourvoir devant le Conseil d'État."
+    },
+    {
+      "question": "Dans quelle formation la Cour Suprême reçoit-elle le serment des magistrats nouvellement nommés ?",
+      "choix": [
+        "En chambre commerciale",
+        "En assemblée plénière",
+        "En formation de cassation",
+        "En audience solennelle du Conseil d'État"
+      ],
+      "reponse": 1,
+      "indices": [
+        "C'est la formation qui réunit l'ensemble des membres de la Cour Suprême.",
+        "La leçon mentionne expressément cette fonction de la Cour Suprême en assemblée plénière.",
+        "L'assemblée plénière est la formation la plus solennelle."
+      ],
+      "explication": "C'est en assemblée plénière que la Cour Suprême reçoit en audience solennelle le serment des magistrats nouvellement nommés, ainsi que celui de toutes autres personnalités dont le serment devant elle est requis. Cette cérémonie souligne le caractère solennel de l'entrée dans la magistrature."
+    },
+    {
+      "question": "Vrai ou faux : les avocats exercent une profession libérale à Madagascar.",
+      "choix": [
+        "Vrai",
+        "Faux"
+      ],
+      "reponse": 0,
+      "indices": [
+        "La leçon qualifie leur profession.",
+        "Libérale signifie indépendante, non salariée d'un employeur.",
+        "Les avocats ne sont pas des fonctionnaires de l'État."
+      ],
+      "explication": "Vrai. Les avocats exercent une profession libérale à Madagascar. Contrairement aux magistrats qui sont des fonctionnaires, les avocats sont des professionnels indépendants qui exercent leur activité pour leur propre compte ou en groupe, sous la supervision du Conseil de l'Ordre et dans le respect des règles déontologiques du Barreau."
+    },
+    {
+      "question": "Quelle est la particularité de la Haute Cour Constitutionnelle par rapport à la Cour Suprême ?",
+      "choix": [
+        "Elles font partie de la même institution",
+        "La Haute Cour Constitutionnelle est supérieure à la Cour Suprême en matière ordinaire",
+        "Ce sont deux institutions distinctes : la Haute Cour Constitutionnelle est compétente en matière constitutionnelle et électorale ; la Cour Suprême est la juridiction suprême ordinaire pour les trois ordres classiques",
+        "La Haute Cour Constitutionnelle est une chambre spéciale de la Cour Suprême"
+      ],
+      "reponse": 2,
+      "indices": [
+        "La leçon les présente séparément.",
+        "La Haute Cour Constitutionnelle n'est pas une chambre de la Cour Suprême.",
+        "Leurs compétences sont différentes et complémentaires."
+      ],
+      "explication": "Ce sont deux institutions distinctes avec des compétences complémentaires. La Cour Suprême est la juridiction suprême ordinaire pour les trois ordres classiques (judiciaire, administratif, financier). La Haute Cour Constitutionnelle est en dehors de ces ordres : elle est compétente en matière constitutionnelle (contrôle de constitutionnalité des lois) et électorale (contentieux des élections nationales). Elles ne se confondent pas."
+    },
+    {
+      "question": "Parmi ces actes, lequel nécessite obligatoirement l'intervention d'un notaire à Madagascar ?",
+      "choix": [
+        "La rédaction d'une lettre de mise en demeure",
+        "La vente d'un immeuble sous la forme authentique",
+        "La signification d'une décision de justice",
+        "La représentation d'un accusé devant le tribunal pénal"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Le notaire confère l'authenticité aux actes.",
+        "La vente d'un immeuble nécessite la forme authentique pour être opposable aux tiers.",
+        "La mise en demeure, la signification et la représentation relèvent d'autres professionnels."
+      ],
+      "explication": "La vente immobilière sous la forme authentique nécessite l'intervention d'un notaire. Le notaire reçoit l'acte de vente, lui confère l'authenticité (ce qui lui donne une force probante et exécutoire spéciale), en conserve la minute et en délivre des copies aux parties. Sans cette forme notariée, la vente immobilière ne peut pas être opposable aux tiers."
+    },
+    {
+      "question": "Qu'est-ce qu'un « conflit de compétence » entre juridictions ?",
+      "choix": [
+        "Un désaccord entre deux juges sur la solution à apporter à un litige",
+        "Une situation où deux juridictions d'ordres différents revendiquent toutes deux la compétence (ou refusent toutes deux de juger) pour un même litige",
+        "Un litige entre deux avocats sur leurs honoraires",
+        "Un désaccord entre le Parlement et les tribunaux"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Le conflit de compétence surgit quand il n'est pas clair quel ordre doit juger une affaire.",
+        "Deux juridictions d'ordres différents peuvent toutes deux se déclarer compétentes ou incompétentes.",
+        "La Cour Suprême en assemblée plénière tranche ce type de conflit."
+      ],
+      "explication": "Un conflit de compétence survient lorsque deux juridictions d'ordres différents revendiquent toutes deux la compétence pour juger un même litige (conflit positif), ou lorsque toutes deux se déclarent incompétentes et refusent de juger (conflit négatif). C'est la Cour Suprême en assemblée plénière qui tranche ces conflits en désignant l'ordre compétent."
+    },
+    {
+      "question": "Pourquoi le double degré de juridiction est-il considéré comme une garantie fondamentale ?",
+      "choix": [
+        "Parce qu'il permet de prolonger les procès indéfiniment",
+        "Parce qu'il garantit qu'une décision injuste ou erronée peut être réexaminée et corrigée par une juridiction supérieure",
+        "Parce qu'il impose toujours d'aller en appel avant de saisir un tribunal",
+        "Parce qu'il permet aux avocats de multiplier leurs honoraires"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Les juges sont humains et peuvent se tromper.",
+        "Le recours permet de corriger les erreurs.",
+        "C'est une garantie au service du justiciable, pas du système."
+      ],
+      "explication": "Le double degré de juridiction est une garantie fondamentale parce qu'il permet à une partie victime d'une décision injuste ou erronée de faire réexaminer son affaire par une juridiction supérieure. Les juges sont humains et faillibles : le droit à un second regard protège le justiciable contre les erreurs de fait ou de droit commises en première instance."
+    },
+    {
+      "question": "Dans quel ordre de juridiction porte-t-on un recours contre une décision de la mairie refusant un permis de construire ?",
+      "choix": [
+        "L'ordre judiciaire, car c'est un litige sur un bien immobilier",
+        "L'ordre financier, car un permis implique des frais",
+        "L'ordre administratif, car la décision est prise par une autorité publique",
+        "La Haute Cour Constitutionnelle"
+      ],
+      "reponse": 2,
+      "indices": [
+        "Qui a pris la décision contestée ? Une autorité publique ou un particulier ?",
+        "La mairie est une collectivité territoriale — une autorité publique.",
+        "L'ordre administratif traite les litiges avec l'administration."
+      ],
+      "explication": "Le refus de permis de construire par la mairie est une décision administrative prise par une autorité publique. Pour contester cette décision, il faut porter le recours devant l'ordre administratif — en première instance devant le Tribunal administratif, puis éventuellement devant le Conseil d'État. C'est la nature de l'auteur de la décision (une autorité publique) qui détermine l'ordre compétent."
+    },
+    {
+      "question": "Vrai ou faux : la Cour des comptes peut également donner des avis sur des projets de textes relatifs aux finances publiques.",
+      "choix": [
+        "Vrai",
+        "Faux"
+      ],
+      "reponse": 0,
+      "indices": [
+        "La Cour des comptes n'a pas que des attributions juridictionnelles.",
+        "Elle peut aussi être consultée et donner des avis.",
+        "La leçon mentionne ses fonctions consultatives et d'études."
+      ],
+      "explication": "Vrai. En dehors de ses attributions juridictionnelles, la Cour des comptes peut effectuer des études d'ordre économique et financier et donner son avis sur des projets de textes relatifs aux finances publiques. Elle peut également mener des enquêtes sur demande des assemblées parlementaires ou du gouvernement. Ces fonctions consultatives complètent son rôle de contrôle."
+    },
+    {
+      "question": "Lequel de ces énoncés décrit correctement l'articulation entre premier degré, appel et cassation ?",
+      "choix": [
+        "Premier degré : juge les faits et le droit pour la première fois. Appel : réexamine faits et droit. Cassation : vérifie uniquement si le droit a été correctement appliqué.",
+        "Premier degré : juge uniquement les faits. Appel : juge uniquement le droit. Cassation : rejuge tout.",
+        "Premier degré et appel sont identiques. La cassation est le vrai premier jugement.",
+        "Premier degré juge le pénal, appel juge le civil, cassation juge le droit administratif."
+      ],
+      "reponse": 0,
+      "indices": [
+        "La leçon explique le rôle de chaque niveau.",
+        "L'appel réexamine les faits ET le droit, contrairement à la cassation.",
+        "La cassation ne rejuge pas les faits, contrairement à l'appel."
+      ],
+      "explication": "L'articulation correcte est : le premier degré (tribunal) juge l'affaire pour la première fois, en fait et en droit. L'appel (cour d'appel) réexamine l'affaire en totalité — faits et droit — et peut modifier la décision. La cassation (Cour de cassation) ne rejuge ni les faits ni le fond : elle vérifie uniquement si le droit a été correctement appliqué par les juges du fond."
+    },
+    {
+      "question": "Qui préside le Conseil Supérieur de la Magistrature à Madagascar ?",
+      "choix": [
+        "Le ministre de la Justice",
+        "Le Président de la Cour Suprême",
+        "Le Chef de l'État",
+        "Le Bâtonnier du Barreau"
+      ],
+      "reponse": 2,
+      "indices": [
+        "La leçon précise expressément qui préside le CSM.",
+        "C'est la plus haute autorité de l'État.",
+        "Sa présidence du CSM symbolise l'engagement de l'État à garantir l'indépendance judiciaire."
+      ],
+      "explication": "Le Conseil Supérieur de la Magistrature est présidé par le Chef de l'État. Cette présidence symbolise l'engagement constitutionnel de l'État à garantir l'indépendance de la justice. Le CSM gère la carrière des magistrats, veille à l'application de leur statut et est l'organe disciplinaire du corps de la magistrature."
+    },
+    {
+      "question": "Vrai ou faux : le Conseil d'État peut être consulté par le Premier ministre sur des projets de textes législatifs.",
+      "choix": [
+        "Vrai",
+        "Faux"
+      ],
+      "reponse": 0,
+      "indices": [
+        "La leçon mentionne la double fonction du Conseil d'État.",
+        "En plus de juger, il peut aussi conseiller.",
+        "Son rôle consultatif est expressément prévu."
+      ],
+      "explication": "Vrai. Le Conseil d'État remplit une double fonction. D'une part une fonction juridictionnelle (juger les litiges administratifs). D'autre part une fonction consultative : il peut être consulté par le Premier ministre et les gouverneurs des provinces autonomes sur des projets de textes législatifs ou réglementaires, ou procéder à des études sur l'organisation et le fonctionnement des services publics."
+    },
+    {
+      "question": "Qu'est-ce qu'un « recours en révision » dont peut connaître la Cour de cassation ?",
+      "choix": [
+        "Un recours pour corriger une faute d'orthographe dans un jugement",
+        "Un recours exceptionnel permettant de revoir une décision définitive en cas de faits nouveaux ou de violations graves des droits fondamentaux",
+        "Un recours permettant à un avocat de demander une révision de ses honoraires",
+        "Un recours pour contester la compétence d'un juge avant le jugement"
+      ],
+      "reponse": 1,
+      "indices": [
+        "La révision intervient après qu'une décision est devenue définitive.",
+        "Elle est exceptionnelle : des faits nouveaux ou des violations graves la justifient.",
+        "C'est un remède exceptionnel contre des décisions définitives injustes."
+      ],
+      "explication": "La demande en révision est un recours exceptionnel permettant de remettre en cause une décision de justice définitive (passée en force de chose jugée) lorsque des éléments nouveaux ou des violations graves du droit justifient de revoir le jugement. C'est un mécanisme exceptionnel qui déroge au principe de l'autorité de la chose jugée, réservé aux cas les plus graves."
+    },
+    {
+      "question": "Quel lien existe-t-il entre la Constitution et l'organisation juridictionnelle à Madagascar ?",
+      "choix": [
+        "La Constitution n'a aucun lien avec les tribunaux",
+        "La Constitution prévoit et encadre les grandes lignes de l'organisation juridictionnelle, notamment les différents ordres et les principes fondamentaux de la justice",
+        "L'organisation juridictionnelle est fixée uniquement par les règlements ministériels",
+        "La Constitution réserve la création des tribunaux aux communes"
+      ],
+      "reponse": 1,
+      "indices": [
+        "La Constitution est la norme suprême — elle fixe les principes fondamentaux de toutes les institutions.",
+        "La leçon mentionne que la Constitution de la IVe République encadre l'organisation juridictionnelle.",
+        "Le pouvoir judiciaire est un des trois pouvoirs dont la Constitution organise la séparation."
+      ],
+      "explication": "La Constitution de la IVe République prévoit et encadre les grandes lignes de l'organisation juridictionnelle malgache. Elle organise la séparation des pouvoirs, consacre l'indépendance du pouvoir judiciaire, prévoit les différents ordres de juridiction, et fixe les principes fondamentaux de la justice. Les détails sont ensuite précisés par les lois organiques et ordinaires."
+    },
+    {
+      "question": "Résumé final : quelle institution se situe au sommet de l'ensemble de l'organisation judiciaire ordinaire à Madagascar ?",
+      "choix": [
+        "La Haute Cour Constitutionnelle",
+        "La Cour d'Appel d'Antananarivo",
+        "La Cour Suprême de Madagascar",
+        "Le Tribunal de Première Instance d'Antananarivo"
+      ],
+      "reponse": 2,
+      "indices": [
+        "Son nom dit tout : elle est suprême.",
+        "Elle réunit les trois chambres des trois ordres classiques.",
+        "La Haute Cour Constitutionnelle est en dehors de ce système ordinaire."
+      ],
+      "explication": "La Cour Suprême de Madagascar est au sommet de l'organisation judiciaire ordinaire. Elle réunit en elle les trois chambres correspondant aux trois ordres : la Cour de cassation (ordre judiciaire), le Conseil d'État (ordre administratif) et la Cour des comptes (ordre financier). La Haute Cour Constitutionnelle, bien que plus haute en matière constitutionnelle, est une institution à part qui ne fait pas partie de la Cour Suprême."
+    }
+  ],
+  "exercices": [
+    {
+      "question": "CAS PRATIQUE 1 : Faly travaille comme comptable dans une région reculée de Madagascar. Elle apprend qu'un fonctionnaire de la préfecture locale vient d'être sanctionné par son chef de service pour avoir refusé d'exécuter un ordre illégal. Ce fonctionnaire souhaite contester cette sanction. Parallèlement, son voisin Andry a un litige avec la même préfecture : il réclame des indemnités pour des dommages causés par des travaux publics réalisés sur sa propriété sans autorisation. Identifiez pour chacun des deux litiges : (1) l'ordre de juridiction compétent, (2) la juridiction de premier degré, (3) la juridiction de second degré (appel), et (4) la juridiction suprême de l'ordre.",
+      "choix": [
+        "Les deux litiges doivent être portés devant le Tribunal de Première Instance, puis la Cour d'Appel, puis la Cour de cassation",
+        "Le fonctionnaire (litige 1) : ordre administratif → Tribunal administratif → Conseil d'État (appel ou cassation). Andry (litige 2) : ordre administratif → Tribunal administratif → Conseil d'État. Les deux litiges relèvent de l'ordre administratif car ils impliquent tous deux l'administration publique",
+        "Le fonctionnaire doit aller devant le Tribunal du Travail ; Andry devant le Tribunal civil",
+        "Les deux litiges relèvent de la Haute Cour Constitutionnelle"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Dans chaque litige, qui est la partie adverse ? Une personne privée ou l'administration publique ?",
+        "Quand l'administration est en cause, quel ordre est compétent ?",
+        "Les fonctionnaires ne sont pas des salariés ordinaires — leurs litiges ne vont pas devant le Tribunal du Travail ordinaire."
+      ],
+      "explication": "Les deux litiges relèvent de l'ordre administratif. Voici l'analyse complète. Litige 1 — La sanction du fonctionnaire. L'auteur de la sanction est le chef de service d'une administration publique (la préfecture). Ce litige oppose un fonctionnaire à son administration. Il relève donc de l'ordre administratif. (1) Ordre compétent : administratif. (2) Premier degré : le Tribunal administratif du ressort. (3) Appel : le Conseil d'État (qui statue en appel sur les décisions des tribunaux administratifs). (4) Juridiction suprême de l'ordre : le Conseil d'État, chambre de la Cour Suprême. Il est important de noter que les litiges des fonctionnaires ne vont pas devant le Tribunal du Travail ordinaire : les fonctionnaires sont soumis au droit public et leurs litiges avec l'administration relèvent de l'ordre administratif. Litige 2 — Les dommages causés par les travaux publics. L'auteur des dommages est une administration publique (la préfecture, qui a réalisé les travaux). Les dommages causés par l'activité de l'administration relèvent également de l'ordre administratif (c'est ce qu'on appelle la responsabilité extracontractuelle de l'État). (1) Ordre compétent : administratif. (2) Premier degré : le Tribunal administratif. (3) Appel : le Conseil d'État. (4) Juridiction suprême : le Conseil d'État, chambre de la Cour Suprême. Andry ne doit pas saisir le Tribunal de Première Instance — ce serait une erreur d'ordre. L'administration ne se juge pas comme un particulier."
+    },
+    {
+      "question": "CAS PRATIQUE 2 : Le Parlement malgache vote une nouvelle loi qui prévoit que toute personne accusée d'un crime peut être détenue pendant deux ans sans jugement ni accès à un avocat. Le Président de la République hésite à la promulguer. Un groupe de parlementaires conteste cette loi. Parallèlement, un accusé qui est actuellement en détention provisoire depuis 18 mois sans avoir été jugé souhaite contester sa situation. Analysez : (1) quelle institution peut être saisie pour contrôler la constitutionnalité de la loi avant sa promulgation, et par qui ? (2) devant quelle juridiction l'accusé peut-il porter son recours ? (3) en quoi cette affaire illustre-t-elle les principes d'indépendance judiciaire et de double degré de juridiction ?",
+      "choix": [
+        "La Cour Suprême contrôle la constitutionnalité ; l'accusé doit s'adresser à la police ; l'indépendance judiciaire est sans rapport",
+        "(1) La Haute Cour Constitutionnelle peut être saisie par le Président ou les parlementaires pour contrôle de constitutionnalité avant promulgation. (2) L'accusé saisit le juge d'instruction ou le Tribunal de Première Instance (ordre judiciaire) pour contester sa détention. (3) L'affaire illustre l'indépendance judiciaire (le juge doit résister à une loi inconstitutionnelle) et le double degré (recours successifs possibles contre la détention).",
+        "Seul le Président peut saisir la Haute Cour Constitutionnelle ; l'accusé n'a aucun recours ; l'indépendance judiciaire n'existe pas à Madagascar",
+        "C'est le Parlement qui contrôle sa propre loi ; l'accusé s'adresse au ministère de la Justice"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Qui contrôle la constitutionnalité des lois à Madagascar ? Par qui peut-il être saisi ?",
+        "L'accusé est dans l'ordre judiciaire : il s'agit d'une affaire pénale.",
+        "Comment l'indépendance judiciaire protège-t-elle l'accusé si une loi inconstitutionnelle est quand même appliquée ?"
+      ],
+      "explication": "Voici l'analyse complète en trois points. Point 1 — Le contrôle de constitutionnalité. La loi votée par le Parlement semble manifestement inconstitutionnelle : elle viole le droit à un procès équitable, le droit à un avocat et les dispositions constitutionnelles sur la durée de la détention provisoire — autant de garanties constitutionnelles fondamentales. La Haute Cour Constitutionnelle est la seule institution compétente pour exercer ce contrôle. Elle peut être saisie, avant promulgation, par le Président de la République lui-même (qui hésite déjà), par le Président de l'Assemblée nationale, le Président du Sénat, ou par un groupe de parlementaires. Si la Haute Cour déclare la loi inconstitutionnelle, le Président ne peut pas la promulguer : la loi est morte avant même d'être née. Point 2 — Le recours de l'accusé. L'accusé est en détention provisoire dans le cadre d'une procédure pénale : c'est l'ordre judiciaire qui est compétent. Il peut saisir le juge d'instruction ou le président de la chambre d'instruction pour contester la durée de sa détention provisoire, puis former un appel devant la Cour d'appel (chambre d'accusation) si sa demande est rejetée. Ce recours illustre le double degré de juridiction : la chambre d'instruction en premier, la Cour d'appel en second. Point 3 — Les principes en jeu. L'indépendance judiciaire signifie que le juge qui instruit l'affaire ou qui statue sur la détention doit pouvoir résister à toute pression du pouvoir exécutif, même si le gouvernement souhaite maintenir l'accusé en détention. Sans indépendance judiciaire, les recours de l'accusé seraient vains. Le double degré de juridiction garantit que si le juge du fond (premier degré) refuse de remettre l'accusé en liberté, celui-ci peut faire appel devant la Cour d'appel. Ces deux garanties — indépendance et double degré — sont les piliers qui rendent la justice réelle et pas seulement formelle."
+    }
+  ]
+}
