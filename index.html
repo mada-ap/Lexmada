@@ -21,6 +21,10 @@
   --green-light:#52B788;
   --orange:     #E8906A;
   --red:        #E2685E;
+  --teal:       #2A9D8F;
+  --teal-light: #52BDB0;
+  --teal-glow:  rgba(42,157,143,0.18);
+  --purple:     #7B5EA7;
 }
 
 html, body {
@@ -268,6 +272,7 @@ html, body {
 .accent-green  .level-icon { background: rgba(82,183,136,0.12); }
 .accent-orange .level-icon { background: rgba(232,144,106,0.12); }
 .accent-red    .level-icon { background: rgba(226,104,94,0.12); }
+.accent-teal   .level-icon { background: rgba(42,157,143,0.12); }
 
 .level-info { flex: 1; min-width: 0; }
 .level-num {
@@ -278,6 +283,7 @@ html, body {
 .accent-green  .level-num { color: var(--green-light); }
 .accent-orange .level-num { color: var(--orange); }
 .accent-red    .level-num { color: var(--red); }
+.accent-teal   .level-num { color: var(--teal); }
 
 .level-title {
   font-family: 'Playfair Display', Georgia, serif;
@@ -300,6 +306,7 @@ html, body {
 .accent-green  .progress-fill { background: var(--green-light); }
 .accent-orange .progress-fill { background: var(--orange); }
 .accent-red    .progress-fill { background: var(--red); }
+.accent-teal   .progress-fill { background: var(--teal); }
 
 .card-modules {
   border-top: 1px solid rgba(255,255,255,0.05);
@@ -325,6 +332,7 @@ html, body {
 .accent-green  .btn-enter { background: var(--green-light); color: var(--navy); }
 .accent-orange .btn-enter { background: var(--orange);      color: var(--navy); }
 .accent-red    .btn-enter { background: var(--red);         color: var(--navy); }
+.accent-teal   .btn-enter { background: var(--teal);        color: var(--navy); }
 
 /* dev banner */
 .dev-banner {
@@ -776,6 +784,52 @@ html, body {
   </div>
 </div>
 
+
+<!-- RÉFLEXION IA — Niveau Réalités Juridiques & Sociales -->
+<div class="screen" id="screen-reflexion">
+  <div class="screen-header">
+    <button class="btn-back" onclick="goBack('screen-lecons')">‹</button>
+    <div>
+      <div class="screen-title" id="ref-screen-title">Réflexion</div>
+      <div class="screen-sub" id="ref-screen-sub">Réalités Juridiques & Sociales</div>
+    </div>
+  </div>
+  <div style="padding:0 22px 48px; flex:1; display:flex; flex-direction:column; gap:18px;">
+
+    <!-- Question -->
+    <div style="background:var(--navy-mid); border-radius:14px; border:1px solid rgba(42,157,143,0.25); padding:20px;">
+      <div style="font-size:9.5px; letter-spacing:3px; text-transform:uppercase; color:var(--teal); margin-bottom:10px; font-weight:600;">Question de réflexion</div>
+      <div id="ref-question" style="font-family:'Playfair Display',serif; font-size:17px; font-weight:700; color:var(--cream); line-height:1.5;"></div>
+    </div>
+
+    <!-- Conversation -->
+    <div id="ref-chat" style="display:flex; flex-direction:column; gap:14px; flex:1;"></div>
+
+    <!-- Input -->
+    <div id="ref-input-area">
+      <textarea id="ref-input" placeholder="Écrivez votre réponse ou votre question…"
+        style="width:100%; min-height:100px; padding:14px; border-radius:12px;
+               background:var(--navy-mid); border:1px solid rgba(255,255,255,0.08);
+               color:var(--cream); font-family:'Inter',sans-serif; font-size:13.5px;
+               line-height:1.6; resize:none; outline:none; -webkit-appearance:none;"
+        oninput="this.style.height='auto'; this.style.height=this.scrollHeight+'px'">
+      </textarea>
+      <button class="btn-primary" id="ref-send-btn" onclick="sendReflexion()"
+        style="margin-top:10px; background:var(--teal);">
+        Envoyer →
+      </button>
+    </div>
+
+    <!-- Fin de session -->
+    <div id="ref-done-area" style="display:none; text-align:center;">
+      <div style="font-size:13px; color:var(--cream-dim); margin-bottom:16px; line-height:1.6;">
+        Belle réflexion. Revenez quand vous voulez approfondir ce sujet.
+      </div>
+      <button class="btn-primary" onclick="goBack('screen-lecons')" style="background:var(--teal);">Retour aux modules →</button>
+    </div>
+  </div>
+</div>
+
 <!-- RAPPEL DE COURS -->
 <div id="review-modal">
   <div class="lc-card">
@@ -1005,55 +1059,135 @@ const formations = [
     desc: "Les fondements du droit. Aucun prérequis.",
     badge: { icon:"🏅", title:"Badge Initié du Droit", desc:"Vous maîtrisez les fondements du droit. Ce badge honore votre premier pas sérieux dans le monde juridique." },
     modules: [
-      {
-        id:1, titre:"Qu'est-ce que le droit ?",
-        lecons: [
-          { titre: "Le droit objectif et les droits subjectifs", fichier: "data/niveau1-module1-lecon1.json" }
-        ]
-      },
-      {
-        id:2, titre:"Les caractères de la règle de droit",
-        lecons: [
-          { titre: "Les caractères de la règle de droit", fichier: "data/niveau1-module2-lecon1.json" }
-        ]
-      },
-      {
-        id:3, titre:"Les branches du droit",
-        lecons: [
-          { titre: "Les branches du droit", fichier: "data/niveau1-module3-lecon1.json" }
-        ]
-      },
-      {
-        id:4, titre:"Les sources directes du droit",
-        lecons: [
-          { titre: "Les sources directes du droit", fichier: "data/niveau1-module4-lecon1.json" }
-        ]
-      },
-      { id:5,  titre:"Les sources d'interprétation du droit", lecons: [{ titre: "Les sources d'interprétation du droit", fichier: "data/niveau1-module5-lecon1.json" }] },
-      { id:6,  titre:"L'organisation juridictionnelle",           lecons: [{ titre: "L'organisation juridictionnelle",           fichier: "data/niveau1-module6-lecon1.json" }] },
-      { id:7,  titre:"Le domaine d'application de la règle de droit", lecons: [{ titre: "Le domaine d'application de la règle de droit", fichier: "data/niveau1-module7-lecon1.json" }] },
-      { id:8,  titre:"Les droits subjectifs : classifications",   lecons: [{ titre: "Les droits subjectifs : classifications",   fichier: "data/niveau1-module8-lecon1.json" }] },
-      { id:9,  titre:"La preuve des droits subjectifs",           lecons: [{ titre: "La preuve des droits subjectifs",           fichier: "data/niveau1-module9-lecon1.json" }] },
-      { id:10, titre:"L'action en justice",                       lecons: [{ titre: "L'action en justice",                       fichier: "data/niveau1-module10-lecon1.json" }] }
+      { id:1, titre:"Qu'est-ce que le droit ?", lecons: [{ titre: "Qu'est-ce que le droit ?", fichier: "data/niveau1-module1-lecon1.json" }] },
+      { id:2, titre:"Les caractères de la règle de droit", lecons: [{ titre: "Les caractères de la règle de droit", fichier: "data/niveau1-module2-lecon1.json" }] },
+      { id:3, titre:"Les branches du droit", lecons: [{ titre: "Les branches du droit", fichier: "data/niveau1-module3-lecon1.json" }] },
+      { id:4, titre:"Les sources directes du droit", lecons: [{ titre: "Les sources directes du droit", fichier: "data/niveau1-module4-lecon1.json" }] },
+      { id:5, titre:"Les sources d'interprétation du droit", lecons: [{ titre: "Les sources d'interprétation du droit", fichier: "data/niveau1-module5-lecon1.json" }] },
+      { id:6, titre:"L'organisation juridictionnelle", lecons: [{ titre: "L'organisation juridictionnelle", fichier: "data/niveau1-module6-lecon1.json" }] },
+      { id:7, titre:"Le domaine d'application de la règle de droit", lecons: [{ titre: "Le domaine d'application de la règle de droit", fichier: "data/niveau1-module7-lecon1.json" }] },
+      { id:8, titre:"Les droits subjectifs : classifications", lecons: [{ titre: "Les droits subjectifs : classifications", fichier: "data/niveau1-module8-lecon1.json" }] },
+      { id:9, titre:"La preuve des droits subjectifs", lecons: [{ titre: "La preuve des droits subjectifs", fichier: "data/niveau1-module9-lecon1.json" }] },
+      { id:10, titre:"L'action en justice", lecons: [{ titre: "L'action en justice", fichier: "data/niveau1-module10-lecon1.json" }] },
+      { id:11, titre:"La personnalité juridique — personnes physiques et morales", lecons: [] },
+      { id:12, titre:"Les actes juridiques — contrats et actes unilatéraux", lecons: [] },
+      { id:13, titre:"Les faits juridiques — responsabilité et quasi-contrats", lecons: [] },
+      { id:14, titre:"Le patrimoine — composition et caractères", lecons: [] },
+      { id:15, titre:"Les biens — classification et régime juridique", lecons: [] },
+      { id:16, titre:"La propriété — définition, attributs et limites", lecons: [] },
+      { id:17, titre:"Les obligations — naissance et classification", lecons: [] },
+      { id:18, titre:"L'extinction des obligations — paiement, prescription, compensation", lecons: [] },
+      { id:19, titre:"La nullité des actes juridiques — causes et effets", lecons: [] },
+      { id:20, titre:"Introduction au droit processuel — comment fonctionne un procès", lecons: [] }
     ]
   },
   {
     niveau: "Intermédiaire", icon: "⚖️", accent: "accent-green",
     desc: "Droit des affaires, procédures, contrats avancés.",
     badge: { icon:"⚖️", title:"Badge Juriste en Herbe", desc:"Vous naviguez désormais dans des notions complexes. Ce badge témoigne de votre persévérance." },
-    modules: [ { id:1, titre:"Droit des sociétés", lecons: [] } ]
+    modules: [
+      { id:1, titre:"Droit des sociétés — généralités", lecons: [] },
+      { id:2, titre:"La SARL et la SA", lecons: [] },
+      { id:3, titre:"Le contrat — formation et validité", lecons: [] },
+      { id:4, titre:"Les effets et l'inexécution du contrat", lecons: [] },
+      { id:5, titre:"La responsabilité civile contractuelle", lecons: [] },
+      { id:6, titre:"La responsabilité civile délictuelle", lecons: [] },
+      { id:7, titre:"Le droit du travail — le contrat de travail", lecons: [] },
+      { id:8, titre:"Le licenciement et ses conditions", lecons: [] },
+      { id:9, titre:"Les conventions collectives", lecons: [] },
+      { id:10, titre:"Le droit commercial — actes de commerce", lecons: [] },
+      { id:11, titre:"Le fonds de commerce", lecons: [] },
+      { id:12, titre:"Les procédures collectives — redressement et faillite", lecons: [] },
+      { id:13, titre:"Le droit de la consommation", lecons: [] },
+      { id:14, titre:"La propriété intellectuelle", lecons: [] },
+      { id:15, titre:"Le droit bancaire — les opérations de banque", lecons: [] },
+      { id:16, titre:"Les sûretés — cautionnement, hypothèque, gage", lecons: [] },
+      { id:17, titre:"Le droit foncier à Madagascar", lecons: [] },
+      { id:18, titre:"Le droit de la famille — mariage et divorce", lecons: [] },
+      { id:19, titre:"Les successions et libéralités", lecons: [] },
+      { id:20, titre:"Le droit fiscal — principes généraux", lecons: [] }
+    ]
   },
   {
     niveau: "Avancé", icon: "🏛️", accent: "accent-orange",
     desc: "Jurisprudence, droit constitutionnel, contentieux.",
     badge: { icon:"🏛️", title:"Badge Expert LexMada", desc:"Félicitations. Vous avez atteint le sommet du parcours LexMada. Un accomplissement remarquable." },
-    modules: [ { id:1, titre:"Contentieux complexes", lecons: [] } ]
+    modules: [
+      { id:1, titre:"Droit constitutionnel — les institutions de Madagascar", lecons: [] },
+      { id:2, titre:"Le contrôle de constitutionnalité", lecons: [] },
+      { id:3, titre:"Le droit administratif — l'acte administratif", lecons: [] },
+      { id:4, titre:"Le service public et la fonction publique", lecons: [] },
+      { id:5, titre:"Le contentieux administratif", lecons: [] },
+      { id:6, titre:"Le droit pénal général — infractions et peines", lecons: [] },
+      { id:7, titre:"Le droit pénal spécial — crimes et délits courants", lecons: [] },
+      { id:8, titre:"La procédure pénale — enquête et instruction", lecons: [] },
+      { id:9, titre:"Le jugement pénal et les voies de recours", lecons: [] },
+      { id:10, titre:"Le droit international privé — conflits de lois", lecons: [] },
+      { id:11, titre:"L'arbitrage et les modes alternatifs de règlement", lecons: [] },
+      { id:12, titre:"La jurisprudence constitutionnelle malgache", lecons: [] },
+      { id:13, titre:"Le droit de l'environnement à Madagascar", lecons: [] },
+      { id:14, titre:"Le droit de la mer et des ressources maritimes", lecons: [] },
+      { id:15, titre:"Le droit des investissements étrangers", lecons: [] },
+      { id:16, titre:"Les droits fondamentaux et libertés publiques", lecons: [] },
+      { id:17, titre:"Le droit humanitaire international", lecons: [] },
+      { id:18, titre:"La déontologie des professions juridiques", lecons: [] },
+      { id:19, titre:"La rédaction des actes juridiques", lecons: [] },
+      { id:20, titre:"Méthodologie du cas pratique et du commentaire d'arrêt", lecons: [] }
+    ]
   },
   {
     niveau: "Professionnel", icon: "🎓", accent: "accent-red",
-    desc: "Pratique professionnelle, rédaction d'actes, déontologie.",
+    desc: "Pratique professionnelle, rédaction d'actes, fiscalité.",
     badge: { icon:"🎓", title:"Badge Maître LexMada", desc:"Vous avez atteint le niveau professionnel. Votre maîtrise du droit est désormais digne des plus grands praticiens." },
-    modules: [ { id:1, titre:"Pratique professionnelle", lecons: [] } ]
+    modules: [
+      { id:1, titre:"Rédiger une requête civile — modèles et structure", lecons: [] },
+      { id:2, titre:"Rédiger une assignation et des conclusions", lecons: [] },
+      { id:3, titre:"Rédiger un contrat de vente — clauses essentielles", lecons: [] },
+      { id:4, titre:"Rédiger un contrat de travail à Madagascar", lecons: [] },
+      { id:5, titre:"Rédiger un bail commercial et un bail d'habitation", lecons: [] },
+      { id:6, titre:"Créer une SARL à Madagascar — dossier complet étape par étape", lecons: [] },
+      { id:7, titre:"Créer une SA — documents, capital, formalités EDBM", lecons: [] },
+      { id:8, titre:"Créer une association — statuts, PV, déclaration préfecture", lecons: [] },
+      { id:9, titre:"Le calcul de l'IRSA — salaire, tranches, retenues", lecons: [] },
+      { id:10, titre:"Le calcul de l'IRFTS et des taxes sur les revenus fonciers", lecons: [] },
+      { id:11, titre:"La TVA à Madagascar — calcul, déclaration, récupération", lecons: [] },
+      { id:12, titre:"L'IRCM et l'IS — impôts sur les sociétés", lecons: [] },
+      { id:13, titre:"Les charges sociales — CNaPS, OSTIE, cotisations", lecons: [] },
+      { id:14, titre:"Le licenciement — procédure, calcul des indemnités", lecons: [] },
+      { id:15, titre:"Rédiger un acte de cession de parts sociales", lecons: [] },
+      { id:16, titre:"Les formalités foncières — titre foncier, mutation, bornage", lecons: [] },
+      { id:17, titre:"Rédiger un acte de cautionnement et une hypothèque", lecons: [] },
+      { id:18, titre:"La procédure de recouvrement de créances", lecons: [] },
+      { id:19, titre:"Rédiger un recours administratif et une plainte pénale", lecons: [] },
+      { id:20, titre:"Monter un dossier complet — de la consultation au jugement", lecons: [] }
+    ]
+  },
+  {
+    niveau: "Réalités Juridiques & Sociales", icon: "🇲🇬", accent: "accent-teal",
+    desc: "Le droit tel qu'il est vécu à Madagascar. Réflexion citoyenne.",
+    badge: { icon:"🌍", title:"Badge Citoyen Éclairé", desc:"Vous comprenez maintenant le fossé entre le droit écrit et la réalité vécue. Ce badge est celui de la lucidité et de l'engagement." },
+    modules: [
+      { id:1, titre:"La Constitution de 2010 — texte, promesses, réalité", lecons: [], type: "reflexion" },
+      { id:2, titre:"Les révisions constitutionnelles et crises politiques", lecons: [], type: "reflexion" },
+      { id:3, titre:"Les institutions de la République — rôles théoriques vs réels", lecons: [], type: "reflexion" },
+      { id:4, titre:"L'administration publique — ministères, fokontany, décentralisation", lecons: [], type: "reflexion" },
+      { id:5, titre:"Les lacunes et vides juridiques à Madagascar", lecons: [], type: "reflexion" },
+      { id:6, titre:"L'inapplication des lois — causes et mécanismes", lecons: [], type: "reflexion" },
+      { id:7, titre:"La justice en pratique — accès, coût, délais, barrières", lecons: [], type: "reflexion" },
+      { id:8, titre:"Corruption et impunité — BIANCO, SAMIFIN, résultats réels", lecons: [], type: "reflexion" },
+      { id:9, titre:"Insécurité et réponse de l'État — dahalo, zones grises", lecons: [], type: "reflexion" },
+      { id:10, titre:"Foncier et droit de la terre — conflits et réforme de 2005", lecons: [], type: "reflexion" },
+      { id:11, titre:"Droit du travail : théorie vs secteur informel", lecons: [], type: "reflexion" },
+      { id:12, titre:"Droit de l'environnement — bois de rose, mines, réalité", lecons: [], type: "reflexion" },
+      { id:13, titre:"Les droits fondamentaux en pratique — presse, grève, éducation", lecons: [], type: "reflexion" },
+      { id:14, titre:"Le comportement des dirigeants — immunités, enrichissement, comptes", lecons: [], type: "reflexion" },
+      { id:15, titre:"Les élections à Madagascar — cadre légal, HCC, fraudes", lecons: [], type: "reflexion" },
+      { id:16, titre:"La société civile et le contre-pouvoir — ONG, médias, Églises", lecons: [], type: "reflexion" },
+      { id:17, titre:"Le droit international et Madagascar — traités ratifiés vs respectés", lecons: [], type: "reflexion" },
+      { id:18, titre:"Les réformes en cours ou proposées", lecons: [], type: "reflexion" },
+      { id:19, titre:"Citoyenneté active et recours légaux concrets", lecons: [], type: "reflexion" },
+      { id:20, titre:"Vers un État de droit effectif — exemples africains, rôle de la jeunesse", lecons: [], type: "reflexion" }
+    ]
   }
 ];
 
@@ -1218,6 +1352,8 @@ function openNiveau(fi) {
     const card = document.createElement('div');
     card.className = 'module-card '+f.accent+(hasContent?'':' locked');
     if (hasContent) card.onclick = () => openModule(fi, mi);
+    // Niveau réflexion : cliquer sur le module ouvre directement la réflexion IA
+    if (f.modules[mi] && f.modules[mi].type === 'reflexion') card.onclick = () => openReflexion(fi, mi, 0);
     const chips = m.lecons.length
       ? m.lecons.map((l,li) => '<span class="lecon-chip'+(isLeconDone(fi,m.id,li)?' chip-done':'')+'">'+l.titre+'</span>').join('')
       : '<span class="lecon-chip">Contenu à venir</span>';
@@ -1248,7 +1384,8 @@ function openModule(fi, mi) {
     const unlocked   = isLeconUnlocked(fi, m.id, li);
     const row = document.createElement('div');
     row.className = 'lecon-row' + (unlocked ? '' : ' locked');
-    if (unlocked) row.onclick = () => openReader(fi, mi, li);
+    const mod = f.modules[mi];
+    if (unlocked) row.onclick = () => mod && mod.type === 'reflexion' ? openReflexion(fi, mi, li) : openReader(fi, mi, li);
     row.innerHTML =
       '<div class="lecon-index'+(isDone?' done':'')+'">'+( isDone?'✓':(unlocked?(li+1):'🔒'))+'</div>'+
       '<div class="lecon-title-text">'+
@@ -1564,6 +1701,204 @@ function launchParticles() {
     c.appendChild(p);
   }
 }
+
+/* ═══════════════════════════════════════════
+   RÉFLEXION IA — Gemini Flash (gratuit)
+   Remplace YOUR_GEMINI_KEY par ta clé API
+   depuis aistudio.google.com
+   ═══════════════════════════════════════════ */
+const GEMINI_KEY = 'AQ.Ab8RN6KdnOr7g--zDtgIBmxrSBVmUvYy7LGttmpUt-NWj81vrg';
+const GEMINI_URL = 'https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent?key=' + GEMINI_KEY;
+
+let refState = {
+  moduleTitle: '',
+  question: '',
+  history: [],   // { role: 'user'|'model', text: '' }
+  exchangeCount: 0,
+  maxExchanges: 5
+};
+
+const SYSTEM_PROMPT = `Tu es un conseiller juridique et citoyen spécialisé sur Madagascar.
+Tu discutes avec un apprenant dans le cadre du module "Réalités Juridiques et Sociales Malagasy".
+Ton rôle :
+- Répondre de façon factuelle, nuancée, ancrée dans la réalité malgache
+- Ne pas valider bêtement : challenger, approfondir, poser des questions de suivi
+- Citer des exemples concrets (BIANCO, HCC, dahalo, fokontany, EDBM, CNaPS, etc.)
+- Rester respectueux et pédagogique, jamais condescendant
+- Après 4-5 échanges, proposer un résumé des points essentiels abordés
+- Ne pas dépasser 200 mots par réponse
+- Répondre en français`;
+
+function openReflexion(fi, mi, li) {
+  curNiveau = fi; curModule = mi; curLecon = li;
+  const f = formations[fi];
+  const m = f.modules[mi];
+
+  // Questions prédéfinies par module (index 0-19)
+  const questions = [
+    "La Constitution malgache de 2010 garantit de nombreux droits. Pourtant, beaucoup de citoyens ne les connaissent pas. À qui revient la responsabilité de cette méconnaissance, et comment y remédier ?",
+    "Madagascar a connu plusieurs crises politiques majeures. Pensez-vous que ces crises sont la cause ou la conséquence des faiblesses institutionnelles ?",
+    "Le Parlement vote des lois, le gouvernement les applique — en théorie. En pratique, quels obstacles empêchent ce schéma de fonctionner à Madagascar ?",
+    "Le fokontany est souvent le seul contact entre l'État et le citoyen rural. Quelles sont les limites de cette structure, et comment pourrait-on l'améliorer ?",
+    "Des pans entiers de l'économie malgache fonctionnent sans cadre juridique clair. Est-ce un problème ou une adaptation nécessaire ? Argumentez.",
+    "Une loi existe mais n'est jamais appliquée. Est-ce pire qu'une absence de loi ? Donnez un exemple concret malgache.",
+    "Un citoyen ordinaire d'Antananarivo veut porter plainte contre son employeur. Quelles sont les étapes réelles, et quels obstacles va-t-il rencontrer ?",
+    "Le BIANCO existe depuis 2004. La corruption a-t-elle reculé à Madagascar ? Qu'est-ce qui expliquerait l'écart entre les intentions et les résultats ?",
+    "Face à l'insécurité dans les zones rurales, certaines communautés créent leurs propres systèmes de justice. Est-ce légitime ? Quels risques cela comporte-t-il ?",
+    "Le titre foncier est censé protéger les droits de propriété. Pourquoi des millions de Malgaches n'en ont-ils pas, et quelles en sont les conséquences ?",
+    "Le Code du travail malgache protège les salariés. Mais 90% des travailleurs sont dans l'informel. Ce code est-il adapté à la réalité du pays ?",
+    "L'exportation illégale de bois de rose est interdite depuis des années. Elle continue pourtant. Que révèle cela sur le rapport de l'État malgache à ses propres lois ?",
+    "La liberté de la presse est garantie par la Constitution. En pratique, quels facteurs limitent cette liberté à Madagascar ?",
+    "Un dirigeant malgache s'enrichit visiblement au-delà de ses revenus officiels. Quels mécanismes juridiques existent pour le sanctionner, et pourquoi sont-ils rarement utilisés ?",
+    "Les élections sont régulièrement contestées à Madagascar. Qu'est-ce qu'une élection vraiment démocratique, et Madagascar en est-il loin ?",
+    "Les Églises jouent un rôle majeur dans la société malgache, parfois plus que les institutions officielles. Est-ce sain pour l'État de droit ?",
+    "Madagascar a ratifié de nombreuses conventions internationales sur les droits humains. Quelle différence cela fait-il concrètement pour un citoyen malgache ?",
+    "Quelle réforme juridique ou institutionnelle vous semble la plus urgente à Madagascar aujourd'hui ? Justifiez votre choix.",
+    "En tant que citoyen malgache, quelles actions concrètes et légales pouvez-vous mener pour contribuer à l'amélioration de l'État de droit ?",
+    "Des pays africains comme le Rwanda ou le Botswana ont réussi des réformes importantes. Quelles leçons Madagascar pourrait-il en tirer, et quels obstacles spécifiques s'y opposent ?"
+  ];
+
+  refState = {
+    moduleTitle: m.titre,
+    question: questions[mi] || "Quelle est votre analyse de ce sujet dans le contexte malgache ?",
+    history: [],
+    exchangeCount: 0,
+    maxExchanges: 5
+  };
+
+  document.getElementById('ref-screen-title').textContent = 'Module ' + String(m.id).padStart(2,'0');
+  document.getElementById('ref-screen-sub').textContent = m.titre;
+  document.getElementById('ref-question').textContent = refState.question;
+  document.getElementById('ref-chat').innerHTML = '';
+  document.getElementById('ref-input').value = '';
+  document.getElementById('ref-input-area').style.display = 'block';
+  document.getElementById('ref-done-area').style.display = 'none';
+  showScreen('screen-reflexion');
+}
+
+function appendMessage(role, text) {
+  const chat = document.getElementById('ref-chat');
+  const isAI = role === 'model';
+  const div = document.createElement('div');
+  div.style.cssText = `
+    padding: 14px 16px; border-radius: 12px; font-size: 13.5px; line-height: 1.7;
+    ${isAI
+      ? 'background: var(--navy-mid); border: 1px solid rgba(42,157,143,0.2); color: var(--cream);'
+      : 'background: rgba(42,157,143,0.1); border: 1px solid rgba(42,157,143,0.3); color: var(--cream); margin-left: 20px;'
+    }
+  `;
+  if (isAI) {
+    const label = document.createElement('div');
+    label.style.cssText = 'font-size:9.5px; letter-spacing:3px; text-transform:uppercase; color:var(--teal); margin-bottom:8px; font-weight:600;';
+    label.textContent = 'Conseiller IA';
+    div.appendChild(label);
+  }
+  const p = document.createElement('div');
+  p.textContent = text;
+  div.appendChild(p);
+  chat.appendChild(div);
+  div.scrollIntoView({ behavior: 'smooth', block: 'end' });
+  return div;
+}
+
+function showTyping() {
+  const chat = document.getElementById('ref-chat');
+  const div = document.createElement('div');
+  div.id = 'typing-indicator';
+  div.style.cssText = 'padding:12px 16px; border-radius:12px; background:var(--navy-mid); border:1px solid rgba(42,157,143,0.2); color:var(--teal); font-size:12px; letter-spacing:2px;';
+  div.textContent = '…';
+  chat.appendChild(div);
+  div.scrollIntoView({ behavior: 'smooth', block: 'end' });
+}
+function removeTyping() {
+  const el = document.getElementById('typing-indicator');
+  if (el) el.remove();
+}
+
+async function sendReflexion() {
+  const input = document.getElementById('ref-input');
+  const text = input.value.trim();
+  if (!text) return;
+
+  input.value = '';
+  input.style.height = 'auto';
+  appendMessage('user', text);
+  refState.history.push({ role: 'user', text });
+  refState.exchangeCount++;
+
+  const btn = document.getElementById('ref-send-btn');
+  btn.disabled = true; btn.textContent = 'En cours…';
+  showTyping();
+
+  try {
+    // Construction de l'historique pour Gemini
+    const contents = refState.history.map(h => ({
+      role: h.role,
+      parts: [{ text: h.text }]
+    }));
+
+    // Injection du contexte dans le premier message utilisateur
+    if (contents.length === 1) {
+      contents[0].parts[0].text =
+        `[Module: ${refState.moduleTitle}]
+[Question posée: ${refState.question}]
+
+Réponse de l'apprenant: ${text}`;
+    }
+
+    const body = {
+      system_instruction: { parts: [{ text: SYSTEM_PROMPT }] },
+      contents,
+      generationConfig: { maxOutputTokens: 512, temperature: 0.7 }
+    };
+
+    const res = await fetch(GEMINI_URL, {
+      method: 'POST',
+      headers: { 'Content-Type': 'application/json' },
+      body: JSON.stringify(body)
+    });
+
+    const data = await res.json();
+    removeTyping();
+
+    if (data.error) {
+      // Clé manquante ou invalide
+      if (GEMINI_KEY === 'YOUR_GEMINI_KEY') {
+        appendMessage('model', '⚠️ Clé API Gemini non configurée. Ajoutez votre clé dans le code (GEMINI_KEY) depuis aistudio.google.com — c'est gratuit.');
+      } else {
+        appendMessage('model', '⚠️ Erreur API : ' + (data.error.message || 'Veuillez réessayer.'));
+      }
+    } else {
+      const reply = data.candidates?.[0]?.content?.parts?.[0]?.text || 'Je n'ai pas pu générer une réponse. Réessayez.';
+      refState.history.push({ role: 'model', text: reply });
+      appendMessage('model', reply);
+
+      // Fin après maxExchanges
+      if (refState.exchangeCount >= refState.maxExchanges) {
+        setTimeout(() => {
+          document.getElementById('ref-input-area').style.display = 'none';
+          document.getElementById('ref-done-area').style.display = 'block';
+        }, 800);
+      }
+    }
+  } catch (err) {
+    removeTyping();
+    appendMessage('model', '⚠️ Problème de connexion. Vérifiez votre réseau et réessayez.');
+  }
+
+  btn.disabled = false; btn.textContent = 'Envoyer →';
+}
+
+// Touche Entrée + Shift pour nouvelle ligne, Entrée seul pour envoyer
+document.addEventListener('DOMContentLoaded', () => {
+  const inp = document.getElementById('ref-input');
+  if (inp) {
+    inp.addEventListener('keydown', e => {
+      if (e.key === 'Enter' && !e.shiftKey) { e.preventDefault(); sendReflexion(); }
+    });
+  }
+});
+
 </script>
 </body>
 </html>
