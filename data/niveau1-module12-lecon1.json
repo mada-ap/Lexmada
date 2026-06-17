@@ -806,6 +806,54 @@
         "Il peut y avoir une condamnation pénale et une obligation civile de réparer pour le même fait."
       ],
       "explication": "Vrai. Un même fait peut engager simultanément la responsabilité civile (obligation de réparer le préjudice de la victime) et la responsabilité pénale (sanction de la société pour l'infraction commise). L'auteur d'une agression, par exemple, peut être condamné pénalement à une peine d'emprisonnement et civilement à verser des dommages-intérêts à la victime. Les deux procédures se déroulent devant des juridictions différentes selon des règles distinctes."
+    },
+    {
+      "question": "Pourquoi la responsabilité du fait des choses et la responsabilité du fait d'autrui sont-elles qualifiées de responsabilités « présumées » plutôt que de responsabilités « pour faute prouvée » ?",
+      "choix": [
+        "Parce qu'elles ne s'appliquent qu'aux personnes morales",
+        "Parce que la victime est dispensée de prouver une faute : elle établit seulement le lien de garde, de surveillance ou de subordination, et le fait dommageable",
+        "Parce qu'elles ne donnent jamais lieu à indemnisation",
+        "Parce qu'elles exigent une décision préalable de la Cour Suprême"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Une présomption allège la charge de la preuve pour la victime.",
+        "La victime n'a pas à démontrer un comportement fautif du gardien ou du responsable.",
+        "C'est ensuite au responsable présumé de prouver une cause d'exonération s'il veut échapper à sa responsabilité."
+      ],
+      "explication": "Ces deux responsabilités sont dites présumées car elles allègent considérablement la charge de la preuve pesant sur la victime. Pour la responsabilité du fait des choses, la victime prouve seulement que la chose était sous la garde de l'auteur et qu'elle a causé le dommage — pas que le gardien a commis une faute. Pour la responsabilité du fait d'autrui, elle prouve le lien de garde ou de subordination (parent/enfant, employeur/salarié) et le dommage causé par la personne surveillée. C'est ensuite au responsable présumé de démontrer une cause d'exonération (force majeure, faute de la victime, absence de garde effective) s'il veut renverser la présomption."
+    },
+    {
+      "question": "Un voisin répare en urgence la toiture d'une maison dont le propriétaire est hospitalisé et injoignable, pour éviter une inondation. Le propriétaire, une fois rétabli, refuse de rembourser les frais en affirmant qu'il n'a rien demandé. Sa position est-elle fondée ?",
+      "choix": [
+        "Oui, car en l'absence de demande expresse, aucune obligation ne peut naître",
+        "Non, car les conditions de la gestion d'affaires sont réunies : intervention spontanée, utile et dans l'intérêt du propriétaire absent et empêché, sans interdiction de sa part — il doit rembourser les dépenses utiles et nécessaires",
+        "Oui, car seul un contrat écrit aurait pu créer une obligation de remboursement",
+        "Non, mais uniquement si le voisin peut prouver une faute du propriétaire dans l'entretien de sa toiture"
+      ],
+      "reponse": 1,
+      "indices": [
+        "L'absence de demande expresse n'empêche pas la gestion d'affaires : c'est même sa caractéristique.",
+        "Vérifiez les quatre conditions de la gestion d'affaires une à une.",
+        "Le propriétaire ne devait pas avoir interdit cette intervention — l'hospitalisation et l'absence de refus exprès le confirment."
+      ],
+      "explication": "Non, la position du propriétaire n'est pas fondée. Les conditions de la gestion d'affaires sont précisément réunies : le voisin a agi volontairement et sans y être obligé ; il a agi dans l'intérêt du propriétaire (le maître de l'affaire), absent et empêché d'agir lui-même (hospitalisation) ; son intervention a été utile (éviter une inondation) ; et rien n'indique que le propriétaire ait interdit une telle intervention. L'absence de demande expresse ne fait pas obstacle à la gestion d'affaires — c'est au contraire sa caractéristique essentielle, puisqu'elle naît précisément en l'absence d'accord préalable. Le propriétaire doit rembourser les dépenses utiles et nécessaires engagées par le voisin."
+    },
+    {
+      "question": "Andriamanana, en se précipitant pour attraper un bus, bouscule involontairement une passante qui tombe et se casse le bras. Andriamanana n'avait aucune intention de la blesser. Sa responsabilité civile peut-elle néanmoins être engagée ?",
+      "choix": [
+        "Non, car sans intention de nuire, il ne peut y avoir de faute civile",
+        "Oui : même un comportement maladroit ou inattentif, non intentionnel, constitue une faute s'il s'écarte de la diligence attendue d'une personne raisonnable, et engage la responsabilité civile dès lors qu'un dommage et un lien de causalité sont établis",
+        "Non, car seule la responsabilité pénale peut sanctionner une bousculade",
+        "Oui, mais uniquement si la passante prouve qu'Andriamanana courait délibérément pour lui nuire"
+      ],
+      "reponse": 1,
+      "indices": [
+        "La faute civile n'exige pas l'intention de nuire — relisez la section sur la faute.",
+        "Une bousculade maladroite peut s'écarter du comportement d'une personne raisonnable et prudente.",
+        "Vérifiez si les trois conditions du triptyque (faute, dommage, causalité) sont réunies."
+      ],
+      "explication": "Oui, sa responsabilité civile peut être engagée. La faute civile ne requiert pas une intention de nuire : un comportement maladroit, précipité ou inattentif peut constituer une faute s'il s'écarte de ce qu'on attend d'une personne raisonnable et prudente placée dans les mêmes circonstances — ici, courir sans prêter attention aux personnes autour de soi. Le dommage (fracture du bras) est certain, personnel et direct, et le lien de causalité avec la bousculade est établi. Les trois conditions de la responsabilité délictuelle sont réunies, même en l'absence de toute intention malveillante."
     }
   ],
   "exercices": [
