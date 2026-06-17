@@ -1,0 +1,845 @@
+{
+  "titre": "Les faits juridiques : responsabilité civile et quasi-contrats",
+  "module": "Module 12 — Les faits juridiques : responsabilité et quasi-contrats",
+  "niveau": "Débutant",
+  "contenu": [
+    {
+      "titre": "Rappel : faits et actes, deux sources d'obligations",
+      "texte": "Avant d'entrer dans le vif du sujet, rappelons ce que vous avez déjà étudié. Les obligations — c'est-à-dire les liens de droit qui contraignent une personne à donner, faire ou ne pas faire quelque chose — naissent de deux grandes catégories d'événements. Les actes juridiques, que vous avez découverts dans le module précédent, sont des comportements accomplis avec la volonté de produire des effets de droit : le contrat de vente, le testament, la reconnaissance d'enfant. L'auteur de l'acte veut à la fois l'acte lui-même et ses conséquences juridiques. Les faits juridiques, que nous allons étudier maintenant, sont radicalement différents : ce sont des événements dont les conséquences juridiques ne sont jamais voulues par leur auteur, même quand le comportement à l'origine du fait est lui-même volontaire. Un automobiliste qui grille un feu rouge et blesse un piéton a voulu conduire sa voiture, peut-être même voulu griller ce feu — mais il n'a pas voulu l'obligation de réparer le dommage causé. C'est cette distinction fondamentale qui organise toute la théorie des sources d'obligations en droit civil.",
+      "definition": "Fait juridique : événement — volontaire ou non — dont les conséquences juridiques (droits et obligations) ne sont pas voulues par son auteur. À distinguer de l'acte juridique, où l'auteur veut à la fois le comportement et ses effets de droit. Les deux sont sources d'obligations.",
+      "exemple": "Un acte juridique : Zo signe un contrat de bail — elle veut louer et être liée par les obligations du locataire. Un fait juridique : ce même soir, Zo renverse par inadvertance un vase chez son propriétaire — elle n'a pas voulu casser le vase ni payer une indemnité. Pourtant, l'obligation de réparer naît du fait juridique que constitue sa faute."
+    },
+    {
+      "titre": "Les deux grandes familles de faits juridiques",
+      "texte": "Les faits juridiques se répartissent en deux familles selon que leur auteur avait ou non la maîtrise de son comportement. Les faits juridiques involontaires sont des événements qui surviennent indépendamment de toute volonté humaine : une naissance, un décès, une tempête qui arrache le toit d'une maison, une inondation qui détruit des récoltes. Ces événements déclenchent des effets de droit — le nouveau-né acquiert la personnalité juridique, l'héritier reçoit la succession — sans que personne ne les ait voulus. Les faits juridiques volontaires sont des comportements que leur auteur a délibérément accomplis, mais dont les conséquences juridiques n'ont pas été recherchées. Publier de fausses informations pour nuire à quelqu'un, commettre un vol, blesser quelqu'un par imprudence : l'auteur a voulu agir, mais il n'a pas voulu l'obligation de réparer ou la peine qui en découle. C'est dans cette deuxième famille que se loge l'essentiel du droit de la responsabilité civile et du droit pénal.",
+      "definition": "Faits juridiques involontaires : événements indépendants de toute volonté humaine (naissance, décès, catastrophes naturelles) qui produisent néanmoins des effets de droit. Faits juridiques volontaires : comportements intentionnels de leur auteur, mais dont les conséquences juridiques (obligation de réparer, sanction pénale) ne sont jamais voulues.",
+      "exemple": "Involontaire : un cyclone détruit l'entrepôt d'un commerçant malgache. L'assureur doit indemniser — personne n'a voulu le cyclone. Volontaire : un employé détourne des fonds de son employeur. Il a voulu le détournement, mais pas la condamnation à rembourser et à purger une peine de prison."
+    },
+    {
+      "titre": "La responsabilité civile : principes fondamentaux",
+      "texte": "La responsabilité civile est l'obligation qui pèse sur une personne de réparer le dommage qu'elle a causé à autrui. Elle est le mécanisme juridique central qui découle des faits juridiques dommageables. Il faut immédiatement distinguer la responsabilité civile de la responsabilité pénale. La responsabilité pénale répond à la question : l'auteur d'une infraction mérite-t-il une sanction de la société (amende, prison) ? La responsabilité civile répond à une question différente : la victime d'un dommage mérite-t-elle d'être indemnisée ? Ces deux responsabilités peuvent se cumuler pour un même fait : l'auteur d'un accident causé par une conduite en état d'ivresse peut être condamné pénalement (peine d'emprisonnement) et civilement (indemnisation de la victime). Mais elles obéissent à des règles différentes et poursuivent des buts distincts. La responsabilité civile a pour seul but la réparation du préjudice subi par la victime — elle n'est pas une punition. La responsabilité pénale vise à sanctionner l'auteur et à protéger la société.",
+      "definition": "Responsabilité civile : obligation de réparer le dommage causé à autrui. Elle vise à indemniser la victime, non à punir l'auteur. À distinguer de la responsabilité pénale qui sanctionne l'auteur d'une infraction au nom de la société. Les deux peuvent se cumuler pour un même fait.",
+      "exemple": "Hery conduit en état d'ivresse et renverse un piéton qui subit des fractures. Hery est poursuivi pénalement pour conduite en état d'ivresse — il peut être condamné à une amende et à la suspension de son permis. Simultanément, il est civilement responsable : il doit réparer les préjudices du piéton — frais médicaux, perte de revenus, souffrances. Ce sont deux procédures distinctes pour le même fait."
+    },
+    {
+      "titre": "La responsabilité civile délictuelle : la faute",
+      "texte": "La première forme de responsabilité civile est la responsabilité pour faute, dite délictuelle (du mot latin delictum, la faute). Son principe est simple : toute personne qui, par sa faute, cause un dommage à autrui, est tenue de le réparer. Pour engager cette responsabilité, trois éléments doivent être réunis sans exception : une faute, un dommage, et un lien de causalité entre la faute et le dommage. La faute est un comportement qui n'est pas celui qu'on était en droit d'attendre : c'est soit une violation d'une règle juridique (rouler trop vite, ne pas respecter un signal), soit un comportement qui s'écarte du standard du « bon père de famille » — un homme raisonnable et prudent placé dans les mêmes circonstances. La faute peut être intentionnelle (on parle alors de dol ou de faute dolosive) — l'auteur a voulu causer le dommage. Elle peut aussi être non intentionnelle — l'auteur a simplement été imprudent, négligent ou maladroit. Dans les deux cas, la responsabilité est engagée.",
+      "definition": "Responsabilité délictuelle pour faute : obligation de réparer le dommage causé par un comportement fautif. Trois conditions cumulatives : (1) une faute (comportement contraire à une règle ou à la diligence attendue d'un homme raisonnable), (2) un dommage réel et certain subi par la victime, (3) un lien de causalité direct entre la faute et le dommage.",
+      "exemple": "Un commerçant laisse le sol de sa boutique mouillé sans mettre de panneau d'avertissement. Une cliente glisse et se fracture le poignet. Faute : ne pas avoir signalé le danger. Dommage : la fracture et ses suites. Lien de causalité : c'est bien ce sol mouillé qui a causé la chute. Les trois conditions sont réunies — le commerçant doit réparer."
+    },
+    {
+      "titre": "Le dommage réparable : ses caractères",
+      "texte": "Tous les dommages ne donnent pas lieu à réparation. Pour être réparable, un dommage doit présenter plusieurs caractères. Il doit être certain : un dommage purement hypothétique ou éventuel ne peut pas être indemnisé. Il doit être personnel : seule la victime directe du dommage — ou ses proches dans certains cas — peut demander réparation. Il doit être licite : on ne peut pas demander réparation pour la perte d'un gain illégal. Il doit enfin être direct : il doit résulter directement du fait générateur. Les dommages réparables sont de plusieurs types. Le dommage matériel est l'atteinte aux biens ou au patrimoine de la victime. Le dommage corporel est l'atteinte à l'intégrité physique ou psychique de la personne. Le dommage moral est l'atteinte aux sentiments, à l'honneur, à la réputation. En matière de dommage corporel, la réparation couvre notamment les frais médicaux, la perte de revenus pendant l'incapacité de travail, les souffrances physiques (pretium doloris), le préjudice esthétique, et le préjudice d'agrément (perte de la possibilité de pratiquer certaines activités de loisir).",
+      "definition": "Dommage réparable : préjudice certain, personnel, licite et direct. Il peut être matériel (atteinte au patrimoine), corporel (atteinte à l'intégrité physique ou psychique) ou moral (atteinte à l'honneur, aux sentiments, à la réputation). Ces catégories peuvent se cumuler pour un même fait dommageable.",
+      "exemple": "Un chauffeur de taxi malgache est renversé par un camion dont le freinage est défectueux. Il subit : des fractures (dommage corporel — frais médicaux, souffrances), l'impossibilité de travailler pendant six mois (dommage matériel — perte de revenus), et une cicatrice visible au visage (préjudice esthétique). Les trois types de dommage se cumulent."
+    },
+    {
+      "titre": "Le lien de causalité : condition indispensable",
+      "texte": "Le lien de causalité est le troisième pilier de la responsabilité civile pour faute. Il faut démontrer que le dommage est la conséquence directe et certaine de la faute. Ce lien peut être difficile à établir, notamment quand plusieurs causes ont concouru au dommage. En pratique, deux grandes théories s'affrontent pour identifier le lien de causalité. La théorie de l'équivalence des conditions considère que tout événement sans lequel le dommage ne se serait pas produit est une cause du dommage : toutes les conditions sont équivalentes. La théorie de la causalité adéquate, plus restrictive, ne retient comme cause que l'événement qui, d'après le cours normal des choses, était de nature à produire le dommage. Le lien de causalité peut être rompu par la force majeure (un événement imprévisible, irrésistible et extérieur à l'auteur), la faute de la victime elle-même, ou le fait d'un tiers. Quand la faute de la victime a contribué à son propre dommage, l'indemnisation peut être réduite proportionnellement.",
+      "definition": "Lien de causalité : relation directe et certaine entre la faute et le dommage. Il peut être rompu par la force majeure, la faute de la victime ou le fait d'un tiers. La faute de la victime peut entraîner un partage de responsabilité et une réduction de l'indemnisation.",
+      "exemple": "Un piéton traverse en dehors du passage clouté et est renversé par une voiture roulant à vitesse excessive. Le conducteur a fauté (excès de vitesse). Le piéton a aussi fauté (traversée irrégulière). Le juge peut partager la responsabilité : par exemple 70 % à la charge du conducteur, 30 % imputable à la faute de la victime. L'indemnisation est réduite de 30 %."
+    },
+    {
+      "titre": "La responsabilité du fait d'autrui",
+      "texte": "La responsabilité civile ne se limite pas aux fautes personnelles. On peut être tenu de réparer un dommage causé non par soi-même, mais par une personne dont on avait la garde ou la surveillance. C'est la responsabilité du fait d'autrui. Elle repose sur une idée simple : certaines personnes ont le pouvoir et le devoir de contrôler le comportement d'autres personnes, et doivent en assumer les conséquences. Les parents sont responsables des dommages causés par leurs enfants mineurs. L'employeur est responsable des dommages causés par ses salariés dans l'exercice de leurs fonctions. L'instituteur est responsable des dommages causés par ses élèves pendant le temps où ils sont sous sa surveillance. Cette responsabilité est souvent présumée — la victime n'a pas à prouver une faute personnelle du responsable, mais seulement le lien de subordination ou de garde. Le responsable peut éventuellement s'exonérer en prouvant qu'il n'a pas commis de faute de surveillance, selon les règles propres à chaque hypothèse.",
+      "definition": "Responsabilité du fait d'autrui : obligation de réparer le dommage causé par une personne dont on avait la garde ou la surveillance (enfant mineur, salarié, élève). Elle est souvent présumée : la victime prouve le lien de garde ou de subordination, sans avoir à établir une faute personnelle du répondant.",
+      "exemple": "Le fils de 12 ans de Rakoto casse avec son vélo la vitrine d'un bijoutier. Les parents sont civilement responsables des dommages causés par leur fils mineur. Le bijoutier n'a pas à prouver une faute des parents dans l'éducation de leur enfant : la responsabilité des parents est présumée du seul fait de leur autorité parentale."
+    },
+    {
+      "titre": "La responsabilité du fait des choses",
+      "texte": "La responsabilité peut également être engagée non par le comportement d'une personne, mais par le fait d'une chose que l'on a sous sa garde. C'est la responsabilité du fait des choses. Son principe est le suivant : on est responsable non seulement des dommages que l'on cause par son fait personnel, mais aussi de ceux causés par les choses que l'on a sous sa garde. La garde d'une chose implique d'en avoir l'usage, la direction et le contrôle. La responsabilité du fait des choses est présumée : la victime n'a pas à prouver une faute du gardien, seulement que la chose était sous sa garde et qu'elle a causé le dommage. Des régimes spéciaux s'appliquent à certaines choses particulièrement dangereuses : les véhicules terrestres à moteur, les animaux (dont le propriétaire est responsable même s'ils se sont échappés), les bâtiments en ruine dont le propriétaire répond en cas de vice de construction ou de défaut d'entretien. Ces régimes spéciaux peuvent s'écarter du droit commun — parfois en faveur de la victime, parfois en créant des causes d'exonération spécifiques.",
+      "definition": "Responsabilité du fait des choses : obligation de réparer le dommage causé par une chose dont on a la garde (usage, direction, contrôle). La responsabilité est présumée. Des régimes spéciaux existent pour les véhicules à moteur, les animaux et les bâtiments en ruine.",
+      "exemple": "La roue avant du vélo de Faly se détache pendant qu'elle roule sur un marché et blesse un vendeur. Faly avait la garde de son vélo — elle en avait l'usage et le contrôle. Elle est responsable du dommage causé par sa chose, même si elle n'a commis aucune faute personnelle dans sa conduite. La responsabilité du fait des choses est présumée."
+    },
+    {
+      "titre": "Les quasi-contrats : s'enrichir sans juste cause",
+      "texte": "À côté de la responsabilité civile, il existe une autre grande famille de faits juridiques sources d'obligations : les quasi-contrats. Un quasi-contrat est un fait volontaire licite d'une personne, qui crée des obligations envers une autre personne sans qu'il y ait eu accord de volontés entre elles. Le nom est éclairant : quasi signifie presque — le quasi-contrat ressemble à un contrat par ses effets (il crée des obligations), mais ce n'en est pas un, faute d'accord de volontés. Le droit civil reconnaît classiquement trois quasi-contrats principaux. La gestion d'affaires, la répétition de l'indu, et l'enrichissement injustifié. Ces trois mécanismes partagent une idée commune : il serait injuste que quelqu'un s'enrichisse ou tire profit d'une situation au détriment d'une autre personne, sans que cette dernière soit indemnisée. Le droit intervient donc pour rétablir l'équilibre, même en l'absence de tout accord.",
+      "definition": "Quasi-contrat : fait volontaire licite qui crée des obligations entre personnes sans accord de volontés. Trois quasi-contrats classiques : la gestion d'affaires, la répétition de l'indu (paiement sans dette), et l'enrichissement injustifié. Ils partagent l'idée qu'il serait inéquitable de laisser quelqu'un tirer profit d'une situation au détriment d'autrui sans compensation.",
+      "exemple": "Andriamanana part en voyage et oublie de fermer son robinet. Son voisin Tojo, constatant l'inondation, intervient pour couper l'eau et fait réparer la canalisation. Il n'y a aucun contrat entre eux. Pourtant, Andriamanana devra rembourser Tojo : c'est la gestion d'affaires, un quasi-contrat qui impose une obligation sans accord préalable."
+    },
+    {
+      "titre": "La gestion d'affaires",
+      "texte": "La gestion d'affaires est le premier quasi-contrat. Elle se produit quand une personne — le gérant — accomplit spontanément et sans y être obligée des actes utiles pour le compte d'une autre personne absente ou dans l'impossibilité d'agir — le maître de l'affaire — sans que celle-ci lui ait donné mandat. Pour que la gestion d'affaires soit reconnue, plusieurs conditions doivent être réunies. Le gérant doit avoir agi volontairement et sans y être contraint. Il doit avoir agi dans l'intérêt du maître de l'affaire, et non dans son propre intérêt exclusif. L'intervention doit avoir été utile — même si le résultat final n'est pas parfait. Le maître de l'affaire ne devait pas avoir interdit cette gestion. Les effets de la gestion d'affaires sont proches de ceux d'un mandat. Le gérant doit rendre compte de sa gestion. Le maître de l'affaire doit rembourser les dépenses utiles et nécessaires engagées par le gérant, l'indemniser de ses pertes éventuelles, et ratifier les actes accomplis en son nom.",
+      "definition": "Gestion d'affaires : quasi-contrat dans lequel une personne (le gérant) accomplit spontanément des actes utiles pour le compte d'une autre (le maître de l'affaire) absente ou empêchée, sans y être obligée ni autorisée. Le maître doit rembourser les dépenses utiles ; le gérant doit rendre compte de sa gestion.",
+      "exemple": "Valérie, avocate, part en mission à Antananarivo pour trois semaines. Pendant son absence, une tempête endommage sa maison à Diego-Suarez. Son voisin Chriso fait d'urgence réparer la toiture pour éviter que l'intérieur ne soit inondé. Il dépense 500 000 ariary. À son retour, Valérie devra rembourser ces 500 000 ariary à Chriso : c'est la gestion d'affaires. Chriso a agi utilement pour elle sans y être obligé."
+    },
+    {
+      "titre": "La répétition de l'indu et l'enrichissement injustifié",
+      "texte": "La répétition de l'indu est le deuxième quasi-contrat. Elle désigne le droit d'une personne d'exiger le remboursement d'une somme qu'elle a payée par erreur, sans y être juridiquement obligée. L'indu, c'est ce qui n'était pas dû. Quelqu'un paie par mégarde une facture déjà réglée, ou verse de l'argent à la mauvaise personne : il peut en demander la restitution. Celui qui reçoit une somme non due est tenu de la rembourser — même s'il était de bonne foi. L'enrichissement injustifié est le troisième quasi-contrat, et le plus général. Il s'applique quand une personne s'est enrichie au détriment d'une autre, sans que cet enrichissement soit justifié par un contrat, une loi ou une décision de justice. Il a un caractère subsidiaire : il ne joue que si aucun autre mécanisme juridique n'est disponible. Ses conditions sont : un enrichissement d'une personne, un appauvrissement corrélatif d'une autre, un lien entre les deux, et l'absence de cause légitime à cet enrichissement. La réparation est limitée à la plus petite des deux sommes : l'enrichissement ou l'appauvrissement.",
+      "definition": "Répétition de l'indu : droit de récupérer une somme payée sans cause (par erreur ou sans obligation). Enrichissement injustifié : obligation de restituer ce dont on s'est enrichi sans juste cause au détriment d'autrui, dans la limite du moindre des deux (enrichissement ou appauvrissement). C'est le quasi-contrat subsidiaire par excellence.",
+      "exemple": "Répétition de l'indu : Rakoto paie deux fois sa facture d'électricité par erreur. Il peut en demander le remboursement à la société d'électricité. Enrichissement injustifié : un jardinier améliore par ses travaux un terrain sans contrat valable. Le propriétaire du terrain s'est enrichi sans cause à ses dépens. Le jardinier peut réclamer une indemnité à hauteur du moindre de son appauvrissement ou de l'enrichissement du propriétaire."
+    }
+  ],
+  "quiz": [
+    {
+      "question": "Quelle est la différence fondamentale entre un acte juridique et un fait juridique ?",
+      "choix": [
+        "L'acte juridique est toujours écrit ; le fait juridique est toujours oral",
+        "Dans l'acte juridique, l'auteur veut à la fois le comportement et ses effets de droit ; dans le fait juridique, les conséquences juridiques ne sont jamais voulues",
+        "L'acte juridique crée uniquement des droits ; le fait juridique crée uniquement des obligations",
+        "L'acte juridique concerne les particuliers ; le fait juridique concerne l'État"
+      ],
+      "reponse": 1,
+      "indices": [
+        "La distinction repose sur la volonté des conséquences juridiques.",
+        "Dans le fait juridique, le comportement peut être voulu — mais pas ses effets de droit.",
+        "Pensez à l'achat d'une voiture vs l'accident de cycliste."
+      ],
+      "explication": "La différence fondamentale repose sur la volonté des effets juridiques. Dans l'acte juridique, l'auteur veut à la fois accomplir l'acte et produire les effets de droit qui en découlent (signer un contrat, rédiger un testament). Dans le fait juridique, les conséquences juridiques — obligation de réparer, peine — ne sont jamais voulues par l'auteur, même quand le comportement lui-même est intentionnel."
+    },
+    {
+      "question": "Un automobiliste roule délibérément à 120 km/h en agglomération et renverse un piéton. Son obligation d'indemniser la victime est-elle un acte juridique ou un fait juridique ?",
+      "choix": [
+        "Un acte juridique, car il a volontairement conduit vite",
+        "Un fait juridique, car il n'a pas voulu l'obligation d'indemniser qui résulte de son comportement",
+        "Ni l'un ni l'autre : seule la responsabilité pénale s'applique",
+        "Un acte juridique unilatéral, car une seule personne est à l'origine du dommage"
+      ],
+      "reponse": 1,
+      "indices": [
+        "L'automobiliste a voulu conduire vite — c'est un comportement volontaire.",
+        "Mais a-t-il voulu payer une indemnité à la victime ?",
+        "Le critère distinctif est la volonté des conséquences juridiques."
+      ],
+      "explication": "C'est un fait juridique. L'automobiliste a certes volontairement roulé à vitesse excessive — c'est un fait juridique volontaire. Mais il n'a pas voulu l'obligation d'indemniser la victime qui en découle. Les conséquences juridiques du comportement ne sont pas voulues. C'est précisément la définition du fait juridique : le comportement peut être intentionnel, mais ses effets de droit ne le sont jamais."
+    },
+    {
+      "question": "Vrai ou faux : actes et faits juridiques sont tous deux des sources d'obligations.",
+      "choix": [
+        "Vrai",
+        "Faux"
+      ],
+      "reponse": 0,
+      "indices": [
+        "La leçon ouvre sur ce rappel essentiel.",
+        "Un contrat crée des obligations — c'est un acte juridique.",
+        "Un accident crée aussi des obligations — c'est un fait juridique."
+      ],
+      "explication": "Vrai. Les actes juridiques (contrats, testaments, reconnaissances d'enfant) et les faits juridiques (accidents, naissances, quasi-contrats) sont tous deux des sources d'obligations. C'est l'enseignement central du module précédent confirmé ici : peu importe que l'auteur ait ou non voulu les effets de droit, le droit peut faire naître une obligation dans les deux cas."
+    },
+    {
+      "question": "Parmi ces événements, lequel est un fait juridique involontaire ?",
+      "choix": [
+        "Un vol commis dans un magasin",
+        "La publication de fausses informations pour nuire à quelqu'un",
+        "Un tremblement de terre qui détruit une maison",
+        "Un employé qui détourne des fonds"
+      ],
+      "reponse": 2,
+      "indices": [
+        "Involontaire signifie que l'événement est indépendant de toute volonté humaine.",
+        "Le vol, la publication, le détournement sont des comportements humains intentionnels.",
+        "Les catastrophes naturelles ne dépendent d'aucune volonté humaine."
+      ],
+      "explication": "Le tremblement de terre est un fait juridique involontaire : c'est un événement naturel qui survient indépendamment de toute volonté humaine, mais qui produit des effets de droit (activation des assurances, déclenchement de mécanismes d'indemnisation publique). Les trois autres options sont des comportements humains délibérés — ce sont des faits juridiques volontaires."
+    },
+    {
+      "question": "Quelle est la différence entre la responsabilité civile et la responsabilité pénale ?",
+      "choix": [
+        "La responsabilité civile punit l'auteur ; la responsabilité pénale indemnise la victime",
+        "La responsabilité civile vise à réparer le préjudice de la victime ; la responsabilité pénale vise à sanctionner l'auteur et protéger la société",
+        "La responsabilité civile s'applique uniquement aux accidents ; la responsabilité pénale aux crimes",
+        "Il n'y a aucune différence : les deux termes désignent la même chose"
+      ],
+      "reponse": 1,
+      "indices": [
+        "La leçon distingue clairement leurs buts respectifs.",
+        "Qui est au centre de la responsabilité civile ? La victime ou l'auteur ?",
+        "La responsabilité pénale est une réponse de la société à l'infraction."
+      ],
+      "explication": "La responsabilité civile a pour seul but la réparation du préjudice subi par la victime — elle n'est pas une punition. La responsabilité pénale vise à sanctionner l'auteur d'une infraction au nom de la société et à protéger cette dernière. Ces deux responsabilités peuvent se cumuler pour un même fait : on peut être condamné pénalement et civilement pour la même infraction."
+    },
+    {
+      "question": "Quelles sont les trois conditions cumulatives pour engager la responsabilité civile délictuelle pour faute ?",
+      "choix": [
+        "Une intention malveillante, un dommage grave, et un témoignage",
+        "Une faute, un dommage, et un lien de causalité entre la faute et le dommage",
+        "Un contrat, une inexécution, et un préjudice",
+        "Une loi violée, une victime identifiée, et une condamnation pénale préalable"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Ces trois conditions sont classiques et incontournables.",
+        "Sans l'une d'elles, la responsabilité ne peut pas être engagée.",
+        "On les appelle le triptyque de la responsabilité civile."
+      ],
+      "explication": "Les trois conditions cumulatives du triptyque de la responsabilité civile délictuelle pour faute sont : (1) une faute — comportement contraire à une règle ou à la diligence d'un homme raisonnable ; (2) un dommage — réel, certain, personnel et licite subi par la victime ; (3) un lien de causalité direct et certain entre la faute et le dommage. L'absence de l'une de ces trois conditions suffit à exclure la responsabilité."
+    },
+    {
+      "question": "Comment définit-on la faute en droit de la responsabilité civile ?",
+      "choix": [
+        "Uniquement un comportement intentionnel visant à nuire",
+        "Un comportement qui s'écarte de ce qu'on était en droit d'attendre — violation d'une règle ou écart par rapport au standard de l'homme raisonnable — qu'il soit intentionnel ou non",
+        "Tout comportement qui cause un dommage, qu'il soit fautif ou non",
+        "Uniquement la violation d'une règle de droit écrite"
+      ],
+      "reponse": 1,
+      "indices": [
+        "La faute peut être intentionnelle ou non intentionnelle.",
+        "Le standard de référence est l'homme raisonnable et prudent.",
+        "L'imprudence et la négligence sont aussi des fautes."
+      ],
+      "explication": "La faute est un comportement qui n'est pas celui qu'on était en droit d'attendre. Elle peut consister en la violation d'une règle juridique précise (rouler trop vite), ou en un écart par rapport au comportement du « bon père de famille » — un homme raisonnable et prudent dans les mêmes circonstances. La faute peut être intentionnelle (dolosive) ou non intentionnelle (imprudence, négligence, maladresse). Dans les deux cas, elle engage la responsabilité."
+    },
+    {
+      "question": "Un commerçant laisse son sol mouillé sans panneau d'avertissement. Une cliente glisse et se blesse. Toutes les conditions de responsabilité sont-elles réunies ?",
+      "choix": [
+        "Non, car le commerçant n'a pas voulu que la cliente glisse",
+        "Oui : faute (ne pas avoir signalé le danger), dommage (blessures), lien de causalité (c'est le sol mouillé qui a causé la chute)",
+        "Non, car il faudrait prouver que le commerçant a délibérément mouillé le sol",
+        "Non, car la cliente aurait dû faire attention où elle marchait"
+      ],
+      "reponse": 1,
+      "indices": [
+        "La faute n'exige pas l'intention de nuire.",
+        "Ne pas signaler un danger constitue une négligence — c'est une faute.",
+        "Les trois conditions du triptyque sont-elles toutes présentes ?"
+      ],
+      "explication": "Oui, les trois conditions sont réunies. La faute : ne pas avoir signalé le danger du sol mouillé est une négligence qui s'écarte du comportement d'un commerçant raisonnable et prudent. Le dommage : les blessures de la cliente sont un préjudice certain, personnel et direct. Le lien de causalité : c'est directement le sol mouillé non signalé qui a causé la chute. La responsabilité du commerçant est engagée, même sans intention de nuire."
+    },
+    {
+      "question": "Quels caractères doit présenter un dommage pour être réparable ?",
+      "choix": [
+        "Il doit être grave, récent et causé par une personne identifiée",
+        "Il doit être certain, personnel, licite et direct",
+        "Il doit être uniquement matériel et chiffrable en argent",
+        "Il doit avoir été constaté par un médecin ou un expert judiciaire"
+      ],
+      "reponse": 1,
+      "indices": [
+        "La leçon énumère quatre caractères du dommage réparable.",
+        "Un dommage purement hypothétique n'est pas réparable.",
+        "Même un dommage moral peut être réparé s'il répond à ces critères."
+      ],
+      "explication": "Pour être réparable, un dommage doit être : (1) certain — pas purement hypothétique ou éventuel ; (2) personnel — seule la victime directe ou ses proches dans certains cas peuvent agir ; (3) licite — on ne peut pas demander réparation pour un gain illégal perdu ; (4) direct — il doit résulter directement du fait générateur. Ces quatre caractères sont cumulatifs."
+    },
+    {
+      "question": "Parmi ces préjudices, lesquels sont réparables en droit civil ?",
+      "choix": [
+        "Uniquement les pertes financières chiffrables",
+        "Les dommages matériels, corporels et moraux — les trois types peuvent être réparés et se cumuler",
+        "Uniquement les dommages corporels causant une incapacité permanente",
+        "Uniquement les dommages causés intentionnellement"
+      ],
+      "reponse": 1,
+      "indices": [
+        "La leçon distingue trois types de dommages réparables.",
+        "Le dommage moral — atteinte à l'honneur, aux sentiments — est réparable.",
+        "Ces trois types peuvent coexister pour un même fait dommageable."
+      ],
+      "explication": "Les trois types de dommages sont réparables et peuvent se cumuler. Le dommage matériel (atteinte au patrimoine), le dommage corporel (atteinte à l'intégrité physique ou psychique), et le dommage moral (atteinte à l'honneur, à la réputation, aux sentiments). Pour un même accident, une victime peut obtenir réparation de ses frais médicaux (corporel), de sa perte de revenus (matériel) et de ses souffrances morales (moral)."
+    },
+    {
+      "question": "Qu'est-ce que le pretium doloris ?",
+      "choix": [
+        "Le prix d'achat d'un médicament antidouleur",
+        "L'indemnisation des souffrances physiques subies par la victime d'un dommage corporel",
+        "Les honoraires d'un avocat spécialisé en dommages corporels",
+        "La peine de prison prononcée contre l'auteur d'un dommage"
+      ],
+      "reponse": 1,
+      "indices": [
+        "En latin, pretium signifie prix ou valeur, et dolor signifie douleur.",
+        "C'est une composante de l'indemnisation du dommage corporel.",
+        "Il vise à compenser les souffrances physiques endurées."
+      ],
+      "explication": "Le pretium doloris (littéralement « prix de la douleur ») désigne l'indemnisation accordée à une victime pour les souffrances physiques qu'elle a endurées à la suite d'un dommage corporel. C'est l'une des composantes de la réparation du dommage corporel, avec les frais médicaux, la perte de revenus, le préjudice esthétique et le préjudice d'agrément."
+    },
+    {
+      "question": "Qu'est-ce que le préjudice d'agrément ?",
+      "choix": [
+        "Le préjudice subi par quelqu'un dont la maison est agréable à vivre mais a perdu de la valeur",
+        "La perte de la possibilité de pratiquer des activités de loisir ou sportives à la suite d'un dommage corporel",
+        "Le préjudice moral subi par une personne dont la réputation a été ternie",
+        "Les frais de représentation en justice engagés par la victime"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Agrément renvoie aux plaisirs de la vie, aux loisirs.",
+        "Il concerne les activités qu'on ne peut plus pratiquer à cause du dommage.",
+        "C'est une composante du dommage corporel."
+      ],
+      "explication": "Le préjudice d'agrément est la perte de la possibilité de pratiquer certaines activités de loisir ou sportives à la suite d'un dommage corporel. Par exemple, un joueur de football amateur qui, après un accident, ne peut plus jamais jouer au football subit un préjudice d'agrément indemnisable, en plus de son préjudice corporel et de sa perte de revenus."
+    },
+    {
+      "question": "Qu'est-ce que la théorie de l'équivalence des conditions pour établir le lien de causalité ?",
+      "choix": [
+        "Toutes les victimes d'un même accident reçoivent la même indemnisation",
+        "Est considéré comme cause du dommage tout événement sans lequel le dommage ne se serait pas produit",
+        "Seule la cause principale et directe du dommage est retenue",
+        "La responsabilité est partagée de façon égale entre tous les contributeurs au dommage"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Équivalence signifie que toutes les conditions ont la même valeur causale.",
+        "On applique le test : sans cet événement, le dommage se serait-il produit ?",
+        "Cette théorie est large — elle retient de nombreuses causes."
+      ],
+      "explication": "La théorie de l'équivalence des conditions considère que tout événement sans lequel le dommage ne se serait pas produit est une cause du dommage — toutes les conditions sont causalement équivalentes. C'est une théorie large qui peut conduire à remonter très loin dans la chaîne causale. Elle s'oppose à la théorie de la causalité adéquate, qui ne retient que les causes qui, d'après le cours normal des choses, étaient de nature à produire le dommage."
+    },
+    {
+      "question": "La faute de la victime dans la réalisation de son propre dommage a-t-elle une incidence sur l'indemnisation ?",
+      "choix": [
+        "Non, la faute de la victime est sans incidence : elle est toujours entièrement indemnisée",
+        "Oui, la faute de la victime peut entraîner un partage de responsabilité et une réduction proportionnelle de l'indemnisation",
+        "Oui, la faute de la victime exclut toujours totalement l'indemnisation",
+        "Non, seule la faute de l'auteur du dommage compte en droit civil"
+      ],
+      "reponse": 1,
+      "indices": [
+        "La leçon mentionne le partage de responsabilité.",
+        "Si la victime a contribué à son propre dommage, l'indemnisation peut être réduite.",
+        "La réduction est proportionnelle à la part de responsabilité de la victime."
+      ],
+      "explication": "Oui. La faute de la victime dans la réalisation de son propre dommage entraîne un partage de responsabilité et une réduction proportionnelle de l'indemnisation. Le juge apprécie la part respective de chacun dans la réalisation du dommage. Par exemple, si la victime est responsable à 30 %, son indemnisation sera réduite de 30 %. C'est le mécanisme du partage de responsabilité."
+    },
+    {
+      "question": "Qu'est-ce qui peut rompre le lien de causalité entre la faute et le dommage ?",
+      "choix": [
+        "La présence d'un avocat lors du fait dommageable",
+        "La force majeure, la faute de la victime ou le fait d'un tiers",
+        "Le paiement d'une indemnité provisoire à la victime",
+        "La prescription de l'action en responsabilité"
+      ],
+      "reponse": 1,
+      "indices": [
+        "La leçon cite trois causes de rupture du lien de causalité.",
+        "La force majeure est un événement imprévisible, irrésistible et extérieur.",
+        "La faute de la victime peut totalement exonérer l'auteur ou simplement réduire sa responsabilité."
+      ],
+      "explication": "Le lien de causalité peut être rompu par trois causes : la force majeure (un événement imprévisible, irrésistible et extérieur à l'auteur, qui supplante sa faute comme cause du dommage), la faute de la victime elle-même (qui a contribué à son propre dommage), et le fait d'un tiers (dont l'intervention est la véritable cause du dommage). Ces causes exonèrent totalement ou partiellement l'auteur présumé."
+    },
+    {
+      "question": "Sur quoi repose la responsabilité du fait d'autrui ?",
+      "choix": [
+        "Sur l'idée que certaines personnes ont le pouvoir et le devoir de contrôler le comportement d'autres, et doivent en assumer les conséquences",
+        "Sur l'idée que la richesse doit compenser les dommages causés par les plus pauvres",
+        "Sur une faute personnelle prouvée du responsable",
+        "Sur un accord exprès entre le responsable et l'auteur du dommage"
+      ],
+      "reponse": 0,
+      "indices": [
+        "Le responsable du fait d'autrui n'a pas personnellement causé le dommage.",
+        "Il avait cependant un pouvoir de contrôle sur l'auteur.",
+        "Parents, employeurs, instituteurs sont des exemples de responsables du fait d'autrui."
+      ],
+      "explication": "La responsabilité du fait d'autrui repose sur l'idée que certaines personnes ont le pouvoir et le devoir de contrôler le comportement d'autres personnes (enfants mineurs, salariés, élèves), et doivent assumer les conséquences des dommages causés par ces personnes. Cette responsabilité est souvent présumée : la victime prouve seulement le lien de garde ou de subordination, sans avoir à établir une faute personnelle du responsable."
+    },
+    {
+      "question": "Un enfant de 10 ans casse la voiture d'un voisin en jouant au ballon. Qui est civilement responsable ?",
+      "choix": [
+        "L'enfant lui-même, car c'est lui qui a causé le dommage",
+        "Les parents, en vertu de la responsabilité du fait de leurs enfants mineurs, présumée du seul fait de l'autorité parentale",
+        "Le voisin, car il aurait dû mieux protéger sa voiture",
+        "Personne : un enfant de 10 ans ne peut pas engager de responsabilité civile"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Les parents sont responsables des dommages causés par leurs enfants mineurs.",
+        "Cette responsabilité est présumée — pas besoin de prouver une faute des parents.",
+        "C'est un exemple de responsabilité du fait d'autrui."
+      ],
+      "explication": "Les parents sont civilement responsables des dommages causés par leur enfant mineur. Cette responsabilité découle de l'autorité parentale et de la garde de l'enfant. Elle est présumée : le voisin n'a pas à prouver une faute personnelle des parents dans l'éducation de leur enfant — il lui suffit de prouver que l'enfant est mineur et a causé le dommage. Les parents peuvent éventuellement s'exonérer dans des conditions très strictes."
+    },
+    {
+      "question": "Un salarié provoque un accident de la route avec le véhicule de son employeur pendant ses heures de travail. Qui est civilement responsable envers la victime ?",
+      "choix": [
+        "Uniquement le salarié, car c'est lui qui conduisait",
+        "L'employeur, en vertu de la responsabilité du fait de ses salariés dans l'exercice de leurs fonctions",
+        "L'assureur, car tout accident est couvert par l'assurance",
+        "Ni l'un ni l'autre : la victime n'a aucun recours"
+      ],
+      "reponse": 1,
+      "indices": [
+        "L'employeur est responsable des dommages causés par ses salariés dans l'exercice de leurs fonctions.",
+        "Le salarié était en service au moment de l'accident.",
+        "C'est un exemple de responsabilité du fait d'autrui entre employeur et salarié."
+      ],
+      "explication": "L'employeur est civilement responsable envers la victime. En vertu de la responsabilité du fait d'autrui, l'employeur répond des dommages causés par ses salariés dans l'exercice de leurs fonctions. Le salarié était en mission avec le véhicule de l'entreprise — il agissait dans le cadre de ses fonctions. L'employeur peut se retourner contre le salarié si ce dernier a commis une faute personnelle grave."
+    },
+    {
+      "question": "Qu'est-ce que la garde d'une chose au sens de la responsabilité du fait des choses ?",
+      "choix": [
+        "Le fait d'être propriétaire de la chose",
+        "Le fait d'avoir l'usage, la direction et le contrôle de la chose",
+        "Le fait de stocker physiquement la chose dans son entrepôt",
+        "Le fait d'avoir acheté la chose récemment"
+      ],
+      "reponse": 1,
+      "indices": [
+        "La garde n'est pas identique à la propriété.",
+        "Trois éléments cumulatifs définissent la garde.",
+        "On peut être gardien d'une chose sans en être propriétaire."
+      ],
+      "explication": "La garde d'une chose implique d'en avoir l'usage, la direction et le contrôle. Elle ne se confond pas avec la propriété : on peut être gardien d'une chose sans en être propriétaire (un locataire est gardien des biens qu'il loue pendant la durée de la location), et inversement on peut être propriétaire sans être gardien (le propriétaire qui confie sa voiture à un garagiste n'en est plus le gardien pendant la réparation)."
+    },
+    {
+      "question": "Faly laisse son vélo non attaché sur un trottoir. Un passant le prend sans autorisation, et ce passant renverse quelqu'un avec le vélo. Faly est-elle responsable du dommage ?",
+      "choix": [
+        "Oui, car elle est propriétaire du vélo",
+        "Non, car elle a perdu la garde du vélo quand le passant se l'est approprié : c'est le passant qui avait l'usage, la direction et le contrôle au moment du dommage",
+        "Oui, car elle aurait dû attacher son vélo",
+        "Non, car un vélo ne peut jamais engager la responsabilité du fait des choses"
+      ],
+      "reponse": 1,
+      "indices": [
+        "La garde implique l'usage, la direction et le contrôle.",
+        "Au moment du dommage, qui avait le contrôle effectif du vélo ?",
+        "La propriété ne suffit pas à établir la garde si quelqu'un d'autre en a le contrôle."
+      ],
+      "explication": "Non, Faly n'est plus responsable. Au moment du dommage, la garde du vélo avait été transférée au passant qui s'en était approprié sans autorisation. C'est lui qui en avait l'usage, la direction et le contrôle effectifs. C'est donc le passant qui est responsable du dommage causé par le vélo. La propriété seule ne suffit pas à établir la garde si quelqu'un d'autre en a pris le contrôle."
+    },
+    {
+      "question": "Qu'est-ce qu'un quasi-contrat ?",
+      "choix": [
+        "Un contrat qui n'a pas encore été signé par toutes les parties",
+        "Un fait volontaire licite qui crée des obligations entre personnes sans accord de volontés",
+        "Un contrat oral qui n'a pas été mis par écrit",
+        "Un accord de principe qui n'engage pas encore les parties"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Quasi signifie presque — le quasi-contrat ressemble à un contrat par ses effets.",
+        "Mais il lui manque l'accord de volontés entre les parties.",
+        "Les quasi-contrats naissent d'un fait, pas d'un accord."
+      ],
+      "explication": "Un quasi-contrat est un fait volontaire licite d'une personne qui crée des obligations envers une autre personne, sans qu'il y ait eu accord de volontés entre elles. Il ressemble à un contrat par ses effets (il génère des obligations), mais ce n'en est pas un car il manque l'élément fondamental du contrat : l'échange de consentements. Le droit impose ces obligations pour éviter un enrichissement injuste."
+    },
+    {
+      "question": "Quels sont les trois quasi-contrats classiques reconnus par le droit civil ?",
+      "choix": [
+        "La vente, le bail et le prêt",
+        "La gestion d'affaires, la répétition de l'indu et l'enrichissement injustifié",
+        "Le mandat, la fiducie et la donation",
+        "La responsabilité délictuelle, la responsabilité contractuelle et la responsabilité pénale"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Il y en a trois, classiquement.",
+        "L'un d'eux concerne quelqu'un qui agit pour le compte d'un absent.",
+        "Un autre concerne le remboursement d'une somme payée par erreur."
+      ],
+      "explication": "Les trois quasi-contrats classiques reconnus par le droit civil sont : la gestion d'affaires (une personne agit utilement pour le compte d'un absent sans y être obligée), la répétition de l'indu (remboursement d'une somme payée sans dette), et l'enrichissement injustifié (restitution d'un enrichissement sans cause légitime au détriment d'autrui). Ces trois mécanismes partagent l'idée qu'il serait inéquitable de laisser quelqu'un profiter d'une situation au détriment d'autrui sans compensation."
+    },
+    {
+      "question": "Quelles sont les conditions pour que la gestion d'affaires soit reconnue ?",
+      "choix": [
+        "Il faut un contrat de mandat et une rémunération convenue",
+        "Le gérant doit avoir agi volontairement, dans l'intérêt du maître de l'affaire, de façon utile, sans y être obligé ni l'avoir été interdit par le maître",
+        "Il faut que le maître de l'affaire ait donné son accord après coup",
+        "Il faut une urgence absolue et un dommage imminent"
+      ],
+      "reponse": 1,
+      "indices": [
+        "La gestion d'affaires se passe sans contrat préalable.",
+        "Le gérant intervient spontanément — pas parce qu'il y est obligé.",
+        "L'intervention doit être utile et dans l'intérêt du maître."
+      ],
+      "explication": "Pour que la gestion d'affaires soit reconnue, plusieurs conditions doivent être réunies : le gérant doit avoir agi volontairement et sans y être juridiquement contraint ; il doit avoir agi dans l'intérêt du maître de l'affaire (et non exclusivement dans le sien) ; son intervention doit avoir été utile ; et le maître ne doit pas avoir interdit cette gestion. En l'absence de ces conditions, il n'y a pas gestion d'affaires et les obligations qui en découlent ne naissent pas."
+    },
+    {
+      "question": "Quelles obligations naissent de la gestion d'affaires pour le maître de l'affaire ?",
+      "choix": [
+        "Aucune : le maître n'est jamais obligé si personne ne lui a demandé de l'aide",
+        "Rembourser les dépenses utiles et nécessaires du gérant, l'indemniser de ses pertes, et ratifier les actes accomplis en son nom",
+        "Uniquement remercier le gérant et signaler son intervention aux autorités",
+        "Conclure un contrat de mandat avec le gérant pour l'avenir"
+      ],
+      "reponse": 1,
+      "indices": [
+        "La gestion d'affaires crée des obligations pour les deux parties.",
+        "Le maître bénéficie de l'intervention — il doit en assumer le coût.",
+        "Le gérant doit rendre compte ; le maître doit rembourser."
+      ],
+      "explication": "Du côté du maître de l'affaire, la gestion d'affaires crée trois obligations : rembourser au gérant les dépenses utiles et nécessaires qu'il a engagées, l'indemniser des pertes éventuelles subies du fait de cette gestion, et ratifier les actes que le gérant a accomplis en son nom. De son côté, le gérant doit rendre compte de sa gestion comme le ferait un mandataire."
+    },
+    {
+      "question": "Rakoto paie par erreur une facture d'eau déjà réglée le mois précédent. Quel quasi-contrat peut-il invoquer pour récupérer son argent ?",
+      "choix": [
+        "La gestion d'affaires",
+        "L'enrichissement injustifié",
+        "La répétition de l'indu",
+        "La responsabilité délictuelle"
+      ],
+      "reponse": 2,
+      "indices": [
+        "Rakoto a payé quelque chose qu'il ne devait pas — c'est l'indu.",
+        "L'indu, c'est ce qui n'était pas dû.",
+        "Ce quasi-contrat permet de récupérer ce qu'on a payé sans y être obligé."
+      ],
+      "explication": "Rakoto peut invoquer la répétition de l'indu. Ce quasi-contrat donne le droit d'exiger le remboursement d'une somme payée par erreur, sans être juridiquement obligé de la payer. L'indu est ce qui n'était pas dû. La société d'eau qui a reçu deux fois le même paiement s'est enrichie sans cause : elle doit rembourser le trop-perçu, même si elle était de bonne foi."
+    },
+    {
+      "question": "Vrai ou faux : celui qui reçoit une somme non due peut la conserver s'il était de bonne foi.",
+      "choix": [
+        "Vrai",
+        "Faux"
+      ],
+      "reponse": 1,
+      "indices": [
+        "La répétition de l'indu ne dépend pas de la bonne ou mauvaise foi du bénéficiaire.",
+        "Ce qui compte, c'est l'absence de cause du paiement, pas l'intention de celui qui a reçu.",
+        "Le récepteur d'une somme non due est tenu de la rembourser dans tous les cas."
+      ],
+      "explication": "Faux. La bonne foi du récepteur est sans incidence sur l'obligation de rembourser. Celui qui reçoit une somme qui ne lui était pas due est tenu de la restituer, qu'il ait été de bonne ou de mauvaise foi. La bonne foi peut toutefois avoir une influence sur les modalités de restitution (intérêts, fruits) mais pas sur le principe lui-même."
+    },
+    {
+      "question": "Qu'est-ce qui distingue l'enrichissement injustifié des deux autres quasi-contrats ?",
+      "choix": [
+        "Il est le seul à ne pas créer d'obligations",
+        "Il est subsidiaire — il ne joue qu'en l'absence de tout autre mécanisme juridique disponible",
+        "Il ne s'applique qu'aux relations entre commerçants",
+        "Il exige toujours une mauvaise foi de l'enrichi"
+      ],
+      "reponse": 1,
+      "indices": [
+        "La leçon qualifie l'enrichissement injustifié de quasi-contrat subsidiaire.",
+        "Il n'intervient que si aucun autre fondement juridique n'est disponible.",
+        "C'est le filet de sécurité du système des quasi-contrats."
+      ],
+      "explication": "L'enrichissement injustifié se distingue des deux autres quasi-contrats par son caractère subsidiaire : il ne peut être invoqué que si aucun autre mécanisme juridique (contrat, responsabilité délictuelle, gestion d'affaires, répétition de l'indu) n'est disponible pour indemniser l'appauvri. C'est le filet de sécurité ultime qui évite qu'un enrichissement sans cause ne reste sans réparation."
+    },
+    {
+      "question": "Quelles sont les conditions de l'enrichissement injustifié ?",
+      "choix": [
+        "Un acte illicite, une victime identifiée, et une peine de prison",
+        "Un enrichissement d'une personne, un appauvrissement corrélatif d'une autre, un lien entre les deux, et l'absence de cause légitime",
+        "Un contrat nul, un dommage et une faute",
+        "Une dette impayée, un créancier et un débiteur insolvable"
+      ],
+      "reponse": 1,
+      "indices": [
+        "L'enrichissement injustifié a quatre conditions cumulatives.",
+        "Il faut un enrichissement d'un côté et un appauvrissement de l'autre.",
+        "Ces deux mouvements doivent être corrélés et sans cause légitime."
+      ],
+      "explication": "L'enrichissement injustifié requiert quatre conditions : (1) un enrichissement d'une personne ; (2) un appauvrissement corrélatif d'une autre personne ; (3) un lien de corrélation entre l'enrichissement et l'appauvrissement ; (4) l'absence de cause légitime à cet enrichissement (pas de contrat, de loi ou de décision de justice qui le justifie). La réparation est limitée à la plus petite des deux sommes : l'enrichissement ou l'appauvrissement."
+    },
+    {
+      "question": "Pourquoi la réparation dans l'enrichissement injustifié est-elle limitée au moindre des deux montants (enrichissement ou appauvrissement) ?",
+      "choix": [
+        "Pour punir celui qui a été appauvri de ne pas avoir mieux protégé ses intérêts",
+        "Pour éviter que l'appauvri ne tire profit de la situation en obtenant plus qu'il n'a perdu ou que l'enrichi ne paie plus qu'il n'a gagné",
+        "Parce que le juge a toujours le pouvoir de réduire les indemnités",
+        "Parce que l'enrichissement injustifié ne couvre pas les préjudices moraux"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Le but de l'enrichissement injustifié est de rétablir l'équilibre, pas de créer un nouveau déséquilibre.",
+        "L'appauvri ne doit pas s'enrichir à son tour grâce à l'action.",
+        "L'enrichi ne doit pas payer plus qu'il n'a effectivement reçu."
+      ],
+      "explication": "La limitation au moindre des deux montants (enrichissement ou appauvrissement) découle du but même de l'enrichissement injustifié : rétablir un équilibre injustement rompu, pas en créer un nouveau. Si l'enrichi a gagné 100 mais que l'appauvri n'a perdu que 70, l'indemnisation est de 70 (l'appauvri ne peut pas gagner plus qu'il n'a perdu). Inversement, si l'enrichi a gagné 70 mais que l'appauvri a perdu 100, l'indemnisation est de 70 (l'enrichi ne peut pas payer plus qu'il n'a gagné)."
+    },
+    {
+      "question": "Vrai ou faux : la responsabilité civile délictuelle et la responsabilité pénale peuvent être engagées simultanément pour un même fait.",
+      "choix": [
+        "Vrai",
+        "Faux"
+      ],
+      "reponse": 0,
+      "indices": [
+        "La leçon donne un exemple clair de cumul.",
+        "L'auteur d'une infraction peut devoir à la fois répondre devant la société et indemniser la victime.",
+        "Les deux procédures ont des buts différents mais peuvent coexister."
+      ],
+      "explication": "Vrai. La responsabilité civile et la responsabilité pénale peuvent se cumuler pour un même fait. Un conducteur ivre qui blesse un piéton peut être condamné pénalement (amende, suspension de permis, prison) pour l'infraction qu'il a commise, et simultanément condamné civilement à indemniser la victime pour ses préjudices. Les deux procédures obéissent à des règles différentes et poursuivent des buts distincts, mais elles ne s'excluent pas."
+    },
+    {
+      "question": "Qu'est-ce que la force majeure comme cause d'exonération de responsabilité ?",
+      "choix": [
+        "Un événement provoqué par une autorité publique qui ordonne d'agir",
+        "Un événement imprévisible, irrésistible et extérieur à l'auteur, qui supplante sa faute comme cause du dommage",
+        "Une pression économique irrésistible qui force quelqu'un à agir d'une certaine façon",
+        "Une clause contractuelle qui limite la responsabilité à l'avance"
+      ],
+      "reponse": 1,
+      "indices": [
+        "La force majeure comporte trois caractères cumulatifs.",
+        "Imprévisible : personne ne pouvait l'anticiper. Irrésistible : on ne pouvait pas l'éviter. Extérieur : il ne vient pas de l'auteur.",
+        "Elle rompt le lien de causalité et exonère l'auteur."
+      ],
+      "explication": "La force majeure est un événement imprévisible (personne ne pouvait raisonnablement l'anticiper), irrésistible (on ne pouvait pas l'éviter même en prenant toutes les précautions) et extérieur à l'auteur (il ne vient pas de lui). Ces trois caractères sont cumulatifs. Quand la force majeure est reconnue, elle rompt le lien de causalité entre la faute de l'auteur et le dommage, et l'exonère totalement de sa responsabilité."
+    },
+    {
+      "question": "Un jardinier améliore le terrain de son voisin sans contrat et sans autorisation. Le voisin peut-il conserver le bénéfice des travaux sans payer ?",
+      "choix": [
+        "Oui, car le jardinier a agi sans autorisation",
+        "Non, le voisin s'est enrichi sans cause au détriment du jardinier : il doit une indemnité à hauteur du moindre de l'enrichissement ou de l'appauvrissement",
+        "Oui, car il n'y a pas de contrat entre eux et donc aucune obligation",
+        "Non, mais seulement si le jardinier peut prouver une faute du voisin"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Le voisin s'est enrichi (son terrain vaut plus) sans cause légitime.",
+        "Le jardinier s'est appauvri (il a fourni travail et matériaux) sans contrepartie.",
+        "L'enrichissement injustifié permet de rétablir cet équilibre."
+      ],
+      "explication": "Non. Le voisin ne peut pas conserver sans contrepartie le bénéfice des travaux. Il s'est enrichi sans cause légitime au détriment du jardinier — c'est précisément la situation que l'enrichissement injustifié vise à corriger. Le voisin doit une indemnité au jardinier à hauteur du moindre des deux montants : soit l'enrichissement qu'il a réalisé (plus-value du terrain), soit l'appauvrissement du jardinier (coût des travaux)."
+    },
+    {
+      "question": "Vrai ou faux : le gérant d'affaires peut réclamer une rémunération pour son intervention.",
+      "choix": [
+        "Vrai",
+        "Faux"
+      ],
+      "reponse": 1,
+      "indices": [
+        "La gestion d'affaires n'est pas un contrat de prestation de services.",
+        "Le gérant a le droit au remboursement de ses dépenses utiles — pas à une rémunération.",
+        "Il agit spontanément, pas dans un but lucratif."
+      ],
+      "explication": "Faux. Le gérant d'affaires n'a pas droit à une rémunération pour son intervention. Il a seulement le droit d'être remboursé des dépenses utiles et nécessaires qu'il a engagées, et d'être indemnisé des pertes subies du fait de sa gestion. Il n'y a pas de contrat entre lui et le maître de l'affaire — il n'a donc pas droit à des honoraires ou à un salaire. La gestion d'affaires est un service spontané, non rémunéré."
+    },
+    {
+      "question": "Résumé final : parmi ces situations, laquelle relève de la responsabilité civile délictuelle pour faute ?",
+      "choix": [
+        "Rakoto qui ne livre pas la marchandise prévue dans son contrat",
+        "Faly qui renverse par inadvertance un vendeur de rue en sortant d'un taxi en stationnement interdit",
+        "Andriamanana qui décide de donner sa maison à son neveu",
+        "Tojo qui rembourse deux fois la même dette par erreur"
+      ],
+      "reponse": 1,
+      "indices": [
+        "La responsabilité délictuelle naît d'un fait juridique, pas d'un contrat.",
+        "Il faut une faute, un dommage et un lien de causalité.",
+        "Les trois autres situations relèvent d'autres mécanismes : inexécution contractuelle, acte juridique, répétition de l'indu."
+      ],
+      "explication": "C'est la situation de Faly. Elle a commis une faute (sortir d'un taxi en stationnement interdit sans vérifier), causé un dommage (le vendeur renversé subit un préjudice), et il y a un lien de causalité direct. Les trois conditions de la responsabilité délictuelle pour faute sont réunies. Les autres situations relèvent d'autres mécanismes : Rakoto relève de la responsabilité contractuelle pour inexécution, Andriamanana effectue une donation (acte juridique), Tojo peut invoquer la répétition de l'indu."
+    },
+    {
+      "question": "Qu'est-ce que le préjudice esthétique dans le cadre du dommage corporel ?",
+      "choix": [
+        "L'atteinte au goût artistique de la victime suite au choc émotionnel",
+        "L'atteinte à l'apparence physique de la victime — cicatrices visibles, défiguration, déformation — indemnisée séparément",
+        "Le préjudice subi par un artiste ou un mannequin privé de travail",
+        "La valeur esthétique des biens détruits dans l'accident"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Esthétique renvoie à l'apparence physique.",
+        "C'est une composante distincte du dommage corporel.",
+        "Il peut concerner toute personne, pas seulement les professionnels de l'image."
+      ],
+      "explication": "Le préjudice esthétique est l'atteinte à l'apparence physique de la victime résultant du dommage : cicatrices visibles, défiguration, déformation permanente. Il est indemnisé séparément des souffrances physiques (pretium doloris) et de la perte de revenus. Il peut concerner n'importe qui — pas seulement les professionnels de l'image — car chacun a droit à l'intégrité de son apparence physique."
+    },
+    {
+      "question": "Pourquoi dit-on que les quasi-contrats permettent d'éviter un enrichissement sans juste cause ?",
+      "choix": [
+        "Parce qu'ils punissent les personnes qui s'enrichissent illégalement",
+        "Parce qu'ils créent des obligations pour rétablir un équilibre injustement rompu, même sans accord entre les parties",
+        "Parce qu'ils permettent au fisc de récupérer les sommes non déclarées",
+        "Parce qu'ils obligent les parties à signer un contrat après coup"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Les quasi-contrats naissent de situations inéquitables, pas d'infractions.",
+        "Sans eux, certaines personnes pourraient profiter d'une situation sans contrepartie.",
+        "Leur but est de rétablir l'équilibre, pas de punir."
+      ],
+      "explication": "Les quasi-contrats permettent d'éviter qu'une personne s'enrichisse ou tire profit d'une situation au détriment d'une autre sans contrepartie, et ce même en l'absence de tout accord entre elles. Sans ces mécanismes, le voisin qui bénéficie des réparations urgentes faites par un tiers, le débiteur qui conserve un paiement non dû, ou le propriétaire dont le terrain a été amélioré par un tiers pourraient conserver ce bénéfice sans rien devoir. Le droit intervient pour rétablir un équilibre juste."
+    },
+    {
+      "question": "Vrai ou faux : la responsabilité du fait des choses est une responsabilité pour faute prouvée.",
+      "choix": [
+        "Vrai",
+        "Faux"
+      ],
+      "reponse": 1,
+      "indices": [
+        "La leçon dit que cette responsabilité est présumée.",
+        "La victime n'a pas à prouver une faute du gardien.",
+        "Elle prouve seulement que la chose était sous la garde de l'auteur et a causé le dommage."
+      ],
+      "explication": "Faux. La responsabilité du fait des choses est une responsabilité présumée — pas une responsabilité pour faute prouvée. La victime n'a pas à prouver que le gardien de la chose a commis une faute. Elle doit seulement établir que la chose était sous la garde de l'auteur et qu'elle a causé le dommage. C'est l'auteur (le gardien) qui doit prouver l'existence d'une cause d'exonération s'il veut s'affranchir de cette responsabilité."
+    },
+    {
+      "question": "Parmi ces événements, lequel est un fait juridique volontaire (comportement voulu, mais conséquences juridiques non voulues) ?",
+      "choix": [
+        "Un tremblement de terre qui détruit un immeuble",
+        "La naissance d'un enfant qui hérite de son père",
+        "Un employé qui détourne intentionnellement des fonds de l'entreprise et est condamné à rembourser",
+        "La signature d'un contrat de bail"
+      ],
+      "reponse": 2,
+      "indices": [
+        "Volontaire signifie que le comportement est intentionnel.",
+        "Mais les conséquences juridiques (condamnation, obligation de rembourser) ne sont pas voulues.",
+        "La naissance et le tremblement de terre sont involontaires. La signature d'un bail est un acte juridique."
+      ],
+      "explication": "L'employé qui détourne des fonds est un exemple de fait juridique volontaire. Il a délibérément voulu commettre le détournement — c'est un comportement intentionnel. Mais il n'a pas voulu la condamnation à rembourser ni les poursuites pénales qui en découlent — ce sont des conséquences juridiques non voulues. C'est la définition exacte du fait juridique volontaire."
+    },
+    {
+      "question": "Dans quel cas la responsabilité civile délictuelle peut-elle être engagée sans faute intentionnelle ?",
+      "choix": [
+        "Jamais : la responsabilité civile exige toujours une intention de nuire",
+        "Toujours : même une simple imprudence ou négligence peut suffire à engager la responsabilité",
+        "Seulement si la victime est mineure",
+        "Seulement si le dommage dépasse un certain montant"
+      ],
+      "reponse": 1,
+      "indices": [
+        "La faute peut être intentionnelle ou non intentionnelle.",
+        "L'imprudence et la négligence sont des fautes qui engagent la responsabilité.",
+        "L'intention de nuire n'est pas requise pour la responsabilité civile."
+      ],
+      "explication": "La faute non intentionnelle — imprudence, négligence, maladresse — suffit à engager la responsabilité civile délictuelle. L'intention de nuire n'est pas requise. Un conducteur qui ne regarde pas à un carrefour et renverse un piéton n'avait aucune intention de nuire, mais sa négligence constitue une faute qui engage sa responsabilité civile. C'est une différence importante avec la responsabilité pénale, où certaines infractions exigent une intention."
+    },
+    {
+      "question": "Vrai ou faux : les faits juridiques involontaires — comme une naissance ou une tempête — peuvent quand même produire des effets de droit.",
+      "choix": [
+        "Vrai",
+        "Faux"
+      ],
+      "reponse": 0,
+      "indices": [
+        "Les effets de droit ne requièrent pas nécessairement une volonté.",
+        "Une naissance ouvre des droits successoraux et la personnalité juridique.",
+        "Une tempête peut activer des mécanismes d'assurance ou de responsabilité."
+      ],
+      "explication": "Vrai. Les faits juridiques involontaires produisent des effets de droit même si personne ne les a voulus. Une naissance confère automatiquement la personnalité juridique à l'enfant et ouvre des droits successoraux. Un décès déclenche l'ouverture d'une succession. Une tempête peut activer des clauses d'assurance. Le droit attache des conséquences juridiques à ces événements indépendamment de toute volonté humaine."
+    },
+    {
+      "question": "Qu'est-ce que la causalité adéquate, en opposition à l'équivalence des conditions ?",
+      "choix": [
+        "Toutes les causes qui ont contribué au dommage sont retenues, sans distinction",
+        "Seule est retenue comme cause celle qui, d'après le cours normal des choses, était de nature à produire le dommage",
+        "La cause la plus récente est la seule retenue",
+        "La cause économiquement la plus coûteuse est privilégiée"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Adéquate signifie appropriée, pertinente.",
+        "Cette théorie filtre les causes : elle ne retient que la cause naturellement apte à produire le dommage.",
+        "Elle est plus restrictive que l'équivalence des conditions."
+      ],
+      "explication": "La théorie de la causalité adéquate ne retient comme cause du dommage que l'événement qui, d'après le cours normal des choses, était de nature à produire le dommage — la cause « adéquate », c'est-à-dire appropriée. Elle est plus restrictive que l'équivalence des conditions, car elle exclut les causes qui, bien qu'ayant contribué au dommage dans les faits, n'avaient pas normalement vocation à le produire."
+    },
+    {
+      "question": "Parmi ces sources d'obligations, laquelle relève d'un quasi-contrat ?",
+      "choix": [
+        "Hery qui rembourse la dette contractée envers Zo",
+        "Faly qui répare le préjudice causé par son chien à un voisin",
+        "Rakoto qui agit spontanément pour sauvegarder les biens de son voisin absent lors d'une inondation",
+        "Andriamanana qui signe un contrat de vente de son terrain"
+      ],
+      "reponse": 2,
+      "indices": [
+        "Le quasi-contrat naît d'un fait volontaire licite sans accord préalable.",
+        "Rakoto agit spontanément pour un absent sans y être obligé.",
+        "C'est la définition même de la gestion d'affaires."
+      ],
+      "explication": "Rakoto qui agit spontanément pour sauvegarder les biens de son voisin absent illustre la gestion d'affaires — un quasi-contrat. Il agit volontairement (c'est licite), dans l'intérêt de son voisin, sans y être obligé ni avoir reçu de mandat. Son voisin devra rembourser les dépenses utiles engagées. Les autres situations relèvent d'autres mécanismes : exécution d'un contrat (Hery), responsabilité du fait des animaux (Faly), acte juridique (Andriamanana)."
+    },
+    {
+      "question": "Résumé du module : quel est le point commun entre la responsabilité civile et les quasi-contrats ?",
+      "choix": [
+        "Ils exigent tous deux un accord de volontés entre les parties",
+        "Ils naissent tous deux de faits juridiques — des événements dont les conséquences juridiques ne sont pas voulues par leur auteur — et créent des obligations sans contrat préalable",
+        "Ils sont tous deux sanctionnés pénalement",
+        "Ils ne s'appliquent qu'aux personnes morales (sociétés, associations)"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Ni la responsabilité civile ni les quasi-contrats ne naissent d'un accord.",
+        "Dans les deux cas, la loi impose des obligations en l'absence de contrat.",
+        "Les deux appartiennent à la famille des faits juridiques."
+      ],
+      "explication": "La responsabilité civile et les quasi-contrats ont en commun de naître de faits juridiques — des événements dont les conséquences juridiques ne sont pas voulues — et de créer des obligations sans contrat préalable entre les parties. Dans la responsabilité civile, l'obligation de réparer naît du dommage causé. Dans les quasi-contrats, l'obligation naît d'un fait volontaire licite qui crée un déséquilibre. Dans les deux cas, c'est la loi — et non la volonté des parties — qui impose l'obligation."
+    },
+    {
+      "question": "Vrai ou faux : la responsabilité du fait d'autrui requiert toujours de prouver une faute personnelle du responsable.",
+      "choix": [
+        "Vrai",
+        "Faux"
+      ],
+      "reponse": 1,
+      "indices": [
+        "La leçon dit que cette responsabilité est souvent présumée.",
+        "La victime prouve seulement le lien de garde ou de subordination.",
+        "Le responsable peut s'exonérer — mais c'est à lui d'en apporter la preuve."
+      ],
+      "explication": "Faux. La responsabilité du fait d'autrui est souvent présumée : la victime n'a pas à prouver une faute personnelle du responsable. Elle doit seulement établir le lien de garde ou de subordination (parent/enfant, employeur/salarié, instituteur/élève) et le dommage causé par la personne dont répond le responsable. C'est au responsable présumé de renverser cette présomption en prouvant l'absence de faute ou une cause d'exonération."
+    },
+    {
+      "question": "Quelle est la limite de l'enrichissement injustifié comme mécanisme de réparation ?",
+      "choix": [
+        "Il ne peut être invoqué que par des personnes morales",
+        "Il ne couvre que les dommages matériels, jamais les dommages moraux",
+        "Il est subsidiaire : il ne joue qu'en l'absence de tout autre mécanisme juridique disponible, et la réparation est limitée au moindre des deux montants",
+        "Il ne s'applique qu'aux relations entre membres d'une même famille"
+      ],
+      "reponse": 2,
+      "indices": [
+        "Subsidiaire signifie qu'il n'intervient qu'en dernier recours.",
+        "La réparation est aussi limitée dans son montant.",
+        "C'est pour éviter qu'il ne supplante toutes les autres règles."
+      ],
+      "explication": "L'enrichissement injustifié est doublement limité. D'abord par son caractère subsidiaire : il ne peut être invoqué que si aucun autre mécanisme juridique (contrat, responsabilité délictuelle, gestion d'affaires, répétition de l'indu) n'est disponible. Ensuite par la limite de l'indemnisation au moindre des deux montants (enrichissement ou appauvrissement) : l'appauvri ne peut pas profiter de l'action pour obtenir plus qu'il n'a perdu."
+    },
+    {
+      "question": "Un propriétaire dont le bâtiment est en ruine voit un passant blessé par la chute d'un morceau de façade. De quelle responsabilité relève cette situation ?",
+      "choix": [
+        "La responsabilité délictuelle pour faute personnelle",
+        "La responsabilité du fait des choses — régime spécial des bâtiments en ruine",
+        "La gestion d'affaires",
+        "La répétition de l'indu"
+      ],
+      "reponse": 1,
+      "indices": [
+        "La chute est causée par une chose — le bâtiment — pas directement par un comportement humain.",
+        "Il existe un régime spécial pour les bâtiments en ruine.",
+        "Le propriétaire répond en cas de vice de construction ou de défaut d'entretien."
+      ],
+      "explication": "Cette situation relève de la responsabilité du fait des choses, et plus précisément du régime spécial des bâtiments en ruine. Le propriétaire d'un bâtiment répond des dommages causés par la ruine de cet immeuble lorsqu'elle résulte d'un vice de construction ou d'un défaut d'entretien. La victime n'a pas à prouver une faute personnelle du propriétaire — c'est le régime spécial qui s'applique dès que les conditions du champ d'application sont réunies."
+    },
+    {
+      "question": "Vrai ou faux : un fait juridique peut être à la fois la source d'une responsabilité civile et d'une responsabilité pénale pour la même personne.",
+      "choix": [
+        "Vrai",
+        "Faux"
+      ],
+      "reponse": 0,
+      "indices": [
+        "La leçon donne l'exemple du conducteur ivre.",
+        "Les deux responsabilités poursuivent des buts différents mais peuvent coexister.",
+        "Il peut y avoir une condamnation pénale et une obligation civile de réparer pour le même fait."
+      ],
+      "explication": "Vrai. Un même fait peut engager simultanément la responsabilité civile (obligation de réparer le préjudice de la victime) et la responsabilité pénale (sanction de la société pour l'infraction commise). L'auteur d'une agression, par exemple, peut être condamné pénalement à une peine d'emprisonnement et civilement à verser des dommages-intérêts à la victime. Les deux procédures se déroulent devant des juridictions différentes selon des règles distinctes."
+    }
+  ],
+  "exercices": [
+    {
+      "question": "CAS PRATIQUE 1 : Andriamanana est mécanicien à son compte à Antsiranana. Il répare un véhicule appartenant à Zo et lui restitue en affirmant que tout est en ordre. Deux jours plus tard, les freins du véhicule lâchent sur la route nationale. Zo, incapable de freiner, heurte le camion d'un transporteur nommé Faly. Zo est légèrement blessée (fractures des poignets, deux semaines d'incapacité de travail). Le camion de Faly est fortement endommagé (500 000 ariary de réparations). Il est établi que les freins étaient défectueux avant même la réparation effectuée par Andriamanana, mais que ce dernier n'a pas détecté le défaut lors de la révision, ce qu'un mécanicien compétent aurait dû faire.\n\nIdentifiez et analysez : (1) la nature juridique de chaque fait ou acte en cause ; (2) les responsabilités civiles encourues et leurs fondements ; (3) les préjudices réparables et leurs types ; (4) l'éventuelle influence de la faute de chacun sur l'indemnisation.",
+      "choix": [
+        "Seul Faly peut agir car c'est lui qui a subi le dommage le plus important",
+        "(1) Le contrat de réparation est un acte juridique ; l'accident est un fait juridique. (2) Andriamanana engage sa responsabilité délictuelle envers Zo et Faly (faute : ne pas avoir détecté le défaut) et éventuellement contractuelle envers Zo. (3) Zo subit un dommage corporel (fractures, incapacité) et matériel ; Faly subit un dommage matériel (camion). (4) Si Zo avait une part de responsabilité, l'indemnisation serait réduite — mais ici rien ne l'indique",
+        "C'est uniquement la responsabilité pénale d'Andriamanana qui est en jeu",
+        "Faly est responsable car son camion était sur la route"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Le contrat de réparation est un acte juridique bilatéral. L'accident est un fait juridique — ses conséquences juridiques n'ont été voulues par personne.",
+        "Andriamanana a commis une faute professionnelle : un mécanicien compétent aurait détecté le défaut. Cette faute engage-t-elle sa responsabilité envers Zo (son cliente) et envers Faly (un tiers) ?",
+        "Identifiez les types de dommages subis par Zo et par Faly. Sont-ils tous réparables ?"
+      ],
+      "explication": "Voici l'analyse complète. (1) Nature juridique des faits et actes. Le contrat de réparation conclu entre Andriamanana et Zo est un acte juridique bilatéral (contrat) : les deux parties ont voulu conclure un accord et en produire les effets. L'accident sur la route nationale est un fait juridique : personne n'a voulu ses conséquences juridiques — ni Andriamanana (la responsabilité de réparer les dommages), ni Zo (être blessée), ni Faly (voir son camion endommagé). (2) Les responsabilités encourues. Andriamanana a commis une faute : un mécanicien compétent — le standard de référence — aurait détecté le défaut des freins lors de la révision. Cette faute engage sa responsabilité sur deux fondements possibles. Envers Zo, sa cliente : responsabilité contractuelle pour inexécution de son obligation de résultat ou de moyen (selon la nature du contrat de réparation) ET responsabilité délictuelle si la faute commise a causé un dommage corporel à Zo. Envers Faly, un tiers au contrat : responsabilité délictuelle pour faute (article 1240 C. civ. français, applicable par analogie). La faute d'Andriamanana est la cause directe de l'accident — sans elle, Zo aurait pu freiner. (3) Les préjudices réparables. Zo subit un dommage corporel (fractures des poignets — frais médicaux, pretium doloris, souffrances) et un dommage matériel (perte de revenus pendant deux semaines d'incapacité de travail). Faly subit un dommage matériel pur (500 000 ariary de réparations de son camion). Ces deux types de dommages sont réparables : ils sont certains, personnels, directs et licites. (4) La question du partage de responsabilité. Aucun élément dans le cas ne suggère que Zo ou Faly aient commis une faute. La faute d'Andriamanana est la cause unique et directe de l'accident. Il n'y a donc pas lieu à partage de responsabilité. Zo et Faly peuvent tous deux prétendre à une indemnisation intégrale de leurs préjudices respectifs. Si Zo avait conduit à vitesse excessive ou avait tardé à entretenir son véhicule, cela aurait pu être retenu comme faute contributive réduisant son indemnisation — mais les faits ne l'indiquent pas."
+    },
+    {
+      "question": "CAS PRATIQUE 2 : Valérie part en mission professionnelle à Antananarivo pour un mois. Avant de partir, elle oublie de fermer le robinet de sa cuisine. Son voisin Chriso constate l'inondation trois jours plus tard, entre dans l'appartement (la porte était entrouverte) et fait appel à un plombier pour réparer la fuite. Il dépense 300 000 ariary de réparations. Parallèlement, l'eau a coulé dans l'appartement du dessous, appartenant à Mamisoa, causant des dégâts au plafond et aux meubles pour 800 000 ariary. Valérie, à son retour, découvre également qu'on a débité deux fois le même loyer de son compte bancaire par erreur de prélèvement automatique.\n\nPour chaque situation, identifiez : (1) le mécanisme juridique applicable (quasi-contrat, responsabilité civile, autre) ; (2) les conditions requises et leur satisfaction ; (3) les droits et obligations qui en découlent.",
+      "choix": [
+        "Valérie n'est responsable de rien car elle n'était pas là au moment des faits",
+        "Situation 1 (Chriso) : gestion d'affaires — Chriso peut réclamer 300 000 ariary. Situation 2 (Mamisoa) : responsabilité civile délictuelle pour faute de Valérie — Mamisoa peut réclamer 800 000 ariary. Situation 3 (double prélèvement) : répétition de l'indu — Valérie peut récupérer le trop-perçu",
+        "Seule la responsabilité pénale de Valérie est engagée pour avoir quitté son appartement",
+        "Chriso et Mamisoa n'ont aucun recours car ils n'ont pas de contrat avec Valérie"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Chriso a agi spontanément pour le compte de Valérie sans y être obligé — quel quasi-contrat cela évoque-t-il ?",
+        "Mamisoa a subi un dommage causé par la faute de Valérie (oublier de fermer un robinet est une négligence). Les trois conditions de la responsabilité civile délictuelle sont-elles réunies ?",
+        "Le double prélèvement bancaire est-il un paiement dû ? Valérie a payé quelque chose qu'elle ne devait pas — quel quasi-contrat permet de récupérer ce trop-payé ?"
+      ],
+      "explication": "Voici l'analyse complète des trois situations. Situation 1 — Chriso et la gestion d'affaires. (1) Mécanisme : gestion d'affaires, un quasi-contrat. (2) Conditions : Chriso a agi volontairement (il a appelé un plombier) ; sans y être obligé (aucun contrat ni obligation légale de le faire) ; dans l'intérêt de Valérie, le maître de l'affaire (sauvegarder son appartement) ; de façon utile (réparer la fuite pour éviter des dégâts supplémentaires) ; et Valérie n'avait pas interdit cette intervention. Toutes les conditions de la gestion d'affaires sont réunies. (3) Effets : Valérie doit rembourser à Chriso les 300 000 ariary de dépenses utiles et nécessaires engagées. Chriso doit rendre compte de sa gestion à Valérie. Situation 2 — Mamisoa et la responsabilité civile délictuelle. (1) Mécanisme : responsabilité civile délictuelle pour faute (fait juridique dommageable). (2) Conditions : la faute de Valérie — oublier de fermer un robinet avant un départ d'un mois est une négligence qui s'écarte du comportement d'une personne raisonnable et prudente. Le dommage — 800 000 ariary de dégâts au plafond et aux meubles de Mamisoa, certain, personnel et direct. Le lien de causalité — c'est directement l'oubli du robinet qui a causé l'inondation et les dégâts chez Mamisoa. Les trois conditions du triptyque sont réunies. (3) Effets : Valérie doit indemniser Mamisoa à hauteur de 800 000 ariary pour ses dommages matériels. Si des dommages moraux (stress, désagrément) sont également prouvés, ils pourraient s'y ajouter. Situation 3 — Le double prélèvement et la répétition de l'indu. (1) Mécanisme : répétition de l'indu, un quasi-contrat. (2) Conditions : Valérie a payé son loyer deux fois alors qu'elle ne le devait qu'une fois. Le second prélèvement est un indu — un paiement sans cause, sans dette correspondante. Peu importe que l'erreur vienne de la banque ou du bailleur : le trop-perçu doit être restitué. (3) Effets : Valérie peut exiger le remboursement du montant indûment prélevé. Celui qui a reçu ce paiement sans cause — la banque ou le bailleur selon les circonstances — est tenu de le restituer, même s'il était de bonne foi. Conclusion générale. Cette affaire illustre parfaitement la richesse des faits juridiques comme sources d'obligations. Pour un même événement de départ (l'oubli du robinet), plusieurs mécanismes juridiques distincts s'activent simultanément : un quasi-contrat (gestion d'affaires) envers Chriso, une responsabilité délictuelle envers Mamisoa, et un autre quasi-contrat (répétition de l'indu) pour le problème bancaire. Aucun contrat ne préexistait entre Valérie et ces trois parties pour ces situations — c'est la loi qui impose les obligations."
+    }
+  ]
+}
