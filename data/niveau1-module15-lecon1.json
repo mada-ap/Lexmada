@@ -1,0 +1,656 @@
+{
+  "titre": "Les biens : classification et régime juridique",
+  "module": "Module 15 — Les biens",
+  "niveau": "Débutant",
+  "contenu": [
+    {
+      "titre": "Qu'est-ce qu'un bien en droit malgache ?",
+      "texte": "Dans la vie quotidienne, le mot « bien » désigne ce qu'on possède — une maison, un champ, une voiture, de l'argent. En droit, la notion est plus précise. Un bien est toute chose susceptible d'appropriation et d'évaluation pécuniaire — c'est-à-dire toute chose qui peut appartenir à quelqu'un et avoir une valeur économique. Les biens forment ce qu'on appelle le patrimoine d'une personne : l'ensemble de ses droits et de ses obligations à valeur économique. Comprendre la classification des biens est fondamental en droit malgache, car la catégorie à laquelle appartient un bien détermine son régime juridique — c'est-à-dire les règles qui s'appliquent à sa propriété, à sa transmission, à sa saisie par les créanciers, à son enregistrement. Le Code Foncier malgache, promulgué par le Journal Officiel n° Spécial du 5 avril 2006, pose la distinction fondamentale en son article 2 : tous les biens sont mobiliers ou immobiliers. Cette summa divisio — cette grande distinction — est le point de départ de toute la matière.",
+      "definition": "Bien : toute chose susceptible d'appropriation privée et d'évaluation économique. Les biens forment le patrimoine d'une personne. En droit malgache, la distinction fondamentale posée par l'article 2 du Code Foncier est celle entre biens mobiliers et biens immobiliers."
+    },
+    {
+      "titre": "Les droits patrimoniaux : trois grandes catégories",
+      "texte": "Avant d'étudier la distinction meubles/immeubles, il faut comprendre que les biens au sens juridique ne se limitent pas aux objets physiques. L'article 1er du Code Foncier malgache précise que les biens ou droits patrimoniaux sont de trois sortes. Premièrement, les droits réels, qui sont des droits exercés directement sur une chose, sans intermédiaire. Ils confèrent à leur titulaire un pouvoir direct sur le bien. Les seuls droits réels reconnus par le droit malgache sont limitativement énumérés : la propriété, la concession perpétuelle, les droits d'emphytéose, de superficie, d'usufruit, d'usage et d'habitation, les servitudes foncières, le gage, le privilège et l'hypothèque. Deuxièmement, les droits de créance ou d'obligation, qui sont des droits qu'une personne — le créancier — détient contre une autre — le débiteur — et qui l'obligent à donner, faire ou ne pas faire quelque chose. Ces droits sont régis par le Livre III du Code civil malgache. Troisièmement, les droits intellectuels, qui portent sur des créations de l'esprit — œuvres littéraires, inventions, marques — et sont régis par une législation spéciale.",
+      "definition": "Droits patrimoniaux : ensemble des droits à valeur économique appartenant à une personne. Trois catégories en droit malgache (art. 1er Code Foncier) : droits réels (pouvoir direct sur une chose), droits de créance (droit contre une personne), droits intellectuels (protection des créations de l'esprit)."
+    },
+    {
+      "titre": "La summa divisio : meubles et immeubles",
+      "texte": "L'article 2 du Code Foncier malgache pose le principe fondamental : tous les biens sont mobiliers ou immobiliers. Cette distinction n'est pas seulement théorique — elle a des conséquences pratiques considérables. Le régime de la propriété immobilière à Madagascar est soumis à des règles strictes d'enregistrement et de publicité foncière. Les immeubles ne peuvent être saisis que par des procédures spécifiques. Les droits réels immobiliers sont soumis à l'enregistrement obligatoire au livre foncier, au contraire des droits mobiliers. La nature du bien détermine aussi la compétence territoriale des tribunaux : le tribunal du lieu où se situe l'immeuble est compétent pour les litiges immobiliers. Pour les personnes morales comme les sociétés ou les associations, leurs parts et actions sont des meubles — même si elles possèdent des immeubles — ce qui illustre que la classification porte sur le droit, pas toujours sur l'objet physique.",
+      "definition": "Summa divisio : distinction fondamentale entre biens meubles et biens immeubles posée par l'art. 2 du Code Foncier malgache. Cette classification détermine le régime juridique applicable : règles de propriété, de transmission, d'enregistrement, de saisie, et compétence territoriale des juridictions."
+    },
+    {
+      "titre": "Les immeubles : définition et catégories",
+      "texte": "L'article 5 du Code Foncier malgache dispose que les choses sont immeubles soit par leur nature, soit par leur incorporation, soit par leur destination. Il existe donc trois catégories d'immeubles. Les immeubles par nature sont ceux qui, par leur caractère physique, sont fixes et attachés au sol. L'article 6 dispose que le sol et les mines sont immeubles par leur nature. C'est la catégorie la plus évidente : tout ce qui est ancré dans le sol, qui ne peut pas se déplacer sans perdre son identité. Les immeubles par incorporation sont définis à l'article 7 : il s'agit des bâtiments et leurs accessoires nécessaires comme les tuyaux servant à la conduite des eaux, de la vapeur ou du gaz et des fils conducteurs de l'électricité, de toutes constructions inhérentes au sol, des arbres et plantes quelconques tant qu'ils ne sont pas détachés du sol, et des fruits et récoltes tant qu'ils n'ont pas d'existence séparée. Ces éléments sont devenus immeubles parce qu'ils ont été incorporés au sol, fusionnant avec lui. Les immeubles par destination, enfin, sont une catégorie plus subtile : ce sont des objets mobiliers à l'origine, mais que leur propriétaire a affectés à un immeuble au point qu'ils en deviennent juridiquement l'accessoire.",
+      "definition": "Immeubles en droit malgache (art. 5 Code Foncier) : trois catégories. Par nature : sol et mines (art. 6). Par incorporation : bâtiments, constructions, arbres, fruits non récoltés (art. 7). Par destination : objets mobiliers affectés à un immeuble par leur propriétaire (art. 8).",
+      "exemple": "Une plantation de girofliers à Sainte-Marie est un immeuble par incorporation tant que les arbres sont en terre. Les girofliers séchés après récolte et mis en sacs deviennent des meubles. Un tracteur appartenant au propriétaire d'une exploitation agricole et affecté à son exploitation peut devenir un immeuble par destination."
+    },
+    {
+      "titre": "Les immeubles par destination : conditions et effets",
+      "texte": "L'immeuble par destination est la catégorie la plus délicate du droit malgache des biens. L'article 8 du Code Foncier en donne la définition : sont immeubles par destination les objets mobiliers placés par leur propriétaire dans un immeuble qui lui appartient — ou sur lequel il exerce un droit réel immobilier lui permettant d'en user ou d'en jouir — soit pour les nécessités de l'exploitation dudit immeuble, soit à perpétuelle demeure pour son utilité ou son agrément. Deux conditions sont donc nécessaires. Première condition : l'identité de propriétaire. Le bien meuble et l'immeuble auquel il est affecté doivent appartenir à la même personne — ou celle-ci doit exercer un droit réel immobilier sur l'immeuble. Si le tracteur appartient à un tiers et est simplement prêté au propriétaire du fonds, il reste un meuble. Deuxième condition : la volonté d'affectation du propriétaire. Celui-ci doit avoir voulu créer un lien durable entre le meuble et l'immeuble. Ce lien peut être économique — l'objet sert à l'exploitation du fonds — ou matériel — l'objet est attaché à perpétuelle demeure. L'article 8 précise que l'immobilisation par destination prend fin lorsque le droit réel en vertu duquel elle avait été réalisée vient à expiration.",
+      "definition": "Immeuble par destination (art. 8 Code Foncier) : objet mobilier devenu juridiquement immeuble parce que son propriétaire l'a affecté à un immeuble dont il est propriétaire ou titulaire d'un droit réel. Deux conditions cumulatives : identité de propriétaire entre le meuble et l'immeuble, et volonté d'affectation durable (économique ou matérielle).",
+      "exemple": "Le propriétaire d'une rizière à Marovoay y installe une pompe à eau pour l'irrigation. Cette pompe, bien que meuble par nature, devient un immeuble par destination car elle appartient au même propriétaire que la rizière et est affectée à son exploitation agricole. En cas de vente de la rizière, la pompe suit l'immeuble sauf clause contraire."
+    },
+    {
+      "titre": "Les immeubles par l'objet auquel ils s'appliquent",
+      "texte": "Il existe une quatrième catégorie d'immeubles, née non de la nature physique des choses, mais de la nature des droits. L'article 3 du Code Foncier malgache dispose que sont immobiliers tous les droits réels qui ont pour objet des immeubles, ainsi que les droits de créance tendant à acquérir ou à recouvrer un droit réel sur un immeuble. Ce sont donc des biens incorporels — des droits — qui sont qualifiés d'immeubles parce qu'ils portent sur des immeubles. Un droit d'usufruit sur une maison est lui-même qualifié d'immeuble. Une servitude de passage grevant un terrain est un immeuble. Une action en revendication d'un terrain — c'est-à-dire le droit d'agir en justice pour récupérer ce terrain — est un droit immobilier. Cette catégorie a des conséquences pratiques importantes : ces droits incorporels sont soumis aux mêmes règles de publicité foncière et d'enregistrement que les immeubles eux-mêmes. Celui qui acquiert un droit d'usufruit sur un immeuble doit procéder à son enregistrement au certificat foncier.",
+      "definition": "Immeubles par l'objet auquel ils s'appliquent (art. 3 Code Foncier) : droits incorporels qualifiés d'immeubles parce qu'ils portent sur des immeubles. Exemples : usufruit sur un immeuble, servitude foncière, hypothèque, action en revendication immobilière. Soumis aux règles de publicité foncière.",
+      "exemple": "Rasoa détient un droit d'emphytéose sur un terrain appartenant à l'État à Antsiranana. Ce droit est un droit réel immobilier — il porte sur un immeuble. Il doit être enregistré au certificat foncier. Si Rasoa le cède à un tiers, cette cession doit également faire l'objet d'un enregistrement."
+    },
+    {
+      "titre": "Les meubles : définition et catégories",
+      "texte": "L'article 4 du Code Foncier malgache dispose que sont mobiliers tous les autres droits patrimoniaux et notamment les actions ou intérêts dans les sociétés, associations ou communautés qui jouissent de la personnalité civile, encore que des immeubles appartiennent à l'être moral. Les meubles sont donc définis par exclusion : ce qui n'est pas immeuble est meuble. On distingue plusieurs catégories. Les meubles par nature sont les choses corporelles qui peuvent se transporter d'un lieu à un autre, soit qu'elles se meuvent par elles-mêmes — comme les animaux — soit qu'elles ne puissent changer de place que par l'effet d'une force étrangère — comme une table, un véhicule, des marchandises. Les meubles par détermination de la loi sont des droits incorporels qualifiés de meubles : les créances ordinaires, les parts et actions dans les sociétés et associations, les droits réels portant sur des meubles. Les meubles par anticipation sont une catégorie créée par la pratique juridique : ce sont des immeubles par nature que les parties traitent d'ores et déjà comme des meubles parce qu'ils sont destinés à être détachés du sol. L'article 7 du Code Foncier pose que les fruits et récoltes deviennent des meubles lorsqu'ils ont une existence séparée.",
+      "definition": "Meubles en droit malgache (art. 4 Code Foncier) : tous les droits patrimoniaux qui ne sont pas immeubles. Par nature : choses corporelles transportables. Par détermination de la loi : droits incorporels (créances, parts sociales). Par anticipation : immeubles par nature traités comme meubles car destinés à être détachés (récoltes sur pied vendues).",
+      "exemple": "Les parts sociales que détient un associé dans une société malgache sont des meubles, même si cette société possède des terrains et des bâtiments à Tamatave. Les vanilles en cours de culture dans un champ sont des immeubles par incorporation ; les mêmes vanilles séchées stockées dans un entrepôt sont des meubles."
+    },
+    {
+      "titre": "La propriété foncière à Madagascar : une spécificité fondamentale",
+      "texte": "Le droit malgache des biens immobiliers présente une particularité absolument fondamentale que tout juriste malgache doit connaître : le sol est la propriété exclusive, inaliénable et imprescriptible de l'État. C'est ce que pose l'article 53 du Code Foncier. Cela signifie que contrairement à ce que l'on pourrait croire, un particulier ne peut jamais être propriétaire du sol lui-même à Madagascar. Ce qu'un particulier peut acquérir, c'est un droit de jouissance sur ce sol — une concession perpétuelle, une emphytéose, une superficie, un usufruit, un usage ou une location — mais jamais la propriété du sol en tant que tel. L'article 54 précise que le patrimoine foncier de l'État comprend un domaine public et un domaine privé. Le domaine public foncier est constitué de toutes les terres affectées à un usage ou à un service public : ces terres sont inconcessibles tant qu'elles ne sont pas désaffectées. Le domaine privé de l'État comprend toutes les autres terres : elles peuvent faire l'objet de concessions au profit de particuliers, personnes physiques ou morales.",
+      "definition": "Propriété foncière malgache (art. 53 Code Foncier) : le sol est la propriété exclusive, inaliénable et imprescriptible de l'État. Les particuliers ne peuvent acquérir qu'un droit de jouissance (concession perpétuelle, emphytéose, superficie...) sur le sol, jamais la propriété du sol lui-même. Le patrimoine foncier de l'État comprend domaine public (inconcessible) et domaine privé (concédable)."
+    },
+    {
+      "titre": "Les droits réels sur les immeubles : les concessions",
+      "texte": "Puisque le sol appartient à l'État, les droits que les particuliers peuvent exercer sur les immeubles prennent la forme de concessions. L'article 61 du Code Foncier définit la concession comme le contrat par lequel l'État reconnaît à une collectivité, à une personne physique ou à une personne morale de droit privé ou public, un droit de jouissance sur un fonds. Il existe deux grandes catégories de concessions. La concession perpétuelle est le droit que l'État reconnaît à une personne physique de nationalité malgache de jouir indéfiniment d'un fonds, aussi longtemps que les conditions légales sont remplies. Elle est la forme la plus aboutie de jouissance foncière pour un particulier — le plus proche de ce que l'on appelait autrefois la propriété. Les concessions ordinaires comprennent cinq types : l'emphytéose, la superficie, l'usufruit, l'usage et la location. Chacune confère des droits différents et est soumise à des durées maximales distinctes. L'emphytéose et la superficie ne peuvent pas excéder 25 ans, renouvelables. L'usufruit ne peut excéder 25 ans. L'usage ne peut excéder 15 ans. La location ne peut excéder 3 ans.",
+      "definition": "Concession foncière (art. 61 Code Foncier) : contrat par lequel l'État reconnaît à un particulier un droit de jouissance sur un fonds de son domaine privé. Deux catégories : concession perpétuelle (réservée aux personnes physiques malgaches, durée indéfinie) et concessions ordinaires (emphytéose 25 ans max, superficie 25 ans max, usufruit 25 ans max, usage 15 ans max, location 3 ans max).",
+      "exemple": "Rivo, citoyen malgache, obtient une concession perpétuelle sur un terrain à Diégo-Suarez. Il peut y construire, planter, louer, hypothéquer et même transmettre ce droit à ses héritiers. Mais si un investisseur étranger souhaite exploiter ce même terrain, il ne pourra obtenir qu'une concession ordinaire de 25 ans maximum renouvelable — jamais une concession perpétuelle."
+    },
+    {
+      "titre": "La propriété des choses incorporées et des constructions",
+      "texte": "La propriété d'une chose — meuble ou immeuble — donne droit sur tout ce qu'elle produit et sur tout ce qui s'y unit ou s'y incorpore, que ce soit naturellement ou artificiellement. C'est ce que posent les articles 20 et 21 du Code Foncier. Mais ces principes connaissent des modalités complexes en droit malgache, notamment en raison de la distinction entre la propriété du sol (qui appartient à l'État) et la propriété des constructions qui y sont édifiées. L'article 96 précise que le titulaire de la concession perpétuelle est propriétaire de tout ce qui s'incorpore au fonds aussi longtemps que dure son droit de jouissance. L'article 97 lui reconnaît le droit de construire, planter, disposer des constructions, bois, arbres et autres plantes. Les articles 22 et 23 règlent des situations délicates : si des constructions ont été faites par un possesseur de bonne foi avec des matériaux lui appartenant, l'État ou le concessionnaire du fonds ne peut en exiger la suppression — il doit rembourser soit la valeur des matériaux et le prix de la main-d'œuvre, soit la plus-value résultée pour le fonds.",
+      "definition": "Accession en droit malgache (art. 20-23 Code Foncier) : le titulaire d'un droit réel immobilier est propriétaire de ce qui s'y unit et s'y incorpore. Mais la dissociation entre propriété du sol (État) et propriété des constructions (concessionnaire) génère des règles spéciales : bonne foi du constructeur, remboursement de la plus-value, droit de suppression ou de conservation selon les cas.",
+      "exemple": "Voahangy construit de bonne foi une maison sur un terrain dont elle pensait être concessionnaire, mais dont le titre était en réalité entaché d'un vice. L'État ne peut pas simplement exiger la démolition : il doit lui rembourser soit la valeur des matériaux et de la main-d'œuvre, soit la plus-value apportée au fonds par la construction."
+    },
+    {
+      "titre": "L'enregistrement des droits immobiliers : le certificat foncier",
+      "texte": "En droit malgache, aucun droit immobilier n'est valablement constitué s'il n'est pas enregistré. C'est le système dit de la publicité foncière obligatoire. L'article 219 du Code Foncier pose que le droit de jouissance d'un fonds n'est légalement établi que par un certificat d'enregistrement du titre concédé par l'État. De même, la propriété privée des immeubles par incorporation n'est légalement établie que par inscription sur le certificat établissant la concession du fonds. L'article 220 ajoute que les mutations — les transferts de propriété — entre vifs ou par décès ne s'opèrent que par un nouveau certificat d'enregistrement. Nulle charge ne frappe la propriété immobilière si elle n'est inscrite au certificat d'enregistrement. Le certificat d'enregistrement est donc la pièce centrale du droit immobilier malgache : il fait pleine foi de la concession, des charges réelles et des droits de propriété qui y sont constatés. Ces droits sont inattaquables et les actions dirigées contre eux ne peuvent être qu'en dommages-intérêts.",
+      "definition": "Certificat d'enregistrement (art. 219-227 Code Foncier) : document officiel délivré par le Conservateur des titres immobiliers qui établit légalement les droits réels immobiliers à Madagascar. Aucun droit immobilier n'existe sans cet enregistrement. Il fait pleine foi et les droits qui y sont inscrits sont en principe inattaquables.",
+      "exemple": "Hery achète une maison à Antananarivo. S'il ne procède pas à l'enregistrement de la mutation à son nom auprès du Conservateur des titres immobiliers, son droit de propriété sur l'immeuble n'est pas légalement établi. Un tiers mal intentionné pourrait faire enregistrer le même bien en son nom et s'en prévaloir. L'enregistrement est donc non seulement utile mais indispensable."
+    },
+    {
+      "titre": "Les classifications secondaires des biens",
+      "texte": "Au-delà de la distinction fondamentale meubles/immeubles, le droit malgache reconnaît plusieurs classifications secondaires qui ont chacune leur importance pratique. La distinction entre choses fongibles et choses non fongibles : les choses fongibles ou choses de genre sont des biens interchangeables, que l'on peut remplacer indifféremment par d'autres de même nature et qualité — comme l'argent, le riz, l'huile. Les choses non fongibles ou corps certains sont individualisées, ont une identité propre et irremplaçable — comme un tableau signé, un terrain précis, un cheval identifié. Cette distinction influe sur les obligations : la perte d'une chose fongible avant livraison n'éteint pas l'obligation de livrer car on peut en trouver une autre semblable. La perte d'un corps certain avant livraison éteint l'obligation si elle est due à la force majeure. La distinction entre choses consomptibles et non consomptibles : les choses consomptibles se consomment ou se détruisent par l'usage — les denrées alimentaires, le carburant. Les choses non consomptibles peuvent être utilisées sans se détruire — une voiture, un outil. Cette distinction est importante pour l'usufruit : l'usufruitier peut user et jouir d'une chose non consomptible mais ne doit pas en altérer la substance.",
+      "definition": "Classifications secondaires des biens : choses fongibles (interchangeables, de genre) vs non fongibles (corps certains, individualisés) ; choses consomptibles (se détruisent par l'usage) vs non consomptibles (survivent à l'usage). Ces distinctions influencent les règles d'obligations et les droits réels démembrés comme l'usufruit."
+    },
+    {
+      "titre": "Fruits et produits : une distinction pratique",
+      "texte": "Le droit malgache distingue également les fruits et les produits d'un bien, car leur régime juridique diffère notamment en matière d'usufruit et de concession. Les fruits sont les utilités périodiques que produit un bien sans altérer sa substance — ils se renouvellent naturellement ou par l'exploitation normale du bien. On distingue les fruits naturels, produits spontanément par la nature comme les fruits des arbres, les foins ; les fruits industriels, produits par la culture humaine comme les récoltes ; et les fruits civils, qui sont les revenus périodiques en argent produits par un bien comme les loyers d'un immeuble, les intérêts d'une créance. Les produits, à l'inverse, diminuent la substance du bien dont ils sont extraits — ils ne se renouvellent pas. La roche extraite d'une carrière, le minerai extrait d'une mine, le sable prélevé sur un banc de rivière sont des produits. Cette distinction est fondamentale pour l'usufruit : l'usufruitier a droit aux fruits mais non aux produits, car il doit restituer la chose dans son état — et la prélever de sa substance serait la détruire progressivement.",
+      "definition": "Fruits : utilités périodiques produites par un bien sans altération de sa substance (fruits naturels, industriels, civils/loyers). Produits : éléments extraits d'un bien qui en diminuent la substance et ne se renouvellent pas. L'usufruitier a droit aux fruits, pas aux produits.",
+      "exemple": "Le propriétaire d'une plantation de café à Itasy a droit aux récoltes annuelles de café — ce sont des fruits industriels. Les loyers qu'il perçoit de la location d'une maison sur ce terrain sont des fruits civils. Mais si quelqu'un extrait de la latérite du sol de cette plantation pour la vendre, cette latérite est un produit — elle diminue définitivement la substance du terrain."
+    },
+    {
+      "titre": "Les biens dans le commerce et hors commerce",
+      "texte": "Tous les biens ne peuvent pas circuler librement entre les personnes. Le droit malgache distingue les biens dans le commerce — qui peuvent faire l'objet de transactions libres, être vendus, donnés, hypothéqués — et les biens hors commerce, soustraits à la libre disposition des particuliers. L'article 9 du Code Foncier pose le principe que les particuliers ont la libre disposition des biens qui leur appartiennent, sauf les modifications établies par la loi. L'article 10 précise que les biens de l'État qui sont affectés à un usage ou à un service public sont hors commerce tant qu'ils ne sont pas régulièrement désaffectés. Ces biens — routes, ports, hôpitaux publics, places publiques — ne peuvent ni être vendus ni être hypothéqués. L'article 12 ajoute que toutes les choses sans maître appartiennent à l'État. Certains biens sont également hors commerce pour des raisons tenant à l'ordre public ou aux bonnes mœurs : les biens du domaine public de l'État sont inconcessibles et imprescriptibles tant que leur affectation publique n'a pas été levée par une décision régulière de désaffectation.",
+      "definition": "Biens dans le commerce : peuvent faire l'objet de transactions libres entre particuliers. Biens hors commerce : soustraits à la libre disposition des particuliers. En droit malgache, le domaine public de l'État est hors commerce (art. 10 Code Foncier) : inconcessible et imprescriptible tant qu'il n'est pas désaffecté.",
+      "exemple": "La plage publique d'Ifaty est un bien du domaine public de l'État — elle est hors commerce. Nul ne peut l'acheter, la vendre ni l'hypothéquer. Si un investisseur souhaite y développer un complexe hôtelier, il doit obtenir de l'État une concession sur une partie du domaine privé adjacent, après désaffectation régulière de cette partie."
+    },
+    {
+      "titre": "Les biens collectifs : la copropriété et l'indivision",
+      "texte": "Un bien peut appartenir à plusieurs personnes simultanément. Le Code Foncier malgache organise deux situations principales. L'indivision est la situation dans laquelle plusieurs personnes sont propriétaires d'un même bien pour des parts indivises — sans que les parts soient matériellement délimitées. L'article 32 précise que chaque copropriétaire peut user de la chose intégralement, en se conformant à sa destination et sans empêcher l'usage des autres. Les fruits se partagent proportionnellement aux droits de chacun. L'article 33 pose qu'aucun copropriétaire ne peut, sans le consentement des autres, changer la destination de la chose commune ni la grever de droits réels au-delà de sa part indivise. L'article 34 reconnaît à chaque copropriétaire le droit de demander le partage à tout moment — mais les copropriétaires peuvent convenir de rester dans l'indivision pour une durée déterminée ne pouvant excéder cinq ans. La copropriété forcée, organisée par les articles 36 et 37, concerne les parties communes d'un immeuble : fondations, gros murs, toits, cours, escaliers. Ces parties ne peuvent pas être partagées car elles sont indissociables de l'usage des parties privatives.",
+      "definition": "Indivision (art. 31-38 Code Foncier) : situation où plusieurs personnes détiennent des droits sur le même bien sans délimitation matérielle. Chacun use de l'ensemble, les fruits se partagent au prorata. Le partage peut être demandé à tout moment mais peut être différé par convention (5 ans max). Copropriété forcée : parties communes d'un immeuble insusceptibles de partage.",
+      "exemple": "À la succession de leur père, trois sœurs héritent d'une maison à Mahajanga. Elles se retrouvent en indivision : chacune possède un tiers de la maison sans que ce tiers soit matériellement délimité. Elles peuvent décider de rester indivises pendant 5 ans pour ne pas vendre dans la précipitation, mais chacune peut à tout moment demander le partage et obtenir sa part individualisée."
+    },
+    {
+      "titre": "Récapitulatif : la classification des biens en droit malgache",
+      "texte": "Voici les points essentiels à retenir. Premièrement, tous les biens sont meubles ou immeubles — c'est la summa divisio du droit malgache des biens, posée par l'article 2 du Code Foncier. Deuxièmement, les immeubles sont classés en immeubles par nature (sol, mines), par incorporation (bâtiments, arbres, récoltes non séparées) et par destination (meubles affectés à un immeuble par leur propriétaire commun). Troisièmement, les meubles comprennent les meubles par nature (choses transportables), par détermination de la loi (droits incorporels non immobiliers) et par anticipation (immeubles destinés à être détachés). Quatrièmement, spécificité fondamentale du droit malgache : le sol appartient à l'État — les particuliers n'ont que des droits de jouissance (concessions) sur les immeubles. Cinquièmement, aucun droit immobilier n'existe sans certificat d'enregistrement. Sixièmement, les classifications secondaires — fongible/non fongible, consomptible/non consomptible, fruits/produits, dans le commerce/hors commerce — complètent ce tableau et ont chacune des conséquences pratiques précises.",
+      "definition": "À retenir : summa divisio meubles/immeubles (art. 2 CF) → immeubles par nature, incorporation, destination → meubles par nature, loi, anticipation → sol propriété de l'État, droits des particuliers = concessions → publicité foncière obligatoire par certificat d'enregistrement → classifications secondaires : fongible, consomptible, fruits/produits, dans/hors commerce."
+    }
+  ],
+  "quiz": [
+    {
+      "question": "Selon l'article 2 du Code Foncier malgache, tous les biens sont :",
+      "choix": [
+        "Corporels ou incorporels",
+        "Mobiliers ou immobiliers",
+        "Publics ou privés",
+        "Fongibles ou non fongibles"
+      ],
+      "reponse": 1,
+      "indices": [
+        "C'est la distinction fondamentale posée par le Code Foncier malgache.",
+        "Elle s'appelle la summa divisio.",
+        "Tout bien appartient nécessairement à l'une de ces deux catégories."
+      ],
+      "explication": "L'article 2 du Code Foncier malgache pose que tous les biens sont mobiliers ou immobiliers. C'est la summa divisio — la grande distinction — du droit malgache des biens. Elle détermine l'ensemble du régime juridique applicable : règles de propriété, de transmission, d'enregistrement, de saisie."
+    },
+    {
+      "question": "Combien de catégories d'immeubles distingue le Code Foncier malgache ?",
+      "choix": [
+        "Deux : par nature et par destination",
+        "Quatre : par nature, par incorporation, par destination et par l'objet auquel ils s'appliquent",
+        "Trois : par nature, par incorporation et par destination",
+        "Une seule : tous les immeubles sont définis par leur nature physique"
+      ],
+      "reponse": 1,
+      "indices": [
+        "L'article 5 du Code Foncier énumère les catégories.",
+        "Il y a bien une catégorie intermédiaire entre nature et destination.",
+        "Les droits portant sur des immeubles forment aussi une catégorie distincte."
+      ],
+      "explication": "Le Code Foncier malgache distingue quatre catégories d'immeubles. Par nature (sol, mines — art. 6). Par incorporation (bâtiments, arbres, récoltes non séparées — art. 7). Par destination (meubles affectés à un immeuble — art. 8). Par l'objet auquel ils s'appliquent : les droits réels portant sur des immeubles, comme l'usufruit immobilier ou l'hypothèque (art. 3)."
+    },
+    {
+      "question": "Selon l'article 6 du Code Foncier malgache, quels sont les immeubles par nature ?",
+      "choix": [
+        "Les bâtiments et les constructions",
+        "Le sol et les mines",
+        "Les arbres et les plantations",
+        "Les machines et les équipements agricoles"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Ce sont les éléments les plus fondamentaux de la terre.",
+        "L'article 6 est très court et précis.",
+        "Ce sont les biens les plus fondamentalement liés au sol."
+      ],
+      "explication": "L'article 6 du Code Foncier malgache dispose que le sol et les mines sont immeubles par leur nature. Ce sont des immeubles par excellence : ils ne peuvent pas être déplacés. Tout ce qui est fixé au sol peut devenir immeuble par incorporation, mais le sol et les mines sont immeubles par leur nature intrinsèque."
+    },
+    {
+      "question": "Un arbre planté dans un champ est-il un meuble ou un immeuble en droit malgache ?",
+      "choix": [
+        "Un meuble, car on peut le déraciner et le déplacer",
+        "Un immeuble par incorporation, tant qu'il n'est pas détaché du sol",
+        "Un immeuble par destination, car il est affecté à l'exploitation agricole",
+        "Ni l'un ni l'autre : les végétaux ont un statut spécial"
+      ],
+      "reponse": 1,
+      "indices": [
+        "L'article 7 du Code Foncier traite spécifiquement des végétaux.",
+        "La qualification dépend du lien avec le sol.",
+        "Une fois détaché, le statut change."
+      ],
+      "explication": "Selon l'article 7 du Code Foncier malgache, les arbres et plantes quelconques sont des immeubles par incorporation tant qu'ils ne sont pas détachés du sol. Dès qu'ils sont abattus ou arrachés, ils deviennent des meubles. Un giroflier en terre est donc un immeuble ; les mêmes clous de girofle récoltés et séchés sont des meubles."
+    },
+    {
+      "question": "Quelles sont les deux conditions cumulatives pour qu'un objet mobilier soit qualifié d'immeuble par destination en droit malgache ?",
+      "choix": [
+        "L'objet doit être fixé au sol et appartenir à l'État",
+        "L'identité de propriétaire entre le meuble et l'immeuble, et la volonté d'affectation durable du propriétaire",
+        "L'objet doit valoir plus de cinq millions d'ariary et être enregistré",
+        "L'objet doit être utile à l'exploitation et être inamovible"
+      ],
+      "reponse": 1,
+      "indices": [
+        "L'article 8 du Code Foncier définit ces conditions.",
+        "Si le meuble appartient à un tiers, il ne peut pas être immeuble par destination.",
+        "Le propriétaire doit avoir voulu créer un lien durable."
+      ],
+      "explication": "L'article 8 du Code Foncier malgache exige deux conditions cumulatives pour qu'un bien meuble soit qualifié d'immeuble par destination. Première condition : identité de propriétaire — le meuble et l'immeuble doivent appartenir à la même personne, ou celle-ci doit exercer un droit réel immobilier sur le fonds. Deuxième condition : volonté d'affectation durable — le propriétaire doit avoir voulu affecter le meuble à l'immeuble, soit pour les nécessités de son exploitation, soit à perpétuelle demeure."
+    },
+    {
+      "question": "Un tracteur appartenant à une banque et loué à un agriculteur pour l'exploitation de son fonds peut-il être qualifié d'immeuble par destination ?",
+      "choix": [
+        "Oui, car il est utilisé pour l'exploitation agricole",
+        "Non, car il n'appartient pas au propriétaire du fonds — la condition d'identité de propriétaire fait défaut",
+        "Oui, si l'agriculteur en fait une utilisation continue",
+        "Non, car un tracteur est trop volumineux pour être qualifié d'immeuble"
+      ],
+      "reponse": 1,
+      "indices": [
+        "L'une des deux conditions de l'immeuble par destination porte sur la propriété.",
+        "Le tracteur appartient à la banque, pas à l'agriculteur ni au propriétaire du fonds.",
+        "Sans identité de propriétaire, la qualification est impossible."
+      ],
+      "explication": "Non. L'immeuble par destination exige que le meuble et l'immeuble appartiennent au même propriétaire. Ici, le tracteur appartient à la banque — pas à l'agriculteur ni au propriétaire du fonds. La condition d'identité de propriétaire fait défaut. Le tracteur reste un meuble, même s'il est affecté à l'exploitation agricole. La banque peut le saisir en tant que meuble sans que l'agriculteur puisse s'y opposer en invoquant l'immobilisation par destination."
+    },
+    {
+      "question": "Selon l'article 4 du Code Foncier malgache, les actions ou intérêts dans une société qui possède des immeubles sont-ils des meubles ou des immeubles ?",
+      "choix": [
+        "Des immeubles, car la société possède des terres",
+        "Des meubles, car les droits dans les sociétés sont mobiliers quelle que soit la nature des actifs de la société",
+        "Cela dépend de la valeur des immeubles possédés par la société",
+        "Des meubles si la société est malgache, des immeubles si elle est étrangère"
+      ],
+      "reponse": 1,
+      "indices": [
+        "L'article 4 du Code Foncier traite spécifiquement de ce cas.",
+        "La qualification porte sur le droit de l'associé, pas sur les actifs de la société.",
+        "La loi est explicite sur ce point."
+      ],
+      "explication": "L'article 4 du Code Foncier malgache est explicite : sont mobiliers tous les autres droits patrimoniaux et notamment les actions ou intérêts dans les sociétés, associations ou communautés qui jouissent de la personnalité civile, encore que des immeubles appartiennent à l'être moral. Les parts sociales sont des meubles même si la société possède des centaines d'hectares de terres."
+    },
+    {
+      "question": "Quelle est la règle fondamentale posée par l'article 53 du Code Foncier malgache concernant la propriété du sol ?",
+      "choix": [
+        "Le sol appartient à celui qui le cultive",
+        "Le sol est la propriété exclusive, inaliénable et imprescriptible de l'État",
+        "Le sol appartient aux communautés locales qui l'occupent traditionnellement",
+        "Le sol appartient à celui dont le nom figure sur le certificat foncier"
+      ],
+      "reponse": 1,
+      "indices": [
+        "C'est une règle fondamentale et absolue du droit malgache.",
+        "Elle implique qu'aucun particulier ne peut être propriétaire du sol.",
+        "Ce que les particuliers obtiennent, c'est un droit de jouissance, pas la propriété."
+      ],
+      "explication": "L'article 53 du Code Foncier malgache dispose que le sol est la propriété exclusive, inaliénable et imprescriptible de l'État. Cette règle est absolue : aucun particulier, malgache ou étranger, ne peut être propriétaire du sol lui-même. Ce que les particuliers peuvent acquérir, ce sont des droits de jouissance sur le sol — des concessions — mais jamais la propriété du sol en tant que telle."
+    },
+    {
+      "question": "Quelle est la différence entre le domaine public foncier et le domaine privé foncier de l'État malgache ?",
+      "choix": [
+        "Le domaine public est géré par les communes ; le domaine privé est géré par l'État central",
+        "Le domaine public est constitué des terres affectées à un usage ou service public et est inconcessible ; le domaine privé comprend les autres terres et peut faire l'objet de concessions",
+        "Le domaine public peut être vendu aux étrangers ; le domaine privé est réservé aux Malgaches",
+        "Il n'y a pas de différence : tout le sol appartient également à l'État"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Les articles 54 et 55 du Code Foncier établissent cette distinction.",
+        "L'un de ces domaines ne peut pas être concédé.",
+        "L'autre peut faire l'objet de concessions."
+      ],
+      "explication": "Les articles 54 et 55 du Code Foncier distinguent deux domaines. Le domaine public foncier est constitué de toutes les terres affectées à un usage ou à un service public : elles sont inconcessibles tant qu'elles ne sont pas régulièrement désaffectées. Le domaine privé comprend toutes les autres terres : elles peuvent faire l'objet d'une concession perpétuelle, d'une concession ordinaire ou d'une servitude foncière."
+    },
+    {
+      "question": "Quelle est la durée maximale d'une concession d'emphytéose selon le Code Foncier malgache ?",
+      "choix": [
+        "10 ans, renouvelable",
+        "25 ans, renouvelable",
+        "99 ans, non renouvelable",
+        "50 ans, renouvelable une seule fois"
+      ],
+      "reponse": 1,
+      "indices": [
+        "L'article 111 du Code Foncier traite de ce point.",
+        "Ce terme est renouvelable.",
+        "C'est la même durée que la superficie et l'usufruit."
+      ],
+      "explication": "L'article 111 du Code Foncier malgache dispose que l'emphytéose ne peut être établie pour un terme excédant 25 ans, ce terme étant renouvelable. Lors des renouvellements, la redevance est revue et fixée aux taux en vigueur au moment du renouvellement. La durée de 25 ans est aussi le maximum pour la superficie et l'usufruit ; l'usage est limité à 15 ans et la location à 3 ans."
+    },
+    {
+      "question": "Qu'est-ce que la concession perpétuelle en droit malgache et à qui est-elle réservée ?",
+      "choix": [
+        "Un droit de propriété absolu sur le sol, ouvert à toute personne",
+        "Le droit reconnu par l'État à une personne physique de nationalité malgache de jouir indéfiniment d'un fonds",
+        "Une concession de 99 ans accordée aux investisseurs étrangers",
+        "Le droit de l'État de reprendre les terres non exploitées après 10 ans"
+      ],
+      "reponse": 1,
+      "indices": [
+        "L'article 80 du Code Foncier définit ce droit.",
+        "Elle est réservée à une catégorie précise de personnes.",
+        "C'est le droit le plus fort qu'un particulier peut avoir sur un fonds à Madagascar."
+      ],
+      "explication": "L'article 80 du Code Foncier malgache définit la concession perpétuelle comme le droit que l'État reconnaît à une personne physique de nationalité malgache de jouir indéfiniment de son fonds aussi longtemps que sont remplies les conditions de fond et de forme prévues par la loi. Elle est réservée aux personnes physiques malgaches — les étrangers ne peuvent obtenir que des concessions ordinaires."
+    },
+    {
+      "question": "Selon l'article 219 du Code Foncier malgache, quand un droit immobilier est-il légalement établi ?",
+      "choix": [
+        "Dès la signature d'un acte de vente devant notaire",
+        "Seulement par un certificat d'enregistrement délivré par le Conservateur des titres immobiliers",
+        "Par la simple possession de bonne foi pendant cinq ans",
+        "Par le paiement du prix de vente"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Le droit malgache exige une formalité officielle précise.",
+        "Aucune convention entre parties ne suffit sans cet acte.",
+        "Le Conservateur des titres immobiliers joue un rôle central."
+      ],
+      "explication": "L'article 219 du Code Foncier malgache dispose que le droit de jouissance d'un fonds n'est légalement établi que par un certificat d'enregistrement du titre concédé par l'État. Un simple acte notarié ou une convention entre parties ne suffit pas : sans l'enregistrement au livre foncier et la délivrance du certificat d'enregistrement, le droit immobilier n'existe pas légalement."
+    },
+    {
+      "question": "Que se passe-t-il si deux personnes réclament le même terrain à Madagascar et que seule l'une d'elles a un certificat d'enregistrement ?",
+      "choix": [
+        "Le tribunal tranche en faveur de celui qui prouve avoir payé le prix le plus élevé",
+        "Le certificat d'enregistrement fait pleine foi : les droits qui y sont constatés sont en principe inattaquables, et le titulaire du certificat sera protégé",
+        "La possession la plus ancienne l'emporte",
+        "L'État reprend le terrain et le recède par appel d'offres"
+      ],
+      "reponse": 1,
+      "indices": [
+        "L'article 227 du Code Foncier précise la valeur du certificat.",
+        "Les droits constatés dans le certificat ont une force particulière.",
+        "Les actions contre ces droits ne peuvent être qu'en dommages-intérêts."
+      ],
+      "explication": "L'article 227 du Code Foncier malgache dispose que le certificat d'enregistrement fait pleine foi de la concession, des charges réelles et des droits de propriété qui y sont constatés. Ces droits sont inattaquables et les actions dirigées contre eux ne peuvent être qu'en dommages-intérêts. La personne dont le droit est enregistré est donc protégée : celle qui ne l'a pas enregistré ne peut qu'agir en dommages-intérêts contre celui à qui le préjudice est imputable."
+    },
+    {
+      "question": "Quelle est la différence entre les fruits et les produits d'un bien ?",
+      "choix": [
+        "Les fruits sont produits par les arbres ; les produits sont fabriqués par l'homme",
+        "Les fruits sont des utilités périodiques qui ne diminuent pas la substance du bien ; les produits diminuent la substance du bien et ne se renouvellent pas",
+        "Les fruits appartiennent au propriétaire ; les produits appartiennent au concessionnaire",
+        "Il n'y a aucune différence juridique entre les deux"
+      ],
+      "reponse": 1,
+      "indices": [
+        "La distinction porte sur l'effet sur la substance du bien.",
+        "L'un se renouvelle, l'autre non.",
+        "Cette distinction est importante notamment pour l'usufruit."
+      ],
+      "explication": "Les fruits sont les utilités périodiques produites par un bien sans altération de sa substance — ils se renouvellent régulièrement. Les fruits naturels (mangues d'un verger), industriels (récoltes) et civils (loyers) en sont des exemples. Les produits, au contraire, diminuent la substance du bien dont ils sont extraits et ne se renouvellent pas — comme la latérite extraite d'un terrain. L'usufruitier a droit aux fruits mais pas aux produits, car il doit conserver la substance du bien."
+    },
+    {
+      "question": "Les loyers perçus pour la location d'une maison sont-ils des fruits naturels, industriels ou civils ?",
+      "choix": [
+        "Des fruits naturels, car ils proviennent d'un bien immobilier",
+        "Des fruits industriels, car la maison a été construite par le travail humain",
+        "Des fruits civils, car ce sont des revenus périodiques en argent produits par le bien",
+        "Des produits, car la maison se dégrade avec le temps"
+      ],
+      "reponse": 2,
+      "indices": [
+        "Les fruits civils sont des revenus en argent.",
+        "Ils résultent d'un contrat, pas d'un phénomène naturel ou d'une culture.",
+        "Loyers, intérêts d'une créance, dividendes sont des exemples typiques."
+      ],
+      "explication": "Les loyers sont des fruits civils. Les fruits civils sont les revenus périodiques produits par un bien en vertu d'un acte juridique — généralement un contrat. Les loyers d'une maison louée, les intérêts d'un prêt, les dividendes d'actions sont tous des fruits civils. Ils se distinguent des fruits naturels (produits spontanément par la nature) et des fruits industriels (produits par la culture)."
+    },
+    {
+      "question": "Qu'est-ce qu'une chose fongible ?",
+      "choix": [
+        "Une chose qui peut être consommée",
+        "Une chose interchangeable, qui peut être remplacée indifféremment par une autre de même nature et qualité",
+        "Une chose qui appartient à plusieurs personnes",
+        "Une chose qui fait l'objet d'un contrat de vente"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Fongible vient du latin fungi — s'acquitter, remplacer.",
+        "L'argent est l'exemple type de chose fongible.",
+        "L'inverse est le corps certain ou chose individualisée."
+      ],
+      "explication": "Une chose fongible est une chose de genre, interchangeable : un exemplaire peut être remplacé par un autre de même nature et qualité sans que cela fasse de différence. L'argent est l'exemple parfait : un billet de 10 000 ariary vaut exactement un autre billet de 10 000 ariary. Le riz, le carburant, le café en vrac sont aussi des choses fongibles. À l'opposé, un terrain spécifique, un tableau signé ou un cheval identifié sont des corps certains — non fongibles."
+    },
+    {
+      "question": "Pourquoi la distinction entre choses fongibles et non fongibles est-elle importante en droit des obligations ?",
+      "choix": [
+        "Elle détermine le prix de la chose",
+        "La perte d'une chose fongible avant livraison n'éteint pas l'obligation car on peut en trouver une autre semblable ; la perte d'un corps certain par force majeure éteint l'obligation",
+        "Elle détermine si la chose peut être hypothéquée",
+        "Elle n'a aucune importance pratique"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Si je dois vous livrer 100 kg de riz et que mon stock brûle, puis-je trouver du riz ailleurs ?",
+        "Si je dois vous vendre ce terrain précis et qu'il est détruit, puis-je vous en offrir un autre ?",
+        "La réponse est différente selon que la chose est fongible ou non."
+      ],
+      "explication": "Cette distinction a des conséquences importantes en droit des obligations. Pour les choses fongibles : si le vendeur perd son stock avant livraison, son obligation n'est pas éteinte — il peut se procurer la même quantité ailleurs et livrer quand même. Le genre ne périt pas. Pour les corps certains : si la chose précisément convenue périt par cas de force majeure avant la livraison, l'obligation est éteinte — on ne peut pas livrer autre chose que ce qui avait été convenu."
+    },
+    {
+      "question": "Vrai ou faux : en droit malgache, un particulier peut devenir propriétaire du sol par prescription acquisitive après 30 ans de possession.",
+      "choix": [
+        "Vrai",
+        "Faux"
+      ],
+      "reponse": 1,
+      "indices": [
+        "L'article 53 du Code Foncier qualifie le sol de propriété imprescriptible de l'État.",
+        "L'imprescriptibilité empêche toute acquisition par le temps.",
+        "La possession ne peut jamais faire acquérir ce que la loi dit être imprescriptible."
+      ],
+      "explication": "Faux. L'article 53 du Code Foncier malgache dispose que le sol est la propriété exclusive, inaliénable et imprescriptible de l'État. L'imprescriptibilité signifie que le sol ne peut jamais être acquis par prescription, quelle que soit la durée de la possession. Nul particulier ne peut donc devenir propriétaire du sol par le seul fait de l'occuper, même pendant des décennies."
+    },
+    {
+      "question": "Selon l'article 34 du Code Foncier malgache, pendant combien de temps maximum les copropriétaires peuvent-ils conventionnellement retarder un partage ?",
+      "choix": [
+        "Deux ans",
+        "Cinq ans",
+        "Dix ans",
+        "Indéfiniment, si tous sont d'accord"
+      ],
+      "reponse": 1,
+      "indices": [
+        "L'article 34 pose une limite légale à l'indivision conventionnelle.",
+        "Elle peut être renouvelée, mais chaque période est limitée.",
+        "Un délai plus long serait réduit à ce maximum."
+      ],
+      "explication": "L'article 34 du Code Foncier malgache dispose que les copropriétaires peuvent convenir de rester dans l'indivision pendant un temps déterminé qui ne peut excéder cinq ans. Si la convention est faite pour un terme plus long ou pour une durée illimitée, elle est réduite à ce terme de cinq ans. Passé ce délai, chaque copropriétaire retrouve le droit de demander le partage."
+    },
+    {
+      "question": "Qu'est-ce qu'une copropriété forcée en droit malgache ?",
+      "choix": [
+        "Une copropriété imposée par le tribunal à des voisins en conflit",
+        "Une indivision sur des parties communes d'un immeuble qui ne peuvent pas faire l'objet d'un partage car indissociables de l'usage des parties privatives",
+        "Une copropriété entre héritiers dont l'un refuse de partager",
+        "Une copropriété entre l'État et un particulier sur un terrain mixte"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Les articles 36 et 37 du Code Foncier en traitent.",
+        "Pensez aux parties d'un immeuble partagé entre plusieurs propriétaires.",
+        "Certaines parties ne peuvent pas appartenir à un seul — elles sont nécessairement communes."
+      ],
+      "explication": "La copropriété forcée est une indivision qui ne peut pas être dissoute par le partage parce que les biens concernés sont indissociables de l'usage des parties privatives. L'article 37 du Code Foncier en donne des exemples précis pour les immeubles à appartements : fondations, gros murs, toit, cours, puits, corridors, escaliers, ascenseurs, canalisations. Ces éléments ne peuvent appartenir à un seul propriétaire car ils sont utiles à tous simultanément."
+    },
+    {
+      "question": "Les récoltes de riz sur pied vendues à un acheteur avant la moisson sont-elles des meubles ou des immeubles ?",
+      "choix": [
+        "Des immeubles par incorporation, car elles ne sont pas encore séparées du sol",
+        "Des meubles par anticipation, car les parties les ont traitées comme des meubles destinés à être détachés",
+        "Des meubles par nature, car le riz est intrinsèquement un meuble",
+        "Des immeubles par destination, car elles sont affectées à l'exploitation du fonds"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Au moment de la vente, les récoltes ne sont pas encore séparées du sol.",
+        "Mais les parties ont traité ces récoltes comme si elles allaient bientôt être détachées.",
+        "Il existe une catégorie spéciale pour cette situation."
+      ],
+      "explication": "Les récoltes sur pied vendues avant la moisson sont des meubles par anticipation. Bien qu'étant encore en terre et donc immeubles par incorporation au sens physique, les parties les ont traitées d'ores et déjà comme des meubles destinés à être très prochainement détachés. Le droit reconnaît cette anticipation et les traite comme des meubles pour les besoins de la transaction."
+    },
+    {
+      "question": "Selon l'article 3 du Code Foncier malgache, un droit de créance tendant à acquérir un droit réel sur un immeuble est-il un meuble ou un immeuble ?",
+      "choix": [
+        "Un meuble, car c'est une créance et les créances sont toujours des meubles",
+        "Un immeuble, car ce droit tend à obtenir un droit réel sur un immeuble",
+        "Ni l'un ni l'autre : les créances ont un statut neutre",
+        "Cela dépend de la valeur de l'immeuble visé"
+      ],
+      "reponse": 1,
+      "indices": [
+        "L'article 3 traite spécifiquement des droits de créance visant un immeuble.",
+        "La qualification suit l'objet vers lequel tend le droit.",
+        "Ce n'est pas la nature du droit (créance) qui compte, mais son objet (immeuble)."
+      ],
+      "explication": "L'article 3 du Code Foncier malgache dispose que sont immobiliers tous les droits réels qui ont pour objet des immeubles, ainsi que les droits de créance tendant à acquérir ou à recouvrer un droit réel sur un immeuble. Une créance qui a pour objet l'acquisition d'un immeuble est qualifiée d'immeuble par l'objet auquel elle s'applique — même si c'est formellement une créance."
+    },
+    {
+      "question": "Le domaine public foncier de l'État malgache peut-il faire l'objet d'une concession ordinaire ?",
+      "choix": [
+        "Oui, l'État peut toujours concéder ses terres à qui il veut",
+        "Non, les terres du domaine public sont inconcessibles tant qu'elles ne sont pas régulièrement désaffectées",
+        "Oui, mais uniquement aux ressortissants malgaches",
+        "Non, aucune terre appartenant à l'État ne peut jamais être concédée"
+      ],
+      "reponse": 1,
+      "indices": [
+        "L'article 55 du Code Foncier traite du domaine public.",
+        "La désaffectation est la condition préalable à toute concession.",
+        "Sans désaffectation, ces terres sont hors commerce."
+      ],
+      "explication": "Non. L'article 55 du Code Foncier malgache précise que les terres du domaine public foncier sont inconcessibles tant qu'elles ne sont pas régulièrement désaffectées. Seules les terres du domaine privé de l'État peuvent faire l'objet de concessions. Pour qu'une terre du domaine public puisse être concédée, elle doit d'abord être désaffectée par une décision administrative régulière qui la fait passer du domaine public au domaine privé de l'État."
+    },
+    {
+      "question": "Vrai ou faux : en cas d'indivision entre copropriétaires, chacun peut modifier la destination de la chose commune sans le consentement des autres.",
+      "choix": [
+        "Vrai",
+        "Faux"
+      ],
+      "reponse": 1,
+      "indices": [
+        "L'article 33 du Code Foncier malgache traite de ce point.",
+        "Il faut distinguer les actes d'administration courante et les actes plus importants.",
+        "Changer la destination d'un bien est un acte important."
+      ],
+      "explication": "Faux. L'article 33 du Code Foncier malgache dispose qu'aucun des copropriétaires ne peut, sans le consentement des autres, changer la destination de la chose commune, ni la grever de droits réels au-delà de sa part indivise. Changer la destination d'un bien — par exemple transformer une maison d'habitation en local commercial — est un acte grave qui requiert l'unanimité des copropriétaires. Seuls les actes d'administration courante (réparations d'entretien, travaux de culture) peuvent être accomplis par chacun seul."
+    },
+    {
+      "question": "Qu'est-ce qu'une servitude foncière en droit malgache ?",
+      "choix": [
+        "Une obligation personnelle d'entretien imposée au propriétaire",
+        "Une charge imposée sur un fonds pour l'usage et l'utilité d'un autre fonds",
+        "Un contrat de location entre voisins",
+        "Un droit de l'État d'accéder à tout terrain privé"
+      ],
+      "reponse": 1,
+      "indices": [
+        "L'article 169 du Code Foncier la définit.",
+        "Elle implique deux fonds : l'un qui supporte la charge, l'autre qui en bénéficie.",
+        "Elle est réelle — elle grève le fonds, pas la personne du propriétaire."
+      ],
+      "explication": "L'article 169 du Code Foncier malgache définit la servitude foncière comme une charge imposée sur un fonds pour l'usage et l'utilité d'un autre fonds. La servitude est un droit réel immobilier : elle pèse sur le fonds servant au profit du fonds dominant, indépendamment de l'identité de leurs propriétaires respectifs. L'article 170 précise qu'elle n'établit aucune préminence d'un fonds sur un autre."
+    },
+    {
+      "question": "Selon l'article 14 du Code Foncier malgache, qu'est-ce que la propriété ?",
+      "choix": [
+        "Le droit d'habiter un terrain sans payer de redevance",
+        "Le droit de disposer d'une chose d'une manière absolue et exclusive, sauf les restrictions résultant de la loi et des droits réels d'autrui",
+        "Un droit temporaire accordé par l'État sur les terres du domaine public",
+        "Le droit de récolter les fruits d'un fonds appartenant à autrui"
+      ],
+      "reponse": 1,
+      "indices": [
+        "L'article 14 donne la définition de la propriété.",
+        "Elle est absolue mais pas sans limites.",
+        "Elle est exclusive : elle écarte les tiers."
+      ],
+      "explication": "L'article 14 du Code Foncier malgache définit la propriété comme le droit de disposer d'une chose d'une manière absolue et exclusive, sauf les restrictions qui résultent de la loi et des droits réels appartenant à autrui. Le caractère absolu signifie que le propriétaire peut user, jouir et disposer librement. Le caractère exclusif signifie qu'il peut exclure tout tiers de l'usage de son bien. Mais ces pouvoirs connaissent des limites légales et conventionnelles."
+    },
+    {
+      "question": "Quels droits réels immobiliers sont reconnus par l'article 1er du Code Foncier malgache ?",
+      "choix": [
+        "La propriété uniquement",
+        "La propriété, la concession perpétuelle, l'emphytéose, la superficie, l'usufruit, l'usage et l'habitation, les servitudes foncières, le gage, le privilège et l'hypothèque",
+        "La location, le bail et la concession",
+        "Tout droit que les parties décident de créer par contrat"
+      ],
+      "reponse": 1,
+      "indices": [
+        "L'article 1er énumère les droits réels de manière limitative.",
+        "La liste est fermée — on ne peut pas créer d'autres droits réels.",
+        "Elle comprend aussi bien des droits de jouissance que des droits de garantie."
+      ],
+      "explication": "L'article 1er du Code Foncier malgache énumère limitativement les droits réels : la propriété, la concession perpétuelle, les droits d'emphytéose, de superficie, d'usufruit, d'usage et d'habitation, les servitudes foncières, le gage, le privilège et l'hypothèque. Cette liste est fermée : on ne peut pas créer de droits réels en dehors de ceux-là. Les droits réels comprennent à la fois des droits de jouissance (usufruit, emphytéose) et des droits de garantie (gage, hypothèque)."
+    },
+    {
+      "question": "Un usager d'un fonds concédé par l'État peut-il céder son droit à un tiers ?",
+      "choix": [
+        "Oui, librement et sans condition",
+        "Non, l'usager ne peut pas céder son droit — il peut seulement le donner en garantie",
+        "Oui, mais seulement avec l'accord écrit du Conservateur des titres immobiliers",
+        "Non, aucun droit sur un fonds de l'État ne peut être transmis à quiconque"
+      ],
+      "reponse": 1,
+      "indices": [
+        "L'article 139 du Code Foncier traite de l'usufruit, applicable par analogie à l'usage.",
+        "Il y a une distinction entre céder le droit et le donner en garantie.",
+        "L'usage est un droit très limité."
+      ],
+      "explication": "L'article 139 du Code Foncier malgache, applicable à l'usufruit — et par analogie au droit d'usage — dispose que l'usufruitier ne peut céder son droit, mais peut le donner en garantie. Le droit d'usage est encore plus restrictif : il est strictement personnel, limité aux besoins de l'usager et de sa famille. Il ne peut pas être cédé à un tiers. C'est l'une des différences majeures avec la concession perpétuelle, qui peut être transmise."
+    },
+    {
+      "question": "Qu'arrive-t-il aux fruits et récoltes lorsqu'ils acquièrent une existence séparée du sol, selon l'article 7 du Code Foncier malgache ?",
+      "choix": [
+        "Ils restent des immeubles par incorporation",
+        "Ils deviennent des meubles",
+        "Ils appartiennent automatiquement à l'État",
+        "Ils doivent être enregistrés comme biens mobiliers au registre de commerce"
+      ],
+      "reponse": 1,
+      "indices": [
+        "L'article 7 précise la condition de leur qualification comme immeuble.",
+        "La séparation d'avec le sol change leur statut.",
+        "C'est un exemple de la mobilisation d'un bien initialement immeuble."
+      ],
+      "explication": "L'article 7 du Code Foncier malgache dispose que les fruits et récoltes sont immeubles par incorporation tant qu'ils n'ont pas d'existence séparée. Dès qu'ils sont récoltés, cueillis ou séparés du sol, ils perdent leur qualification d'immeuble et deviennent des meubles. Des mangues sur l'arbre sont des immeubles ; les mêmes mangues dans une caisse après la cueillette sont des meubles."
+    },
+    {
+      "question": "Pourquoi l'emphytéote ne peut-il pas réclamer de remise de redevance en cas de perte partielle du fonds par cas fortuit ?",
+      "choix": [
+        "Parce que l'État garantit toujours le revenu de l'emphytéote",
+        "Parce que l'article 115 du Code Foncier lui interdit de se libérer de cette obligation même en cas de cas fortuit",
+        "Parce que les cas fortuits n'existent pas en droit malgache",
+        "Parce que la redevance est fixée une fois pour toutes et ne peut jamais être modifiée"
+      ],
+      "reponse": 1,
+      "indices": [
+        "L'emphytéose est une concession qui impose des charges lourdes au concessionnaire.",
+        "L'article 115 du Code Foncier traite précisément de ce cas.",
+        "C'est l'une des caractéristiques de la rigueur de l'emphytéose."
+      ],
+      "explication": "L'article 115 du Code Foncier malgache dispose que l'emphytéote ne peut réclamer aucune remise de la redevance pour cause de perte partielle du fonds, ni pour cause de stérilité ou de prévision de toute récolte à la suite de cas fortuit. L'emphytéose est un contrat qui fait peser sur l'emphytéote de lourdes obligations — il s'engage à mettre et entretenir le fonds en valeur, et supporte les aléas de l'exploitation."
+    },
+    {
+      "question": "Vrai ou faux : selon le Code Foncier malgache, la propriété d'une chose immobilière donne droit sur tout ce qu'elle produit.",
+      "choix": [
+        "Vrai",
+        "Faux"
+      ],
+      "reponse": 0,
+      "indices": [
+        "L'article 20 du Code Foncier traite de ce point.",
+        "C'est le principe de l'accession par production.",
+        "Il s'applique tant aux meubles qu'aux immeubles."
+      ],
+      "explication": "Vrai. L'article 20 du Code Foncier malgache dispose que la propriété d'une chose, soit mobilière soit immobilière, donne droit sur tout ce qu'elle produit. C'est le principe de l'accession par production : le propriétaire d'un manguier est propriétaire des mangues, le propriétaire d'un troupeau est propriétaire des petits, le propriétaire d'un immeuble est propriétaire de ce qu'il produit. Ce principe connaît des exceptions prévues par la loi, notamment pour les droits réels démembrés comme l'usufruit."
+    },
+    {
+      "question": "Qu'est-ce que le droit de superficie en droit malgache et quelle est sa durée maximale ?",
+      "choix": [
+        "Le droit de planter des arbres fruitiers ; durée illimitée",
+        "Le droit de jouir d'un fonds appartenant à l'État et de disposer des constructions, bois, arbres et autres plantes qui y sont incorporés ; durée maximale de 25 ans renouvelable",
+        "Le droit d'occuper la surface d'un terrain sans y construire ; durée de 10 ans",
+        "Le droit de surveiller le territoire d'un voisin ; durée indéterminée"
+      ],
+      "reponse": 1,
+      "indices": [
+        "L'article 123 du Code Foncier définit la superficie.",
+        "L'article 124 fixe sa durée maximale.",
+        "C'est l'un des cinq types de concessions ordinaires."
+      ],
+      "explication": "L'article 123 du Code Foncier malgache définit la superficie comme le droit de jouir d'un fonds appartenant à l'État et de disposer des constructions, bois, arbres et autres plantes qui y sont incorporés. L'article 124 précise que la superficie ne peut être établie pour un terme excédant vingt-cinq ans, ce terme étant renouvelable. Le superficiaire a tous les droits de l'usufruitier, plus le droit de construire et de planter à son gré."
+    },
+    {
+      "question": "Récapitulatif final : dans quelle catégorie classer chacun des éléments suivants ? Un champ de canne à sucre non encore récolté / Les tiges de canne récoltées stockées dans un entrepôt / La machine à broyer la canne appartenant au propriétaire du champ et utilisée sur place / Les parts sociales d'une société sucrière / Le droit d'hypothèque sur ce champ.",
+      "choix": [
+        "Tous sont des meubles",
+        "Champ non récolté = immeuble par incorporation / Cannes récoltées = meuble / Machine du propriétaire = immeuble par destination / Parts sociales = meuble / Hypothèque = immeuble par l'objet",
+        "Champ = immeuble / Cannes = immeuble / Machine = meuble / Parts sociales = immeuble / Hypothèque = meuble",
+        "Tous sont des immeubles car ils sont liés à une exploitation agricole"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Appliquez méthodiquement la classification du Code Foncier à chaque élément.",
+        "La séparation du sol est le critère pour les végétaux.",
+        "La propriété commune et l'affectation durable sont les critères pour la machine."
+      ],
+      "explication": "Champ de canne non récolté : immeuble par incorporation (art. 7 — végétaux non détachés du sol). Cannes récoltées stockées : meuble (art. 7 — elles ont une existence séparée du sol). Machine à broyer appartenant au propriétaire du champ et utilisée sur place : immeuble par destination (art. 8 — même propriétaire, affectée à l'exploitation du fonds). Parts sociales de la société sucrière : meuble (art. 4 — les actions ou intérêts dans les sociétés sont mobiliers). Droit d'hypothèque sur le champ : immeuble par l'objet auquel il s'applique (art. 3 — droit réel portant sur un immeuble)."
+    }
+  ],
+  "exercices": [
+    {
+      "question": "CAS PRATIQUE 1 : Miora est propriétaire d'une concession perpétuelle sur un terrain de 2 hectares à Antsirabe. Elle y a planté des litchis il y a trois ans. Elle a également installé sur ce terrain, avec ses propres deniers, un système d'irrigation comprenant des pompes et des tuyaux enterrés. Un commerçant de la région lui a proposé d'acheter « tous les litchis de la prochaine récolte » avant même la cueillette. Par ailleurs, sa sœur cadette lui réclame une part de la récolte au titre d'une indivision héréditaire, mais ne dispose d'aucun certificat foncier. Répondez aux questions suivantes : (1) Les litchiers plantés sont-ils des meubles ou des immeubles ? Pourquoi ? (2) Le système d'irrigation peut-il être qualifié d'immeuble par destination ? (3) Les litchis vendus sur pied au commerçant sont-ils des meubles ou des immeubles au moment de la vente ? (4) La sœur de Miora peut-elle faire valoir ses droits en l'absence de certificat foncier ?",
+      "choix": [
+        "Tout est meuble car Miora peut tout déplacer si elle le souhaite",
+        "(1) Les litchiers sont des immeubles par incorporation (art. 7 CF) tant qu'ils sont en terre. (2) Oui, si Miora est propriétaire du système et qu'il est affecté à l'exploitation du fonds — les deux conditions de l'art. 8 sont remplies. (3) Les litchis vendus sur pied sont des meubles par anticipation. (4) Non — sans certificat foncier, aucun droit immobilier n'est légalement établi en droit malgache (art. 219 CF) ; la sœur ne peut agir qu'en dommages-intérêts.",
+        "Tout est immeuble car tout est lié à l'exploitation agricole",
+        "(1) Les litchiers sont des meubles. (2) Non, l'irrigation ne peut jamais être immeuble. (3) Les litchis vendus sont des immeubles. (4) La sœur peut agir librement car la coutume prime sur le certificat"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Appliquez l'article 7 du Code Foncier pour les arbres plantés.",
+        "Pour le système d'irrigation, vérifiez les deux conditions de l'article 8.",
+        "Pour les litchis vendus sur pied, rappelez-vous de la catégorie des meubles par anticipation.",
+        "Pour la sœur, l'article 219 du Code Foncier est déterminant."
+      ],
+      "explication": "(1) Les litchiers sont des immeubles par incorporation. L'article 7 du Code Foncier malgache dispose que les arbres et plantes quelconques sont immeubles tant qu'ils ne sont pas détachés du sol. Les litchiers plantés dans le terrain de Miora sont donc des immeubles — ils font partie de l'immeuble et suivront le sort du fonds en cas de vente ou de transmission. (2) Le système d'irrigation est un immeuble par destination. L'article 8 exige deux conditions : identité de propriétaire (Miora est bien propriétaire du terrain et du système d'irrigation) et volonté d'affectation durable à l'exploitation du fonds (le système est installé pour les nécessités de l'exploitation agricole). Ces deux conditions étant remplies, les pompes et tuyaux enterrés sont des immeubles par destination. (3) Les litchis vendus sur pied sont des meubles par anticipation. Bien qu'encore en terre au moment de la vente et donc immeubles par incorporation, les parties les ont traités comme des meubles destinés à être prochainement cueillis. La pratique juridique qualifie ces récoltes sur pied vendues de meubles par anticipation, permettant d'appliquer les règles de vente mobilière. (4) La sœur de Miora ne peut pas faire valoir des droits immobiliers sans certificat foncier. L'article 219 du Code Foncier malgache est catégorique : le droit de jouissance d'un fonds n'est légalement établi que par un certificat d'enregistrement. Sans certificat, aucun droit immobilier n'est opposable aux tiers. L'article 227 précise que le certificat fait pleine foi et que les droits qui y sont constatés sont inattaquables. La sœur ne peut agir qu'en dommages-intérêts contre les personnes responsables du défaut d'enregistrement, mais ne peut pas revendiquer le terrain lui-même."
+    },
+    {
+      "question": "CAS PRATIQUE 2 : Trois frères — Fidy, Tovo et Lalao — héritent de leur père d'une maison à Toliara et d'un terrain agricole à Morondava. Ils sont donc en indivision sur ces deux biens. Fidy, qui vit à l'étranger, propose de vendre la maison de Toliara pour partager le prix. Tovo veut transformer le terrain agricole de Morondava en terrain commercial pour y construire des bungalows touristiques. Lalao souhaite continuer à cultiver le terrain et refuse toute modification. Elle propose de rester en indivision pendant 10 ans. Répondez : (1) Fidy peut-il imposer le partage de la maison de Toliara ? (2) Tovo peut-il seul décider de changer la destination du terrain agricole en terrain commercial ? (3) La proposition de Lalao de rester en indivision pendant 10 ans est-elle juridiquement valable ?",
+      "choix": [
+        "Fidy peut imposer le partage. Tovo peut agir seul. La proposition de 10 ans de Lalao est valide.",
+        "(1) Oui, chaque copropriétaire peut à tout moment demander le partage (art. 34 CF), nonobstant toute convention contraire. (2) Non, changer la destination du bien commun requiert le consentement de tous les copropriétaires (art. 33 CF). (3) Non, la convention d'indivision est limitée à 5 ans maximum — une durée de 10 ans serait réduite à 5 ans (art. 34 CF).",
+        "Ni Fidy, ni Tovo ne peuvent agir. La proposition de 10 ans est valide car tous les trois peuvent en convenir.",
+        "Fidy ne peut pas imposer le partage. Tovo peut agir seul. La proposition de 10 ans est valide."
+      ],
+      "reponse": 1,
+      "indices": [
+        "L'article 34 du Code Foncier reconnaît à chaque copropriétaire le droit de demander le partage à tout moment.",
+        "L'article 33 est clair sur les actes qui nécessitent l'unanimité.",
+        "L'article 34 fixe une durée maximale légale pour les conventions d'indivision."
+      ],
+      "explication": "(1) Oui, Fidy peut demander le partage. L'article 34 du Code Foncier malgache dispose que chacun des copropriétaires peut toujours demander le partage de la chose commune, nonobstant toute convention ou prohibition contraire. Ce droit au partage est d'ordre public : ni une convention entre les parties ni l'opposition des autres copropriétaires ne peut l'empêcher. Fidy peut donc saisir le tribunal pour obtenir le partage de la maison de Toliara. (2) Non, Tovo ne peut pas seul décider de changer la destination du terrain. L'article 33 du Code Foncier est formel : aucun des copropriétaires ne peut, sans le consentement des autres, changer la destination de la chose commune. Transformer un terrain agricole en terrain commercial est précisément un changement de destination. Il requiert l'accord unanime de Fidy, Tovo et Lalao. Si Tovo passe outre, sa décision pourra être annulée. (3) Non, la proposition de Lalao de rester en indivision pendant 10 ans dépasse le maximum légal. L'article 34 du Code Foncier prévoit que les copropriétaires peuvent convenir de rester dans l'indivision pendant un temps déterminé ne pouvant excéder cinq ans. Si la convention est faite pour un terme plus long, elle est réduite à ce terme de cinq ans. Donc même si Fidy, Tovo et Lalao acceptaient la proposition de Lalao, la convention ne pourrait produire effet que pour cinq ans, après quoi chacun retrouverait son droit de demander le partage."
+    }
+  ]
+    }
