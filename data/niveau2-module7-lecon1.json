@@ -1,0 +1,440 @@
+{
+  "titre": "Le droit du travail — le contrat de travail",
+  "module": "Module 07 — Le droit du travail : le contrat de travail",
+  "niveau": "Intermédiaire",
+  "contenu": [
+    {
+      "titre": "Qu'est-ce que le droit du travail à Madagascar ?",
+      "texte": "Le droit du travail est l'ensemble des règles qui organisent les relations entre un employeur et un travailleur. À Madagascar, il est gouverné par la loi n° 2024-014 portant Code du Travail, promulguée après adoption par l'Assemblée Nationale et le Sénat en juin-juillet 2024. Ce texte abroge et remplace le Code du travail de 2003-044. Il contient 395 articles répartis en onze titres. Le droit du travail s'applique à tout employeur et tout travailleur dont le contrat est exécuté à Madagascar, quelle que soit la nationalité des parties ou le lieu de conclusion du contrat. Attention : il ne s'applique pas aux agents publics (régis par leur statut général), ni aux travailleurs indépendants, ni aux gens de mer (Code maritime). Le travailleur est défini par l'article 2 comme toute personne qui s'engage à mettre son activité professionnelle, moyennant rémunération, sous la direction et l'autorité d'un employeur. Ce critère de subordination juridique est fondamental : c'est lui qui distingue le salarié de l'indépendant. L'employeur (article 3) est toute personne physique ou morale qui utilise les services d'un ou plusieurs travailleurs. Le droit du travail malgache pose des règles minimales protectrices du travailleur : les parties peuvent y déroger par accord uniquement dans un sens plus favorable au salarié.",
+      "definition": "Le droit du travail est la branche du droit qui régit les relations entre employeurs et travailleurs salariés. À Madagascar, il est codifié dans la loi n° 2024-014 portant Code du Travail. Son critère central est le lien de subordination juridique : le travailleur agit sous la direction et l'autorité de l'employeur en échange d'une rémunération.",
+      "exemple": "Rado travaille dans une épicerie à Antananarivo. Il reçoit un salaire mensuel, respecte les horaires fixés par le patron, utilise le matériel de la boutique et suit les instructions du gérant. → Il est salarié : subordination juridique + rémunération + direction. Le Code du travail lui est applicable. En revanche, son cousin qui livre des commandes avec sa propre moto, fixe ses propres horaires et est payé à la livraison est un travailleur indépendant : pas de Code du travail applicable."
+    },
+    {
+      "titre": "La formation du contrat de travail",
+      "texte": "Le contrat de travail est l'accord par lequel un travailleur s'engage à mettre son activité professionnelle au service d'un employeur, sous sa subordination, en échange d'une rémunération. L'article 17 pose le principe de liberté contractuelle : les contrats sont passés librement, sous réserve des règles d'ordre public et des bonnes mœurs. Comme tout contrat, il doit réunir les conditions de droit commun : consentement libre et éclairé des parties, capacité de contracter, objet certain et cause licite. L'article 18 impose la forme écrite : le contrat doit être rédigé au moment de l'embauche et préciser au minimum la fonction du travailleur, sa catégorie professionnelle, son indice minimum de classification, son salaire et la date d'effet. Il est rédigé en malagasy et/ou en français selon la convenance des parties. Il est établi en double exemplaire : l'employeur en garde un, l'autre est remis immédiatement au travailleur. Bonne nouvelle pour les travailleurs : le contrat est exempt de tout droit de timbre et d'enregistrement (article 21). En l'absence de contrat écrit, l'existence d'une relation de travail peut être prouvée par tous les moyens (article 20) : témoignages, fiches de paie, messageries, attestations. Le Ministère du Travail met à disposition des modèles de contrat pour chaque type, qui peuvent servir de référence.",
+      "definition": "Le contrat de travail est un accord écrit entre un employeur et un travailleur précisant au minimum : la fonction, la catégorie professionnelle, l'indice minimum de classification, le salaire et la date d'effet. Il est établi en deux exemplaires originaux. Son absence n'empêche pas de prouver la relation de travail par tout moyen.",
+      "exemple": "Une société à Tamatave engage Soa comme comptable. Le contrat doit indiquer : 'Comptable - Catégorie V - Indice 400 - Salaire : 800 000 Ar/mois - Date d'effet : 1er mars 2025'. Deux exemplaires signés : un pour la société, un remis immédiatement à Soa. Si la société oublie de rédiger le contrat mais verse un salaire régulier à Soa et lui donne des instructions de travail, Soa peut prouver son statut de salarié par ses relevés bancaires, ses messages de direction et les témoignages de collègues."
+    },
+    {
+      "titre": "Le CDI et le CDD : deux types fondamentaux",
+      "texte": "L'article 22 du Code du travail pose la distinction fondamentale : le contrat de travail peut être conclu pour une durée indéterminée (CDI) ou une durée déterminée (CDD). Le CDI est la règle de droit commun. Il n'a pas de terme fixé à l'avance et offre la plus grande protection au travailleur. Le CDD est l'exception. Selon l'article 23, c'est un contrat caractérisé par un terme fixé dès sa conclusion, soit une date précise, soit un événement certain (fin d'un chantier, retour d'un salarié absent). Il doit impérativement être établi par écrit. L'article 24 est très clair : on ne peut recourir au CDD que pour des travaux qui ne font pas partie des activités normales et permanentes de l'entreprise. Il est aussi autorisé pour des compléments d'effectif en cas de surcroit extraordinaire d'activité, ou pour des travaux urgents de sécurité. Un CDD ne peut pas durer moins d'un mois ni plus de deux ans (article 25). Il peut être renouvelé deux fois, mais la durée totale (contrat initial + renouvellements) ne peut pas dépasser six ans. Règle importante : après deux renouvellements successifs, le CDD se transforme automatiquement en CDI. De même, si un travailleur est réembauché au même poste dans les trois mois suivant la fin de son CDD, c'est considéré comme un renouvellement.",
+      "definition": "Le CDI (contrat à durée indéterminée) est le contrat de droit commun, sans terme fixé, offrant la plus grande protection. Le CDD (contrat à durée déterminée) est l'exception, réservé aux travaux non permanents. Il ne peut dépasser 2 ans ni être renouvelé plus de deux fois (plafond total : 6 ans). Après deux renouvellements, il devient automatiquement un CDI.",
+      "exemple": "Une usine textile à Antsirabe engage des couturières supplémentaires pour une grande commande de 6 mois : CDD autorisé (surcroit extraordinaire). Mais si ces couturières travaillent en permanence depuis 2 ans : elles doivent être en CDI. Si l'employeur les maintient en CDD au-delà de deux renouvellements, le contrat est automatiquement requalifié en CDI par la loi, avec tous les droits qui en découlent."
+    },
+    {
+      "titre": "La période d'essai",
+      "texte": "La période d'essai est une phase initiale du contrat pendant laquelle l'employeur évalue les compétences du travailleur et le travailleur apprécie les conditions de travail. L'article 52 impose que l'essai soit constaté par un accord écrit précisant le poste, la durée, le salaire et la catégorie professionnelle. Un essai non stipulé par écrit est réputé inexistant. La durée maximale de l'essai est de six mois, renouvelable une fois (article 53). Elle dépend de la catégorie professionnelle : un manœuvre aura un essai plus court qu'un cadre. Un décret fixe les durées précises par catégorie. Pendant l'essai, le travailleur a les mêmes droits que les autres salariés : mêmes conditions de travail, même protection sociale (article 54). C'est un principe fondamental souvent ignoré en pratique. Pendant l'essai, les règles habituelles du CDI sur la modification du contrat, les maladies longues durées et la rupture ne s'appliquent pas (article 55) : l'une ou l'autre des parties peut rompre librement sans indemnité. Si le travailleur tombe malade pendant l'essai, le contrat est suspendu (article 56), et l'employeur doit verser une indemnité mensuelle pendant un mois maximum. À la guérison, l'essai reprend pour la durée restante.",
+      "definition": "La période d'essai est la phase initiale du contrat permettant à l'employeur et au travailleur de s'évaluer mutuellement. Elle doit être fixée par écrit et ne peut excéder 6 mois renouvelable une fois. Pendant l'essai, chacun peut rompre librement sans indemnité, mais le travailleur bénéficie des mêmes conditions de travail et de protection sociale que les salariés confirmés.",
+      "exemple": "Une banque engage Tiana comme analyste financier avec 3 mois d'essai, renouvelable une fois (6 mois maximum). Au bout d'un mois, l'employeur constate que Tiana n'est pas à la hauteur : il peut rompre sans préavis ni indemnité. Mais il doit lui avoir payé son salaire normal et ses cotisations sociales pendant ce mois — mêmes droits qu'un salarié confirmé. Si Tiana tombe malade au bout de 2 mois d'essai, l'essai est suspendu, l'employeur verse son salaire pendant 1 mois, puis l'essai reprend pour les 4 semaines restantes."
+    },
+    {
+      "titre": "Les clauses essentielles et la modification du contrat",
+      "texte": "L'article 29 protège le travailleur contre les modifications imposées par l'employeur. Les clauses substantielles du contrat — la classification professionnelle, la rémunération et le poste occupé — ne peuvent pas être modifiées unilatéralement dans un sens défavorable au travailleur. Si l'employeur veut changer ces éléments sans l'accord du salarié, cela constitue une rupture imputable à l'employeur, avec toutes les conséquences qui en découlent (préavis, indemnités). L'article 28 pose le principe de l'exclusivité relative : le travailleur engage ses services pour un seul employeur. En dehors de son temps de travail, il peut exercer d'autres activités, à condition qu'elles ne concurrencent pas l'entreprise et ne nuisent pas à son travail principal. Toute clause du contrat interdisant au salarié tout travail après la fin du contrat est nulle de plein droit — sauf pour les salariés inventeurs, qui ne peuvent pas rejoindre un concurrent tant que leur invention n'est pas protégée par un brevet. En cas de changement de propriétaire de l'entreprise (vente, fusion, cession), l'article 30 protège les salariés : tous les contrats de travail en cours sont automatiquement transférés au nouvel employeur. Ce dernier ne peut pas licencier les salariés du seul fait du changement de propriétaire.",
+      "definition": "Les clauses substantielles du contrat de travail (classification, rémunération, poste) ne peuvent pas être modifiées unilatéralement par l'employeur dans un sens défavorable au travailleur. Toute modification imposée est une rupture imputable à l'employeur. En cas de cession d'entreprise, tous les contrats sont automatiquement transférés au nouvel employeur.",
+      "exemple": "Niry est cadre commercial à Antananarivo, salaire 1,5M Ar. Son employeur lui annonce qu'il est 'rétrogradé' au poste de vendeur junior avec un salaire de 600 000 Ar, sans son accord. C'est une modification unilatérale d'une clause substantielle. Niry peut notifier par écrit qu'il 'prend acte de la rupture' : cette rupture sera considérée comme imputable à l'employeur, avec droit au préavis et aux indemnités."
+    },
+    {
+      "titre": "La suspension du contrat de travail",
+      "texte": "La suspension est une interruption temporaire de l'exécution du contrat, sans rupture. Le contrat existe toujours, mais les obligations principales (travail contre salaire) sont suspendues. L'article 31 liste de manière exhaustive les 13 cas de suspension légale : service militaire du travailleur ou de l'employeur, maladie du travailleur (jusqu'à 6 mois), maladie ou hospitalisation d'un enfant (2 mois maximum), hospitalisation du conjoint (15 jours), participation à une compétition sportive nationale ou internationale, exercice d'un mandat électif (1 mandat maximum), chômage technique (6 mois maximum, prolongeable en cas de crise nationale), accident du travail ou maladie professionnelle, grève licite, réquisition d'emploi, détention préventive suivie d'acquittement, mise en disponibilité. La règle absolue : l'employeur ne peut pas rompre le contrat pendant la suspension. S'il le fait, la rupture est abusive. Dans les six premiers cas, l'employeur doit verser une indemnité de suspension égale au salaire normal, dans la limite d'un mois ou de la durée du préavis (article 32). Le chômage technique mérite une attention particulière : c'est une interruption collective due à des causes techniques ou économiques (panne de machine, pénurie de matières premières, sinistre). Sa déclaration préalable à l'Inspection du Travail est obligatoire.",
+      "definition": "La suspension du contrat est une interruption temporaire légale qui maintient le lien contractuel sans obliger les parties à travailler ni à payer. Elle couvre 13 cas définis par la loi (maladie, maternité, service militaire, grève licite, chômage technique, etc.). L'employeur ne peut pas rompre le contrat pendant la suspension.",
+      "exemple": "Hanta, salariée d'une fabrique de vêtements à Tana, est hospitalisée 4 mois pour une appendicite compliquée. Son contrat est suspendu. L'employeur lui verse son salaire normal pendant 1 mois (indemnité de suspension), puis peut ne plus verser pendant les 3 mois suivants. Il ne peut pas la licencier pendant ces 6 mois. Au 7ème mois, si elle n'est toujours pas rétablie, il peut rompre le contrat — mais doit lui payer le préavis et toutes ses indemnités normales."
+    },
+    {
+      "titre": "La rupture du contrat : préavis, licenciement et démission",
+      "texte": "L'article 35 définit les quatre causes de rupture d'un CDI : le licenciement (décision de l'employeur), la démission (décision du travailleur), l'accord des parties (rupture à l'amiable), et la force majeure. Le préavis est obligatoire pour toute rupture de CDI, sauf en cas de faute lourde. C'est un délai pendant lequel les deux parties continuent leurs obligations normales, permettant à chacun de s'organiser. Son non-respect oblige la partie fautive à verser une indemnité compensatrice de préavis. La procédure de licenciement est stricte (article 42) : l'employeur doit informer le travailleur par écrit des motifs, le convoquer à un entretien préalable au moins 3 jours ouvrables à l'avance, lui permettre de présenter sa défense assisté d'une personne de son choix. Le travailleur peut demander à consulter son dossier. La lettre de licenciement doit indiquer les motifs : après notification, aucun nouveau motif ne peut être ajouté. En cas de licenciement, l'employeur doit verser : le solde de salaire, l'indemnité compensatrice de congé non pris, l'indemnité de préavis (sauf faute lourde), et remettre un certificat de travail. La démission est libre (article 43) mais le salarié doit indiquer son motif et respecter le préavis. La rupture est abusive (article 39) lorsqu'elle est sans motif légitime, non conforme aux procédures, fallacieuse, ou fondée sur les opinions du travailleur ou son appartenance syndicale.",
+      "definition": "Le CDI peut être rompu par licenciement (employeur), démission (travailleur), accord mutuel ou force majeure. Le préavis est obligatoire sauf faute lourde. Le licenciement requiert une procédure stricte : information écrite, entretien préalable avec délai de 3 jours ouvrables, droit à la défense. Toute rupture sans motif légitime ni procédure est abusive.",
+      "exemple": "L'entreprise XY veut licencier Rémi pour 'mauvais rendement'. Elle doit : 1) lui envoyer une convocation écrite au moins 3 jours avant l'entretien, 2) tenir l'entretien et lui permettre d'être assisté, 3) lui notifier le licenciement par écrit avec les motifs précis, 4) respecter le délai de préavis, 5) lui verser son solde, son indemnité de congé et l'indemnité de préavis, 6) lui remettre son certificat de travail. Si l'une de ces étapes manque, le licenciement est abusif et donne droit à des dommages-intérêts."
+    }
+  ],
+  "quiz": [
+    {
+      "question": "Quel texte gouverne actuellement le droit du travail à Madagascar ?",
+      "choix": ["La loi n° 94-029 du 25 août 1995", "La loi n° 2003-044 du 28 juillet 2004", "La loi n° 2024-014 portant Code du Travail", "L'ordonnance n° 60-133 de 1960"],
+      "reponse": 2,
+      "explication": "Le Code du Travail actuellement en vigueur à Madagascar est la loi n° 2024-014, adoptée par l'Assemblée Nationale le 20 juin 2024 et par le Sénat le 1er juillet 2024. Il abroge et remplace le Code du travail de 2003-044. Il contient 395 articles répartis en 11 titres.",
+      "indices": ["C'est le texte le plus récent.", "Il a été adopté en 2024.", "Il comprend 395 articles et 11 titres."]
+    },
+    {
+      "question": "Quel est le critère fondamental qui distingue le salarié du travailleur indépendant selon l'article 2 du Code du travail ?",
+      "choix": ["Le montant de la rémunération", "Le lien de subordination juridique", "La durée de la relation de travail", "La nature des tâches effectuées"],
+      "reponse": 1,
+      "explication": "L'article 2 définit le travailleur comme celui qui met son activité professionnelle sous la direction et l'autorité d'un employeur, moyennant rémunération. Ce lien de subordination juridique — agir sous les ordres et le contrôle de quelqu'un — est le critère central qui distingue le salarié de l'indépendant, quel que soit le montant payé ou la durée.",
+      "indices": ["C'est la question du 'qui commande ?'", "Le salarié reçoit des instructions et travaille sous contrôle.", "L'indépendant fixe lui-même ses méthodes et son organisation."]
+    },
+    {
+      "question": "Le Code du travail malgache s'applique-t-il aux agents publics ?",
+      "choix": ["Oui, à tous les agents publics sans exception", "Non, les agents publics sont régis par leur statut général ou particulier", "Oui, mais uniquement pour leur salaire", "Non, mais uniquement pour les fonctionnaires de l'État"],
+      "reponse": 1,
+      "explication": "L'article 1er du Code du travail exclut explicitement de son champ d'application les agents publics régis par un statut général ou particulier, les travailleurs indépendants et les travailleurs régis par le Code maritime. Les fonctionnaires malgaches sont soumis à leur propre statut de la fonction publique.",
+      "indices": ["Le Code cite expressément les exclusions.", "Les agents publics ont leur propre statut.", "Trois catégories sont exclues du Code du travail."]
+    },
+    {
+      "question": "Quels éléments doivent obligatoirement figurer dans le contrat de travail selon l'article 18 ?",
+      "choix": ["Le nom de l'entreprise, l'adresse et le numéro CNAPS", "La fonction, la catégorie professionnelle, l'indice minimum, le salaire et la date d'effet", "Le salaire, les congés et les heures de travail hebdomadaires", "La durée du contrat, le salaire et la signature du Ministère du Travail"],
+      "reponse": 1,
+      "explication": "L'article 18 liste les mentions minimales obligatoires du contrat de travail : la fonction du travailleur, sa catégorie professionnelle, son indice minimum de classification, son salaire et la date d'effet du contrat. D'autres clauses peuvent s'ajouter, mais ces cinq éléments sont impératifs.",
+      "indices": ["Cinq éléments minimum sont imposés par la loi.", "L'adresse de l'entreprise n'en fait pas partie.", "Le salaire et le poste sont les deux éléments les plus évidents, mais il en faut trois de plus."]
+    },
+    {
+      "question": "En combien d'exemplaires le contrat de travail doit-il être établi, et qui les garde ?",
+      "choix": ["Un seul, conservé par l'employeur", "Trois : employeur, travailleur et Inspection du Travail", "Deux : un pour l'employeur, un remis immédiatement au travailleur", "Quatre : employeur, travailleur, CNAPS et Ministère du Travail"],
+      "reponse": 2,
+      "explication": "L'article 18 impose l'établissement du contrat en double exemplaire : le premier est conservé par l'employeur, le second doit être remis immédiatement au travailleur après signature des deux parties. Cette remise immédiate est une protection essentielle du salarié : il dispose de son propre exemplaire.",
+      "indices": ["Deux parties signent, deux exemplaires.", "L'un reste chez l'employeur, l'autre part avec le travailleur.", "La remise doit être immédiate, pas différée."]
+    },
+    {
+      "question": "En l'absence de contrat écrit, comment peut-on prouver l'existence d'une relation de travail ?",
+      "choix": ["Il est impossible de prouver une relation de travail sans contrat écrit", "Par tous les moyens (fiches de paie, témoignages, messages, etc.)", "Uniquement par témoignages écrits certifiés notariés", "Uniquement si le travailleur est inscrit au CNAPS"],
+      "reponse": 1,
+      "explication": "L'article 20 du Code du travail est clair : en l'absence de contrat écrit, l'existence d'une relation de travail peut être prouvée par tous les moyens. Cela inclut les fiches de paie, les relevés bancaires montrant des versements réguliers, les messages de direction, les témoignages de collègues, les photos, les registres de présence, etc.",
+      "indices": ["La loi dit 'par tous les moyens'.", "L'absence de papier n'efface pas la réalité de la relation.", "Les fiches de paie, les messages et les témoignages sont tous recevables."]
+    },
+    {
+      "question": "Le contrat de travail est-il soumis à des droits de timbre ou d'enregistrement à Madagascar ?",
+      "choix": ["Oui, des droits de timbre de 1% du salaire annuel", "Non, il est exempt de tout droit de timbre et d'enregistrement", "Oui, mais uniquement pour les CDD", "Non, sauf si le salaire dépasse 2 millions d'ariary"],
+      "reponse": 1,
+      "explication": "L'article 21 dispose que le contrat de travail est exempt de tout droit de timbre et d'enregistrement. C'est une mesure qui facilite la formalisation des relations de travail en réduisant les coûts administratifs pour l'employeur et le travailleur.",
+      "indices": ["C'est une exemption totale.", "Elle s'applique à tous les contrats de travail.", "Elle vise à encourager la formalisation des emplois."]
+    },
+    {
+      "question": "Dans quels cas peut-on légalement conclure un CDD selon l'article 24 ?",
+      "choix": ["Pour tous les emplois, c'est laissé au choix de l'employeur", "Pour les travaux non permanents, les compléments d'effectif en cas de surcroit et les travaux urgents de sécurité", "Uniquement pour remplacer un salarié absent", "Pour tous les emplois d'une durée inférieure à 6 mois"],
+      "reponse": 1,
+      "explication": "L'article 24 limite le recours au CDD : il ne peut être utilisé que pour des travaux qui ne font pas partie des activités normales et permanentes de l'entreprise, pour des compléments d'effectif face à un surcroit extraordinaire d'activité, ou pour des travaux urgents nécessités par des mesures de sécurité. L'utilisation du CDD pour un emploi permanent constitue une fraude.",
+      "indices": ["Le CDD est l'exception, pas la règle.", "L'activité permanente de l'entreprise doit être couverte par des CDI.", "Deux cas spéciaux sont prévus en plus du cas général."]
+    },
+    {
+      "question": "Quelle est la durée maximale d'un CDD, renouvellements inclus ?",
+      "choix": ["2 ans maximum", "4 ans maximum", "6 ans maximum", "Il n'y a pas de limite si les parties l'acceptent"],
+      "reponse": 2,
+      "explication": "Un CDD ne peut dépasser 2 ans initialement. Il peut être renouvelé deux fois. La durée totale — contrat initial plus renouvellements — ne peut pas dépasser 6 ans. Au-delà de deux renouvellements, le CDD se transforme automatiquement en CDI, de plein droit, sans qu'il soit nécessaire de signer un nouveau contrat.",
+      "indices": ["Le contrat initial peut durer jusqu'à 2 ans.", "Deux renouvellements sont possibles.", "Le total : 2 ans x 3 = 6 ans maximum."]
+    },
+    {
+      "question": "Que se passe-t-il automatiquement après deux renouvellements successifs d'un CDD ?",
+      "choix": ["Le travailleur doit négocier un nouveau CDI", "Le CDD se transforme automatiquement en CDI", "Le travailleur perd son emploi à l'expiration", "L'employeur doit obtenir l'autorisation de l'Inspection du Travail pour continuer"],
+      "reponse": 1,
+      "explication": "L'article 25 est explicite : le contrat de travail à durée déterminée se transforme automatiquement en contrat à durée indéterminée après deux renouvellements successifs. Cette transformation est de plein droit, sans formalité. Le travailleur acquiert alors toute la protection du CDI.",
+      "indices": ["C'est une transformation automatique, de plein droit.", "Aucune formalité n'est requise.", "C'est une protection forte du travailleur contre l'abus de CDD."]
+    },
+    {
+      "question": "Un travailleur journalier occupé au même poste pendant 6 mois successifs avec 20 jours de travail en moyenne par mois bénéficie de :",
+      "choix": ["D'une prime de fidélité", "D'une transformation automatique de son contrat en CDI", "D'une priorité d'embauche lors du prochain recrutement", "D'aucun droit particulier car il est journalier"],
+      "reponse": 1,
+      "explication": "L'article 27 et l'article 65 prévoient que le contrat des journaliers occupés au même poste de façon intermittente pendant 6 mois successifs pour le même employeur, en totalisant en moyenne 20 jours de travail par mois, est transformé automatiquement en CDI. C'est une protection contre l'abus du statut de journalier pour contourner le CDI.",
+      "indices": ["Deux conditions cumulatives : 6 mois et 20 jours par mois.", "La transformation est automatique.", "C'est une protection contre l'abus du statut de journalier."]
+    },
+    {
+      "question": "La période d'essai doit-elle obligatoirement être prévue par écrit ?",
+      "choix": ["Non, elle peut être verbale si les parties se font confiance", "Oui, un essai non stipulé par écrit est réputé inexistant", "Non, sauf pour les cadres et les postes à responsabilités", "Oui, mais uniquement si elle dépasse 3 mois"],
+      "reponse": 1,
+      "explication": "L'article 52 est formel : dans tout contrat, l'essai non stipulé par écrit est réputé inexistant. Cela signifie qu'en l'absence de clause écrite d'essai, le travailleur est considéré comme directement engagé avec toute la protection d'un salarié confirmé dès le premier jour.",
+      "indices": ["C'est une règle impérative.", "'Non stipulé par écrit = inexistant' dit la loi.", "Cette règle protège les travailleurs des essais imposés après coup."]
+    },
+    {
+      "question": "Quelle est la durée maximale de la période d'essai selon l'article 53 ?",
+      "choix": ["3 mois non renouvelables", "6 mois, renouvelable une fois", "1 an maximum", "La durée est librement fixée par les parties"],
+      "reponse": 1,
+      "explication": "L'article 53 fixe la durée maximale à 6 mois, renouvelable une fois. Donc la durée totale d'essai ne peut excéder 12 mois cumulés. En pratique, les décrets précisent des durées plus courtes selon la catégorie professionnelle (par exemple, 1 mois pour un manœuvre, 6 mois pour un cadre supérieur).",
+      "indices": ["6 mois est le maximum légal.", "Il peut être renouvelé une seule fois.", "La durée varie selon la catégorie professionnelle."]
+    },
+    {
+      "question": "Un travailleur en période d'essai bénéficie-t-il des mêmes droits que les salariés confirmés ?",
+      "choix": ["Non, il n'a pas encore de droits à la protection sociale", "Oui, il bénéficie des mêmes conditions de travail et de protection sociale", "Non, ses droits sont réduits de moitié pendant l'essai", "Oui, mais seulement après le premier mois d'essai"],
+      "reponse": 1,
+      "explication": "L'article 54 est clair : le travailleur engagé à l'essai bénéficie des mêmes conditions de travail et de protection sociale que les travailleurs confirmés au même poste. Cela signifie mêmes horaires, mêmes règles de sécurité, même affiliation au CNAPS et à l'OSTIE, même accès aux congés acquis.",
+      "indices": ["L'essai ne crée pas un statut inférieur.", "La protection sociale (CNAPS, OSTIE) s'applique dès le premier jour.", "Article 54 du Code du travail."]
+    },
+    {
+      "question": "Pendant la période d'essai, peut-on rompre le contrat sans indemnité ?",
+      "choix": ["Non, le préavis et les indemnités sont toujours dus", "Oui, l'une ou l'autre partie peut rompre librement sans indemnité", "Oui, mais uniquement pendant le premier mois", "Non, l'employeur doit payer 1 mois de salaire minimum"],
+      "reponse": 1,
+      "explication": "L'article 55 prévoit que les règles normales de rupture du CDI ne s'appliquent pas pendant l'essai, sauf convention contraire. L'une ou l'autre des parties peut donc mettre fin à l'essai librement, sans préavis ni indemnité de licenciement. C'est la caractéristique principale de l'essai : la liberté de rompre.",
+      "indices": ["C'est justement l'intérêt de la période d'essai.", "Ni préavis ni indemnité sauf accord contraire.", "Cette liberté est réciproque : employeur ET travailleur peuvent rompre."]
+    },
+    {
+      "question": "Les clauses substantielles d'un contrat de travail peuvent-elles être modifiées unilatéralement par l'employeur dans un sens défavorable ?",
+      "choix": ["Oui, si les difficultés économiques le justifient", "Non, leur modification unilatérale défavorable est interdite", "Oui, avec un préavis de 15 jours", "Oui, si le Règlement Intérieur le prévoit"],
+      "reponse": 1,
+      "explication": "L'article 29 interdit à l'employeur de modifier unilatéralement les clauses substantielles — classification professionnelle, rémunération, poste — dans un sens défavorable au travailleur. Si l'employeur le fait quand même et que le travailleur notifie par écrit qu'il prend acte de la rupture, celle-ci est imputable à l'employeur, qui devra les indemnités correspondantes.",
+      "indices": ["La classification, le salaire et le poste sont protégés.", "Modification unilatérale défavorable = rupture aux torts de l'employeur.", "Article 29 du Code du travail."]
+    },
+    {
+      "question": "Quelles sont les trois clauses substantielles protégées par l'article 29 ?",
+      "choix": ["Le salaire, les congés et les horaires de travail", "La classification professionnelle, la rémunération et le poste occupé", "Le lieu de travail, la durée du contrat et le salaire", "Le poste, les avantages en nature et le lieu de travail"],
+      "reponse": 1,
+      "explication": "L'article 29 protège spécifiquement trois éléments : la classification professionnelle (le grade/niveau hiérarchique), la rémunération (le salaire et ses accessoires), et le poste occupé (les fonctions exercées). Ces trois éléments constituent le noyau dur du contrat que l'employeur ne peut pas toucher sans l'accord du salarié.",
+      "indices": ["Trois éléments précisément.", "Classification, rémunération et poste.", "Les congés et horaires ne font pas partie de la liste légale des clauses substantielles."]
+    },
+    {
+      "question": "Que se passe-t-il pour les contrats de travail en cours en cas de vente ou fusion de l'entreprise ?",
+      "choix": ["Tous les contrats sont automatiquement résiliés", "Tous les contrats subsistent automatiquement avec le nouvel employeur", "Le nouvel employeur peut choisir quels salariés garder librement", "Les salariés doivent signer de nouveaux contrats dans les 30 jours"],
+      "reponse": 1,
+      "explication": "L'article 30 pose le principe de continuité des contrats en cas de modification dans la situation juridique de l'employeur (succession, vente, fusion, transformation, mise en société, mise en location). Tous les contrats en cours subsistent avec le nouvel employeur. Leur résiliation ne peut intervenir que selon les procédures légales normales.",
+      "indices": ["Le changement de propriétaire ne justifie pas à lui seul un licenciement.", "Les contrats 'suivent' l'entreprise.", "Article 30 du Code du travail."]
+    },
+    {
+      "question": "Combien de cas de suspension du contrat de travail l'article 31 prévoit-il ?",
+      "choix": ["6 cas", "8 cas", "13 cas", "5 cas"],
+      "reponse": 2,
+      "explication": "L'article 31 liste 13 cas de suspension légale du contrat de travail : service militaire de l'employeur ou du travailleur, maladie du travailleur (6 mois max), maladie d'un enfant (2 mois max), hospitalisation du conjoint (15 jours), compétition sportive, mandat électif (1 mandat max), chômage technique (6 mois max), accident du travail/maladie professionnelle, grève licite, réquisition d'emploi, détention préventive suivie d'acquittement, et mise en disponibilité.",
+      "indices": ["C'est une liste exhaustive et précise.", "Elle va bien au-delà des 4 ou 5 cas les plus connus.", "Compter : service militaire (2 cas), maladie (2 cas), hospitalisation conjoint, sport, mandat, chômage technique, accident, grève, réquisition, détention, disponibilité."]
+    },
+    {
+      "question": "Pendant la suspension du contrat pour maladie, l'employeur peut-il licencier le travailleur ?",
+      "choix": ["Oui, immédiatement", "Non, il est interdit de rompre le contrat pendant toute période de suspension", "Oui, mais avec un préavis de 3 mois", "Oui, après 30 jours d'absence"],
+      "reponse": 1,
+      "explication": "L'article 31 alinéa 1er est une règle absolue : 'Aucun employeur ne peut résilier le contrat de travail lorsqu'il se trouve suspendu.' Cette interdiction s'applique à tous les cas de suspension. Si l'employeur le fait quand même, la rupture est abusive et donne droit à des dommages-intérêts.",
+      "indices": ["C'est une interdiction absolue.", "Elle vaut pour tous les cas de suspension.", "Après l'expiration du délai légal de suspension, l'employeur retrouve le droit de rompre."]
+    },
+    {
+      "question": "Quelle est la durée maximale de suspension du contrat en cas de maladie du travailleur ?",
+      "choix": ["3 mois", "6 mois consécutifs", "1 an", "Jusqu'à la guérison complète"],
+      "reponse": 1,
+      "explication": "L'article 31 paragraphe 3 limite la suspension pour maladie à 6 mois consécutifs. Passé ce délai, l'employeur peut rompre le contrat, mais doit régler tous les droits du travailleur, notamment le préavis. Il ne peut pas licencier pendant ces 6 mois, mais peut le faire au-delà.",
+      "indices": ["C'est un délai consécutif, pas cumulatif.", "Après 6 mois, l'employeur retrouve son droit de rompre.", "Il doit quand même payer les droits, notamment le préavis."]
+    },
+    {
+      "question": "Qu'est-ce que le chômage technique selon le Code du travail 2024 ?",
+      "choix": ["Un licenciement pour motif économique", "Une interruption collective de travail due à des causes conjoncturelles techniques, économiques ou accidentelles", "La fermeture définitive de l'entreprise pour raisons économiques", "Une réduction du temps de travail décidée unilatéralement par le salarié"],
+      "reponse": 1,
+      "explication": "L'article 31 (8.1) définit le chômage technique comme toute interruption collective du travail résultant de causes conjoncturelles de nature technique, économique ou accidentelle (accidents aux matériels, interruption de la force motrice, sinistre, pénurie de matières premières, etc.). Sa durée est limitée à 6 mois. Sa déclaration préalable à l'Inspection du Travail est obligatoire.",
+      "indices": ["C'est une interruption collective, pas individuelle.", "La cause est conjoncturelle (temporaire), pas structurelle.", "La déclaration à l'Inspection du Travail est obligatoire avant sa mise en œuvre."]
+    },
+    {
+      "question": "Quelles sont les quatre causes de rupture d'un CDI selon l'article 35 ?",
+      "choix": ["Licenciement, démission, retraite et décès", "Licenciement, démission, accord des parties et force majeure", "Licenciement, abandon de poste, faute lourde et force majeure", "Démission, licenciement, fin de mission et faillite"],
+      "reponse": 1,
+      "explication": "L'article 35 liste exactement quatre causes de rupture du CDI : 1) le licenciement (du fait de l'employeur), 2) la démission (du fait du travailleur), 3) l'accord de volontés des parties (rupture conventionnelle), et 4) la force majeure (laissée à l'appréciation de la juridiction compétente). La retraite et le décès, s'ils ont des effets sur le contrat, sont traités distinctement.",
+      "indices": ["Quatre causes exactement.", "Deux sont à l'initiative d'une seule partie, une est bilatérale, une est extérieure.", "La force majeure est la seule cause non liée à la volonté des parties."]
+    },
+    {
+      "question": "Le préavis est-il obligatoire pour rompre un CDI ?",
+      "choix": ["Oui, toujours", "Oui, sauf en cas de faute lourde", "Non, il est facultatif", "Oui, mais seulement si le travailleur l'exige"],
+      "reponse": 1,
+      "explication": "L'article 37 impose le préavis pour toute rupture d'un CDI. Il est réciproque : il s'impose à l'employeur qui licencie et au travailleur qui démissionne. L'unique exception est la faute lourde, qui permet une rupture immédiate sans préavis. Si le préavis n'est pas respecté, la partie fautive doit verser une indemnité compensatrice égale à la rémunération que le travailleur aurait perçue pendant ce délai.",
+      "indices": ["Il s'applique des deux côtés : employeur et salarié.", "Une seule exception légale : la faute lourde.", "Son non-respect entraîne le paiement d'une indemnité compensatrice."]
+    },
+    {
+      "question": "Que doit faire l'employeur avant de licencier un travailleur selon l'article 42 ?",
+      "choix": ["Obtenir l'autorisation de l'Inspection du Travail", "Informer par écrit le travailleur des motifs et le convoquer à un entretien préalable avec au moins 3 jours ouvrables de délai", "Payer immédiatement toutes les indemnités avant notification", "Consulter d'abord le syndicat de l'entreprise"],
+      "reponse": 1,
+      "explication": "L'article 42 organise la procédure de licenciement individuel : l'employeur doit informer par écrit le travailleur des motifs envisagés, le convoquer à un entretien préalable avec au moins 3 jours ouvrables de préavis, lui permettre de consulter son dossier s'il le demande, et lui laisser présenter sa défense assisté d'une personne de son choix. Si le travailleur refuse de recevoir la convocation, il est réputé avoir renoncé à son droit à la défense.",
+      "indices": ["L'entretien préalable est obligatoire.", "Le délai de convocation est de 3 jours ouvrables minimum.", "Le travailleur peut se faire assister par une personne de son choix."]
+    },
+    {
+      "question": "Quels droits le licenciement ouvre-t-il pour le travailleur selon l'article 42 ?",
+      "choix": ["Uniquement le salaire dû", "Le solde de salaire, l'indemnité compensatrice de congé, le préavis (sauf faute lourde) et un certificat de travail", "Le double du salaire mensuel à titre d'indemnité", "Uniquement les indemnités si le licenciement est abusif"],
+      "reponse": 1,
+      "explication": "L'article 42 liste les droits minimaux dus au travailleur licencié : 1) le solde du salaire à la date de départ, 2) l'indemnité compensatrice de congé non pris, 3) le préavis calculé selon les règles en vigueur (sauf faute lourde), et 4) un certificat de travail. Ces droits doivent être réglés dès la cessation de travail.",
+      "indices": ["Quatre droits sont listés.", "Le certificat de travail est l'un d'eux.", "La faute lourde supprime le préavis mais pas les autres droits."]
+    },
+    {
+      "question": "Qu'est-ce qu'un licenciement abusif selon l'article 39 ?",
+      "choix": ["Tout licenciement sans paiement immédiat des indemnités", "Un licenciement effectué sans motif légitime, sans cause réelle et sérieuse, ou non conforme aux procédures", "Un licenciement décidé pendant les congés du travailleur", "Un licenciement effectué sans l'accord du travailleur"],
+      "reponse": 1,
+      "explication": "L'article 39 qualifie d'abusif tout licenciement sans motif légitime ou sans cause réelle et sérieuse. Sont particulièrement abusifs les licenciements non conformes aux procédures, fallacieux (motifs inventés), fondés sur les opinions du travailleur ou son appartenance syndicale. Toute rupture abusive peut donner lieu à des dommages-intérêts fixés par le juge.",
+      "indices": ["Trois catégories de licenciements abusifs sont citées.", "L'appartenance syndicale ne peut jamais être un motif de licenciement.", "C'est à l'employeur de prouver que le licenciement est légitime."]
+    },
+    {
+      "question": "Un travailleur peut-il exercer une autre activité professionnelle en dehors de son temps de travail ?",
+      "choix": ["Non, le contrat de travail implique une exclusivité totale", "Oui, si l'activité ne concurrence pas l'entreprise et ne nuit pas à son travail principal", "Oui, sans restriction d'aucune sorte", "Non, sauf autorisation écrite de l'employeur"],
+      "reponse": 1,
+      "explication": "L'article 28 autorise le travailleur à exercer toute activité professionnelle en dehors de son temps de travail, à condition qu'elle ne soit pas susceptible de concurrencer l'entreprise et ne nuise pas à la bonne exécution de ses services. Une clause contractuelle interdisant toute activité après la fin du contrat est nulle de plein droit.",
+      "indices": ["Deux conditions cumulatives : pas de concurrence, pas de nuisance.", "La clause d'exclusivité post-contractuelle est nulle.", "Exception : le salarié inventeur, pendant la durée de protection de l'invention."]
+    },
+    {
+      "question": "Quelle est l'indemnité de licenciement pour motif économique selon l'article 48 ?",
+      "choix": ["1 mois de salaire par année de service sans plafond", "10 jours de salaire par année complète de service, sans dépasser 6 mois de salaire au total", "15 jours de salaire par année de service, sans plafond", "2 semaines de salaire par année de service, avec un plancher de 3 mois"],
+      "reponse": 1,
+      "explication": "L'article 48 fixe l'indemnité de licenciement pour motif économique à 10 jours de salaire par année complète de service, calculée sur la base du dernier taux de rémunération. La loi impose un plafond : le total ne peut pas dépasser 6 mois de salaire. Cette indemnité est distincte du préavis, de l'indemnité de congé et des dommages-intérêts pour licenciement abusif.",
+      "indices": ["10 jours par année, pas 1 mois.", "Le plafond est de 6 mois de salaire.", "Elle ne se confond avec aucune autre indemnité."]
+    },
+    {
+      "question": "Quel document l'employeur doit-il obligatoirement remettre au travailleur à la cessation de son contrat ?",
+      "choix": ["Une lettre de recommandation", "Un certificat de travail indiquant dates d'entrée/départ, nature des emplois occupés et catégories professionnelles", "Un récapitulatif de ses cotisations CNAPS", "Un relevé de ses congés non pris"],
+      "reponse": 1,
+      "explication": "L'article 50 impose à l'employeur de délivrer au travailleur, sous peine de dommages-intérêts, un certificat de travail indiquant exclusivement : la date d'entrée, la date de départ, la nature des emplois successivement occupés, les périodes de ces emplois et les catégories professionnelles correspondantes. Ce document est exempté de droits de timbre.",
+      "indices": ["C'est une obligation légale, pas une faveur.", "Le refus de le délivrer entraîne des dommages-intérêts.", "Il indique exclusivement les informations factuelles listées par la loi."]
+    },
+    {
+      "question": "Le salarié qui démissionne doit-il obligatoirement indiquer le motif de sa démission ?",
+      "choix": ["Non, la démission est libre et sans condition", "Oui, il est tenu d'indiquer le motif de sa décision", "Non, sauf s'il part avant la fin du préavis", "Oui, mais uniquement si l'employeur le demande"],
+      "reponse": 1,
+      "explication": "L'article 43 dispose que le salarié peut librement démissionner, mais est tenu d'indiquer le motif de sa décision. Cette obligation d'indiquer le motif est une nouveauté du Code 2024 par rapport aux versions précédentes. Elle permet notamment de vérifier si la rupture est motivée par un comportement fautif de l'employeur, ce qui aurait des conséquences différentes.",
+      "indices": ["La liberté de démissionner est totale, mais le motif est obligatoire.", "C'est une innovation du Code du travail 2024.", "Elle protège à la fois le travailleur et permet d'analyser la nature de la rupture."]
+    },
+    {
+      "question": "Le licenciement pour motif économique individuel ou collectif doit-il suivre une procédure spéciale ?",
+      "choix": ["Non, il suffit d'une lettre de licenciement avec 1 mois de préavis", "Oui, il implique la consultation des délégués du personnel et la saisine de l'Inspection du Travail", "Non, le motif économique dispense de toute procédure", "Oui, mais seulement s'il concerne plus de 10 salariés"],
+      "reponse": 1,
+      "explication": "L'article 45 impose une procédure stricte pour le licenciement économique : consultation préalable du Comité d'Entreprise et/ou des délégués du personnel, établissement d'un procès-verbal, délai de 20 jours pour leur avis, puis saisine obligatoire de l'Inspecteur du Travail qui émet son avis dans les 15 jours ouvrables. En l'absence de représentants du personnel, l'Inspection du Travail est saisie directement.",
+      "indices": ["Deux étapes clés : consultation interne puis Inspection du Travail.", "Le délai de l'Inspection est de 15 jours ouvrables.", "Son silence vaut approbation passé ce délai."]
+    },
+    {
+      "question": "Dans quel ordre l'employeur doit-il établir la liste des salariés touchés par un licenciement collectif économique ?",
+      "choix": ["Par ordre alphabétique de nom de famille", "Par ancienneté, valeurs professionnelles/compétences, puis charges de famille", "Par salaire du plus élevé au plus bas", "Au choix de l'employeur, sans critère imposé"],
+      "reponse": 1,
+      "explication": "L'article 46 fixe l'ordre de priorité pour la liste de licenciement collectif économique : en premier l'ancienneté de service, ensuite les valeurs professionnelles, compétences techniques et conscience professionnelle, et enfin les charges de famille. Cet ordre vise à protéger les salariés les plus anciens et les plus performants, et à tenir compte des situations familiales.",
+      "indices": ["Trois critères dans un ordre précis.", "L'ancienneté passe en premier.", "Les charges de famille (enfants à charge) comptent en dernier."]
+    },
+    {
+      "question": "En cas de rupture d'un CDD avant son terme par l'employeur sans motif valable, que doit-il verser ?",
+      "choix": ["Rien, il peut rompre un CDD à tout moment", "Une indemnité correspondant aux salaires et avantages restant à courir jusqu'au terme", "1 mois de salaire minimum", "Le double du salaire restant, à titre punitif"],
+      "reponse": 1,
+      "explication": "L'article 36 est clair : hors cas de faute lourde ou de force majeure, la rupture unilatérale avant terme d'un CDD rend l'auteur débiteur d'une indemnité correspondant aux salaires et avantages qui auraient dû être perçus jusqu'à l'expiration du contrat. Si c'est l'employeur qui rompt, il doit tout payer jusqu'au terme prévu.",
+      "indices": ["L'indemnité couvre tout ce qui reste à courir.", "Elle vaut aussi si c'est le travailleur qui rompt avant terme.", "Faute lourde et force majeure sont les seules exceptions."]
+    },
+    {
+      "question": "Qu'est-ce que le chômage technique permet à un travailleur de faire après 3 mois ?",
+      "choix": ["Demander une augmentation de salaire", "Rompre le contrat sans préavis", "Saisir l'Inspection du Travail pour contester", "Rejoindre une autre entreprise sans démissionner formellement"],
+      "reponse": 1,
+      "explication": "L'article 31 (8.3) prévoit une option favorable au travailleur : après 3 mois de chômage technique, il peut rompre le contrat sans respecter de préavis. Cette disposition lui permet de ne pas rester indéfiniment dans l'incertitude si l'entreprise ne redémarre pas.",
+      "indices": ["C'est un droit du travailleur, pas de l'employeur.", "Il peut partir après 3 mois sans préavis.", "L'employeur, lui, peut rompre seulement après 6 mois de chômage technique."]
+    },
+    {
+      "question": "À quelle condition un travailleur intérimaire interne peut-il être confirmé à son poste ?",
+      "choix": ["Automatiquement après 3 mois", "S'il fait expressément la demande après 6 mois d'intérim interne", "Si l'employeur le décide unilatéralement", "Après validation de l'Inspection du Travail"],
+      "reponse": 1,
+      "explication": "L'article 63 prévoit que lorsque l'intérim est assuré par un membre du personnel (intérimaire interne), sa durée maximale est de 6 mois. Passé ce délai, l'intérimaire est confirmé au poste s'il en fait expressément la demande. C'est donc une démarche active du travailleur, pas une confirmation automatique.",
+      "indices": ["La durée maximale est de 6 mois pour l'intérimaire interne.", "La confirmation n'est pas automatique : il faut en faire la demande.", "Sans demande expresse, la situation peut continuer sans confirmation."]
+    },
+    {
+      "question": "Le contrat du salarié à temps partiel est-il soumis à des règles particulières pour le calcul de ses droits ?",
+      "choix": ["Non, il a les mêmes droits qu'un temps plein", "Oui, ses droits sont calculés au prorata de son temps de travail effectif", "Non, sauf pour les congés payés", "Oui, il reçoit 50% de tous les droits d'un temps plein"],
+      "reponse": 1,
+      "explication": "L'article 64 dispose que les droits du travailleur à temps partiel résultant de la durée du travail — rémunération, droit au congé, indemnité de congé, préavis — sont calculés au prorata du temps de travail effectif. Un mi-temps percevra ainsi la moitié du salaire d'un temps plein, la moitié des congés, etc.",
+      "indices": ["Le prorata est la règle.", "Tous les droits liés à la durée du travail sont concernés.", "Ce n'est pas une discrimination mais une application proportionnelle."]
+    },
+    {
+      "question": "Quand commence le délai de préavis selon l'article 41 ?",
+      "choix": ["À la date d'envoi de la lettre de licenciement par l'employeur", "À la date de réception de la lettre de licenciement ou de démission", "Au premier jour du mois suivant la notification", "À la date de signature du procès-verbal de licenciement"],
+      "reponse": 1,
+      "explication": "L'article 41 est précis : la date de réception de la lettre de licenciement ou de démission fixe le point de départ du préavis, pas la date d'envoi. Cela protège le travailleur qui ne peut voir son préavis commencer avant qu'il soit effectivement informé de la rupture.",
+      "indices": ["C'est la réception, pas l'envoi.", "Un accusé de réception est donc important.", "Un licenciement par courrier dont la réception n'est pas prouvée ne fait pas courir le préavis."]
+    },
+    {
+      "question": "Un employeur peut-il présenter de nouveaux motifs de licenciement après la notification ?",
+      "choix": ["Oui, jusqu'à la date de l'entretien préalable", "Non, toute présentation de nouveau motif après la notification est irrecevable", "Oui, s'ils existaient avant la notification", "Oui, mais uniquement lors du procès devant le Tribunal du Travail"],
+      "reponse": 1,
+      "explication": "L'article 41 interdit formellement la présentation de nouveau motif de rupture après la date de notification. Les motifs de licenciement doivent être fixés dès la lettre de rupture. Cette règle protège le travailleur en lui permettant de préparer sa défense sur la base de motifs précis et définitifs.",
+      "indices": ["Les motifs sont 'figés' dès la notification.", "L'employeur ne peut pas améliorer son dossier après coup.", "Cette règle est protectrice du droit à la défense du travailleur."]
+    },
+    {
+      "question": "Combien de temps l'employeur doit-il conserver les documents relatifs au licenciement ?",
+      "choix": ["1 an", "3 ans", "5 ans minimum", "10 ans"],
+      "reponse": 2,
+      "explication": "L'article 42 impose à l'employeur de conserver les documents relatifs au licenciement pendant une période minimale de 5 ans. Cette obligation de conservation permet au travailleur ou au juge de vérifier le respect des procédures en cas de contestation ultérieure.",
+      "indices": ["Le délai est de 5 ans minimum.", "C'est une obligation légale, pas une recommandation.", "Elle concourt à la preuve du respect de la procédure de licenciement."]
+    },
+    {
+      "question": "Dans quel délai l'employeur doit-il régler les droits du travailleur licencié ?",
+      "choix": ["Dans le mois suivant le licenciement", "Dès la cessation de travail", "Dans les 8 jours suivant la notification", "À la date d'expiration du préavis uniquement"],
+      "reponse": 1,
+      "explication": "L'article 42 dispose que l'employeur est tenu de régler les droits visés (solde de salaire, indemnité de congé, préavis) dès la cessation de travail. Le non-respect de cette obligation de paiement immédiat expose l'employeur à des sanctions et au paiement d'intérêts de retard.",
+      "indices": ["'Dès la cessation' signifie immédiatement, pas après un délai.", "Le paiement ne peut pas être différé au mois suivant.", "Tout délai expose l'employeur à des sanctions."]
+    },
+    {
+      "question": "Qu'est-ce que la rupture pour harcèlement sexuel ou moral entraîne selon l'article 40 ?",
+      "choix": ["La rupture est imputable au travailleur victime", "La rupture est imputable à la partie auteur de l'acte, avec droit à dommages-intérêts pour la victime", "La rupture est mutuellement partagée", "Il n'y a aucune indemnité spécifique prévue"],
+      "reponse": 1,
+      "explication": "L'article 40 prévoit que toute rupture du contrat de travail pour cause de violence ou de harcèlement sexuel ou moral est imputable à la partie auteur de l'acte. La victime peut obtenir des dommages-intérêts fixés par la juridiction compétente, à la charge de l'auteur. La victime doit fournir les preuves de l'acte par tous les moyens.",
+      "indices": ["L'auteur du harcèlement supporte les conséquences de la rupture.", "La victime peut réclamer des dommages-intérêts.", "La preuve peut être apportée par tous les moyens."]
+    },
+    {
+      "question": "Le Code du travail 2024 est-il applicable aux travailleurs immigrés exerçant à Madagascar ?",
+      "choix": ["Non, ils sont soumis à leur loi nationale", "Oui, mais ils doivent obtenir un permis de travail et le visa de leur contrat par l'Inspecteur du Travail", "Oui, sans aucune formalité particulière", "Non, seuls les Malgaches sont concernés"],
+      "reponse": 1,
+      "explication": "L'article 61 prévoit que les travailleurs immigrés peuvent exercer un emploi à Madagascar sous deux conditions cumulatives : le visa préalable de leur contrat par l'Inspecteur du Travail compétent, et l'obtention d'un permis de travail délivré par le Ministre chargé du travail ou le Directeur Général du Travail. Le permis doit indiquer l'identité, la nationalité, le poste, la catégorie et le lieu de travail.",
+      "indices": ["Deux conditions cumulatives : visa du contrat ET permis de travail.", "C'est différent du travailleur malgache.", "Le permis est délivré par le Ministère du Travail."]
+    },
+    {
+      "question": "Le Code du travail malgache prévoit-il des protections contre la discrimination ?",
+      "choix": ["Non, il n'aborde pas la question de la discrimination", "Oui, l'article 6 interdit toute forme de discrimination directe ou indirecte", "Oui, mais uniquement la discrimination fondée sur le sexe", "Non, c'est laissé au règlement intérieur de chaque entreprise"],
+      "reponse": 1,
+      "explication": "L'article 6 du Code du travail 2024 interdit explicitement toute forme de discrimination directe ou indirecte dans les relations de travail. L'article 7 définit la discrimination comme toute distinction, exclusion ou préférence basée sur des critères illicites (sexe, race, religion, opinion politique, origine sociale, appartenance syndicale, etc.). L'article 8 distingue la discrimination directe de la discrimination indirecte.",
+      "indices": ["La protection anti-discrimination est dans le Titre I.", "Elle couvre la discrimination directe ET indirecte.", "Les critères protégés incluent le sexe, la religion, l'opinion politique, l'appartenance syndicale, etc."]
+    },
+    {
+      "question": "Un travailleur malgache détaché à l'étranger (travailleur émigré) : son contrat doit-il faire l'objet d'un visa ?",
+      "choix": ["Non, le Code ne couvre que le travail à Madagascar", "Oui, il doit faire l'objet d'un visa préalable d'un Inspecteur du Travail spécialisé dans la migration", "Oui, mais seulement si le pays de destination le demande", "Non, c'est laissé à la discrétion de l'employeur étranger"],
+      "reponse": 1,
+      "explication": "L'article 60 impose que le contrat de travail du travailleur émigré fasse l'objet d'un visa préalable de l'Inspecteur du Travail et des Lois Sociales du service de la migration, auprès du Ministère chargé du Travail. La demande de visa incombe à l'employeur. Le contrat doit préciser les conditions de logement, d'accès à la justice, les mécanismes de plainte et les modalités de retour/rapatriement.",
+      "indices": ["La protection du travailleur émigré malgache est une priorité du Code 2024.", "Le visa est préalable, pas postérieur.", "L'employeur, pas le travailleur, est responsable de la demande de visa."]
+    },
+    {
+      "question": "Qu'est-ce que l'indemnité de suspension visée à l'article 32 ?",
+      "choix": ["Une pénalité versée par le travailleur en cas d'absence injustifiée", "Une indemnité versée par l'employeur au travailleur pendant les 6 premiers cas de suspension, égale au salaire dans la limite d'un mois ou du préavis", "Une prime versée au travailleur à la reprise du travail après suspension", "Une indemnité forfaitaire de 50 000 Ar par jour de suspension"],
+      "reponse": 1,
+      "explication": "L'article 32 prévoit que dans les 6 premiers cas de suspension (service militaire employeur/travailleur, maladie, hospitalisation enfant, hospitalisation conjoint, compétition sportive), l'employeur doit verser au travailleur une indemnité de suspension égale à sa rémunération normale, dans la limite d'un mois si le préavis est inférieur à un mois, ou dans la limite du préavis dans les autres cas.",
+      "indices": ["Elle ne concerne que les 6 premiers cas de l'article 31.", "Elle est égale au salaire normal.", "Elle est plafonnée à 1 mois ou à la durée du préavis."]
+    },
+    {
+      "question": "Le travail forcé est-il autorisé à Madagascar ?",
+      "choix": ["Oui, en cas de nécessité économique nationale", "Non, l'article 4 l'interdit formellement", "Oui, uniquement dans les prisons", "Oui, avec l'accord du travailleur"],
+      "reponse": 1,
+      "explication": "L'article 4 du Code du travail 2024 interdit formellement le travail forcé ou obligatoire. Cette interdiction s'inscrit dans les conventions de l'OIT ratifiées par Madagascar (Convention n°29 et son Protocole de 2014 ratifié récemment). L'article 5 liste les exceptions classiques qui ne constituent pas du travail forcé (service militaire, travaux d'intérêt général, situation d'urgence nationale).",
+      "indices": ["C'est une prohibition absolue posée dès le Titre I.", "Madagascar a ratifié les conventions OIT sur le travail forcé.", "Des exceptions classiques existent mais sont strictement limitées."]
+    },
+    {
+      "question": "En cas de modification économique justifiée des clauses substantielles du contrat, dans quel délai le travailleur doit-il répondre ?",
+      "choix": ["7 jours", "15 jours à compter de la réception de la notification écrite", "1 mois", "Immédiatement lors de l'entretien préalable"],
+      "reponse": 1,
+      "explication": "L'article 47 prévoit que lorsque l'employeur modifie les clauses substantielles pour motif économique, il doit notifier par écrit. Le travailleur dispose alors de 15 jours à compter de la réception pour émettre son avis par écrit. Passé ce délai sans réponse, le silence vaut acceptation. S'il refuse, la rupture est imputable à l'employeur, qui devra les indemnités de licenciement économique.",
+      "indices": ["15 jours pour répondre.", "Le silence après 15 jours vaut acceptation.", "Le refus rend la rupture imputable à l'employeur."]
+    },
+    {
+      "question": "Un salarié inventeur peut-il librement rejoindre un concurrent après la rupture de son contrat ?",
+      "choix": ["Oui, dès le lendemain de la rupture", "Non, il est interdit de rejoindre un concurrent exerçant la même activité tant que l'invention n'est pas protégée par un brevet", "Oui, après 3 mois de carence", "Non, cette interdiction est permanente"],
+      "reponse": 1,
+      "explication": "L'article 28 prévoit une exception à la liberté de travail post-contractuelle pour le salarié inventeur : il lui est interdit de s'engager auprès d'un autre employeur exerçant la même activité jusqu'à ce que l'invention soit protégée par un brevet. En contrepartie, l'employeur doit lui verser une prime ou indemnité mensuelle égale à un mois de salaire jusqu'à l'obtention du brevet.",
+      "indices": ["C'est la seule exception légale à la liberté post-contractuelle.", "L'interdiction dure jusqu'au brevet, pas indéfiniment.", "Elle est compensée par une indemnité mensuelle versée par l'employeur."]
+    },
+    {
+      "question": "Le harcèlement moral est-il encadré par le Code du travail malgache 2024 ?",
+      "choix": ["Non, c'est une notion uniquement pénale", "Oui, l'article 12 définit le harcèlement moral et l'article 13 impose à l'employeur de prendre des mesures appropriées", "Oui, mais uniquement le harcèlement entre collègues", "Non, il est laissé au règlement intérieur de chaque entreprise"],
+      "reponse": 1,
+      "explication": "L'article 12 du Code du travail 2024 définit le harcèlement moral comme tous gestes, comportements, paroles ou écrits répétés ayant pour objet ou pour effet de dégrader les conditions de travail ou la dignité du travailleur. L'article 13 impose à l'employeur de prendre des mesures appropriées pour y mettre fin et de mettre en place des mécanismes de prévention et de traitement des plaintes.",
+      "indices": ["Le harcèlement moral est expressément défini par la loi.", "L'employeur a une obligation active de le prévenir et d'y mettre fin.", "Il se caractérise par la répétition des actes."]
+    },
+    {
+      "question": "Le contrat de travail peut-il être rédigé uniquement en malagasy ?",
+      "choix": ["Non, il doit obligatoirement être en français", "Oui, il peut être en malagasy, en français, ou dans les deux langues selon la convenance des parties", "Non, il doit être bilingue malagasy-français", "Oui, mais uniquement pour les travailleurs du secteur informel"],
+      "reponse": 1,
+      "explication": "L'article 18 du Code du travail 2024 prévoit que le contrat de travail est rédigé en malagasy et/ou en français selon la convenance des parties. Il n'y a donc aucune obligation de bilinguisme : un contrat uniquement en malagasy ou uniquement en français est valide.",
+      "indices": ["Le choix de la langue appartient aux parties.", "Malagasy seul, français seul, ou les deux : tout est autorisé.", "Pas d'obligation de bilinguisme dans le Code du travail 2024."]
+    },
+    {
+      "question": "Une clause de non-concurrence absolue après la fin du contrat est-elle valable ?",
+      "choix": ["Oui, si elle est limitée dans le temps et dans l'espace", "Non, toute clause interdisant au travailleur toute activité après le contrat est nulle de plein droit", "Oui, si le travailleur l'a acceptée par écrit", "Oui, mais uniquement pour les cadres dirigeants"],
+      "reponse": 1,
+      "explication": "L'article 28 dispose expressément qu'est nulle de plein droit toute clause d'un contrat portant interdiction pour le travailleur d'exercer une activité quelconque à l'expiration du contrat. Seule exception : le salarié inventeur, pour la période précédant l'obtention du brevet. Cette règle protège la liberté du travail post-contractuelle.",
+      "indices": ["'Nulle de plein droit' signifie automatiquement invalide, sans jugement nécessaire.", "La seule exception est le salarié inventeur.", "Cette clause ne peut pas être renforcée même par accord des parties."]
+    }
+  ],
+  "exercices": [
+    {
+      "question": "CAS PRATIQUE N°1 — L'abus de CDD dans une entreprise de sécurité\n\nLa société SECU-MADA, basée à Antananarivo, emploie des agents de sécurité. Elle a pour habitude d'engager tous ses agents en CDD de 6 mois, systématiquement renouvelés. Voici la situation de trois agents :\n\n— Joël : engagé en CDD le 1er janvier 2022. Le CDD a été renouvelé une première fois le 1er juillet 2022, puis une seconde fois le 1er janvier 2023. Au 1er juillet 2023, l'entreprise lui propose un troisième renouvellement de CDD.\n\n— Miora : engagée comme agente le 1er mars 2023. Son CDD de 6 mois expire le 1er septembre 2023. L'entreprise la laisse partir sans renouveler. Elle la rappelle le 15 novembre 2023 pour reprendre le même poste.\n\n— Lova : employé journalier depuis le 1er janvier 2024, travaillant 22 jours par mois au même poste de gardien au siège.\n\nQUESTIONS :\n1. Joël peut-il refuser le troisième CDD et exiger un CDI ?\n2. Le rappel de Miora en novembre est-il un nouveau CDD ou un renouvellement ?\n3. À quelle date Lova peut-il exiger la requalification de son contrat en CDI ?",
+      "choix": [
+        "1. Oui : après deux renouvellements, le CDD de Joël s'est transformé automatiquement en CDI le 1er janvier 2023. Il est déjà en CDI sans le savoir. La proposition d'un 3ème CDD est illégale. 2. Le rappel de Miora le 15 novembre 2023 est un renouvellement car l'interruption est inférieure à 3 mois (2,5 mois). Ce 2ème CDD, s'il est renouvelé encore une fois, transformera son contrat en CDI. 3. Lova aura droit à la requalification en CDI le 1er juillet 2024 (6 mois complets x 20 jours/mois en moyenne atteints).",
+        "1. Non, Joël doit accepter le 3ème CDD ou démissionner. 2. C'est un nouveau CDD indépendant. 3. Lova n'a jamais droit à un CDI car il est journalier.",
+        "1. Joël peut exiger un CDI mais doit saisir le Tribunal du Travail en urgence. 2. C'est un nouveau CDD seulement si les parties signent un nouveau document. 3. Lova doit attendre 1 an.",
+        "1. Non, la loi ne prévoit pas de transformation automatique. 2. Le rappel est un nouveau CDD distinct. 3. Jamais, car la loi ne protège pas les journaliers."
+      ],
+      "reponse": 0,
+      "explication": "ANALYSE DÉTAILLÉE :\n\n1. JOËL — Article 25 : après deux renouvellements successifs, le CDD se transforme automatiquement en CDI. Le CDD initial (jan-juil 2022) + 1er renouvellement (juil-jan 2023) + 2ème renouvellement (jan-juil 2023) = deux renouvellements. À partir du 1er janvier 2023, Joël était déjà en CDI de plein droit. L'employeur ne peut pas lui proposer un 3ème CDD : il est illégal. Joël peut refuser et exiger le respect de son statut de CDI.\n\n2. MIORA — Article 25 (dernière alinéa) : la réembauche au même poste dans les 3 mois suivant la fin d'un CDD est considérée comme un renouvellement. L'interruption entre le 1er septembre et le 15 novembre est de 2,5 mois (< 3 mois). Le rappel de novembre est donc le 1er renouvellement de son CDD, pas un nouveau contrat. Si ce CDD est renouvelé une seconde fois, il deviendra automatiquement un CDI.\n\n3. LOVA — Article 27 et 65 : le contrat des journaliers occupés au même poste de façon intermittente pendant 6 mois successifs pour le même employeur, totalisant en moyenne 20 jours par mois, est transformé en CDI. Lova travaille 22 jours/mois depuis le 1er janvier 2024. Au 1er juillet 2024 (6 mois écoulés), son contrat se transforme automatiquement en CDI à temps plein."
+    },
+    {
+      "question": "CAS PRATIQUE N°2 — Le licenciement irrégulier\n\nMadame Rabe travaille depuis 8 ans comme directrice administrative dans une PME de Fianarantsoa. Le nouveau PDG, M. Andry, souhaite placer son neveu à ce poste. Le 15 avril 2025, il convoque Mme Rabe dans son bureau et lui annonce oralement qu'elle est licenciée 'pour insuffisance de résultats'. Il lui demande de partir le soir même sans préavis. Elle reçoit le lendemain un chèque correspondant à 2 semaines de salaire 'en guise de solde de tout compte'.\n\nMme Rabe conteste son licenciement. Elle relève que :\n- Aucune lettre de convocation à un entretien préalable ne lui a été remise\n- Elle n'a pas pu se défendre ni être assistée\n- Aucun motif écrit ne lui a été remis\n- Elle n'a pas reçu son certificat de travail\n- Ses 8 ans d'ancienneté représentent un préavis significatif\n\nQUESTIONS :\n1. Ce licenciement est-il régulier en la forme ?\n2. Le motif invoqué vous semble-t-il légitime au regard des faits ?\n3. Calculez les droits minimaux que Mme Rabe aurait dû percevoir (salaire mensuel brut estimé : 1 200 000 Ar, préavis : 3 mois, congés non pris : 15 jours).",
+      "choix": [
+        "1. Non, le licenciement est irrégulier sur tous les points : pas de convocation écrite 3 jours avant, pas d'entretien préalable, pas de lettre de licenciement avec motifs, pas de certificat de travail. 2. Non, le motif réel semble être le placement du neveu : c'est un licenciement fallacieux selon l'article 39. 3. Droits dus : solde de salaire (15 jours = 600 000 Ar), indemnité de congé (15 jours = 600 000 Ar), préavis de 3 mois (3 600 000 Ar), indemnité de licenciement économique non applicable ici. Total minimal = 4 800 000 Ar + dommages-intérêts pour licenciement abusif à fixer par le juge.",
+        "1. Oui, un licenciement oral est valide si les parties se connaissent depuis longtemps. 2. Oui, l'insuffisance de résultats est un motif légitime. 3. Les 2 semaines versées suffisent.",
+        "1. Le licenciement est irrégulier mais l'irrégularité peut être couverte par le paiement des indemnités. 2. Le motif est légitime. 3. Mme Rabe n'a droit qu'aux congés non pris.",
+        "1. Non, il est irrégulier. 2. Le motif peut être légitime. 3. Les droits sont de 2 mois de salaire maximum selon la loi."
+      ],
+      "reponse": 0,
+      "explication": "ANALYSE DÉTAILLÉE :\n\n1. IRRÉGULARITÉS FORMELLES (article 42) — Quatre violations majeures :\n→ Pas de convocation écrite avec 3 jours ouvrables de délai\n→ Pas d'entretien préalable permettant la défense\n→ Pas de lettre de licenciement écrite avec motifs\n→ Pas de certificat de travail (article 50)\nChaque irrégularité suffit à rendre le licenciement abusif.\n\n2. MOTIF FALLACIEUX (article 39) — Le motif officiel ('insuffisance de résultats') est contredit par le contexte : le PDG place son neveu au poste. C'est typiquement ce que l'article 39 qualifie de licenciement 'fallacieux', c'est-à-dire avec un motif inventé pour masquer la vraie raison. Il appartient à l'employeur de prouver la légitimité du licenciement — ce qu'il ne peut pas ici.\n\n3. CALCUL DES DROITS MINIMAUX :\n→ Solde de salaire (15 jours d'avril) : 1 200 000 / 2 = 600 000 Ar\n→ Indemnité compensatrice de congé (15 jours non pris) : 1 200 000 / 2 = 600 000 Ar\n→ Indemnité compensatrice de préavis (3 mois) : 3 x 1 200 000 = 3 600 000 Ar\nTotal droits légaux minimaux = 4 800 000 Ar\n→ Moins les 2 semaines déjà versées = 600 000 Ar\n→ Reste dû = 4 200 000 Ar\n→ En plus : dommages-intérêts pour licenciement abusif (fixés librement par le juge) et pénalité pour non-remise du certificat de travail."
+    }
+  ]
+}
+ 
