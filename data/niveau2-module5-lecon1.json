@@ -1,0 +1,495 @@
+{
+  "niveau": 2,
+  "niveau_label": "Intermédiaire",
+  "module": 5,
+  "titre": "La responsabilité civile contractuelle",
+  "description": "Quand un contrat est mal exécuté, exécuté en retard, ou pas exécuté du tout, la loi oblige le fautif à réparer. Ce module explique les mécanismes de cette réparation : ses conditions, ses conséquences, et les cas où on peut en être exonéré.",
+  "duree_estimee": "45 minutes",
+  "source_legale": "Loi n°66-003 du 2 juillet 1966 relative à la Théorie générale des Obligations (Madagascar) — art. 177 à 196 et art. 229",
+
+  "lecon": {
+    "introduction": "Vous commandez des travaux chez un artisan à Antsiranana. Deux mois plus tard, rien n'est fait. Vous avez perdu du temps, de l'argent, des clients peut-être. Qui répare ce préjudice ? Comment ? Jusqu'où ? C'est exactement ce que couvre la responsabilité civile contractuelle : l'obligation de réparer le dommage causé par la mauvaise exécution d'un contrat.",
+
+    "parties": [
+      {
+        "id": "P1",
+        "titre": "Qu'est-ce que la responsabilité civile contractuelle ?",
+        "contenu": "La responsabilité civile, c'est l'obligation faite à une personne de réparer le dommage qu'elle a causé à une autre. Quand ce dommage naît de l'inexécution d'un contrat, on parle de responsabilité civile CONTRACTUELLE.\n\nElle se distingue nettement de la responsabilité civile délictuelle, qui elle naît en dehors de tout contrat (un accident de la route, par exemple). En droit malgache comme en droit comparé, le principe est clair : si vous avez un contrat avec quelqu'un et que ce quelqu'un ne l'exécute pas correctement, vous ne pouvez le poursuivre que sur le terrain contractuel — pas sur le terrain délictuel. C'est le principe de NON-CUMUL des responsabilités.\n\nLa responsabilité contractuelle est engagée dans trois situations précises :\n• L'INEXÉCUTION TOTALE : le débiteur n'a rien fait du tout. Exemple : le prestataire encaisse l'avance et disparaît.\n• L'INEXÉCUTION PARTIELLE : une partie seulement de l'obligation a été accomplie. Exemple : livraison de 80 sacs de riz commandés sur 100.\n• LE RETARD D'EXÉCUTION : l'obligation est accomplie, mais trop tard. Exemple : les travaux livrés 3 mois après la date convenue.\n\nDans tous ces cas, le créancier peut réclamer réparation — à condition de réunir trois conditions cumulatives.",
+
+        "exemple_concret": "Rakoto passe commande de mobilier de bureau pour 500.000 Ar, livraison promise dans un mois. Six semaines plus tard, rien n'est arrivé. Son bureau a dû rester fermé une semaine supplémentaire. La responsabilité contractuelle du fournisseur est engagée : inexécution dans les délais, préjudice financier direct pour Rakoto."
+      },
+      {
+        "id": "P2",
+        "titre": "Les trois conditions pour engager la responsabilité contractuelle",
+        "contenu": "Pour obtenir réparation, le créancier doit prouver la réunion de TROIS CONDITIONS CUMULATIVES. Si l'une manque, il n'y a pas de responsabilité.\n\n━━━ CONDITION 1 : UN FAIT GÉNÉRATEUR — L'INEXÉCUTION ━━━\n\nIl faut un manquement à une obligation contractuelle. Ce manquement peut être :\n• Une faute volontaire : le débiteur choisit délibérément de ne pas exécuter (dol)\n• Une faute involontaire : négligence, imprudence, maladresse\n• Un simple manquement à une obligation de résultat : le résultat promis n'est pas atteint, même sans faute caractérisée\n\nAttention : la nature de l'obligation (moyens ou résultat — voir Module 4) détermine qui doit prouver la faute. Pour une obligation de résultat, l'absence du résultat suffit. Pour une obligation de moyens, le créancier doit prouver que le débiteur a manqué de diligence.\n\n━━━ CONDITION 2 : UN DOMMAGE RÉPARABLE ━━━\n\nPas de responsabilité sans préjudice. Ce dommage doit être :\n• CERTAIN : avéré, pas hypothétique. Une perte de chance peut suffire si elle est sérieuse.\n• DIRECT : découlant directement de l'inexécution\n• PRÉVISIBLE au moment de la conclusion du contrat (art. 190 loi 66-003)\n\nLe dommage peut être de plusieurs natures :\n• Matériel : destruction d'un bien, perte d'argent\n• Moral : atteinte à la réputation, préjudice d'image\n• Corporel : atteinte physique résultant de la mauvaise exécution\n\n━━━ CONDITION 3 : UN LIEN DE CAUSALITÉ ━━━\n\nL'article 229 de la loi n°66-003 l'exige explicitement : «il ne peut y avoir responsabilité sans faute ou avec faute qu'autant qu'il y a un lien de causalité entre le fait ou la faute d'une part, et le dommage de l'autre.»\n\nCela signifie que le dommage doit être la conséquence DIRECTE et IMMÉDIATE de l'inexécution. Si le dommage serait survenu de toute façon — ou s'il a une autre cause principale — le lien est rompu et la responsabilité s'éteint.",
+
+        "exemple_concret": "Voahangy confie sa boutique à un gérant par contrat. Le gérant ne commande pas le stock prévu. La boutique perd 300.000 Ar de chiffre d'affaires ce mois-là.\n• Fait générateur : le gérant n'a pas exécuté son obligation de gestion\n• Dommage : 300.000 Ar de perte certaine et directe\n• Lien de causalité : sans le manquement du gérant, le stock aurait été là et les ventes réalisées\nLes trois conditions sont réunies : la responsabilité contractuelle du gérant est engagée."
+      },
+      {
+        "id": "P3",
+        "titre": "Les deux conséquences de l'inexécution : comment réparer ?",
+        "contenu": "Une fois la responsabilité établie, deux types de réparation sont possibles selon les circonstances.\n\n━━━ 1. L'EXÉCUTION FORCÉE EN NATURE ━━━\n\nC'est la première option : forcer le débiteur à faire ce qu'il avait promis. Le créancier ne veut pas de l'argent — il veut l'exécution réelle de l'obligation.\n\nExemples concrets :\n• Faire livrer la marchandise commandée\n• Obliger un locataire récalcitrant à quitter les lieux\n• Forcer la remise d'un document promis\n• Obtenir une réduction de prix sur une prestation mal exécutée\n\nLe juge peut assortir cet ordre d'une ASTREINTE : une somme par jour de retard si le débiteur persiste à ne pas exécuter. C'est une pression financière très efficace.\n\nLimite : si l'exécution en nature est devenue impossible (le bien a disparu, la date est passée, la prestation est trop personnelle), on passe à l'option suivante.\n\n━━━ 2. L'EXÉCUTION PAR COMPENSATION (dommages-intérêts) ━━━\n\nQuand l'exécution forcée est impossible ou insuffisante, le débiteur paie des dommages-intérêts. Deux types :\n\n• Les dommages-intérêts MORATOIRES : ils réparent le préjudice causé par un RETARD d'exécution. Ils courent à compter de la mise en demeure (art. 192). Exemple : intérêts sur un loyer payé en retard.\n\n• Les dommages-intérêts COMPENSATOIRES : ils compensent l'inexécution totale ou partielle. Ils remplacent la prestation qui n'a pas été fournie. Exemple : somme versée à la victime d'une annulation de spectacle pour compenser son billet et ses frais de déplacement.\n\nRappel (art. 191) : les dommages-intérêts couvrent la PERTE SUBIE (dépenses engagées en pure perte) et le GAIN MANQUÉ (bénéfices auxquels le créancier pouvait raisonnablement s'attendre). Le créancier doit aussi MINIMISER son préjudice.",
+
+        "exemple_concret": "Hery commande un décor floral pour le mariage de sa fille, fixé au 15 juin. Le fleuriste ne livre pas. Hery ne peut plus avoir le décor ce jour-là (exécution en nature impossible après coup). Il peut réclamer :\n• Le remboursement de l'acompte versé (perte subie)\n• Le coût du décor de remplacement acheté en urgence à un autre prestataire (perte subie)\n• La différence de prix si c'était plus cher (perte subie)\nCe sont des dommages-intérêts compensatoires."
+      },
+      {
+        "id": "P4",
+        "titre": "Les causes d'exonération : quand le débiteur échappe à sa responsabilité",
+        "contenu": "Le débiteur défaillant n'est pas automatiquement condamné. La loi lui reconnaît trois causes d'exonération. S'il prouve l'une d'elles, sa responsabilité est réduite ou supprimée.\n\n━━━ 1. LA FORCE MAJEURE ━━━\n\nC'est l'événement qui présente trois caractères cumulatifs :\n• IMPRÉVISIBLE : personne ne pouvait l'anticiper lors de la conclusion du contrat\n• IRRÉSISTIBLE : il était impossible de l'éviter ou d'en surmonter les effets\n• EXTÉRIEUR au débiteur : il ne résulte pas de son fait ou de sa faute\n\nExemples : cyclone Haruna qui détruit les entrepôts, pandémie rendant le service impossible, décision gouvernementale d'interdiction d'une activité.\n\nIMPORTANT : La force majeure n'est pas une formule magique. Les tribunaux l'apprécient strictement. Des difficultés économiques, une grève prévisible, ou un problème organisationnel interne ne constituent pas une force majeure.\n\n━━━ 2. LA FAUTE DE LA VICTIME (du créancier) ━━━\n\nSi le créancier a lui-même contribué à la réalisation du dommage par sa propre faute ou négligence, la responsabilité du débiteur est atténuée, voire supprimée selon la gravité.\n\nExemple : un client commande la livraison à une adresse erronée, puis réclame des dommages-intérêts pour retard. Sa propre faute a contribué au préjudice.\n\nRègle : la faute de la victime réduit les dommages-intérêts proportionnellement à sa contribution au dommage (art. 229 et s. loi 66-003).\n\n━━━ 3. LE FAIT D'UN TIERS ━━━\n\nSi un tiers étranger au contrat est intervenu de manière imprévisible et irrésistible et a causé le dommage, le débiteur peut être exonéré.\n\nExemple : un laboratoire fournit de fausses informations à un prestataire médical, lequel ne peut pas exécuter correctement sa mission. Le manque d'information du laboratoire est le fait d'un tiers.\n\nLimite importante : si le débiteur avait pu contrôler ce tiers (un sous-traitant, un préposé), il ne peut pas s'exonérer sur ce fondement. L'article 177 précise qu'il répond des actes de ses substituts et représentants comme des siens propres.",
+
+        "exemple_concret": "FANJA TRAITEUR s'engage à livrer 200 repas pour un séminaire à Diego Suarez. La veille, un cyclone imprévisible coupe toutes les routes. La livraison est impossible. FANJA TRAITEUR peut invoquer la force majeure (imprévisible, irrésistible, extérieure) et sera exonérée. En revanche, si c'était une simple panne de véhicule par défaut d'entretien, aucune exonération : c'est une faute interne."
+      },
+      {
+        "id": "P5",
+        "titre": "Responsabilité contractuelle vs responsabilité délictuelle : savoir distinguer",
+        "contenu": "Cette distinction est fondamentale en droit malgache et dans tout système juridique inspiré du droit civil français.\n\n┌─────────────────────────────────────────────────────┐\n│         CONTRACTUELLE          │      DÉLICTUELLE    │\n├────────────────────────────────┼─────────────────────┤\n│ Naît d'un contrat              │ Naît hors contrat   │\n│ Entre les parties au contrat   │ Entre n'importe qui │\n│ Dommage prévisible (principe)  │ Tout dommage direct │\n│ Mise en demeure préalable      │ Non nécessaire      │\n│ Art. 177-196 loi 66-003        │ Art. 197 et s.      │\n└────────────────────────────────┴─────────────────────┘\n\nLE PRINCIPE DE NON-CUMUL\nUne partie qui a conclu un contrat NE PEUT PAS choisir d'agir sur le terrain délictuel pour obtenir une meilleure réparation. Elle est enfermée dans le régime contractuel. Ce principe protège la cohérence du droit des contrats et les prévisions des parties.\n\nException : si le débiteur commet un délit pénal en même temps (escroquerie, abus de confiance), des actions parallèles peuvent coexister.\n\nCAS PARTICULIER DES TIERS\nUn tiers blessé par la mauvaise exécution d'un contrat auquel il n'est pas partie ne peut pas agir sur le terrain contractuel. Il doit obligatoirement passer par la responsabilité délictuelle (art. 197 et s.).",
+
+        "exemple_concret": "Un passager blessé dans un taxi-brousse peut-il choisir entre la responsabilité contractuelle et délictuelle ? Non. Il a un contrat de transport avec le chauffeur. Il doit agir sur le terrain contractuel uniquement. Il ne peut pas invoquer la responsabilité délictuelle pour obtenir plus. C'est le principe de non-cumul."
+      }
+    ],
+
+    "resume": "La responsabilité civile contractuelle oblige le débiteur défaillant à réparer le préjudice causé à son créancier. Elle suppose trois conditions cumulatives : un fait générateur (inexécution totale, partielle ou tardive), un dommage certain, direct et prévisible, et un lien de causalité entre les deux. La réparation prend la forme d'une exécution forcée en nature (faire ce qui était dû) ou de dommages-intérêts compensatoires ou moratoires. Le débiteur peut s'exonérer en prouvant la force majeure, la faute de la victime, ou le fait imprévisible d'un tiers. Il ne faut jamais confondre cette responsabilité avec la responsabilité délictuelle : le principe de non-cumul interdit de passer de l'une à l'autre.",
+
+    "points_cles": [
+      "3 conditions cumulatives : fait générateur + dommage + lien de causalité",
+      "Art. 229 loi 66-003 : pas de responsabilité sans lien de causalité",
+      "Inexécution = totale, partielle ou retard",
+      "Exécution forcée en nature = obliger à faire ce qui était promis",
+      "Dommages-intérêts moratoires = retard / compensatoires = inexécution",
+      "Art. 190 : dommage doit être prévisible au jour du contrat",
+      "Art. 191 : perte subie + gain manqué, avec obligation de minimiser",
+      "3 causes d'exonération : force majeure, faute de la victime, fait d'un tiers",
+      "Force majeure = imprévisible + irrésistible + extérieur",
+      "Principe de non-cumul : contractuel ou délictuel, pas les deux"
+    ]
+  },
+
+  "quiz": {
+    "instructions": "50 questions pour vérifier votre maîtrise du module. Une seule réponse correcte par question.",
+    "questions": [
+      {
+        "id": 1,
+        "question": "La responsabilité civile contractuelle est engagée lorsque :",
+        "options": ["Une personne commet un accident de la route", "Une personne n'a pas totalement ou partiellement exécuté un contrat, ou l'a exécuté avec retard", "Une personne commet une infraction pénale", "Une personne refuse de conclure un contrat"],
+        "reponse_correcte": 1,
+        "explication": "La responsabilité civile contractuelle naît exclusivement de la mauvaise exécution d'un contrat : inexécution totale, partielle ou tardive. Elle se distingue de la responsabilité délictuelle qui naît hors de tout contrat."
+      },
+      {
+        "id": 2,
+        "question": "Combien de conditions cumulatives sont nécessaires pour engager la responsabilité civile contractuelle ?",
+        "options": ["1", "2", "3", "4"],
+        "reponse_correcte": 2,
+        "explication": "Trois conditions doivent être réunies simultanément : un fait générateur (l'inexécution), un dommage réparable, et un lien de causalité entre les deux. Si l'une fait défaut, il n'y a pas de responsabilité."
+      },
+      {
+        "id": 3,
+        "question": "Qu'est-ce que le fait générateur dans la responsabilité contractuelle ?",
+        "options": ["Le contrat lui-même", "Le manquement à une obligation contractuelle", "La signature du contrat", "La mise en demeure du débiteur"],
+        "reponse_correcte": 1,
+        "explication": "Le fait générateur est le manquement contractuel : inexécution totale, partielle, ou retard d'exécution. C'est lui qui déclenche la mise en œuvre de la responsabilité contractuelle."
+      },
+      {
+        "id": 4,
+        "question": "Laquelle de ces situations constitue un retard d'exécution ?",
+        "options": ["Le débiteur n'exécute aucune obligation", "Le débiteur exécute son obligation mais après le délai contractuellement prévu", "Le débiteur exécute partiellement son obligation", "Le débiteur refuse catégoriquement d'exécuter"],
+        "reponse_correcte": 1,
+        "explication": "Le retard d'exécution survient quand l'obligation est bien accomplie, mais en dehors du délai prévu. Exemple : travaux livrés 3 mois après la date convenue. L'exécution a eu lieu, mais tardivement."
+      },
+      {
+        "id": 5,
+        "question": "Un prestataire livre 60 sacs de ciment sur 100 commandés. C'est un exemple :",
+        "options": ["D'inexécution totale", "D'inexécution partielle", "De retard d'exécution", "D'exécution forcée"],
+        "reponse_correcte": 1,
+        "explication": "L'inexécution partielle signifie que l'obligation n'a été accomplie qu'en partie. Ici, 40 sacs manquent sur les 100 commandés : l'obligation est partiellement inexécutée."
+      },
+      {
+        "id": 6,
+        "question": "Un entrepreneur encaisse un acompte et n'effectue aucun travail. C'est :",
+        "options": ["Un retard d'exécution", "Une inexécution partielle", "Une inexécution totale", "Une exception d'inexécution"],
+        "reponse_correcte": 2,
+        "explication": "Quand le débiteur n'accomplit absolument rien de ce à quoi il s'était engagé, c'est une inexécution totale. C'est le cas le plus grave et celui qui justifie le plus facilement la résolution et les dommages-intérêts."
+      },
+      {
+        "id": 7,
+        "question": "Pour être réparable, le dommage doit être :",
+        "options": ["Certain, direct et prévisible au moment de la conclusion du contrat", "Important, immédiat et notarié", "Supérieur à un million d'ariary", "Reconnu par les deux parties"],
+        "reponse_correcte": 0,
+        "explication": "Le dommage doit être certain (avéré, pas hypothétique), direct (résultant directement de l'inexécution) et prévisible au jour de la conclusion du contrat (art. 190 loi 66-003). Sans ces trois qualités, il n'est pas réparable."
+      },
+      {
+        "id": 8,
+        "question": "Qu'est-ce qu'un dommage 'certain' ?",
+        "options": ["Un dommage supérieur à 500.000 Ar", "Un dommage avéré et établi, pas hypothétique", "Un dommage prévu dans le contrat", "Un dommage reconnu par le tribunal"],
+        "reponse_correcte": 1,
+        "explication": "Un dommage certain est un dommage réel, établi, avéré. Il s'oppose au dommage éventuel ou hypothétique. Une perte de chance peut être certaine si elle est sérieuse et réelle."
+      },
+      {
+        "id": 9,
+        "question": "Pourquoi le dommage doit-il être prévisible au moment de la conclusion du contrat ?",
+        "options": ["Pour protéger le créancier", "Pour que le débiteur puisse évaluer les risques qu'il accepte en signant", "Parce que le juge l'exige toujours", "Pour faciliter le calcul des intérêts"],
+        "reponse_correcte": 1,
+        "explication": "La prévisibilité protège le débiteur : en signant, il n'accepte de répondre que des conséquences qu'il pouvait raisonnablement anticiper. Il ne peut pas être tenu de réparer un préjudice totalement imprévu — sauf faute lourde ou dol (art. 190 loi 66-003)."
+      },
+      {
+        "id": 10,
+        "question": "Selon l'article 229 de la loi n°66-003, la responsabilité ne peut exister qu'à condition qu'il y ait :",
+        "options": ["Une clause pénale dans le contrat", "Un lien de causalité entre le fait ou la faute et le dommage", "Une mise en demeure notariée", "Un accord des deux parties sur le préjudice"],
+        "reponse_correcte": 1,
+        "explication": "L'article 229 est explicite : «il ne peut y avoir responsabilité sans faute ou avec faute qu'autant qu'il y a un lien de causalité entre le fait ou la faute d'une part, et le dommage de l'autre.» Le lien causal est indispensable."
+      },
+      {
+        "id": 11,
+        "question": "Le lien de causalité est rompu lorsque :",
+        "options": ["Le dommage aurait existé même sans l'inexécution, ou a une autre cause principale", "Le débiteur ne dispose pas de clause pénale", "Le créancier n'a pas fait de mise en demeure", "Le contrat est verbal"],
+        "reponse_correcte": 0,
+        "explication": "Si le dommage serait survenu de toute façon — ou si une autre cause en est à l'origine — le lien de causalité est rompu. Le débiteur n'est pas responsable d'un préjudice qu'il n'a pas causé."
+      },
+      {
+        "id": 12,
+        "question": "Quelle est la première forme de réparation possible en cas d'inexécution contractuelle ?",
+        "options": ["Les dommages-intérêts", "L'exécution forcée en nature", "La résolution judiciaire", "La clause pénale"],
+        "reponse_correcte": 1,
+        "explication": "L'exécution forcée en nature est la première option : on force le débiteur à faire ce qu'il avait promis (livrer, réparer, restituer). Ce n'est que quand elle est impossible qu'on passe aux dommages-intérêts."
+      },
+      {
+        "id": 13,
+        "question": "Laquelle de ces mesures est un exemple d'exécution forcée en nature ?",
+        "options": ["Payer une somme compensatoire à la victime", "Obliger le locataire récalcitrant à quitter les lieux", "Verser des intérêts moratoires", "Appliquer la clause pénale"],
+        "reponse_correcte": 1,
+        "explication": "L'expulsion d'un locataire récalcitrant est une exécution forcée en nature : on contraint le débiteur à faire (ou ne pas faire) ce à quoi il s'était obligé — ici, libérer les lieux."
+      },
+      {
+        "id": 14,
+        "question": "Qu'est-ce qu'une astreinte judiciaire ?",
+        "options": ["Une forme de dommages-intérêts forfaitaires", "Une somme due par jour de retard pour inciter le débiteur à exécuter", "Une clause contractuelle de pénalité", "Un type de garantie bancaire"],
+        "reponse_correcte": 1,
+        "explication": "L'astreinte est une mesure de contrainte financière : le juge ordonne au débiteur de payer X ariary par jour tant qu'il n'a pas exécuté. C'est une pression pour forcer l'exécution, distincte des dommages-intérêts."
+      },
+      {
+        "id": 15,
+        "question": "Les dommages-intérêts moratoires réparent :",
+        "options": ["L'inexécution totale", "L'inexécution partielle", "Le retard dans l'exécution", "La rupture unilatérale du contrat"],
+        "reponse_correcte": 2,
+        "explication": "Les dommages-intérêts moratoires sont liés au TEMPS : ils compensent le préjudice causé par le retard d'exécution. Ils courent à compter de la mise en demeure (art. 192 loi 66-003)."
+      },
+      {
+        "id": 16,
+        "question": "Les dommages-intérêts compensatoires réparent :",
+        "options": ["Le retard d'exécution uniquement", "L'inexécution totale ou partielle", "La mauvaise foi du créancier", "Le préjudice moral uniquement"],
+        "reponse_correcte": 1,
+        "explication": "Les dommages-intérêts compensatoires remplacent la prestation non fournie. Ils interviennent quand l'exécution est impossible ou inutile : inexécution totale ou partielle. Exemple : somme compensant l'annulation d'un spectacle."
+      },
+      {
+        "id": 17,
+        "question": "Le préjudice indemnisable comprend :",
+        "options": ["Uniquement la perte subie", "La perte subie et le gain manqué", "Le gain manqué uniquement", "La perte subie et les dommages punitifs"],
+        "reponse_correcte": 1,
+        "explication": "L'article 191 de la loi 66-003 le précise : les dommages-intérêts couvrent la perte subie (dépenses en pure perte) ET le gain manqué (bénéfices auxquels le créancier pouvait raisonnablement s'attendre)."
+      },
+      {
+        "id": 18,
+        "question": "Le créancier a-t-il l'obligation de minimiser son préjudice ?",
+        "options": ["Non, il peut laisser le préjudice s'aggraver et tout réclamer", "Oui, s'il ne prend pas les mesures raisonnables pour limiter le dommage, ses dommages-intérêts seront réduits", "Non, c'est au débiteur de minimiser le préjudice", "Oui, mais uniquement pour les contrats commerciaux"],
+        "reponse_correcte": 1,
+        "explication": "L'article 191 al. 2 oblige le créancier à prendre des mesures raisonnables pour limiter son préjudice. S'il ne le fait pas, les dommages-intérêts sont réduits. C'est le principe de mitigation du préjudice."
+      },
+      {
+        "id": 19,
+        "question": "Combien de causes d'exonération de la responsabilité contractuelle la loi reconnaît-elle ?",
+        "options": ["1", "2", "3", "5"],
+        "reponse_correcte": 2,
+        "explication": "Trois causes d'exonération : la force majeure, la faute de la victime (créancier), et le fait imprévisible d'un tiers. Si l'une d'elles est prouvée par le débiteur, sa responsabilité est réduite ou supprimée."
+      },
+      {
+        "id": 20,
+        "question": "Quelles sont les trois caractéristiques cumulatives de la force majeure ?",
+        "options": ["Grave, soudaine, coûteuse", "Imprévisible, irrésistible, extérieure au débiteur", "Légale, totale, définitive", "Naturelle, soudaine, nationale"],
+        "reponse_correcte": 1,
+        "explication": "La force majeure doit être imprévisible (personne ne pouvait l'anticiper), irrésistible (impossible à surmonter), et extérieure au débiteur (ne résultant pas de son fait). Ces trois conditions sont cumulatives."
+      },
+      {
+        "id": 21,
+        "question": "Une panne de véhicule causée par un défaut d'entretien peut-elle constituer une force majeure ?",
+        "options": ["Oui, c'est un événement imprévisible", "Non, elle résulte de la négligence du débiteur donc n'est pas extérieure", "Oui, si elle survient un jour férié", "Cela dépend du montant du contrat"],
+        "reponse_correcte": 1,
+        "explication": "Non. Une panne due au défaut d'entretien n'est pas extérieure au débiteur : elle résulte de sa propre négligence. La force majeure suppose un événement totalement étranger au débiteur qu'il ne pouvait ni prévoir ni maîtriser."
+      },
+      {
+        "id": 22,
+        "question": "Un cyclone imprévisible détruisant les entrepôts d'un commerçant est-il une force majeure ?",
+        "options": ["Non, les cyclones sont connus à Madagascar", "Oui, si ce cyclone spécifique était imprévisible, irrésistible et extérieur", "Seulement si le commerçant avait une assurance", "Non, c'est un risque professionnel"],
+        "reponse_correcte": 1,
+        "explication": "Un cyclone d'une intensité ou d'une trajectoire inhabituels peut constituer une force majeure si les trois conditions sont réunies : imprévisible dans sa survenance précise, impossible à résister, extérieur au débiteur. Les tribunaux apprécient au cas par cas."
+      },
+      {
+        "id": 23,
+        "question": "La faute de la victime (créancier) dans la réalisation du dommage entraîne :",
+        "options": ["La nullité du contrat", "La réduction ou la suppression des dommages-intérêts proportionnellement à sa part de responsabilité", "La disparition totale de la responsabilité du débiteur dans tous les cas", "L'augmentation des dommages-intérêts"],
+        "reponse_correcte": 1,
+        "explication": "Si le créancier a contribué par sa propre faute à la réalisation du dommage, les dommages-intérêts sont réduits en proportion. Si sa faute est exclusive, le débiteur peut être totalement exonéré."
+      },
+      {
+        "id": 24,
+        "question": "Un client donne une adresse de livraison erronée puis réclame des dommages-intérêts pour non-livraison. Que peut invoquer le livreur ?",
+        "options": ["La force majeure", "La faute du créancier (victime)", "Le fait d'un tiers", "L'impossibilité matérielle"],
+        "reponse_correcte": 1,
+        "explication": "L'adresse erronée est une faute du créancier lui-même. Cette faute a directement contribué à la non-livraison. Le livreur peut invoquer la faute de la victime pour être exonéré en tout ou en partie."
+      },
+      {
+        "id": 25,
+        "question": "Le fait d'un tiers exonère le débiteur si ce fait est :",
+        "options": ["Connu du débiteur", "Imprévisible et irrésistible, assimilable à la force majeure", "Commis par un sous-traitant du débiteur", "Postérieur à la conclusion du contrat"],
+        "reponse_correcte": 1,
+        "explication": "Pour exonérer le débiteur, le fait du tiers doit présenter les mêmes caractères que la force majeure : imprévisible et irrésistible. Si le tiers est un sous-traitant ou un préposé du débiteur, celui-ci ne peut pas s'exonérer car il répond de leurs actes."
+      },
+      {
+        "id": 26,
+        "question": "Un débiteur peut-il s'exonérer en invoquant le fait d'un sous-traitant qu'il a lui-même choisi ?",
+        "options": ["Oui, car le sous-traitant est un tiers", "Non, il répond des actes de ses substituts comme des siens propres (art. 177 loi 66-003)", "Oui, si le sous-traitant avait un contrat séparé", "Oui, si le sous-traitant est insolvable"],
+        "reponse_correcte": 1,
+        "explication": "L'article 177 est formel : le débiteur répond des actes de ses substituts, préposés et représentants comme des siens propres. Un sous-traitant choisi par lui n'est pas un tiers exonératoire."
+      },
+      {
+        "id": 27,
+        "question": "Qu'est-ce que le principe de non-cumul des responsabilités ?",
+        "options": ["On ne peut pas cumuler dommages-intérêts moratoires et compensatoires", "Une partie à un contrat ne peut pas choisir d'agir sur le terrain délictuel plutôt que contractuel", "On ne peut pas cumuler responsabilité civile et pénale", "On ne peut pas poursuivre plusieurs codébiteurs à la fois"],
+        "reponse_correcte": 1,
+        "explication": "Le principe de non-cumul interdit à une partie au contrat de choisir entre responsabilité contractuelle et délictuelle selon celle qui lui est plus favorable. Dès qu'il y a contrat, c'est le régime contractuel qui s'impose."
+      },
+      {
+        "id": 28,
+        "question": "Un tiers blessé par la mauvaise exécution d'un contrat auquel il n'est pas partie doit-il agir sur le terrain contractuel ou délictuel ?",
+        "options": ["Contractuel, car le contrat a causé son dommage", "Délictuel, car il n'est pas partie au contrat", "Au choix selon son intérêt", "Il ne peut pas agir du tout"],
+        "reponse_correcte": 1,
+        "explication": "Le tiers ne peut pas invoquer le contrat car il n'en est pas partie (effet relatif). Il doit donc agir sur le terrain de la responsabilité délictuelle (art. 197 et s. loi 66-003)."
+      },
+      {
+        "id": 29,
+        "question": "La responsabilité délictuelle s'applique :",
+        "options": ["En présence d'un contrat entre les parties", "En dehors de tout contrat, entre personnes qui ne sont pas liées contractuellement", "Uniquement entre commerçants", "Uniquement pour les accidents corporels"],
+        "reponse_correcte": 1,
+        "explication": "La responsabilité délictuelle naît hors contrat : entre des personnes qui ne sont pas liées par un accord préalable. Exemple : un piéton renversé par un conducteur qu'il ne connaissait pas."
+      },
+      {
+        "id": 30,
+        "question": "En cas de faute lourde ou de dol du débiteur, le dommage imprévisible est-il réparable ?",
+        "options": ["Non, la prévisibilité reste toujours exigée", "Oui, en cas de faute lourde ou de dol, même le préjudice imprévisible doit être réparé", "Oui, mais uniquement pour les contrats commerciaux", "Non, sauf clause contraire dans le contrat"],
+        "reponse_correcte": 1,
+        "explication": "L'article 190 al. 2 loi 66-003 crée une exception : en cas de faute lourde ou de dol, «les dommages et intérêts doivent compenser le préjudice direct effectivement subi, même s'il ne pouvait être prévu lors du contrat». La faute grave efface le filtre de la prévisibilité."
+      },
+      {
+        "id": 31,
+        "question": "À partir de quel moment les dommages-intérêts moratoires commencent-ils à courir ?",
+        "options": ["Du jour de la conclusion du contrat", "Du jour de la mise en demeure ou du jour prévu par la loi", "Du jour du jugement", "Du jour de l'inexécution constatée"],
+        "reponse_correcte": 1,
+        "explication": "L'article 192 dispose que les intérêts moratoires sont dus «du jour de la mise en demeure ou du jour où la loi les fait courir de plein droit». La mise en demeure est donc le point de départ général."
+      },
+      {
+        "id": 32,
+        "question": "Le dommage moral est-il réparable dans le cadre de la responsabilité contractuelle ?",
+        "options": ["Non, seul le dommage matériel est réparable", "Oui, le dommage matériel, moral et corporel est réparable", "Seulement si le contrat le prévoit expressément", "Uniquement pour les contrats de service"],
+        "reponse_correcte": 1,
+        "explication": "La loi reconnaît trois types de dommages réparables : matériel (perte financière), moral (atteinte à la réputation, souffrance psychologique) et corporel (atteinte à l'intégrité physique). Les trois peuvent donner lieu à indemnisation."
+      },
+      {
+        "id": 33,
+        "question": "Quelle est la différence entre les dommages-intérêts moratoires et compensatoires ?",
+        "options": ["Les moratoires sont plus élevés que les compensatoires", "Les moratoires réparent le retard, les compensatoires réparent l'inexécution totale ou partielle", "Les compensatoires s'appliquent uniquement aux contrats commerciaux", "Il n'y a aucune différence dans leurs effets"],
+        "reponse_correcte": 1,
+        "explication": "Distinction essentielle : les moratoires = sanction du retard (le temps perdu), les compensatoires = remplacement de la prestation manquante (l'inexécution elle-même). Un retard peut donner droit aux deux si des dommages spécifiques résultent aussi de l'inexécution partielle."
+      },
+      {
+        "id": 34,
+        "question": "Rasoa loue une salle de fête. Le propriétaire annule 48h avant l'événement. Rasoa a déjà engagé des frais de décoration et perdu des dépôts versés à des prestataires. Elle peut réclamer :",
+        "options": ["Uniquement le remboursement du loyer de la salle", "La perte subie (frais engagés, dépôts perdus) et le gain manqué (recettes de l'événement)", "Uniquement la moitié du préjudice car le propriétaire a prévenu 48h avant", "Rien, car le contrat de location est verbal"],
+        "reponse_correcte": 1,
+        "explication": "Rasoa peut réclamer l'intégralité de son préjudice direct et prévisible : perte subie (frais de décoration, dépôts perdus chez les prestataires) et gain manqué (recettes perdues à cause de l'annulation). L'article 191 les couvre tous les deux."
+      },
+      {
+        "id": 35,
+        "question": "Un débiteur peut-il s'exonérer totalement de toute responsabilité par une clause contractuelle ?",
+        "options": ["Oui, si les deux parties l'ont signé", "Non, l'article 181 interdit de s'exonérer totalement à l'avance", "Oui, uniquement pour les contrats entre professionnels", "Non, uniquement les clauses limitatives sont autorisées mais jamais l'exonération totale"],
+        "reponse_correcte": 3,
+        "explication": "L'article 181 interdit toute exonération totale à l'avance. Les clauses limitatives (réduire la responsabilité) sont permises dans certains cas (art. 180). Mais on ne peut jamais totalement s'exonérer par avance, surtout pas pour faute lourde ou dol."
+      },
+      {
+        "id": 36,
+        "question": "La responsabilité contractuelle peut-elle être engagée même sans faute intentionnelle du débiteur ?",
+        "options": ["Non, il faut toujours une faute volontaire", "Oui, une faute involontaire (négligence, imprudence) suffit", "Non, seul le dol engage la responsabilité contractuelle", "Oui, mais uniquement pour les obligations de résultat"],
+        "reponse_correcte": 1,
+        "explication": "La faute peut être volontaire (dol) ou involontaire (négligence, imprudence, maladresse). Dans les deux cas, la responsabilité est engagée. La nature de la faute influencera cependant l'étendue de la réparation."
+      },
+      {
+        "id": 37,
+        "question": "Hery est avocat. Il s'engage à défendre Rasoa dans un procès civil. Rasoa perd le procès. Hery est-il automatiquement responsable ?",
+        "options": ["Oui, il devait gagner le procès", "Non, l'avocat souscrit une obligation de moyens, pas de résultat", "Oui, si le contrat ne précise pas le type d'obligation", "Non, l'avocat n'a aucune responsabilité contractuelle"],
+        "reponse_correcte": 1,
+        "explication": "L'avocat souscrit une obligation de moyens : il s'engage à défendre avec diligence et compétence, pas à gagner. La responsabilité ne naît que si Rasoa prouve un manquement caractérisé à ses devoirs professionnels (erreur grossière, défaut de diligence)."
+      },
+      {
+        "id": 38,
+        "question": "Un transporteur s'engage à livrer un colis intact. Le colis arrive brisé. Le client doit-il prouver la faute du transporteur ?",
+        "options": ["Oui, il doit prouver que le transporteur a été négligent", "Non, le transporteur souscrit une obligation de résultat : l'absence de résultat engage automatiquement sa responsabilité", "Oui, car tout dommage requiert preuve de faute", "Non, seulement si le contrat le prévoit"],
+        "reponse_correcte": 1,
+        "explication": "Le transporteur souscrit une obligation de résultat : livrer intact. Dès que le résultat n'est pas atteint (colis brisé), la responsabilité est engagée sans que le client ait à prouver une faute. C'est au transporteur de prouver un cas exonératoire."
+      },
+      {
+        "id": 39,
+        "question": "La mise en demeure est-elle toujours nécessaire avant de réclamer des dommages-intérêts ?",
+        "options": ["Oui, toujours sans exception", "En principe oui, sauf exceptions légales (déclaration écrite de ne pas exécuter, date essentielle dépassée, etc.)", "Non, elle est facultative", "Oui, mais uniquement pour les contrats écrits"],
+        "reponse_correcte": 1,
+        "explication": "L'article 188 pose la mise en demeure comme règle générale. Mais l'article 189 prévoit des exceptions : si le débiteur a déclaré par écrit ne pas exécuter, si la date était de l'essence du contrat, ou si le contrat lui-même le prévoit."
+      },
+      {
+        "id": 40,
+        "question": "La responsabilité civile contractuelle se distingue de la responsabilité pénale parce que :",
+        "options": ["Elle est toujours plus sévère", "Elle vise à réparer un dommage privé, pas à punir au nom de la société", "Elle ne s'applique qu'aux professionnels", "Elle est gérée par le Parquet"],
+        "reponse_correcte": 1,
+        "explication": "La responsabilité civile contractuelle a pour objectif la réparation du préjudice subi par la partie lésée. La responsabilité pénale vise à punir l'auteur d'une infraction au nom de la société. Les deux peuvent coexister (ex : escroquerie qui est aussi une inexécution contractuelle)."
+      },
+      {
+        "id": 41,
+        "question": "Fanja commande un gâteau d'anniversaire pour une fête le samedi soir. Le pâtissier livre le dimanche matin. La fête est terminée. Fanja peut réclamer :",
+        "options": ["Rien, le gâteau a quand même été livré", "Des dommages-intérêts compensatoires car la livraison tardive équivaut à une inexécution", "Uniquement le remboursement du prix", "Des dommages-intérêts moratoires uniquement"],
+        "reponse_correcte": 1,
+        "explication": "Quand la date d'exécution est de l'essence du contrat (un gâteau pour une fête précise), un retard qui rend la prestation sans utilité équivaut à une inexécution totale. Fanja peut réclamer des dommages-intérêts compensatoires et le remboursement du prix."
+      },
+      {
+        "id": 42,
+        "question": "L'exécution forcée en nature est impossible lorsque :",
+        "options": ["Le débiteur refuse catégoriquement", "La prestation est devenue matériellement impossible ou inutile", "Le contrat est verbal", "Le créancier n'a pas de mise en demeure écrite"],
+        "reponse_correcte": 1,
+        "explication": "L'exécution forcée en nature suppose que la prestation soit encore possible et utile. Si la chose a disparu, si la date est passée, ou si la prestation est trop personnelle pour être imposée, on bascule vers les dommages-intérêts compensatoires."
+      },
+      {
+        "id": 43,
+        "question": "Peut-on simultanément demander l'exécution forcée en nature ET des dommages-intérêts compensatoires pour la même inexécution ?",
+        "options": ["Oui, toujours", "Non, il faut choisir : soit l'exécution, soit la compensation", "Oui, mais uniquement devant le tribunal de commerce", "Cela dépend du contrat"],
+        "reponse_correcte": 1,
+        "explication": "On ne peut pas cumuler l'exécution forcée et les dommages-intérêts compensatoires pour la même inexécution — ce serait une double réparation injuste. En revanche, on peut cumuler exécution forcée ET dommages-intérêts moratoires si la livraison tardive a causé un préjudice complémentaire."
+      },
+      {
+        "id": 44,
+        "question": "Pour évaluer le préjudice, le juge se place :",
+        "options": ["Au jour de la conclusion du contrat", "Au jour de l'inexécution", "Au jour où il rend sa décision", "Au jour de la mise en demeure"],
+        "reponse_correcte": 2,
+        "explication": "L'article 194 de la loi 66-003 : «Les juges doivent se placer, pour apprécier le préjudice subi par le créancier, au jour où ils rendent leur décision.» Cela tient compte de l'évolution des prix et de la valeur des choses."
+      },
+      {
+        "id": 45,
+        "question": "Un créancier peut-il agir en responsabilité contractuelle même si son préjudice n'est que moral ?",
+        "options": ["Non, seul le préjudice matériel est indemnisable", "Oui, le préjudice moral (atteinte à la réputation, humiliation) est réparable", "Oui, mais uniquement pour les personnes physiques", "Non, sauf si le contrat le prévoit expressément"],
+        "reponse_correcte": 1,
+        "explication": "Le dommage réparable inclut le préjudice matériel, moral ET corporel. Un artiste dont le spectacle est annulé peut subir un préjudice moral (atteinte à sa réputation) en plus du manque à gagner. Les deux sont indemnisables."
+      },
+      {
+        "id": 46,
+        "question": "La pandémie de Covid-19 a-t-elle pu constituer une force majeure pour les débiteurs de contrats devenus impossibles à exécuter ?",
+        "options": ["Non, les pandémies sont des risques connus", "Oui, si elle était imprévisible pour ce contrat précis, irrésistible et extérieure", "Oui, automatiquement pour tous les contrats", "Non, seuls les phénomènes naturels constituent une force majeure"],
+        "reponse_correcte": 1,
+        "explication": "Les tribunaux ont reconnu que la pandémie pouvait constituer une force majeure pour des contrats conclus avant son apparition, à condition que les trois critères soient réunis : imprévisibilité au moment du contrat, irrésistibilité, et extériorité. L'appréciation se fait contrat par contrat."
+      },
+      {
+        "id": 47,
+        "question": "Quel est le but principal de la responsabilité civile (pas pénale) ?",
+        "options": ["Punir le fautif", "Réparer le préjudice subi par la victime", "Emprisonner le débiteur récalcitrant", "Annuler le contrat"],
+        "reponse_correcte": 1,
+        "explication": "La responsabilité civile vise exclusivement la RÉPARATION du préjudice subi par la victime. Elle ne punit pas au sens pénal : elle remet le créancier dans la situation où il se trouverait si le contrat avait été correctement exécuté."
+      },
+      {
+        "id": 48,
+        "question": "Une société de sécurité gardant un entrepôt n'intervient pas lors d'un cambriolage. Le propriétaire perd 2 millions d'ariary de marchandise. Quelle est la responsabilité de la société ?",
+        "options": ["Aucune, elle n'a pas elle-même commis le vol", "Responsabilité contractuelle engagée : inexécution de l'obligation de surveillance", "Responsabilité délictuelle uniquement car un tiers a commis le vol", "Responsabilité pénale uniquement"],
+        "reponse_correcte": 1,
+        "explication": "La société avait une obligation contractuelle de surveillance. Son absence d'intervention est une inexécution contractuelle. Le fait que ce soit un tiers qui ait commis le vol n'exonère pas la société : sa responsabilité contractuelle est engagée pour avoir failli à sa mission de gardiennage."
+      },
+      {
+        "id": 49,
+        "question": "Une clause contractuelle peut-elle alléger la responsabilité du débiteur en cas de faute ordinaire ?",
+        "options": ["Non, jamais", "Oui, sous certaines conditions (art. 180 loi 66-003)", "Oui, uniquement dans les contrats entre professionnels", "Non, sauf accord du juge"],
+        "reponse_correcte": 1,
+        "explication": "L'article 180 autorise les parties à limiter par avance leur responsabilité pour faute ordinaire : réduire les cas de responsabilité ou plafonner les dommages-intérêts. Cette liberté s'arrête devant la faute lourde et le dol (art. 181)."
+      },
+      {
+        "id": 50,
+        "question": "Récapitulons : pour engager la responsabilité civile contractuelle, le créancier doit prouver :",
+        "options": ["La mauvaise foi du débiteur, le préjudice et la date du contrat", "L'inexécution contractuelle, le dommage certain et direct, et le lien de causalité entre les deux", "La mise en demeure, la faute intentionnelle et le préjudice chiffré", "La clause pénale, le retard et le dol du débiteur"],
+        "reponse_correcte": 1,
+        "explication": "Les trois conditions cumulatives sont : (1) un fait générateur — l'inexécution contractuelle, qu'elle soit totale, partielle ou tardive ; (2) un dommage certain, direct et prévisible ; (3) un lien de causalité direct entre l'inexécution et le dommage. Sans l'une d'elles, pas de responsabilité."
+      }
+    ]
+  },
+
+  "cas_pratiques": [
+    {
+      "id": "CP1",
+      "titre": "Le traiteur défaillant de Nosy-Be",
+      "contexte": "Madame RAVAO organise le mariage de sa fille à Nosy-Be. Elle signe en mars un contrat avec DÉLICES MALGACHES, un traiteur, pour la fourniture de 150 repas complets le 15 juin, pour un prix total de 750.000 Ar. Elle verse 300.000 Ar d'acompte à la signature. Le contrat précise bien : «livraison garantie le 15 juin à 11h00».\n\nLe 15 juin à 11h, aucun repas n'arrive. À 14h, le traiteur appelle pour signaler une panne de son véhicule de livraison due à un défaut d'entretien. Il propose de livrer le lendemain. Le mariage est terminé. Mme RAVAO a dû commander en urgence des repas à un autre prestataire pour 900.000 Ar. Elle réclame réparation.",
+      "questions": [
+        {
+          "numero": 1,
+          "question": "Les trois conditions de la responsabilité contractuelle sont-elles réunies ?",
+          "reponse_attendue": "Oui, les trois conditions sont parfaitement réunies :\n\n1. FAIT GÉNÉRATEUR : DÉLICES MALGACHES n'a pas livré les 150 repas à la date et heure convenues. La date du 15 juin à 11h était clairement de l'essence du contrat (un mariage ne peut pas attendre). C'est une inexécution totale pour la date prévue.\n\n2. DOMMAGE CERTAIN ET DIRECT : Mme RAVAO a subi un préjudice réel et chiffré : elle a dû payer 900.000 Ar à un autre prestataire, soit 150.000 Ar de plus que prévu. Elle a aussi perdu l'usage de l'acompte versé. Son préjudice est certain, direct et prévisible dès la conclusion du contrat.\n\n3. LIEN DE CAUSALITÉ : C'est directement la défaillance du traiteur qui a contraint Mme RAVAO à commander ailleurs à un tarif d'urgence plus élevé. Le lien est direct et immédiat."
+        },
+        {
+          "numero": 2,
+          "question": "Le traiteur peut-il invoquer la force majeure pour la panne de son véhicule ?",
+          "reponse_attendue": "NON. La panne résulte d'un défaut d'entretien du véhicule — c'est-à-dire de la négligence du traiteur lui-même. La force majeure exige trois conditions cumulatives : imprévisible, irrésistible, EXTÉRIEURE au débiteur.\n\nOr ici :\n• La panne n'est pas extérieure : elle découle de la propre faute du traiteur (entretien négligé)\n• Elle n'est pas imprévisible : un professionnel doit s'assurer que ses véhicules sont en état le jour d'une prestation importante\n• Elle n'est pas irrésistible : des mesures préventives étaient possibles\n\nLe traiteur reste donc pleinement responsable. Il ne peut pas s'exonérer."
+        },
+        {
+          "numero": 3,
+          "question": "Quel est le préjudice réparable de Mme RAVAO et que peut-elle réclamer ?",
+          "reponse_attendue": "Le préjudice de Mme RAVAO comprend :\n\n• PERTE SUBIE directe : la différence de prix entre ce qu'elle a payé en urgence (900.000 Ar) et ce qu'elle aurait payé si le contrat avait été exécuté (750.000 Ar) = 150.000 Ar supplémentaires\n• RESTITUTION DE L'ACOMPTE : les 300.000 Ar versés doivent lui être restitués puisque le contrat n'a pas été exécuté\n• PRÉJUDICE MORAL éventuel : le stress et la désorganisation d'un mariage constituent un préjudice moral réel, que le tribunal peut indemniser\n• GAIN MANQUÉ : si l'absence de repas a causé d'autres préjudices quantifiables (ex : prestataires renvoyés, hôtes insatisfaits ayant causé une autre perte), ces éléments peuvent être ajoutés\n\nMme RAVAO devra prouver et chiffrer chaque poste. Elle a l'obligation de minimiser : commander chez l'autre prestataire à 900.000 Ar est raisonnable — elle n'a pas aggravé son préjudice inutilement."
+        },
+        {
+          "numero": 4,
+          "question": "Quelle procédure Mme RAVAO doit-elle suivre ?",
+          "reponse_attendue": "1. MISE EN DEMEURE : Envoyer une mise en demeure écrite à DÉLICES MALGACHES réclamant la réparation intégrale du préjudice dans un délai précis (ex : 15 jours). Ce document est indispensable pour déclencher les intérêts moratoires (art. 192).\n\n2. DOCUMENTATION DU PRÉJUDICE : Conserver tous les justificatifs — facture du prestataire de remplacement, preuve de l'acompte versé, photos du mariage prouvant la désorganisation, tout élément prouvant le préjudice moral.\n\n3. SAISINE DU TRIBUNAL : Si le traiteur ne répond pas ou refuse dans le délai, saisir le tribunal compétent pour réclamer : restitution de l'acompte + surcoût de 150.000 Ar + préjudice moral + intérêts moratoires à compter de la mise en demeure."
+        }
+      ],
+      "lecon_tiree": "Ce cas illustre parfaitement les trois conditions de la responsabilité contractuelle réunies clairement, l'échec de la force majeure face à une faute propre du débiteur, et la composition du préjudice réparable. En pratique, documenter immédiatement tout manquement est vital : photos, factures, correspondances écrites."
+    },
+    {
+      "id": "CP2",
+      "titre": "La formation annulée et la clause d'exonération",
+      "contexte": "L'association CDI DIEGO signe un contrat avec un cabinet de formation pour une session de 3 jours sur la gestion associative, prévue en septembre, pour 400.000 Ar. Le contrat contient une clause : «En cas d'annulation pour quelque cause que ce soit, le cabinet ne sera tenu d'aucun remboursement ni indemnité».\n\nUne semaine avant la formation, le cabinet annule sans explication. CDI DIEGO avait déjà payé l'intégralité du prix, réservé un hébergement pour les participants venus de loin (80.000 Ar), et préparé du matériel pédagogique (50.000 Ar de photocopies). Elle réclame le remboursement et une indemnisation.",
+      "questions": [
+        {
+          "numero": 1,
+          "question": "La clause d'exonération totale du contrat est-elle valide ?",
+          "reponse_attendue": "NON. L'article 181 de la loi n°66-003 est catégorique : «On ne peut s'exonérer par avance ni de toute responsabilité, ni des conséquences de la faute lourde ou du dol.»\n\nCette clause qui exonère le cabinet «pour quelque cause que ce soit» est une clause d'exonération TOTALE — exactement ce que la loi interdit. Elle est nulle de plein droit.\n\nDe plus, annuler une formation une semaine avant sans aucune explication peut être qualifié de faute lourde (négligence grave) ou de dol (refus délibéré d'exécuter), ce qui prive encore plus le cabinet de toute protection contractuelle."
+        },
+        {
+          "numero": 2,
+          "question": "La responsabilité contractuelle du cabinet est-elle engagée ?",
+          "reponse_attendue": "Oui, les trois conditions sont réunies :\n\n1. FAIT GÉNÉRATEUR : le cabinet a annulé la formation = inexécution totale d'une obligation principale\n\n2. DOMMAGE CERTAIN ET DIRECT :\n• 400.000 Ar payés et non remboursés (perte subie directe)\n• 80.000 Ar d'hébergement réservé pour rien (perte subie directe)\n• 50.000 Ar de photocopies préparées (perte subie directe)\n• Temps de préparation des participants (préjudice quantifiable)\n\n3. LIEN DE CAUSALITÉ : tous ces frais ont été engagés directement en vue de cette formation annulée. Sans l'annulation, ils n'auraient pas été perdus.\n\nLa clause d'exonération étant nulle, elle ne fait pas obstacle à cette action."
+        },
+        {
+          "numero": 3,
+          "question": "CDI DIEGO peut-elle réclamer un gain manqué en plus des pertes directes ?",
+          "reponse_attendue": "Oui, potentiellement. Le gain manqué comprend les bénéfices dont CDI DIEGO a été privée du fait de l'annulation :\n\n• Si la formation devait permettre à CDI DIEGO d'obtenir une certification ou d'accéder à un financement, ce manque à gagner est réparable s'il est prouvé et directement lié.\n• Si des employés ou bénévoles ont perdu des jours de travail productifs pour préparer puis annuler leur participation, ce coût peut être chiffré.\n\nCependant, CDI DIEGO devra prouver que ces gains étaient prévisibles au moment du contrat (art. 190) et que le lien de causalité avec l'annulation est direct. Les gains purement spéculatifs ne sont pas indemnisables."
+        },
+        {
+          "numero": 4,
+          "question": "Le cabinet peut-il invoquer un cas de force majeure s'il en existe un réel ?",
+          "reponse_attendue": "Oui, à condition de le prouver rigoureusement. Si le cabinet peut démontrer un événement imprévisible, irrésistible et extérieur ayant rendu la formation impossible (maladie grave soudaine du seul formateur qualifié, catastrophe naturelle affectant le lieu de formation, etc.), il peut être exonéré.\n\nMais :\n1. Il doit en apporter la PREUVE concrète\n2. La force majeure doit avoir rendu l'exécution IMPOSSIBLE, pas seulement difficile ou coûteuse\n3. Il doit avoir informé CDI DIEGO IMMÉDIATEMENT\n4. Même en cas de force majeure, le remboursement du prix déjà payé reste dû : la force majeure libère de l'exécution future, pas de la restitution des sommes reçues pour une prestation non fournie."
+        }
+      ],
+      "lecon_tiree": "Ce cas illustre deux points essentiels : la nullité des clauses d'exonération totale (art. 181), protection fondamentale contre les abus contractuels, et la composition complète du préjudice indemnisable. Dans la pratique associative et professionnelle, savoir reconnaître et contester les clauses abusives est une compétence juridique fondamentale."
+    }
+  ],
+
+  "references_legales": [
+    { "article": "177", "sujet": "Responsabilité contractuelle pour ses propres actes et ceux de ses substituts" },
+    { "article": "178", "sujet": "Causes d'exonération : faute du créancier et force majeure" },
+    { "article": "179", "sujet": "Obligation de moyens vs obligation de résultat" },
+    { "article": "180", "sujet": "Conventions limitant la responsabilité contractuelle" },
+    { "article": "181", "sujet": "Interdiction de l'exonération totale et de la faute lourde/dol" },
+    { "article": "188-189", "sujet": "Mise en demeure préalable et exceptions" },
+    { "article": "190", "sujet": "Prévisibilité du préjudice et exception faute lourde/dol" },
+    { "article": "191", "sujet": "Perte subie, gain manqué, obligation de minimiser" },
+    { "article": "192", "sujet": "Intérêts moratoires à compter de la mise en demeure" },
+    { "article": "194", "sujet": "Appréciation du préjudice au jour du jugement" },
+    { "article": "229", "sujet": "Lien de causalité — condition essentielle de la responsabilité" }
+  ]
+}
