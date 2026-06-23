@@ -1,0 +1,950 @@
+{
+  "titre": "Les procédures collectives — redressement et faillite",
+  "module": "Module 12 — Les procédures collectives d'apurement du passif",
+  "niveau": "Intermédiaire",
+  "contenu": [
+    {
+      "titre": "Qu'est-ce qu'une procédure collective et pourquoi existe-t-elle ?",
+      "texte": "Quand une entreprise ne peut plus payer ses dettes, deux logiques s'affrontent. La première serait de laisser chaque créancier se débrouiller seul : le plus rapide ou le plus puissant saisirait les biens en premier, les autres repartiraient les mains vides. C'est la loi du plus fort, et elle est profondément injuste. La seconde logique, retenue par tous les systèmes juridiques modernes, consiste à organiser une procédure collective : on gèle les poursuites individuelles, on rassemble tous les créanciers dans une masse commune, et on traite le sort de l'entreprise et celui de ses dettes de manière coordonnée, sous le contrôle d'un tribunal. C'est l'objet de la loi malgache n°2003-042 du 3 septembre 2004 sur les procédures collectives d'apurement du passif, modifiée en 2007. Cette loi poursuit un double objectif clairement énoncé dès son article premier : organiser les procédures destinées à apurer le passif du débiteur, et définir les sanctions qui peuvent frapper le débiteur et les dirigeants de l'entreprise en cas de comportement fautif. Apurer le passif ne signifie pas forcément liquider l'entreprise : la philosophie moderne du droit des procédures collectives, qui inspire ce texte, cherche d'abord à sauver ce qui peut l'être.",
+      "definition": "Une procédure collective est un cadre juridique organisé qui gèle les poursuites individuelles des créanciers contre un débiteur en difficulté financière, les rassemble dans une masse commune, et organise sous le contrôle du tribunal de commerce le sort de l'entreprise (sauvegarde ou liquidation) et le règlement de ses dettes (apurement du passif)."
+    },
+    {
+      "titre": "Le cadre légal malgache : une réforme inspirée de l'OHADA",
+      "texte": "Avant 2004, le droit malgache des procédures collectives reposait sur l'ordonnance n°62-008 du 31 juillet 1962, elle-même copiée sur un décret-loi français de 1955. Cette législation n'avait pas évolué pendant plus de quarante ans, alors que la matière avait connu une véritable révolution ailleurs dans le monde. La loi n°2003-042 a comblé ce retard en s'inspirant directement de l'Acte uniforme de 1988 de l'OHADA (l'Organisation pour l'Harmonisation en Afrique du Droit des Affaires), jugé mieux adapté au contexte africain que le droit français de l'époque, devenu trop complexe après ses réformes successives de 1967, 1985 et 1994. Le législateur malgache a néanmoins adapté certains délais à la réalité locale, notamment en les rallongeant. Ce texte, qui comporte 286 articles répartis en six titres, a ensuite été modifié et complété par la loi n°2007-018 du 27 juillet 2007, qui a notamment renommé le « concordat préventif » en « accord de règlement préventif » et ajusté plusieurs délais et règles de procédure. C'est cette version consolidée qui est aujourd'hui en vigueur.",
+      "definition": "Le droit malgache des procédures collectives repose sur la loi n°2003-042 du 3 septembre 2004, inspirée de l'Acte uniforme OHADA de 1988, modifiée par la loi n°2007-018 du 27 juillet 2007. Elle a remplacé l'ancienne ordonnance n°62-008 de 1962 et comporte 286 articles répartis en six titres."
+    },
+    {
+      "titre": "Trois procédures, un objectif commun : sauver ce qui peut l'être",
+      "texte": "La loi malgache articule trois procédures distinctes, correspondant chacune à un degré différent de gravité de la situation. Le règlement préventif (devenu après 2007 une procédure aboutissant à un « accord de règlement préventif ») s'adresse à l'entreprise qui connaît des difficultés mais n'est pas encore en cessation des paiements : c'est une procédure non contentieuse, fondée sur l'accord volontaire de toutes les parties, destinée à éviter que la situation ne se dégrade. Le redressement judiciaire s'adresse à l'entreprise déjà en cessation des paiements, mais dont la situation laisse entrevoir des possibilités sérieuses de redressement : il aboutit, dans l'idéal, à un concordat de redressement (un accord organisant le paiement échelonné ou réduit des dettes) ou à un plan de cession (la reprise de l'entreprise par un tiers). La liquidation des biens s'adresse à l'entreprise dont la situation est irrémédiablement compromise : son actif est alors vendu pour payer, autant que possible, les créanciers, avant que l'entreprise ne disparaisse. Ces trois procédures forment une sorte d'escalier de gravité, et le tribunal peut passer de l'une à l'autre en cours de route si la situation l'exige.",
+      "definition": "Les trois procédures collectives malgaches : le règlement préventif (accord de règlement préventif), pour une entreprise en difficulté mais non en cessation des paiements ; le redressement judiciaire, pour une entreprise en cessation des paiements mais redressable, aboutissant à un concordat ou un plan de cession ; la liquidation des biens, pour une entreprise dont la situation est irrémédiablement compromise, dont l'actif est réalisé pour payer les créanciers."
+    },
+    {
+      "titre": "Qui est soumis aux procédures collectives ?",
+      "texte": "Le règlement préventif a un champ d'application très large : il concerne toute personne physique ou morale commerçante, mais aussi toute personne morale de droit privé non commerçante (comme une association), ainsi que toute entreprise publique constituée sous forme de personne morale de droit privé, dès lors qu'elle connaît une situation économique et financière difficile mais non irrémédiablement compromise. Le redressement judiciaire et la liquidation des biens ont un champ d'application identique entre eux, mais soumis à une condition supplémentaire : il faut que le débiteur soit effectivement en état de cessation des paiements. C'est une différence importante avec d'anciennes conceptions plus restrictives du droit des faillites, qui réservaient ces procédures aux seuls commerçants individuels : la loi malgache de 2003 a élargi le champ d'application à toutes les personnes morales de droit privé, lucratives ou non.",
+      "definition": "Sont soumis au règlement préventif : toute personne physique ou morale commerçante, toute personne morale de droit privé non commerçante, toute entreprise publique sous forme de personne morale de droit privé, en difficulté mais non irrémédiablement compromise. Sont soumis au redressement judiciaire et à la liquidation des biens : les mêmes catégories de personnes, à condition d'être en état de cessation des paiements."
+    },
+    {
+      "titre": "Le tribunal de commerce : juge unique de la procédure collective",
+      "texte": "À Madagascar, c'est le tribunal de commerce qui est seul compétent pour connaître des trois procédures collectives, mais aussi de toutes les contestations qui en découlent : litiges nés de la procédure, litiges sur lesquels la procédure exerce une influence juridique, faillite personnelle des dirigeants et autres sanctions — à l'exception des matières expressément réservées aux juridictions administratives, pénales et sociales. Cette concentration de compétences évite l'éparpillement des contentieux et permet une vision cohérente de la situation du débiteur. La compétence territoriale revient au tribunal de commerce dans le ressort duquel le débiteur a son principal établissement ou, pour une personne morale, son siège social. Si le siège social est à l'étranger, c'est le tribunal du lieu où se trouve le principal centre d'exploitation à Madagascar qui est compétent. Toute contestation sur cette compétence doit être tranchée rapidement : dans les quinze jours de la saisine par le tribunal lui-même, et dans le délai d'un mois par la juridiction d'appel en cas de recours.",
+      "definition": "Le tribunal de commerce est seul compétent pour connaître des procédures collectives et de leurs contestations à Madagascar. La compétence territoriale appartient au tribunal du ressort où le débiteur a son principal établissement ou son siège social. Toute contestation de compétence doit être tranchée dans les 15 jours par le tribunal saisi, et dans le mois par la juridiction d'appel."
+    },
+    {
+      "titre": "Le règlement préventif : agir avant que tout ne s'effondre",
+      "texte": "Le règlement préventif est conçu pour intervenir le plus tôt possible, avant que la situation ne devienne irréversible. Lorsqu'une entreprise, sans être en cessation des paiements, connaît des difficultés susceptibles de compromettre la continuité de son exploitation, un dirigeant peut saisir par requête le président du tribunal de commerce afin qu'il désigne un conciliateur — une personne neutre chargée de favoriser le fonctionnement de l'entreprise et de rechercher un accord avec les créanciers. Si le président estime ces propositions sérieuses, il nomme le conciliateur pour une mission de trois mois maximum, prorogeable une fois. Le conciliateur dispose de pouvoirs d'investigation étendus : il peut obtenir des informations auprès des commissaires aux comptes, des représentants du personnel, des administrations publiques et même des services bancaires chargés de centraliser les incidents de paiement. Si un accord est trouvé avec l'ensemble des créanciers, il est constaté par écrit et homologué par ordonnance du président du tribunal. Cet accord suspend, pendant toute sa durée d'exécution, les actions en justice et poursuites individuelles des créanciers visés.",
+      "definition": "Le règlement préventif est une procédure non contentieuse destinée à éviter la cessation des paiements d'une entreprise en difficulté mais non encore en cessation des paiements. Elle repose sur la désignation d'un conciliateur, nommé pour trois mois (prorogeables une fois), chargé de négocier un accord de règlement préventif avec les créanciers, accord qui, une fois homologué, suspend les poursuites individuelles pendant son exécution.",
+      "exemple": "Une entreprise de transport de marchandises voit ses revenus chuter à cause de la hausse du prix du carburant, mais elle peut encore payer ses charges courantes. Son dirigeant saisit le président du tribunal de commerce pour obtenir la désignation d'un conciliateur, qui négocie avec les principaux fournisseurs un rééchelonnement des dettes sur dix-huit mois. Une fois homologué, cet accord protège l'entreprise contre toute poursuite individuelle pendant son exécution."
+    },
+    {
+      "titre": "La cessation des paiements : le critère qui change tout",
+      "texte": "La cessation des paiements est la notion pivot de tout le système : c'est elle qui déclenche l'ouverture du redressement judiciaire ou de la liquidation des biens. Elle se définit précisément comme l'impossibilité, pour le débiteur, de faire face à son passif exigible (les dettes dont le paiement peut être immédiatement réclamé) avec son actif disponible (les liquidités et biens facilement mobilisables). Ce n'est donc pas un simple déséquilibre comptable ou un endettement important : une entreprise peut avoir un patrimoine net négatif tout en honorant ses échéances grâce à sa trésorerie, et inversement, une entreprise rentable peut être en cessation des paiements si elle manque ponctuellement de liquidités. Le débiteur qui se trouve dans cette situation a l'obligation légale de faire une déclaration de cessation des paiements dans les trente jours, déposée au greffe du tribunal de commerce contre récépissé — quelle que soit la nature de ses dettes. Cette déclaration doit être accompagnée d'un dossier complet : extrait d'immatriculation au RCS, états financiers de synthèse, état de la trésorerie, état chiffré des créances et dettes, inventaire des biens, nombre de travailleurs et salaires impayés, chiffre d'affaires et bénéfices des trois dernières années, entre autres documents. Le non-respect de ce délai de trente jours n'est pas anodin : il peut constituer une cause de faillite personnelle ou de banqueroute simple.",
+      "definition": "La cessation des paiements est l'impossibilité pour le débiteur de faire face à son passif exigible avec son actif disponible. Elle déclenche l'obligation de déclaration dans les trente jours au greffe du tribunal de commerce, accompagnée d'un dossier complet de documents financiers et sociaux. Le défaut de déclaration dans ce délai est une cause potentielle de sanction (faillite personnelle, banqueroute simple)."
+    },
+    {
+      "titre": "Comment s'ouvre la procédure de redressement ou de liquidation ?",
+      "texte": "La procédure peut être déclenchée de trois manières différentes. D'abord, par le débiteur lui-même, à travers la déclaration de cessation des paiements évoquée plus haut, accompagnée — dans les quinze jours qui suivent — d'une offre de concordat précisant les mesures envisagées pour le redressement : délais et remises de dettes, cession partielle d'actif, location-gérance d'une branche d'activité ou de la totalité de l'entreprise. Ensuite, par tout créancier, quelle que soit la nature de sa créance, à condition qu'elle soit certaine, liquide et exigible : il assigne le débiteur, qui dispose alors d'un délai d'un mois (prorogeable une fois) pour faire sa propre déclaration et sa proposition de concordat. Enfin, le tribunal de commerce peut se saisir d'office, notamment sur la base d'informations transmises par le Ministère Public, les commissaires aux comptes, les associés ou les représentants du personnel. Dans tous les cas, le tribunal ne peut rendre son jugement d'ouverture avant l'expiration d'un délai de trente jours à compter de sa saisine. S'il constate la cessation des paiements, le tribunal prononce le redressement judiciaire si le débiteur a proposé un concordat sérieux ; à défaut, il prononce directement la liquidation des biens.",
+      "definition": "L'ouverture d'une procédure collective peut résulter de trois modes de saisine : la déclaration volontaire du débiteur (dans les 30 jours de la cessation des paiements), l'assignation d'un créancier titulaire d'une créance certaine, liquide et exigible, ou la saisine d'office du tribunal de commerce. Le jugement d'ouverture ne peut intervenir avant 30 jours à compter de la saisine, et prononce soit le redressement judiciaire (si un concordat sérieux est proposé), soit directement la liquidation des biens."
+    },
+    {
+      "titre": "Les organes de la procédure : qui fait quoi ?",
+      "texte": "La procédure collective mobilise plusieurs acteurs aux rôles bien distincts. Le juge commissaire, nommé dès la décision d'ouverture, veille au déroulement rapide de la procédure et aux intérêts en présence : il dispose de pouvoirs d'investigation étendus et statue par ordonnance sur les demandes relevant de sa compétence, en principe dans les huit jours. Le syndic — leur nombre ne peut excéder trois — est chargé de représenter les créanciers ; il a la qualité de mandataire rémunéré, civilement responsable de ses fautes. Aucun parent ou allié du débiteur jusqu'au quatrième degré, ni aucun salarié de l'entreprise, ne peut être nommé syndic, afin de garantir son indépendance. Le Ministère Public est tenu informé du déroulement de la procédure par le juge commissaire et peut requérir communication de tous documents à toute époque. Les contrôleurs, choisis parmi les créanciers (trois au maximum), assistent le juge commissaire dans sa mission de surveillance et veillent aux intérêts des créanciers ; leur nomination devient obligatoire si des créanciers représentant au moins la moitié du total des créances le demandent. Leurs fonctions sont en principe gratuites et ils ne répondent que de leurs fautes lourdes.",
+      "definition": "Les organes de la procédure collective : le juge commissaire (supervision générale, ordonnances dans les 8 jours), le syndic (maximum 3, représentant des créanciers, mandataire rémunéré et responsable civilement), le Ministère Public (informé, peut requérir communication de documents), les contrôleurs (maximum 3, choisis parmi les créanciers, fonctions gratuites, surveillance)."
+    },
+    {
+      "titre": "Le sort du débiteur : assisté ou dessaisi ?",
+      "texte": "L'ouverture de la procédure transforme radicalement la situation patrimoniale du débiteur, mais de manière très différente selon qu'il s'agit d'un redressement judiciaire ou d'une liquidation des biens. En cas de redressement judiciaire, le débiteur reste à la tête de son patrimoine, mais sous assistance obligatoire du syndic pour tous les actes d'administration et de disposition : il peut continuer seul les actes conservatoires et de gestion courante, mais tout acte plus important nécessite l'assistance du syndic, sous peine d'être inopposable aux tiers. En cas de liquidation des biens, en revanche, le débiteur subit un dessaisissement total : il perd l'administration et la disposition de ses biens présents et futurs, et c'est le syndic seul qui agit désormais en représentation du débiteur pour tous ses actes, droits et actions patrimoniaux. Si la liquidation concerne une personne morale, le jugement emporte de plein droit sa dissolution.",
+      "definition": "En redressement judiciaire, le débiteur est assisté par le syndic pour les actes d'administration et de disposition (assistance obligatoire), tout en conservant la gestion courante. En liquidation des biens, le débiteur est dessaisi de l'administration et de la disposition de ses biens, le syndic agissant seul en sa représentation ; la liquidation emporte dissolution de plein droit si le débiteur est une personne morale."
+    },
+    {
+      "titre": "Les effets à l'égard des créanciers : la masse et la suspension des poursuites",
+      "texte": "Dès la décision d'ouverture, tous les créanciers dont la créance est antérieure sont automatiquement constitués en une masse représentée par le seul syndic — eux-mêmes ne peuvent plus agir individuellement en son nom. Cette décision produit des effets immédiats et puissants : elle suspend ou interdit toute action en justice individuelle tendant au paiement d'une somme d'argent ou à la résolution d'un contrat pour défaut de paiement ; elle arrête toute voie d'exécution, tant sur les meubles que sur les immeubles ; elle suspend également les délais de déchéance ou de résolution. Cette suspension s'applique même aux créanciers munis de sûretés réelles (gage, nantissement, hypothèque), sous réserve de quelques exceptions ponctuelles. La décision arrête également le cours des intérêts légaux et conventionnels à l'égard de la masse — sauf, en redressement judiciaire, pour les intérêts de prêts d'une durée d'un an ou plus. Enfin, elle confère à la masse une hypothèque forcée sur tous les immeubles présents et futurs du débiteur, que le greffier doit faire inscrire immédiatement.",
+      "definition": "La décision d'ouverture constitue les créanciers antérieurs en une masse représentée par le syndic, et produit un effet suspensif puissant : arrêt des poursuites individuelles, arrêt des voies d'exécution, suspension des délais de déchéance, arrêt du cours des intérêts (sauf exception), et constitution d'une hypothèque forcée au profit de la masse sur les immeubles du débiteur."
+    },
+    {
+      "titre": "Produire sa créance : l'obligation de tout créancier",
+      "texte": "Pour participer à la procédure et espérer être payé, un créancier ne peut pas se contenter d'attendre : il doit produire sa créance, c'est-à-dire la déclarer formellement auprès du syndic, dans un délai de deux mois suivant la deuxième insertion de l'avis d'ouverture dans un journal d'annonces légales (trois mois pour les créanciers domiciliés hors du ressort du tribunal). Cette déclaration précise le montant de la créance, sa nature, et la sûreté dont elle est éventuellement assortie, avec les pièces justificatives à l'appui. Le syndic vérifie ensuite chaque créance, en présence du débiteur et des contrôleurs. L'ensemble aboutit à un état des créances, déposé au greffe, qui mentionne pour chacune son caractère définitif ou provisoire, chirographaire ou privilégié. À défaut de production dans les délais, le créancier est en principe forclos. La réforme de 2007 a toutefois assoupli ce couperet : les défaillants peuvent présenter une demande de relevé de forclusion dans un délai de six mois à compter du jugement d'ouverture, à condition de démontrer que leur défaillance n'est pas due à leur fait. Passé ce délai supplémentaire, les créances non déclarées et non relevées de forclusion sont définitivement éteintes.",
+      "definition": "Tout créancier antérieur doit produire sa créance auprès du syndic dans les deux mois suivant la deuxième insertion légale (trois mois hors ressort), sous peine de forclusion. Depuis la réforme de 2007, un relevé de forclusion peut être demandé dans les six mois du jugement d'ouverture si le créancier prouve que sa défaillance ne lui est pas imputable. Passé ce second délai, les créances non déclarées sont définitivement éteintes.",
+      "exemple": "Un fournisseur de matériel informatique apprend, deux mois et demi après la deuxième insertion légale de l'ouverture d'un redressement judiciaire, qu'il était créancier de l'entreprise concernée — il n'avait pas été personnellement averti car sa créance n'était pas inscrite au bilan. Il peut encore demander un relevé de forclusion dans le délai de six mois à compter du jugement d'ouverture, à condition de prouver que son retard n'est pas dû à sa propre négligence."
+    },
+    {
+      "titre": "Le concordat de redressement : reconstruire un avenir viable",
+      "texte": "Lorsque le débiteur a proposé un concordat sérieux, l'ensemble du processus de redressement judiciaire converge vers son adoption. Après la vérification des créances, les créanciers chirographaires (non titulaires de sûretés réelles spéciales) sont convoqués à une assemblée concordataire où ils votent sur les propositions du débiteur. Le concordat est adopté s'il réunit la double majorité : la majorité en nombre des créanciers admis, représentant au moins la moitié du total des créances. Si une seule de ces deux conditions est remplie, la délibération est prolongée à huitaine sans nouvelle formalité. Les créanciers munis de sûretés réelles spéciales conservent en principe leurs garanties et ne sont liés que par les délais et remises qu'ils ont eux-mêmes acceptés — sauf si le concordat prévoit des délais n'excédant pas deux ans, auquel cas ces délais peuvent leur être opposés s'ils sont plus courts que ceux qu'ils avaient consentis. Le tribunal n'homologue le concordat que si plusieurs conditions sont réunies : validité des conditions de formation, absence de motif d'intérêt collectif ou d'ordre public s'y opposant, possibilités sérieuses de redressement, et — pour une personne morale — éviction effective des dirigeants dont le remplacement avait été proposé.",
+      "definition": "Le concordat de redressement est l'accord par lequel le débiteur propose à ses créanciers chirographaires des modalités de règlement de ses dettes (délais, remises, cessions). Il est voté à la double majorité (majorité en nombre représentant au moins la moitié des créances), puis homologué par le tribunal s'il offre des possibilités sérieuses de redressement. Une fois homologué, il devient obligatoire pour tous les créanciers antérieurs, avec des exceptions pour les sûretés réelles spéciales et les créances salariales."
+    },
+    {
+      "titre": "Le plan de cession : sauver l'entreprise par un repreneur",
+      "texte": "Quand le débiteur lui-même ne parvient pas à proposer un concordat viable, tout n'est pas nécessairement perdu : la loi organise un mécanisme original permettant à un tiers de reprendre l'entreprise. Dès l'ouverture de la procédure et jusqu'à l'assemblée concordataire, des tiers intéressés peuvent soumettre au syndic des offres d'acquisition portant sur l'entreprise ou un établissement, accompagnées d'une provision. Si une offre sérieuse existe en l'absence de concordat viable, le tribunal arrête un plan de cession, en retenant l'offre qui assure dans les meilleures conditions la pérennité de l'emploi et le paiement des créanciers. Le jugement qui arrête le plan en rend les dispositions opposables à tous : il peut emporter cession de certains contrats nécessaires au maintien de l'activité, et le tribunal peut nommer un commissaire chargé de veiller à son exécution. Le plan peut prévoir une période de location-gérance préalable du fonds de commerce, avec l'engagement du locataire-gérant d'acquérir l'entreprise à son terme — l'entreprise devant alors être effectivement cédée dans les deux ans du jugement. Si le cessionnaire ne paie pas intégralement le prix, il ne peut, sauf exception pour les stocks, aliéner les biens acquis tant que ce paiement n'est pas complet.",
+      "definition": "Le plan de cession permet à un tiers de reprendre tout ou partie d'une entreprise en redressement judiciaire, sur la base d'une offre écrite déposée auprès du syndic. Le tribunal retient l'offre qui assure le mieux la pérennité de l'emploi et le paiement des créanciers, et peut autoriser une période préalable de location-gérance avec engagement d'acquérir, l'entreprise devant être effectivement cédée dans un délai de deux ans."
+    },
+    {
+      "titre": "La liquidation des biens : réaliser l'actif et payer dans l'ordre légal",
+      "texte": "Quand le redressement n'est plus possible, la liquidation des biens prend le relais. Dès son prononcé, les créanciers sont constitués en état d'union, et le syndic poursuit seul la vente des marchandises et meubles, le recouvrement des créances et le règlement des dettes du débiteur. Les immeubles peuvent être vendus selon trois modalités au choix du juge commissaire : la vente à la barre du tribunal, la vente par adjudication devant notaire, ou la vente de gré à gré. Une cession globale de l'actif reste également possible. Une fois les biens vendus, le produit est réparti selon un ordre de paiement strictement défini par la loi, qui distingue les deniers issus des immeubles de ceux issus des meubles. Pour les meubles, l'ordre est le suivant : frais de justice de la réalisation, frais de conservation du bien, salaires super privilégiés, créanciers gagistes selon la date du gage, créanciers nantis ou privilégiés inscrits selon leur rang au RCS, créanciers munis d'un privilège mobilier spécial, créanciers contre la masse, créanciers munis d'un privilège général, et enfin les créanciers chirographaires qui se partagent ce qui reste. Pour les immeubles, l'ordre est proche mais distinct : frais de justice, salaires super privilégiés, créanciers hypothécaires inscrits selon leur rang, créanciers contre la masse, créanciers à privilège général, puis chirographaires.",
+      "definition": "La liquidation des biens constitue les créanciers en état d'union. Le syndic réalise l'actif (vente des meubles, des immeubles selon trois modes possibles, ou cession globale), puis répartit le produit selon un ordre de paiement légal distinct pour les meubles et les immeubles, qui place en tête les frais de justice et les salaires super privilégiés, et en dernier les créanciers chirographaires."
+    },
+    {
+      "titre": "Le privilège des salariés et le sort du bail commercial",
+      "texte": "Deux catégories de créanciers bénéficient d'une attention particulière de la loi. D'une part, les salariés : leurs créances issues du contrat de travail sont garanties par le privilège des salaires, et la loi impose au syndic de payer, dans les dix jours suivant la décision d'ouverture, toutes les créances super privilégiées des travailleurs, sous déduction des acomptes déjà perçus — y compris, le cas échéant, en utilisant les toutes premières rentrées de fonds, avant toute autre créance. D'autre part, le bailleur de l'immeuble où s'exerce l'activité du débiteur : l'ouverture de la procédure collective n'entraîne pas, de plein droit, la résiliation du bail commercial, toute clause contraire étant réputée non écrite. Le syndic (en liquidation) ou le débiteur assisté du syndic (en redressement) peut alors choisir de continuer le bail, de le céder, ou de ne pas le poursuivre — auquel cas la résiliation intervient sur simple congé, avec un préavis minimum de trente jours. Si le bail est résilié, le bailleur bénéficie d'un privilège portant sur les douze derniers mois de loyers échus avant la décision d'ouverture, ainsi que sur les douze mois suivants. En cas de conflit entre le privilège du bailleur d'immeuble et celui du vendeur de fonds de commerce sur certains éléments mobiliers, c'est le privilège du vendeur de fonds de commerce qui l'emporte.",
+      "definition": "Les créances salariales bénéficient d'un privilège des salaires, avec paiement super-privilégié dans les dix jours de l'ouverture, prioritaire sur toute autre créance. Le bail commercial n'est pas résilié de plein droit par l'ouverture de la procédure ; le syndic peut le continuer, le céder, ou y renoncer (préavis de 30 jours minimum) ; le bailleur dispose alors d'un privilège sur douze mois de loyers avant et après la décision d'ouverture."
+    },
+    {
+      "titre": "Les sanctions patrimoniales contre les dirigeants : le comblement du passif",
+      "texte": "Quand une personne morale est en redressement judiciaire ou en liquidation des biens et que son actif est insuffisant pour couvrir son passif, la loi ne s'arrête pas à l'entreprise : elle peut remonter jusqu'à ses dirigeants si leur faute de gestion a contribué à cette insuffisance d'actif. Le tribunal de commerce peut alors décider que les dettes de la personne morale seront supportées, en tout ou en partie, avec ou sans solidarité, par tous les dirigeants ou certains d'entre eux — qu'ils soient dirigeants de droit ou de fait, apparents ou occultes, rémunérés ou non. Cette action en comblement du passif peut être engagée par le syndic, ou le tribunal peut se saisir d'office ; les dirigeants mis en cause doivent être convoqués au moins huit jours avant l'audience, qui se tient en chambre du conseil (audience non publique). L'action se prescrit par trois ans à compter de l'arrêté définitif de l'état des créances. Si un dirigeant ne paie pas la part du passif mise à sa charge, le tribunal peut lui enjoindre de céder ses parts sociales ou actions dans la société, voire ordonner leur cession forcée par le syndic, le produit de la vente étant affecté au paiement de sa dette.",
+      "definition": "Le comblement du passif permet au tribunal de commerce de mettre tout ou partie des dettes d'une personne morale en redressement ou en liquidation à la charge de ses dirigeants (de droit ou de fait) en cas de faute de gestion ayant contribué à l'insuffisance d'actif. L'action se prescrit par trois ans à compter de l'arrêté de l'état des créances et peut conduire à la cession forcée des parts sociales du dirigeant condamné."
+    },
+    {
+      "titre": "La faillite personnelle : la sanction des comportements anormaux",
+      "texte": "Au-delà du seul aspect patrimonial, la loi sanctionne le comportement anormal ou malhonnête des dirigeants par la faillite personnelle. Cette sanction, prononcée par le tribunal de commerce à toute époque de la procédure, vise des comportements précis : soustraction de comptabilité, détournement ou dissimulation d'actif, reconnaissance frauduleuse de dettes inexistantes, exercice d'une activité commerciale dans son intérêt personnel sous couvert d'une personne morale, usage des biens de la société comme des siens propres, obtention d'un concordat par dol, ou actes de mauvaise foi et imprudences inexcusables enfreignant gravement les usages du commerce. Les conséquences de la faillite personnelle sont lourdes : interdiction générale de faire le commerce ou de diriger, gérer, administrer ou contrôler une entreprise commerciale ou toute personne morale ayant une activité économique ; interdiction d'exercer une fonction publique élective ; interdiction d'exercer toute fonction publique, administrative, judiciaire ou de représentation professionnelle. Cette durée est fixée par le tribunal entre trois ans au minimum et dix ans au maximum, et prend effet au jour où la décision a force de chose jugée.",
+      "definition": "La faillite personnelle sanctionne les dirigeants pour des comportements gravement fautifs (détournement d'actif, comptabilité fictive, usage des biens sociaux à titre personnel, dol). Elle emporte interdiction générale de faire le commerce, de diriger une entreprise ou une personne morale, d'exercer une fonction publique élective ou toute fonction publique, administrative ou judiciaire, pour une durée fixée par le tribunal entre trois et dix ans."
+    },
+    {
+      "titre": "La réhabilitation et la banqueroute",
+      "texte": "La faillite personnelle, aussi sévère soit-elle, n'est pas nécessairement définitive. La réhabilitation rétablit le débiteur dans tous les droits dont il avait été privé. Elle est acquise de plein droit lorsque le passif a été intégralement éteint, ou peut être prononcée, si la probité de l'intéressé est reconnue, lorsqu'il a obtenu un concordat particulier dont il a payé intégralement les dividendes promis, ou justifie d'une remise entière de sa dette. À l'autre extrémité du spectre, certains comportements basculent dans le champ pénal : c'est la banqueroute. La banqueroute simple sanctionne notamment la comptabilité incomplète, l'absence de déclaration dans les trente jours, ou le paiement préférentiel d'un créancier au préjudice de la masse — punie d'un mois à deux ans d'emprisonnement et d'une amende. La banqueroute frauduleuse, plus grave, sanctionne la soustraction de comptabilité, le détournement d'actif, ou les avantages occultes accordés à certains créanciers — punie de deux à cinq ans d'emprisonnement. Une condamnation pour banqueroute peut être prononcée même sans constatation préalable de la cessation des paiements par le tribunal de commerce : le tribunal correctionnel peut alors la constater lui-même.",
+      "definition": "La réhabilitation rétablit le débiteur dans ses droits après extinction du passif ou sur preuve de probité. La banqueroute est l'infraction pénale qui sanctionne les manquements graves du débiteur en cessation des paiements : banqueroute simple (1 mois à 2 ans d'emprisonnement) et banqueroute frauduleuse (2 à 5 ans d'emprisonnement), pouvant être constatées par le tribunal correctionnel même sans jugement préalable du tribunal de commerce."
+    },
+    {
+      "titre": "Les voies de recours : contester les décisions de la procédure collective",
+      "texte": "La loi malgache a choisi d'intégrer directement les règles relatives aux voies de recours en matière de procédures collectives, par souci de simplicité et de rapidité. Certaines décisions ne sont susceptibles ni d'opposition ni d'appel : c'est le cas notamment des décisions relatives à la nomination ou au remplacement du juge commissaire, des syndics ou des contrôleurs. Pour les autres décisions, l'opposition (devant la même juridiction) doit être formée par déclaration au greffe dans un délai de quinze jours à compter de la signification, et il doit être statué sur cette opposition dans le mois. L'appel, lorsqu'il est recevable, doit lui aussi être formé dans les quinze jours de la signification, et la juridiction d'appel statue sur pièces dans le délai d'un mois. Une règle essentielle gouverne l'exécution de ces décisions : elles sont en principe exécutoires par provision, c'est-à-dire immédiatement applicables malgré l'exercice d'un recours, à l'exception de la décision homologuant le concordat et des décisions prononçant la faillite personnelle.",
+      "definition": "Les voies de recours en matière de procédures collectives sont intégrées directement dans la loi malgache. L'opposition et l'appel doivent être formés dans les 15 jours de la signification de la décision contestée. Les décisions sont en principe exécutoires par provision (immédiatement applicables) malgré le recours, sauf pour l'homologation du concordat et la faillite personnelle."
+    },
+    {
+      "titre": "Récapitulatif : les clés des procédures collectives malgaches",
+      "texte": "Voici l'essentiel à retenir de ce module. La loi malgache n°2003-042, modifiée en 2007 et inspirée de l'OHADA, organise trois procédures : le règlement préventif (accord de règlement préventif) pour les entreprises en difficulté mais non en cessation des paiements, le redressement judiciaire pour celles en cessation des paiements mais redressables (via concordat ou plan de cession), et la liquidation des biens pour celles dont la situation est irrémédiablement compromise. Le tribunal de commerce est seul compétent. La cessation des paiements (passif exigible supérieur à l'actif disponible) doit être déclarée dans les trente jours. La décision d'ouverture constitue les créanciers en masse, suspend les poursuites individuelles, et impose au débiteur soit une assistance (redressement), soit un dessaisissement total (liquidation). Les créanciers doivent produire leurs créances dans les deux à trois mois, sous peine de forclusion (avec relevé possible dans les six mois depuis 2007). Le concordat est voté à la double majorité et homologué par le tribunal. La liquidation suit un ordre de paiement légal précis distinguant meubles et immeubles. Les dirigeants fautifs encourent le comblement du passif (sanction patrimoniale) et la faillite personnelle (interdictions professionnelles de trois à dix ans), tandis que les comportements les plus graves relèvent de la banqueroute, infraction pénale.",
+      "definition": "À retenir : trois procédures (règlement préventif, redressement judiciaire, liquidation des biens), tribunal de commerce seul compétent, cessation des paiements = passif exigible > actif disponible, déclaration sous 30 jours, masse des créanciers + suspension des poursuites, production des créances sous 2-3 mois (relevé de forclusion possible sous 6 mois depuis 2007), concordat à la double majorité, ordre de paiement légal en liquidation, sanctions des dirigeants : comblement du passif (3 ans de prescription) + faillite personnelle (3 à 10 ans d'interdictions) + banqueroute (infraction pénale)."
+    }
+  ],
+  "quiz": [
+    {
+      "question": "Quel est l'objet principal d'une procédure collective ?",
+      "choix": [
+        "Permettre à chaque créancier de saisir individuellement les biens du débiteur le plus rapidement possible",
+        "Geler les poursuites individuelles, rassembler les créanciers dans une masse commune, et organiser sous contrôle judiciaire le sort de l'entreprise et le règlement de ses dettes",
+        "Transférer automatiquement la propriété de l'entreprise à l'État",
+        "Supprimer toute possibilité pour les créanciers d'être payés"
+      ],
+      "reponse": 1,
+      "indices": [
+        "La procédure collective s'oppose à la logique du « premier arrivé, premier servi ».",
+        "Elle organise un traitement coordonné plutôt qu'une course individuelle entre créanciers.",
+        "L'objectif n'est pas seulement de liquider, mais aussi parfois de sauver l'entreprise."
+      ],
+      "explication": "Une procédure collective gèle les poursuites individuelles des créanciers, les rassemble dans une masse commune représentée par le syndic, et organise sous le contrôle du tribunal de commerce le sort de l'entreprise et le règlement coordonné de ses dettes, plutôt que de laisser chaque créancier agir seul."
+    },
+    {
+      "question": "Quelle est la loi malgache de référence régissant les procédures collectives, et de quel texte international s'inspire-t-elle principalement ?",
+      "choix": [
+        "La loi n°2003-042 du 3 septembre 2004, inspirée de l'Acte uniforme OHADA de 1988",
+        "Le Code civil malgache de 1804, inspiré du droit napoléonien",
+        "La loi n°2003-038, inspirée du droit anglo-saxon",
+        "L'ordonnance n°62-008, inspirée du droit allemand"
+      ],
+      "reponse": 0,
+      "indices": [
+        "Cette loi a remplacé une ordonnance de 1962 devenue obsolète.",
+        "Elle a été adaptée au contexte africain, contrairement au droit français jugé trop complexe.",
+        "Elle comporte 286 articles répartis en six titres."
+      ],
+      "explication": "La loi malgache de référence est la loi n°2003-042 du 3 septembre 2004 sur les procédures collectives d'apurement du passif, inspirée directement de l'Acte uniforme de 1988 de l'OHADA, jugé mieux adapté au contexte africain que le droit français devenu trop complexe."
+    },
+    {
+      "question": "Quelle loi a modifié et complété la loi n°2003-042, et en quelle année ?",
+      "choix": [
+        "La loi n°2007-018 du 27 juillet 2007",
+        "La loi n°2010-005 du 15 mars 2010",
+        "L'ordonnance n°62-008 de 1962",
+        "La loi n°1999-018 du 2 août 1999"
+      ],
+      "reponse": 0,
+      "indices": [
+        "Cette loi a notamment renommé le « concordat préventif » en « accord de règlement préventif ».",
+        "Elle a également ajusté le délai de relevé de forclusion.",
+        "Elle a été publiée au Journal Officiel n°3139."
+      ],
+      "explication": "La loi n°2007-018 du 27 juillet 2007 a modifié et complété plusieurs articles de la loi n°2003-042, notamment en renommant le « concordat préventif » en « accord de règlement préventif », et en modifiant le délai de relevé de forclusion (porté à six mois)."
+    },
+    {
+      "question": "Quelles sont les trois procédures organisées par la loi malgache sur les procédures collectives ?",
+      "choix": [
+        "Le redressement judiciaire, la faillite personnelle, et la banqueroute",
+        "Le règlement préventif, le redressement judiciaire, et la liquidation des biens",
+        "La conciliation, l'arbitrage, et la médiation",
+        "La déclaration, la vérification, et la clôture"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Ces trois procédures correspondent à des degrés de gravité différents.",
+        "L'une intervient avant la cessation des paiements, les deux autres après.",
+        "La faillite personnelle et la banqueroute sont des sanctions, pas des procédures collectives au sens strict."
+      ],
+      "explication": "Les trois procédures sont le règlement préventif (avant la cessation des paiements), le redressement judiciaire (en cessation des paiements mais redressable), et la liquidation des biens (situation irrémédiablement compromise)."
+    },
+    {
+      "question": "Quelle est la différence fondamentale entre le règlement préventif et le redressement judiciaire ?",
+      "choix": [
+        "Il n'existe aucune différence, ce sont deux noms pour la même procédure",
+        "Le règlement préventif s'adresse à une entreprise en difficulté mais non encore en cessation des paiements, tandis que le redressement judiciaire suppose que la cessation des paiements soit déjà constatée",
+        "Le règlement préventif ne concerne que les personnes physiques",
+        "Le redressement judiciaire est une procédure non contentieuse, contrairement au règlement préventif"
+      ],
+      "reponse": 1,
+      "indices": [
+        "L'une de ces procédures intervient en amont, avant que la situation ne devienne irréversible.",
+        "L'autre suppose un critère légal précis déjà constaté.",
+        "C'est la cessation des paiements qui marque la frontière entre les deux."
+      ],
+      "explication": "Le règlement préventif s'adresse à une entreprise en difficulté mais non encore en cessation des paiements — c'est une procédure préventive et non contentieuse. Le redressement judiciaire suppose au contraire que la cessation des paiements soit déjà constatée, mais que des possibilités sérieuses de redressement existent encore."
+    },
+    {
+      "question": "Quelles personnes sont soumises au règlement préventif selon la loi malgache ?",
+      "choix": [
+        "Uniquement les personnes physiques commerçantes",
+        "Toute personne physique ou morale commerçante, toute personne morale de droit privé non commerçante, et toute entreprise publique sous forme de personne morale de droit privé",
+        "Uniquement les sociétés commerciales cotées en bourse",
+        "Uniquement les commerçants individuels immatriculés depuis plus de cinq ans"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Le champ d'application du règlement préventif est volontairement très large.",
+        "Il inclut même les associations à but non lucratif.",
+        "L'article 3 de la loi n°2003-042 précise ce champ."
+      ],
+      "explication": "L'article 3 de la loi n°2003-042 dispose que le règlement préventif est applicable à toute personne physique ou morale commerçante, à toute personne morale de droit privé non commerçante, et à toute entreprise publique sous forme de personne morale de droit privé, en difficulté mais non irrémédiablement compromise."
+    },
+    {
+      "question": "Quelle condition supplémentaire, par rapport au règlement préventif, est requise pour être soumis au redressement judiciaire ou à la liquidation des biens ?",
+      "choix": [
+        "Être une société anonyme cotée en bourse",
+        "Être effectivement en état de cessation des paiements",
+        "Avoir plus de cinquante salariés",
+        "Avoir un chiffre d'affaires supérieur à un milliard d'ariary"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Cette condition est le critère déclencheur central de ces deux procédures.",
+        "Elle se définit par l'impossibilité de faire face au passif exigible avec l'actif disponible.",
+        "Sans cette condition, seul le règlement préventif est envisageable."
+      ],
+      "explication": "Le redressement judiciaire et la liquidation des biens sont applicables aux mêmes catégories de personnes que le règlement préventif, mais à la condition supplémentaire d'être effectivement en état de cessation des paiements."
+    },
+    {
+      "question": "Quel tribunal est seul compétent pour connaître des procédures collectives à Madagascar ?",
+      "choix": [
+        "Le Tribunal de Première Instance, chambre civile",
+        "Le tribunal de commerce",
+        "La Cour d'Appel directement",
+        "Le tribunal administratif"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Cette juridiction est également compétente pour les contestations liées à la procédure.",
+        "Elle est aussi compétente pour la faillite personnelle et les autres sanctions, sauf exceptions.",
+        "Cette concentration de compétences évite l'éparpillement du contentieux."
+      ],
+      "explication": "Le tribunal de commerce est seul compétent pour connaître du règlement préventif, du redressement judiciaire et de la liquidation des biens à Madagascar, ainsi que de toutes les contestations nées de ces procédures, et même de la faillite personnelle et des autres sanctions."
+    },
+    {
+      "question": "Comment se détermine la compétence territoriale du tribunal de commerce pour une procédure collective ?",
+      "choix": [
+        "C'est toujours le tribunal de commerce d'Antananarivo qui est compétent",
+        "C'est le tribunal du ressort où le débiteur a son principal établissement ou, pour une personne morale, son siège social",
+        "C'est le tribunal choisi librement par le créancier le plus important",
+        "C'est le tribunal du lieu de naissance du débiteur"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Cette règle vise à rattacher la procédure au lieu réel de l'activité économique.",
+        "Pour une personne morale, c'est son siège qui détermine la compétence.",
+        "Si le siège est à l'étranger, c'est le principal centre d'exploitation à Madagascar qui compte."
+      ],
+      "explication": "La compétence territoriale appartient au tribunal de commerce dans le ressort duquel le débiteur a son principal établissement ou, s'il s'agit d'une personne morale, son siège social. Si le siège social est à l'étranger, c'est la juridiction du lieu où se trouve le principal centre d'exploitation à Madagascar qui est compétente."
+    },
+    {
+      "question": "Dans quel délai une contestation sur la compétence territoriale du tribunal de commerce doit-elle être tranchée par ce tribunal lui-même ?",
+      "choix": [
+        "Dans les huit jours de sa saisine",
+        "Dans les quinze jours de sa saisine",
+        "Dans le mois de sa saisine",
+        "Dans les six mois de sa saisine"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Ce délai est court, traduisant l'urgence propre à la matière.",
+        "Un délai différent et plus long s'applique en cas d'appel.",
+        "L'article 5 de la loi n°2003-042 fixe ces deux délais distincts."
+      ],
+      "explication": "Toute contestation sur la compétence de la juridiction saisie doit être tranchée par celle-ci dans les quinze jours de sa saisine et, en cas d'appel, dans le délai d'un mois par la juridiction d'appel."
+    },
+    {
+      "question": "Qui peut saisir le président du tribunal de commerce pour demander la désignation d'un conciliateur dans le cadre d'un règlement préventif ?",
+      "choix": [
+        "Uniquement un créancier impayé",
+        "Un dirigeant de l'entreprise, par requête",
+        "Uniquement le Ministère Public",
+        "N'importe quel salarié de l'entreprise"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Cette saisine est volontaire et émane de l'entreprise elle-même.",
+        "Elle se fait par requête, et non par assignation.",
+        "L'article 6 de la loi n°2003-042 précise qui peut initier cette démarche."
+      ],
+      "explication": "L'article 6 de la loi n°2003-042 prévoit que le président du tribunal de commerce peut être saisi par requête d'un dirigeant de l'entreprise, lorsque celle-ci, sans être en cessation des paiements, connaît des difficultés de nature à compromettre la continuité de son exploitation."
+    },
+    {
+      "question": "Quelle est la durée maximale de la mission du conciliateur désigné dans le cadre du règlement préventif ?",
+      "choix": [
+        "Un mois, non prorogeable",
+        "Trois mois, prorogeable une fois à la demande du conciliateur",
+        "Six mois, non prorogeable",
+        "Un an, prorogeable indéfiniment"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Cette durée est fixée par le président du tribunal de commerce.",
+        "Une prorogation unique est possible, à la demande du conciliateur lui-même.",
+        "L'article 8 de la loi n°2003-042, tel que modifié en 2007, précise cette durée."
+      ],
+      "explication": "Selon l'article 8 de la loi n°2003-042, le président du tribunal nomme le conciliateur et fixe la nature et la durée de sa mission, qui ne peut excéder trois mois, prorogeable une fois à la demande du conciliateur."
+    },
+    {
+      "question": "Quel effet produit l'accord de règlement préventif homologué, pendant la durée de son exécution ?",
+      "choix": [
+        "Il efface automatiquement toutes les dettes du débiteur",
+        "Il suspend toute action en justice et toute poursuite individuelle, tant sur les meubles que sur les immeubles du débiteur, visant à obtenir le paiement des créances concernées",
+        "Il transforme automatiquement le débiteur en liquidation des biens",
+        "Il n'a aucun effet juridique particulier, c'est un simple document informatif"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Cet effet protège le débiteur pendant qu'il exécute les engagements pris dans l'accord.",
+        "Il porte à la fois sur les actions en justice et sur les voies d'exécution.",
+        "L'article 10 de la loi n°2003-042 décrit précisément cet effet."
+      ],
+      "explication": "L'article 10 de la loi n°2003-042 dispose que l'accord suspend, pendant la durée de son exécution, toute action en justice et toute poursuite individuelle, tant sur les meubles que sur les immeubles du débiteur, dans le but d'obtenir le paiement des créances qui en font l'objet."
+    },
+    {
+      "question": "Quelle est la définition exacte de la cessation des paiements selon la loi malgache ?",
+      "choix": [
+        "Le fait d'avoir un patrimoine net négatif",
+        "L'impossibilité pour le débiteur de faire face à son passif exigible avec son actif disponible",
+        "Le fait de ne pas avoir payé un seul créancier depuis plus d'un an",
+        "Le fait d'avoir déposé le bilan auprès du Ministère des Finances"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Ce n'est pas un simple déséquilibre comptable.",
+        "Cette définition oppose deux notions : ce qui peut être réclamé immédiatement et ce qui est mobilisable immédiatement.",
+        "Une entreprise rentable peut être en cessation des paiements par manque ponctuel de liquidités."
+      ],
+      "explication": "La cessation des paiements se définit comme l'impossibilité pour le débiteur de faire face à son passif exigible avec son actif disponible. Ce n'est ni un simple déséquilibre comptable ni un endettement important en valeur absolue."
+    },
+    {
+      "question": "Dans quel délai le débiteur en cessation des paiements doit-il faire sa déclaration au greffe du tribunal de commerce ?",
+      "choix": [
+        "Dans les huit jours de la cessation des paiements",
+        "Dans les trente jours de la cessation des paiements",
+        "Dans les trois mois de la cessation des paiements",
+        "Dans l'année de la cessation des paiements"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Ce délai est compté à partir du moment précis où la cessation des paiements survient.",
+        "Le non-respect de ce délai peut entraîner des sanctions personnelles.",
+        "L'article 11 de la loi n°2003-042 fixe ce délai."
+      ],
+      "explication": "L'article 11 de la loi n°2003-042 impose au débiteur dans l'impossibilité de faire face à son passif exigible avec son actif disponible de faire une déclaration de cessation des paiements dans les trente jours de cette cessation, déposée au greffe du tribunal de commerce contre récépissé."
+    },
+    {
+      "question": "De combien de modes de saisine du tribunal de commerce la loi malgache dispose-t-elle pour l'ouverture d'une procédure de redressement judiciaire ou de liquidation des biens ?",
+      "choix": [
+        "Un seul mode : la déclaration spontanée du débiteur",
+        "Trois modes : la déclaration du débiteur, l'assignation d'un créancier, et la saisine d'office du tribunal",
+        "Deux modes : la déclaration du débiteur et la décision du Ministère de la Justice",
+        "Quatre modes incluant l'intervention obligatoire d'un expert-comptable"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Le débiteur n'est pas le seul à pouvoir initier la procédure.",
+        "Un créancier titulaire d'une créance certaine, liquide et exigible peut aussi agir.",
+        "Le tribunal peut également agir de sa propre initiative, sur la base de certaines informations."
+      ],
+      "explication": "La procédure collective peut être ouverte de trois manières : par la déclaration volontaire du débiteur, par l'assignation d'un créancier titulaire d'une créance certaine, liquide et exigible, ou par la saisine d'office du tribunal de commerce."
+    },
+    {
+      "question": "Quel délai minimal le tribunal de commerce doit-il respecter avant de rendre son jugement d'ouverture, quel que soit le mode de saisine ?",
+      "choix": [
+        "Il peut statuer immédiatement après la saisine",
+        "Il ne peut rendre son jugement avant l'expiration d'un délai de trente jours à compter de sa saisine",
+        "Il doit attendre six mois minimum",
+        "Il n'existe aucun délai minimal imposé"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Ce délai laisse le temps d'instruire l'affaire, éventuellement à l'aide d'un rapport.",
+        "Il s'applique uniformément, peu importe qui a saisi le tribunal.",
+        "L'article 18 de la loi n°2003-042 fixe ce délai minimal."
+      ],
+      "explication": "L'article 18 de la loi n°2003-042 prévoit que le tribunal de commerce ne peut rendre son jugement avant l'expiration d'un délai de trente jours à compter de sa saisine, quel que soit le mode de saisine retenu."
+    },
+    {
+      "question": "Dans quel cas le tribunal prononce-t-il le redressement judiciaire plutôt que la liquidation des biens, une fois la cessation des paiements constatée ?",
+      "choix": [
+        "Toujours, dans tous les cas de cessation des paiements",
+        "S'il lui apparaît que le débiteur a proposé un concordat sérieux",
+        "Uniquement si le débiteur emploie plus de cent salariés",
+        "Jamais, la liquidation des biens est systématique en cas de cessation des paiements"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Cette décision dépend du sérieux des propositions du débiteur, pas de critères automatiques.",
+        "En l'absence de ce sérieux, c'est la liquidation des biens qui sera prononcée.",
+        "L'article 19 de la loi précise ce critère de choix."
+      ],
+      "explication": "L'article 19 de la loi n°2003-042 dispose que le tribunal de commerce qui constate la cessation des paiements prononce le redressement judiciaire s'il lui apparaît que le débiteur a proposé un concordat sérieux, et la liquidation des biens dans le cas contraire."
+    },
+    {
+      "question": "Combien de syndics au maximum peuvent être nommés dans une même procédure collective ?",
+      "choix": [
+        "Un seul, jamais davantage",
+        "Trois au maximum",
+        "Cinq au maximum",
+        "Il n'existe aucune limite légale"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Cette limite vise à éviter une multiplication excessive des intervenants.",
+        "S'il y en a plusieurs, ils agissent en principe collectivement.",
+        "Le juge commissaire peut donner à l'un ou plusieurs d'entre eux le pouvoir d'agir individuellement."
+      ],
+      "explication": "L'article 23 de la loi n°2003-042 prévoit que la décision d'ouverture désigne le ou les syndics, sans que leur nombre puisse excéder trois."
+    },
+    {
+      "question": "Quelles personnes ne peuvent jamais être nommées syndic dans une procédure collective ?",
+      "choix": [
+        "Uniquement les personnes ayant moins de cinq ans d'expérience professionnelle",
+        "Les parents ou alliés du débiteur jusqu'au quatrième degré inclusivement, ainsi que tout employé ou salarié du débiteur",
+        "Uniquement les personnes résidant hors du ressort du tribunal",
+        "Aucune restriction n'est prévue par la loi"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Ces restrictions garantissent l'indépendance et la neutralité du syndic.",
+        "Le lien familial et le lien de subordination sont tous deux exclus.",
+        "L'article 30 de la loi n°2003-042 fixe ces incompatibilités."
+      ],
+      "explication": "L'article 30 de la loi n°2003-042 dispose qu'aucun parent ou allié du débiteur jusqu'au quatrième degré inclusivement, ni aucun employé ou salarié du débiteur, ne peut être nommé syndic, afin de garantir son indépendance et sa neutralité."
+    },
+    {
+      "question": "Quel est le rôle des contrôleurs dans une procédure collective ?",
+      "choix": [
+        "Ils remplacent le juge commissaire en cas d'absence",
+        "Ils assistent le juge commissaire dans sa mission de surveillance et veillent aux intérêts des créanciers, sans toutefois être rémunérés en principe",
+        "Ils sont chargés exclusivement de la vente des immeubles du débiteur",
+        "Ils représentent uniquement l'intérêt du débiteur"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Ils sont choisis parmi les créanciers, dans la limite de trois.",
+        "Leurs fonctions sont gratuites, sauf exception.",
+        "Ils ne répondent que de leurs fautes lourdes."
+      ],
+      "explication": "Les contrôleurs, choisis parmi les créanciers (trois au maximum), assistent le juge commissaire dans sa mission de surveillance et veillent aux intérêts des créanciers. Leurs fonctions sont gratuites et ils ne répondent que de leurs fautes lourdes."
+    },
+    {
+      "question": "Dans quel cas la nomination de contrôleurs devient-elle obligatoire, et non plus seulement facultative ?",
+      "choix": [
+        "Jamais, leur nomination est toujours purement facultative",
+        "Lorsque des créanciers représentant au moins la moitié du total des créances, même non vérifiées, en font la demande",
+        "Lorsque le débiteur est une société anonyme",
+        "Lorsque l'actif du débiteur dépasse un milliard d'ariary"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Cette obligation protège les créanciers les plus représentatifs de la masse.",
+        "Le seuil porte sur une proportion du total des créances, pas sur leur nombre.",
+        "L'article 37 de la loi n°2003-042 fixe ce seuil."
+      ],
+      "explication": "L'article 37 de la loi n°2003-042 prévoit que la nomination de contrôleurs devient obligatoire à la demande des créanciers représentant au moins la moitié du total des créances, même non vérifiées."
+    },
+    {
+      "question": "Quel régime patrimonial s'applique au débiteur en redressement judiciaire ?",
+      "choix": [
+        "Le débiteur perd totalement l'administration de ses biens",
+        "Le débiteur reste à la tête de son patrimoine mais sous assistance obligatoire du syndic pour les actes d'administration et de disposition",
+        "Le débiteur est totalement libre, sans aucun contrôle",
+        "Le débiteur doit obtenir l'autorisation du Ministère Public pour chaque acte"
+      ],
+      "reponse": 1,
+      "indices": [
+        "C'est un régime intermédiaire entre liberté totale et dessaisissement complet.",
+        "Le débiteur conserve la gestion des actes courants et conservatoires.",
+        "Tout acte plus important nécessite l'assistance du syndic, sous peine d'inopposabilité aux tiers."
+      ],
+      "explication": "En redressement judiciaire, le jugement emporte assistance obligatoire du débiteur par le syndic pour tous les actes d'administration et de disposition de ses biens. Le débiteur peut toutefois accomplir seul les actes conservatoires et de gestion courante."
+    },
+    {
+      "question": "Quel régime patrimonial s'applique au débiteur en liquidation des biens ?",
+      "choix": [
+        "Le débiteur reste libre d'administrer ses biens, sous simple surveillance du syndic",
+        "Le débiteur subit un dessaisissement total : il perd l'administration et la disposition de ses biens présents et futurs, le syndic agissant seul en sa représentation",
+        "Le débiteur conserve l'administration de ses biens immobiliers uniquement",
+        "Le débiteur transfère définitivement la propriété de ses biens à l'État"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Ce régime est plus radical que celui du redressement judiciaire.",
+        "Le syndic agit désormais seul, sans même besoin de l'assistance ou de l'accord du débiteur.",
+        "Cela inclut les biens que le débiteur acquerra par la suite."
+      ],
+      "explication": "L'article 44 de la loi n°2003-042 prévoit que la décision qui prononce la liquidation des biens emporte, de plein droit, dessaisissement pour le débiteur de l'administration et de la disposition de ses biens présents et futurs, le syndic agissant seul en sa représentation."
+    },
+    {
+      "question": "Quel effet la décision prononçant la liquidation des biens produit-elle sur une personne morale ?",
+      "choix": [
+        "Aucun effet particulier sur son existence juridique",
+        "Elle emporte, de plein droit, la dissolution de cette personne morale",
+        "Elle transforme automatiquement la personne morale en association",
+        "Elle suspend temporairement son immatriculation pendant cinq ans"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Cette conséquence est automatique, sans avoir besoin d'une décision distincte.",
+        "Elle s'ajoute au dessaisissement du débiteur sur son patrimoine.",
+        "L'article 44 de la loi le prévoit expressément."
+      ],
+      "explication": "L'article 44 de la loi n°2003-042 dispose que la décision qui prononce la liquidation des biens d'une personne morale emporte, de plein droit, dissolution de celle-ci."
+    },
+    {
+      "question": "Que se passe-t-il pour les créanciers antérieurs à la décision d'ouverture d'une procédure collective ?",
+      "choix": [
+        "Ils sont automatiquement effacés du passif du débiteur",
+        "Ils sont constitués en une masse représentée par le syndic, seul habilité à agir en leur nom",
+        "Ils doivent saisir individuellement un tribunal différent pour chaque créance",
+        "Ils perdent automatiquement tout droit sur le débiteur"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Le syndic devient le seul interlocuteur officiel pour cette catégorie de créanciers.",
+        "Cette mesure évite l'éparpillement des actions individuelles.",
+        "L'article 68 de la loi n°2003-042 organise cette constitution."
+      ],
+      "explication": "L'article 68 de la loi n°2003-042 dispose que la décision d'ouverture constitue les créanciers en une masse représentée par le syndic, seul habilité à agir en son nom."
+    },
+    {
+      "question": "Quel est l'un des effets immédiats de la décision d'ouverture sur les actions en justice des créanciers antérieurs ?",
+      "choix": [
+        "Aucun effet, les actions en justice continuent normalement",
+        "Elle suspend ou interdit toute action en justice individuelle tendant au paiement d'une somme d'argent ou à la résolution d'un contrat pour défaut de paiement",
+        "Elle transforme automatiquement toutes les actions en justice en procédures pénales",
+        "Elle oblige chaque créancier à payer une caution avant de pouvoir agir"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Cet effet vise précisément à geler la situation pour permettre un traitement collectif.",
+        "Il porte à la fois sur les actions en condamnation et sur les actions en résolution pour défaut de paiement.",
+        "L'article 71 de la loi n°2003-042 décrit cet effet suspensif."
+      ],
+      "explication": "L'article 71 de la loi n°2003-042 prévoit que la décision d'ouverture suspend ou interdit toute action en justice individuelle tendant à la condamnation du débiteur au paiement d'une somme d'argent ou à la résolution d'un contrat pour défaut de paiement."
+    },
+    {
+      "question": "La suspension des poursuites individuelles s'applique-t-elle aux créanciers munis de sûretés réelles spéciales (gage, nantissement, hypothèque) ?",
+      "choix": [
+        "Non, ces créanciers sont totalement exclus de la suspension et peuvent agir librement",
+        "Oui, la suspension s'applique également à eux, sous réserve de quelques exceptions ponctuelles prévues par la loi",
+        "Non, mais uniquement pour les hypothèques, pas pour les gages",
+        "Oui, mais seulement si leur sûreté a été inscrite après la décision d'ouverture"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Le principe de suspension est large et concerne en principe tous les créanciers antérieurs.",
+        "Quelques exceptions précises existent malgré tout pour ces créanciers privilégiés.",
+        "L'article 72 de la loi n°2003-042 traite de cette question."
+      ],
+      "explication": "L'article 72 de la loi n°2003-042 prévoit que la suspension des poursuites individuelles s'applique également aux créanciers dont les créances sont garanties par un privilège général ou une sûreté réelle spéciale, sous réserve de quelques dispositions particulières prévues par la loi."
+    },
+    {
+      "question": "Quel délai un créancier domicilié dans le ressort du tribunal a-t-il, en principe, pour produire sa créance auprès du syndic ?",
+      "choix": [
+        "Quinze jours suivant la décision d'ouverture",
+        "Deux mois suivant la deuxième insertion dans un journal d'annonces légales",
+        "Six mois suivant la décision d'ouverture, sans condition",
+        "Aucun délai n'est imposé, la production est libre à tout moment"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Ce délai court à partir d'une formalité de publicité précise, pas de la décision elle-même.",
+        "Un délai différent et plus long s'applique aux créanciers domiciliés hors du ressort du tribunal.",
+        "L'article 77 de la loi n°2003-042 fixe ce délai."
+      ],
+      "explication": "L'article 77 de la loi n°2003-042 prévoit que les créanciers doivent produire leurs créances auprès du syndic dans un délai de deux mois suivant la deuxième insertion de l'avis d'ouverture dans un journal d'annonces légales. Ce délai est de trois mois pour les créanciers domiciliés hors du ressort du tribunal."
+    },
+    {
+      "question": "Que risque un créancier qui ne produit pas sa créance dans les délais légaux ?",
+      "choix": [
+        "Rien, il peut toujours produire sa créance sans aucune limite de temps",
+        "Il est en principe forclos, c'est-à-dire qu'il perd le droit de participer aux répartitions, sauf possibilité de relevé de forclusion sous certaines conditions",
+        "Il devient automatiquement débiteur de la masse",
+        "Sa créance est automatiquement transformée en créance privilégiée"
+      ],
+      "reponse": 1,
+      "indices": [
+        "La sanction du défaut de production est la forclusion.",
+        "Cette sanction n'est cependant pas toujours définitive.",
+        "Depuis 2007, un mécanisme de rattrapage existe sous certaines conditions."
+      ],
+      "explication": "Faute de produire sa créance dans les délais légaux, le créancier est en principe forclos et ne peut être admis dans les répartitions et dividendes, sauf possibilité de relevé de forclusion depuis la réforme de 2007."
+    },
+    {
+      "question": "Depuis la réforme de 2007, dans quel délai un créancier défaillant peut-il présenter une demande de relevé de forclusion ?",
+      "choix": [
+        "Dans un délai de quinze jours à compter de la décision d'ouverture",
+        "Dans un délai de six mois à compter du jugement d'ouverture, à condition de démontrer que sa défaillance n'est pas due à son fait",
+        "Dans un délai de cinq ans à compter de la décision d'ouverture, sans aucune condition",
+        "Il n'existe plus aucune possibilité de relevé de forclusion depuis 2007"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Ce délai a remplacé l'ancien dispositif lié à l'arrêté de l'état des créances.",
+        "Une condition de preuve s'impose au créancier qui demande ce relevé.",
+        "L'article 84 de la loi, modifié en 2007, organise ce mécanisme."
+      ],
+      "explication": "L'article 84 de la loi n°2003-042, tel que modifié par la loi n°2007-018, prévoit que les défaillants peuvent présenter une demande de relevé de forclusion dans un délai de six mois à compter du jugement d'ouverture, à condition d'établir que leur défaillance n'est pas due à leur fait."
+    },
+    {
+      "question": "Quel document final, déposé au greffe, mentionne pour chaque créance son caractère définitif ou provisoire, chirographaire ou privilégié ?",
+      "choix": [
+        "Le bilan économique et social de l'entreprise",
+        "L'état des créances",
+        "Le procès-verbal de carence",
+        "Le cahier des charges de la vente"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Ce document récapitule l'ensemble des créances produites et vérifiées.",
+        "Il est signé par le juge commissaire après vérification.",
+        "L'article 87 de la loi n°2003-042 décrit son contenu."
+      ],
+      "explication": "L'article 87 de la loi n°2003-042 dispose que le syndic dresse un état des créances qui mentionne, pour chacune, le montant et le caractère définitif ou provisoire de l'admission, ainsi que son caractère chirographaire ou privilégié."
+    },
+    {
+      "question": "Quelle double condition de majorité doit être réunie pour que le concordat de redressement soit voté favorablement ?",
+      "choix": [
+        "L'unanimité absolue de tous les créanciers, sans aucune exception",
+        "La majorité en nombre des créanciers admis, représentant au moins la moitié du total des créances",
+        "Les deux tiers en nombre des créanciers, quel que soit le montant de leurs créances",
+        "Le seul accord du débiteur et du syndic, sans vote des créanciers"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Cette double condition combine un critère numérique et un critère financier.",
+        "Si une seule des deux conditions est remplie, la délibération est prolongée à huitaine.",
+        "L'article 128 de la loi n°2003-042 fixe cette règle de vote."
+      ],
+      "explication": "L'article 128 de la loi n°2003-042 dispose que le concordat est voté par la majorité en nombre des créanciers admis, représentant la moitié, au moins, du total des créances."
+    },
+    {
+      "question": "Les créanciers munis de sûretés réelles spéciales sont-ils automatiquement liés par tous les délais et remises du concordat de redressement ?",
+      "choix": [
+        "Oui, systématiquement, sans aucune exception",
+        "Non, ils ne sont en principe liés que par les délais et remises qu'ils ont eux-mêmes consentis, sauf exception pour les délais n'excédant pas deux ans",
+        "Non, ils sont totalement exclus du concordat et de tous ses effets",
+        "Oui, mais uniquement s'ils détiennent une hypothèque, pas pour les autres sûretés"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Le sort des créanciers privilégiés diffère de celui des créanciers chirographaires.",
+        "Une exception existe néanmoins pour les délais courts.",
+        "L'article 140 de la loi n°2003-042 traite de cette question."
+      ],
+      "explication": "L'article 140 de la loi n°2003-042 prévoit que les créanciers bénéficiant de sûretés réelles spéciales ne sont obligés que par les délais et remises qu'ils ont consentis, sauf si le concordat comporte des délais n'excédant pas deux ans inférieurs à ceux qu'ils avaient eux-mêmes consentis."
+    },
+    {
+      "question": "Qu'est-ce que le plan de cession dans le cadre d'un redressement judiciaire ?",
+      "choix": [
+        "Un document interne au syndic, sans valeur juridique propre",
+        "Le mécanisme permettant à un tiers de reprendre tout ou partie de l'entreprise en redressement judiciaire, sur la base d'une offre déposée auprès du syndic, retenue par le tribunal",
+        "Une procédure réservée exclusivement aux personnes physiques",
+        "Une simple formalité administrative sans incidence sur l'avenir de l'entreprise"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Il intervient lorsque le débiteur lui-même ne parvient pas à proposer un concordat viable.",
+        "Des tiers peuvent soumettre des offres d'acquisition au syndic.",
+        "Le tribunal retient l'offre qui assure le mieux la pérennité de l'emploi et le paiement des créanciers."
+      ],
+      "explication": "Le plan de cession permet à un tiers de reprendre tout ou partie d'une entreprise en redressement judiciaire, sur la base d'une offre écrite déposée auprès du syndic, le tribunal retenant l'offre assurant le mieux le maintien de l'emploi et le paiement des créanciers."
+    },
+    {
+      "question": "Quel délai maximal s'impose pour la cession effective de l'entreprise lorsque le plan de cession prévoit une période préalable de location-gérance ?",
+      "choix": [
+        "Six mois à compter du jugement qui arrête le plan",
+        "Deux ans à compter du jugement qui arrête le plan",
+        "Cinq ans à compter du jugement qui arrête le plan",
+        "Aucun délai n'est imposé, la location-gérance peut durer indéfiniment"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Ce délai garantit que la location-gérance ne devienne pas un moyen détourné d'éviter la cession effective.",
+        "Le locataire-gérant prend l'engagement d'acquérir l'entreprise à terme.",
+        "L'article 164 de la loi n°2003-042 fixe ce délai."
+      ],
+      "explication": "L'article 164 de la loi n°2003-042 dispose qu'en cas de location-gérance prévue dans le cadre d'un plan de cession, l'entreprise doit être effectivement cédée dans les deux ans du jugement qui arrête le plan."
+    },
+    {
+      "question": "Selon quel ordre les deniers provenant de la réalisation des meubles du débiteur en liquidation des biens sont-ils prioritairement distribués, en premier lieu ?",
+      "choix": [
+        "Aux créanciers chirographaires en priorité absolue",
+        "Aux créanciers des frais de justice engagés pour parvenir à la réalisation du bien vendu et à la distribution elle-même du prix",
+        "Aux créanciers de l'État pour les impôts impayés",
+        "Au débiteur lui-même, pour ses frais de subsistance"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Sans cette catégorie de frais, la procédure elle-même n'aurait pas pu se dérouler.",
+        "Cette catégorie figure en tête de l'ordre légal des deux articles de la loi traitant de la répartition.",
+        "L'article 196 de la loi n°2003-042 énonce cet ordre pour les meubles."
+      ],
+      "explication": "L'article 196 de la loi n°2003-042 place en première position, dans l'ordre de distribution des deniers provenant de la réalisation des meubles, les créanciers des frais de justice engagés pour parvenir à la réalisation du bien vendu et à la distribution elle-même du prix."
+    },
+    {
+      "question": "Dans quel délai le syndic doit-il payer les créances super privilégiées des travailleurs, après la décision d'ouverture ?",
+      "choix": [
+        "Dans les trois jours de la décision d'ouverture",
+        "Dans les dix jours qui suivent la décision d'ouverture, sur simple décision du juge commissaire",
+        "Dans le mois suivant la décision d'ouverture",
+        "Aucun délai précis n'est fixé par la loi"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Ce paiement rapide protège les salariés, dont les besoins sont souvent urgents.",
+        "Il se fait sur simple décision du juge commissaire, sans formalité supplémentaire.",
+        "L'article 98 de la loi n°2003-042 fixe ce délai."
+      ],
+      "explication": "L'article 98 de la loi n°2003-042 prévoit qu'au plus tard dans les dix jours qui suivent la décision d'ouverture, et sur simple décision du juge commissaire, le syndic paie toutes les créances super privilégiées des travailleurs."
+    },
+    {
+      "question": "L'ouverture d'une procédure collective entraîne-t-elle automatiquement la résiliation du bail commercial du débiteur ?",
+      "choix": [
+        "Oui, automatiquement et de plein droit, dès l'ouverture de la procédure",
+        "Non, l'ouverture de la procédure n'entraîne pas, de plein droit, la résiliation du bail des immeubles affectés à l'activité du débiteur, toute clause contraire étant réputée non écrite",
+        "Oui, mais uniquement si le débiteur est en liquidation des biens, pas en redressement judiciaire",
+        "Non, mais le bailleur peut résilier immédiatement et sans aucune condition"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Cette protection vise à préserver les chances de redressement de l'entreprise.",
+        "Toute clause du bail prévoyant le contraire serait privée d'effet.",
+        "L'article 99 de la loi n°2003-042 énonce cette règle protectrice."
+      ],
+      "explication": "L'article 99 de la loi n°2003-042 dispose que l'ouverture de la procédure collective n'entraîne pas, de plein droit, la résiliation du bail des immeubles affectés à l'activité professionnelle du débiteur, toute stipulation contraire étant réputée non écrite."
+    },
+    {
+      "question": "En cas de conflit entre le privilège du bailleur d'immeuble et celui du vendeur de fonds de commerce sur certains éléments mobiliers, lequel l'emporte ?",
+      "choix": [
+        "Le privilège du bailleur d'immeuble l'emporte toujours",
+        "Le privilège du vendeur de fonds de commerce l'emporte",
+        "Les deux privilèges sont exercés à parts égales",
+        "Aucun des deux privilèges n'est applicable en cas de conflit"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Cette règle de préférence est expressément précisée par la loi.",
+        "Elle protège spécifiquement le vendeur de fonds de commerce sur certains biens du fonds.",
+        "L'article 101 de la loi n°2003-042 le précise."
+      ],
+      "explication": "L'article 101 de la loi n°2003-042 précise expressément qu'en cas de conflit entre le privilège du bailleur d'immeuble et celui du vendeur de fonds de commerce sur certains éléments mobiliers, le privilège de ce dernier l'emporte."
+    },
+    {
+      "question": "Qu'est-ce que le comblement du passif ?",
+      "choix": [
+        "Une procédure qui efface toutes les dettes d'une entreprise en difficulté",
+        "Le mécanisme par lequel le tribunal de commerce met tout ou partie des dettes d'une personne morale à la charge de ses dirigeants en cas de faute de gestion ayant contribué à l'insuffisance d'actif",
+        "Une cotisation obligatoire versée par l'État aux créanciers impayés",
+        "Une sanction réservée exclusivement aux salariés"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Cette sanction est patrimoniale, et vise spécifiquement les dirigeants fautifs.",
+        "Elle suppose une faute de gestion ayant contribué à l'insuffisance d'actif.",
+        "Elle peut frapper les dirigeants de droit ou de fait, rémunérés ou non."
+      ],
+      "explication": "Le comblement du passif permet au tribunal de commerce de décider que les dettes d'une personne morale en redressement judiciaire ou en liquidation des biens, dont l'actif est insuffisant, seront supportées par tous les dirigeants ou certains d'entre eux, en cas de faute de gestion."
+    },
+    {
+      "question": "Dans quel délai se prescrit l'action en comblement du passif ?",
+      "choix": [
+        "Un an à compter de la décision d'ouverture",
+        "Trois ans à compter de l'arrêté définitif de l'état des créances",
+        "Dix ans à compter de la clôture de la procédure",
+        "Cette action est imprescriptible"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Ce délai court à partir d'un événement précis dans le déroulement de la procédure.",
+        "L'arrêté de l'état des créances marque le point de départ de cette prescription.",
+        "L'article 217 de la loi n°2003-042 fixe ce délai."
+      ],
+      "explication": "L'article 217 de la loi n°2003-042 dispose que l'action en comblement du passif se prescrit par trois ans à compter de l'arrêté définitif de l'état des créances."
+    },
+    {
+      "question": "Quelle est la différence essentielle entre le comblement du passif et la faillite personnelle ?",
+      "choix": [
+        "Il n'existe aucune différence, ce sont deux noms désignant la même sanction",
+        "Le comblement du passif est une sanction patrimoniale (réparation financière), tandis que la faillite personnelle sanctionne un comportement par des interdictions professionnelles",
+        "Le comblement du passif concerne uniquement les personnes physiques, la faillite personnelle uniquement les personnes morales",
+        "La faillite personnelle est toujours plus légère que le comblement du passif"
+      ],
+      "reponse": 1,
+      "indices": [
+        "L'une répare un préjudice financier, l'autre sanctionne un comportement.",
+        "Ces deux sanctions peuvent se cumuler dans certains cas.",
+        "Pensez à la nature de chaque sanction : argent versus interdictions professionnelles."
+      ],
+      "explication": "Le comblement du passif est une sanction patrimoniale réparant le préjudice financier causé par la faute de gestion. La faillite personnelle sanctionne un comportement anormal par des interdictions professionnelles. Les deux sanctions peuvent se cumuler."
+    },
+    {
+      "question": "Quelles sont les interdictions emportées par une décision de faillite personnelle ?",
+      "choix": [
+        "Uniquement l'interdiction de voter aux élections législatives",
+        "L'interdiction générale de faire le commerce, de diriger ou administrer une entreprise commerciale ou toute personne morale ayant une activité économique, d'exercer une fonction publique élective, et d'exercer toute fonction publique, administrative ou judiciaire",
+        "Uniquement l'interdiction de posséder un compte bancaire",
+        "Uniquement l'interdiction de quitter le territoire malgache"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Ces interdictions sont multiples et touchent à la fois la sphère commerciale et la sphère publique.",
+        "Elles s'appliquent de plein droit dès le prononcé de la décision.",
+        "L'article 234 de la loi n°2003-042 les énumère."
+      ],
+      "explication": "L'article 234 de la loi n°2003-042 prévoit que la faillite personnelle emporte de plein droit l'interdiction générale de faire le commerce, de diriger une entreprise ou une personne morale, d'exercer une fonction publique élective, et d'exercer toute autre fonction publique, administrative ou judiciaire."
+    },
+    {
+      "question": "Quelle est la durée de la faillite personnelle fixée par le tribunal de commerce ?",
+      "choix": [
+        "Une durée fixe de cinq ans, sans aucune marge de manœuvre pour le juge",
+        "Une durée déterminée par le juge, qui ne peut être inférieure à trois ans ni supérieure à dix ans",
+        "Une durée toujours perpétuelle",
+        "Une durée maximale d'un an"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Le juge dispose d'une marge d'appréciation, mais dans des bornes fixées par la loi.",
+        "Cette durée prend effet au jour où la décision a force de chose jugée.",
+        "L'article 235 de la loi n°2003-042 fixe ces bornes."
+      ],
+      "explication": "L'article 235 de la loi n°2003-042 dispose que la durée de la faillite personnelle est de trois ans, sauf au tribunal à fixer une durée supérieure qui ne peut excéder dix ans."
+    },
+    {
+      "question": "Qu'est-ce que la réhabilitation, dans le cadre des procédures collectives ?",
+      "choix": [
+        "Une procédure qui efface définitivement toutes les dettes d'un débiteur",
+        "Le mécanisme qui rétablit le débiteur dans tous les droits dont il avait été privé par la décision prononçant sa faillite personnelle",
+        "Une procédure réservée exclusivement aux personnes morales",
+        "La reprise automatique de l'activité commerciale après cinq ans, sans aucune formalité"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Elle intervient après une faillite personnelle, comme une voie de retour.",
+        "Elle peut être de droit ou soumise à condition de probité.",
+        "L'article 247 de la loi n°2003-042 en précise l'effet."
+      ],
+      "explication": "L'article 247 de la loi n°2003-042 dispose que le débiteur réhabilité est rétabli dans tous les droits dont il avait été privé par la décision prononçant sa faillite personnelle."
+    },
+    {
+      "question": "Dans quel délai un créancier doit-il faire opposition à une demande de réhabilitation s'il n'a pas été intégralement payé ?",
+      "choix": [
+        "Dans les huit jours suivant l'avis",
+        "Dans le délai d'un mois à partir de l'avis qui lui est donné de la demande",
+        "Dans le délai de six mois à partir de l'avis",
+        "Aucun délai n'est imposé pour cette opposition"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Ce délai est relativement court, traduisant le souci de ne pas retarder indéfiniment la réhabilitation.",
+        "Il court à partir de l'information personnelle reçue par le créancier.",
+        "L'article 242 de la loi n°2003-042 fixe ce délai."
+      ],
+      "explication": "L'article 242 de la loi n°2003-042 dispose que tout créancier non intégralement payé peut, pendant le délai d'un mois à partir de l'avis qui lui est donné de la demande de réhabilitation, faire opposition par simple déclaration au greffe."
+    },
+    {
+      "question": "Qu'est-ce que la banqueroute simple, telle que définie par la loi malgache ?",
+      "choix": [
+        "Une infraction réservée exclusivement aux dirigeants de personnes morales étrangères",
+        "Une infraction qui sanctionne notamment la comptabilité incomplète ou irrégulière, l'absence de déclaration de cessation des paiements dans les trente jours, ou le paiement préférentiel d'un créancier au préjudice de la masse",
+        "Une simple infraction administrative sans peine d'emprisonnement",
+        "Une infraction qui ne concerne que les sociétés cotées en bourse"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Cette infraction est moins grave que la banqueroute frauduleuse.",
+        "Elle sanctionne notamment des manquements de gestion et de transparence comptable.",
+        "L'article 261 de la loi n°2003-042 énumère ces cas."
+      ],
+      "explication": "L'article 261 de la loi n°2003-042 définit la banqueroute simple comme l'infraction sanctionnant notamment la comptabilité incomplète ou irrégulièrement tenue, l'absence de déclaration de cessation des paiements dans les trente jours sans excuse légitime, ou le paiement d'un créancier au préjudice de la masse."
+    },
+    {
+      "question": "Quelle est la peine encourue pour banqueroute simple selon la loi malgache ?",
+      "choix": [
+        "Un emprisonnement d'un mois à deux ans et une amende, ou l'une de ces deux peines seulement",
+        "La peine de mort",
+        "Un emprisonnement à perpétuité",
+        "Aucune peine, seulement une amende administrative"
+      ],
+      "reponse": 0,
+      "indices": [
+        "Cette peine est moins sévère que celle prévue pour la banqueroute frauduleuse.",
+        "Une amende accompagne la peine d'emprisonnement.",
+        "L'article 258 de la loi n°2003-042 fixe ces peines."
+      ],
+      "explication": "L'article 258 de la loi n°2003-042 prévoit que les banqueroutiers simples sont punis d'un emprisonnement d'un mois à deux ans et d'une amende, ou de l'une de ces deux peines seulement."
+    },
+    {
+      "question": "Qu'est-ce que la banqueroute frauduleuse, par opposition à la banqueroute simple ?",
+      "choix": [
+        "Une infraction identique à la banqueroute simple, sans aucune différence",
+        "Une infraction plus grave, qui sanctionne notamment la soustraction de comptabilité, le détournement d'actif, ou la reconnaissance frauduleuse de fausses dettes",
+        "Une infraction qui ne concerne que les commerçants étrangers",
+        "Une infraction qui ne peut jamais être poursuivie pénalement"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Cette infraction implique une intention frauduleuse caractérisée, plus grave que la simple négligence.",
+        "Elle est punie de peines plus lourdes que la banqueroute simple.",
+        "L'article 262 de la loi n°2003-042 en donne la définition."
+      ],
+      "explication": "L'article 262 de la loi n°2003-042 définit la banqueroute frauduleuse comme l'infraction commise par une personne en cessation des paiements qui a soustrait sa comptabilité, détourné ou dissipé tout ou partie de son actif, ou s'est frauduleusement reconnue débitrice de sommes qu'elle ne devait pas."
+    }
+  ],
+  "exercices": [
+    {
+      "question": "CAS PRATIQUE 1 : La société « Vary Soa », spécialisée dans la transformation de riz, traverse de graves difficultés financières depuis plusieurs mois en raison d'une chute des prix sur le marché régional. Le 5 janvier, elle se rend compte qu'elle ne peut plus payer ses fournisseurs immédiatement exigibles avec sa trésorerie disponible. Son gérant, Monsieur Rakotonirina, hésite : doit-il agir tout de suite ou attendre de voir si la situation s'améliore ? Il finit par déposer une déclaration de cessation des paiements au greffe du tribunal de commerce le 20 février. Trois fournisseurs, inquiets de ne jamais être payés, ont entre-temps engagé chacun une action en justice individuelle contre la société les 10, 12 et 15 février. (1) Monsieur Rakotonirina a-t-il respecté le délai légal de déclaration ? (2) Quelles conséquences son retard éventuel pourrait-il avoir pour lui personnellement ? (3) Que devient le sort des trois actions individuelles engagées par les fournisseurs si le tribunal de commerce prononce ensuite l'ouverture d'une procédure de redressement judiciaire ?",
+      "choix": [
+        "Le délai n'a pas d'importance, et les actions des fournisseurs peuvent continuer normalement même après l'ouverture de la procédure collective",
+        "(1) Non : la cessation des paiements étant survenue le 5 janvier, le délai légal de trente jours expirait le 4 février ; la déclaration du 20 février est donc tardive de seize jours. (2) Ce retard est une cause potentielle de sanction : il peut constituer un cas de banqueroute simple (absence de déclaration sans excuse légitime dans le délai de trente jours) et peut également justifier une faillite personnelle si le tribunal de commerce ou le tribunal correctionnel retient ce manquement. (3) Dès l'ouverture du redressement judiciaire, la décision suspend ou interdit toute action en justice individuelle tendant au paiement d'une somme d'argent engagée par des créanciers dont la créance est antérieure : les trois actions des fournisseurs sont donc suspendues, ces créanciers devant désormais produire leur créance auprès du syndic dans les délais légaux pour participer à la procédure collective",
+        "La déclaration de Monsieur Rakotonirina est parfaitement dans les délais car il dispose de deux mois",
+        "Les fournisseurs peuvent continuer leurs actions individuelles malgré l'ouverture de la procédure, car leurs créances sont antérieures à celle-ci"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Calculez précisément le délai de trente jours à partir de la date exacte de la cessation des paiements, et non de la date de la déclaration.",
+        "Repensez aux conséquences personnelles que la loi attache au défaut de déclaration dans les délais (banqueroute simple, faillite personnelle).",
+        "Souvenez-vous de l'effet suspensif général de la décision d'ouverture sur les actions individuelles des créanciers antérieurs."
+      ],
+      "explication": "(1) Non, Monsieur Rakotonirina n'a pas respecté le délai légal. La cessation des paiements étant survenue le 5 janvier, le délai de trente jours pour faire la déclaration expirait le 4 février. Sa déclaration, déposée le 20 février, est donc tardive de seize jours par rapport au délai légal fixé par l'article 11 de la loi n°2003-042. (2) Ce retard n'est pas anodin : il peut être qualifié de banqueroute simple, l'article 261 de la loi visant expressément le fait de ne pas faire, sans excuse légitime, la déclaration de cessation des paiements dans le délai de trente jours. Cette infraction est punissable d'un emprisonnement d'un mois à deux ans et d'une amende. Ce même manquement peut également constituer l'un des éléments susceptibles de fonder une décision de faillite personnelle à l'encontre de Monsieur Rakotonirina, en tant que dirigeant ayant manqué à ses obligations légales. (3) Conformément à l'article 71 de la loi n°2003-042, la décision d'ouverture du redressement judiciaire suspend ou interdit toute action en justice individuelle tendant à la condamnation du débiteur au paiement d'une somme d'argent, dès lors que la créance a son origine antérieurement à cette décision. Les trois actions individuelles engagées par les fournisseurs entre le 10 et le 15 février — donc avant l'ouverture du redressement judiciaire — sont donc suspendues. Ces fournisseurs, qui deviennent membres de la masse des créanciers représentée par le syndic, doivent désormais produire leur créance dans les délais légaux pour pouvoir participer à la procédure collective et espérer être payés selon l'ordre légal de distribution."
+    },
+    {
+      "question": "CAS PRATIQUE 2 : La société « Bâti Mada », spécialisée dans les matériaux de construction, est mise en liquidation des biens par le tribunal de commerce d'Antananarivo le 1er mars. Le syndic, Maître Andriamampianina, découvre rapidement que l'insuffisance d'actif de la société (15 millions d'ariary) résulte directement de décisions hasardeuses prises par son gérant, Monsieur Razafindrakoto, qui a notamment poursuivi pendant deux ans une activité commerciale très largement déficitaire dans son intérêt personnel, tout en s'octroyant une rémunération excessive sans rapport avec les capacités financières de l'entreprise. Le syndic souhaite agir contre lui pour faire supporter une partie du passif par ce dirigeant fautif, et envisage également de demander sa faillite personnelle. La société compte aussi un bailleur, propriétaire de l'entrepôt loué par « Bâti Mada », qui se demande s'il peut immédiatement reprendre possession de son local sans aucune formalité particulière, le bail n'ayant, selon lui, plus de raison d'exister depuis la liquidation. (1) Sur quel fondement juridique le syndic peut-il agir contre Monsieur Razafindrakoto pour faire supporter une partie du passif ? Dans quel délai doit-il agir ? (2) La faillite personnelle de Monsieur Razafindrakoto peut-elle être prononcée en plus du comblement du passif, et sur quel fondement ? (3) Le bailleur a-t-il raison de penser qu'il peut reprendre son local sans formalité du seul fait de la liquidation ?",
+      "choix": [
+        "Le syndic ne peut rien faire contre le gérant, et le bailleur peut effectivement reprendre son local immédiatement",
+        "(1) Le syndic peut engager une action en comblement du passif sur le fondement de l'article 213 de la loi n°2003-042, la poursuite abusive d'une exploitation déficitaire dans l'intérêt personnel du dirigeant constituant une faute de gestion ayant contribué à l'insuffisance d'actif ; cette action se prescrit par trois ans à compter de l'arrêté définitif de l'état des créances. (2) Oui, la faillite personnelle peut se cumuler avec le comblement du passif : la poursuite abusive d'une exploitation déficitaire dans l'intérêt personnel figure également, selon l'article 228, parmi les comportements présumés constituer un acte de mauvaise foi pouvant justifier la faillite personnelle, qui sanctionne le comportement du dirigeant indépendamment de la réparation financière. (3) Non : conformément à l'article 99 de la loi n°2003-042, l'ouverture de la procédure collective n'entraîne pas, de plein droit, la résiliation du bail ; toute clause contraire est réputée non écrite, et le syndic dispose du choix de continuer le bail, de le céder, ou de ne pas le poursuivre moyennant un préavis minimum de trente jours formulé par acte extrajudiciaire",
+        "Le syndic doit attendre dix ans avant de pouvoir agir contre le gérant",
+        "La faillite personnelle et le comblement du passif sont des sanctions incompatibles qui ne peuvent jamais se cumuler"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Pour la question (1), pensez au mécanisme spécifique qui répare financièrement la faute de gestion d'un dirigeant ayant contribué à l'insuffisance d'actif, et au délai de prescription qui lui est attaché.",
+        "Pour la question (2), repensez à la distinction entre les deux sanctions étudiées dans ce module, et à la liste des comportements présumés constitutifs d'un acte de mauvaise foi.",
+        "Pour la question (3), repensez à la protection légale accordée au bail commercial lors de l'ouverture d'une procédure collective, qui n'entraîne pas sa résiliation automatique."
+      ],
+      "explication": "(1) Le syndic peut engager une action en comblement du passif, fondée sur l'article 213 de la loi n°2003-042 : la poursuite abusive, dans l'intérêt personnel du dirigeant, d'une exploitation largement déficitaire pendant deux ans, combinée à une rémunération excessive sans rapport avec les capacités financières de l'entreprise, constitue une faute de gestion ayant manifestement contribué à l'insuffisance d'actif constatée (15 millions d'ariary). Cette action doit être engagée dans le délai de prescription de trois ans à compter de l'arrêté définitif de l'état des créances, conformément à l'article 217 de la loi. Le tribunal de commerce, saisi par le syndic, peut décider que tout ou partie du passif de « Bâti Mada » sera supporté par Monsieur Razafindrakoto. (2) Oui, la faillite personnelle peut parfaitement se cumuler avec le comblement du passif, ces deux sanctions ayant des objets distincts : l'une répare un préjudice financier, l'autre sanctionne un comportement. L'article 228 de la loi n°2003-042 présume précisément que la poursuite abusive d'une exploitation déficitaire qui ne pouvait conduire l'entreprise qu'à la cessation des paiements constitue un acte de mauvaise foi, une imprudence inexcusable ou une infraction grave aux règles et usages du commerce — ce qui peut justifier, selon l'article 227, le prononcé de la faillite personnelle de Monsieur Razafindrakoto, indépendamment de l'action en comblement du passif déjà engagée. (3) Non, le bailleur a tort. L'article 99 de la loi n°2003-042 dispose clairement que l'ouverture de la procédure collective n'entraîne pas, de plein droit, la résiliation du bail des immeubles affectés à l'activité professionnelle du débiteur, et que toute stipulation contraire est réputée non écrite. C'est le syndic, en cas de liquidation des biens, qui dispose du choix : continuer le bail, le céder, ou ne pas le poursuivre — auquel cas la résiliation intervient sur simple congé formulé par acte extrajudiciaire, avec un préavis qui ne peut être inférieur à trente jours. Le bailleur ne peut donc pas reprendre unilatéralement et immédiatement son local sans respecter cette procédure et ce délai de préavis minimum."
+    }
+  ]
+}
