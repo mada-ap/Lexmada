@@ -1,0 +1,526 @@
+{
+  "niveau": 2,
+  "niveau_label": "Intermédiaire",
+  "module": 15,
+  "titre": "Le droit bancaire — les opérations de banque",
+  "description": "Ce module explore le cadre juridique de l'activité bancaire à Madagascar : qui peut exercer des opérations de banque, quelles opérations sont autorisées, qui les supervise et comment les relations entre la banque et son client sont encadrées par la loi.",
+  "duree_estimee": "50 minutes",
+  "source_legale": "Loi n°2020-011 du 1er septembre 2020 sur la loi bancaire (Madagascar) — abrogeant et remplaçant la loi n°95-030 du 22 février 1996",
+
+  "lecon": {
+    "introduction": "Vous déposez de l'argent à la BNI. Vous demandez un crédit à la BOA. Vous payez avec votre carte MVola. Chacun de ces actes quotidiens s'inscrit dans un cadre juridique précis, régi par la loi bancaire malgache. Ce n'est pas n'importe qui qui peut recevoir votre épargne ou vous prêter de l'argent. La loi protège les citoyens en encadrant strictement ces activités. Ce module vous explique comment.",
+
+    "parties": [
+      {
+        "id": "P1",
+        "titre": "Qu'est-ce que le droit bancaire et pourquoi existe-t-il ?",
+        "contenu": "Le droit bancaire est l'ensemble des règles juridiques qui organisent l'activité des banques et des établissements financiers : leur création, leur fonctionnement, leurs opérations, leurs relations avec les clients, et leur supervision.\n\nÀ Madagascar, le texte central est la LOI N°2020-011 DU 1ER SEPTEMBRE 2020 sur la loi bancaire. Elle a remplacé l'ancienne loi n°95-030 de 1996, devenue obsolète face à l'essor du mobile money, de la banque digitale et des nouvelles technologies financières (fintech).\n\nPOURQUOI UNE LOI SPÉCIALE POUR LES BANQUES ?\n\nTrois raisons fondamentales justifient une réglementation stricte :\n\n1. LA PROTECTION DES DÉPOSANTS : vous déposez vos économies à la banque. Si elle fait faillite, vous perdez tout, sauf si la loi organise un mécanisme de garantie. La loi 2020-011 crée un Fonds de garantie des dépôts à cet effet.\n\n2. LA PRÉVENTION DU RISQUE SYSTÉMIQUE : la faillite d'une grande banque peut entraîner la chute d'autres banques et paralyser toute l'économie. C'est ce qu'on appelle le risque systémique. La loi bancaire organise une supervision permanente pour l'éviter.\n\n3. LA LUTTE CONTRE LE BLANCHIMENT : les banques traitent des flux d'argent gigantesques. Sans surveillance, elles peuvent devenir des canaux pour le blanchiment d'argent sale et le financement du terrorisme. La loi impose des obligations strictes de vigilance.\n\nLE MONOPOLE BANCAIRE\n\nL'article 5 de la loi 2020-011 pose un principe fondamental : les opérations de banque ne peuvent être exercées à titre habituel que par des établissements de crédit dûment agréés. C'est le monopole bancaire. Exercer ces opérations sans agrément est un délit pénal (Titre IX de la loi).\n\nCe monopole protège les citoyens en s'assurant que seuls des établissements contrôlés, solvables et respectant des règles prudentielles peuvent gérer leur argent.",
+
+        "exemple_concret": "Rakoto collecte l'épargne de ses voisins à Antsiranana en promettant des intérêts élevés, sans être une banque agréée. Il exerce illégalement une opération de réception de fonds du public. C'est un délit pénal en vertu du Titre IX de la loi n°2020-011. Les victimes peuvent se constituer partie civile et poursuivre Rakoto en justice."
+      },
+      {
+        "id": "P2",
+        "titre": "Les trois opérations de banque fondamentales",
+        "contenu": "L'article 5 de la loi n°2020-011 définit les opérations de banque. Il en existe trois catégories fondamentales :\n\n━━━ 1. LA RÉCEPTION DE FONDS DU PUBLIC (art. 6) ━━━\n\nSont considérés comme fonds reçus du public «les fonds qu'une personne recueille d'un tiers, avec le droit d'en disposer pour son propre compte, mais à charge pour elle de les restituer».\n\nConcrètement : c'est le dépôt bancaire. Quand vous mettez de l'argent sur votre compte en banque, la banque peut utiliser cet argent (pour prêter à d'autres clients), mais elle a l'obligation de vous le restituer quand vous le demandez.\n\nNE SONT PAS CONSIDÉRÉS comme fonds du public (art. 6 al. 2) :\n• Les fonds des associés ou actionnaires détenant au moins 5% du capital\n• Les fonds reçus des salariés dans la limite de 10% des capitaux propres\n• Les dépôts en garantie de remboursement de crédits\n\nPourquoi ces exceptions ? Parce que ces personnes ont un lien direct avec l'établissement et ne sont pas des clients vulnérables à protéger.\n\n━━━ 2. LES OPÉRATIONS DE CRÉDIT (art. 7) ━━━\n\n«Constitue une opération de crédit, tout acte par lequel une personne, agissant à titre onéreux, met ou promet de mettre des fonds à la disposition d'une personne ou prend, dans l'intérêt de celle-ci, un engagement par signature tel qu'un aval, un cautionnement, ou une garantie.»\n\nLe crédit bancaire prend plusieurs formes :\n• Le PRÊT CLASSIQUE : la banque vous remet une somme que vous remboursez avec intérêts\n• L'AVAL : la banque se porte garant d'un effet de commerce\n• LE CAUTIONNEMENT : la banque garantit votre engagement envers un tiers\n• LE CRÉDIT-BAIL (art. 8) : la banque achète un bien à votre demande et vous le loue avec option d'achat en fin de contrat\n• L'AFFACTURAGE (art. 9) : la banque rachète vos créances commerciales et vous avance leur montant\n• LE CRÉDIT PARTICIPATIF (art. 10) : la banque met en relation des emprunteurs et des prêteurs (crowdlending)\n\n━━━ 3. LA MISE À DISPOSITION OU GESTION DES MOYENS DE PAIEMENT (art. 12) ━━━\n\nC'est «l'opération par laquelle l'EC met en circulation tout moyen de paiement ou tout instrument qui, quel que soit le support ou le procédé technique utilisé, permet à toute personne de retirer, de verser, de transférer de l'argent et d'effectuer tout paiement».\n\nConcrètement : les chèques, les cartes bancaires, les virements, le mobile money (MVola, Orange Money), les applications de paiement en ligne. Tout moyen permettant de déplacer de l'argent sans utiliser physiquement des billets.",
+
+        "exemple_concret": "La BNI Madagascar :\n• Reçoit votre dépôt de salaire sur votre compte (opération 1)\n• Vous accorde un prêt immobilier (opération 2)\n• Vous émet une carte de retrait (opération 3)\nElle réalise les trois opérations de banque. C'est pourquoi elle doit être agréée en qualité de banque par la CSBF."
+      },
+      {
+        "id": "P3",
+        "titre": "Les établissements de crédit : qui peut faire quoi ?",
+        "contenu": "Tous les établissements de crédit ne peuvent pas réaliser toutes les opérations de banque. La loi n°2020-011 organise une classification stricte.\n\n━━━ LES BANQUES (art. 15-17) ━━━\n\nDeux sous-catégories :\n\n• LES BANQUES PROPREMENT DITES (art. 16) : ce sont les banques commerciales classiques. Elles sont habilitées à effectuer TOUTES les opérations bancaires : réception de dépôts, crédit, moyens de paiement, et toutes opérations connexes. À Madagascar : BNI Madagascar, BOA Madagascar, BFV-Société Générale, MCB Madagascar, etc.\n\n• LES BANQUES DE DÉVELOPPEMENT (art. 17) : elles se spécialisent dans le financement de projets d'intérêt public (agriculture, infrastructure, développement économique). IMPORTANT : elles ne sont PAS autorisées à collecter des fonds du public. Elles financent leurs activités par des ressources propres ou des emprunts.\n\n━━━ LES ÉTABLISSEMENTS FINANCIERS (art. 18-21) ━━━\n\nTrois sous-catégories :\n\n• ÉTABLISSEMENTS D'ÉPARGNE (art. 19) : peuvent recevoir des fonds du public, mais NE PEUVENT PAS faire des opérations de crédit. Ils investissent les dépôts dans des instruments financiers.\n\n• ÉTABLISSEMENTS DE CRÉDIT SPÉCIALISÉS (art. 20) : spécialisés dans certaines formes de crédit (crédit-bail, affacturage). Ne peuvent pas recevoir de dépôts du public sauf à titre accessoire (dépôts de garantie).\n\n• ÉTABLISSEMENTS D'AFFAIRES (art. 21) : spécialisés dans la prise de participations dans des sociétés. Peuvent aussi faire du crédit, mais ne peuvent pas recevoir de fonds du public.\n\n━━━ LES INSTITUTIONS DE MICROFINANCE — IMF (art. 22) ━━━\n\nElles effectuent des opérations de microfinance conformément à la loi n°2017-026 du 8 février 2018 sur la microfinance. Elles servent les populations à revenus modestes qui n'ont pas accès aux banques classiques. À Madagascar : SIPEM, CECAM, VOLA MAHASOA, etc.\n\n━━━ LES AUTRES PRESTATAIRES DE SERVICES BANCAIRES (art. 23-26) ━━━\n\nCe sont les acteurs non-bancaires qui exercent néanmoins certaines opérations bancaires :\n• Les établissements de monnaie électronique (Telma avec MVola, Orange Madagascar)\n• Les bureaux de change\n\nATTENTION : tous ces prestataires doivent obtenir un agrément ou une autorisation de la CSBF avant d'exercer.",
+
+        "exemple_concret": "Comparaison pratique :\n• Vous voulez déposer votre salaire et obtenir un crédit immobilier → allez à une BANQUE (BNI, BOA)\n• Vous êtes petite vendeuse au marché d'Analakely et avez besoin de 200.000 Ar pour acheter du stock → allez à une IMF (SIPEM, VOLA MAHASOA)\n• Vous voulez envoyer de l'argent à votre famille à Diego → utilisez un établissement de monnaie électronique (MVola) ou un bureau de transfert\nChacun a son rôle, réglementé par la loi."
+      },
+      {
+        "id": "P4",
+        "titre": "L'agrément : la porte d'entrée obligatoire",
+        "contenu": "Aucune banque, aucun établissement financier ne peut ouvrir ses portes à Madagascar sans avoir obtenu au préalable un AGRÉMENT de la CSBF (art. 27).\n\nQU'EST-CE QUE L'AGRÉMENT ?\n\nC'est l'autorisation administrative délivrée par la Commission de Supervision Bancaire et Financière permettant à un établissement d'exercer des services bancaires. Sans agrément : toute activité est illégale et constitue un délit pénal.\n\nLE DOSSIER DE DEMANDE D'AGRÉMENT (art. 27) doit contenir :\n• La présentation du promoteur\n• La liste des actionnaires et dirigeants pressentis\n• Un plan d'affaires sur 5 ans avec projections financières\n• Les moyens techniques et financiers prévus\n• Un plan préventif de redressement\n• Un dispositif de contrôle interne et de gestion des risques\n• Un dispositif de lutte contre le blanchiment et le financement du terrorisme\n\nLES CAS DE REFUS D'AGRÉMENT (art. 30) :\nLa CSBF peut refuser si :\n• L'origine des fonds n'est pas justifiée (risque de blanchiment)\n• L'actionnariat manque de transparence\n• Les dirigeants pressentis ne présentent pas les garanties d'honorabilité requises\n• Le plan d'affaires n'est pas viable\n• Le dossier est incomplet ou incohérent\n\nLE RETRAIT D'AGRÉMENT (art. 33) :\nLa CSBF peut retirer l'agrément si l'EC :\n• N'a pas commencé son activité dans les 6 mois\n• A cessé son activité pendant 6 mois\n• Est en situation irrémédiablement compromise\n\nDès le retrait d'agrément, l'EC cesse immédiatement toutes ses activités et entre en liquidation.\n\nPUBLICATION (art. 31) :\nLa décision d'agrément est publiée sur le site web de la Banky Foiben'i Madagasikara (BFM) et dans au moins deux journaux d'annonces légales. Les citoyens peuvent donc vérifier si un établissement est légalement agréé.",
+
+        "exemple_concret": "Rasoa veut créer une banque à Antsiranana pour le développement du Nord. Elle doit :\n1. Constituer un dossier complet (art. 27)\n2. Le déposer auprès de la CSBF\n3. Payer des frais de dossier non remboursables\n4. Attendre la décision (la CSBF vérifie tout)\n5. Remplir les conditions suspensives fixées dans la décision\n6. Obtenir son numéro d'inscription\n7. Seulement alors, elle peut ouvrir ses portes\nSi elle ouvre avant l'agrément : délit pénal passible de poursuites."
+      },
+      {
+        "id": "P5",
+        "titre": "La CSBF : l'autorité qui surveille tout le système",
+        "contenu": "La COMMISSION DE SUPERVISION BANCAIRE ET FINANCIÈRE (CSBF) est l'autorité administrative qui veille sur tout le secteur bancaire malgache. Elle est instituée par l'article 34 de la loi n°2020-011.\n\nSA MISSION (art. 34) :\n«Veiller au maintien de la solidité des prestataires de services bancaires, vérifier le respect par ces derniers des dispositions qui leur sont applicables, et contribuer à la stabilité du système financier.»\n\nSES CINQ FONCTIONS (art. 35) :\n1. Autorité ADMINISTRATIVE : délivre les agréments et autorisations\n2. Autorité de RÉGLEMENTATION : édicte des instructions obligatoires pour toutes les banques\n3. Autorité de CONTRÔLE : surveille en permanence et effectue des contrôles sur place\n4. Autorité de PRÉVENTION des crises bancaires\n5. Autorité DISCIPLINAIRE : prononce des sanctions\n\nSA COMPOSITION (art. 66) :\nLa CSBF comprend deux collèges :\n• Le COLLÈGE DE SUPERVISION (11 membres) : présidé par le Gouverneur de la Banky Foiben'i Madagasikara (BFM). Il inclut des représentants du Trésor, du secteur privé, de la magistrature, et des experts bancaires, financiers, juridiques.\n• Le COLLÈGE DE RÉSOLUTION (9 membres) : chargé de gérer les crises graves, présidé aussi par le Gouverneur de BFM.\n\nLES SANCTIONS DISCIPLINAIRES (art. 60) :\nDu moins grave au plus grave, la CSBF peut prononcer :\n• L'avertissement\n• Le blâme\n• L'interdiction d'effectuer certaines opérations\n• La révocation des dirigeants\n• La suspension des membres du Conseil d'Administration\n• Le retrait d'agrément\n\nLE CONTRÔLE (art. 43-44) :\nLa CSBF effectue deux types de contrôles :\n• CONTRÔLE PERMANENT : sur base des documents et informations transmis régulièrement par les banques\n• CONTRÔLE SUR PLACE : les agents de la CSBF se déplacent dans les locaux de la banque à tout moment, sans préavis obligatoire\n\nLE SECRET PROFESSIONNEL (art. 86) :\nTous les membres de la CSBF et ses agents sont tenus au secret professionnel. Violation = sanctions pénales (art. 378 du Code pénal).",
+
+        "exemple_concret": "La CSBF effectue un contrôle sur place à la banque ALPHA à Toamasina. Les agents constatent que la banque accordait des crédits sans consulter les infrastructures financières d'évaluation de solvabilité (art. 136). La CSBF peut :\n1. Émettre un avertissement\n2. Puis un blâme si ça continue\n3. Interdire l'octroi de nouveaux crédits\n4. Révoquer les dirigeants responsables\n5. En dernier recours : retrait d'agrément\nLe processus est graduel mais les sanctions peuvent être sévères."
+      },
+      {
+        "id": "P6",
+        "titre": "La relation banque-client : droits et obligations de chaque partie",
+        "contenu": "La loi n°2020-011 protège fortement les clients des banques. Voici les règles essentielles.\n\n━━━ LA CONVENTION : base de la relation (art. 122) ━━━\n\nToute relation entre un EC et son client est régie par une CONVENTION écrite. Elle doit contenir :\n• La durée de la relation\n• Les conditions tarifaires (frais, taux)\n• Les droits et obligations des parties\n• Les modalités de modification des termes\n• Les pénalités en cas de non-respect\n• Le mécanisme de traitement des réclamations\n• Elle est rédigée en malgache et/ou en français, en termes CLAIRS\n\nToute modification tarifaire doit être notifiée au client. Si le client refuse la modification, il peut résilier sans pénalité (art. 123).\n\n━━━ LE DROIT AU COMPTE (art. 125-128) ━━━\n\nToute personne physique ou morale domiciliée à Madagascar a le DROIT d'ouvrir un compte de transaction auprès d'un EC de son choix. Si toutes les banques refusent, la personne peut saisir la CSBF qui désigne alors une banque dans les 15 jours. Ce droit fondamental garantit l'inclusion financière.\n\nSi une banque refuse l'ouverture d'un compte, elle doit :\n1. Remettre gratuitement une attestation écrite de refus dans les 2 jours\n2. Informer le client de son droit de saisir la CSBF\n\n━━━ LA RÉSILIATION DE LA CONVENTION (art. 130-131) ━━━\n\n• Le CLIENT peut résilier à tout moment sans frais pour les contrats à durée indéterminée (préavis maximum 1 mois)\n• La BANQUE doit respecter un préavis minimum de 2 mois et motiver sa décision par écrit SAUF en cas de suspicion de blanchiment\n\n━━━ LA PROTECTION DES CONSOMMATEURS (art. 155) ━━━\n\nLes banques doivent :\n• Proposer des services adaptés aux besoins et à la capacité de remboursement\n• Garantir la transparence des conditions\n• Respecter la confidentialité des données personnelles\n• Donner un DROIT DE RÉTRACTATION de 7 jours après signature de tout contrat, sans frais (sauf remboursement des intérêts si les fonds ont déjà été versés)\n\n━━━ LES COMPTES INACTIFS (art. 134-135) ━━━\n\nUn compte est «inactif» si son titulaire n'a effectué aucune opération pendant 3 ans. La banque doit en avertir le client 6 mois avant. Si toujours inactif, les fonds sont transférés à la Caisse de dépôt et de consignation.\n\n━━━ LA CONVENTION DE CRÉDIT (art. 136-140) ━━━\n\nAvant tout octroi de crédit, la banque DOIT :\n• Consulter les infrastructures financières pour évaluer la solvabilité du demandeur (centrale des risques)\n• Notifier par écrit l'acceptation ou le refus\n\nEn cas d'interruption d'un crédit à durée indéterminée, la banque doit respecter un PRÉAVIS MINIMUM DE 60 JOURS (sauf comportement gravement répréhensible du client ou situation irrémédiablement compromise).",
+
+        "exemple_concret": "Voahangy demande un crédit à la BOA Antsiranana. La banque refuse sans lui dire pourquoi, et sans lui remettre d'attestation. Voahangy peut :\n1. Exiger une attestation écrite de refus (art. 126) — gratuitement\n2. Si refus de toutes les banques : saisir la CSBF pour désignation d'office (art. 127)\n3. Si elle obtient le crédit mais change d'avis dans la semaine : invoquer son droit de rétractation de 7 jours (art. 155)\nLa loi bancaire est du côté du client — à condition de connaître ses droits."
+      },
+      {
+        "id": "P7",
+        "titre": "Les opérations connexes et la mobilité bancaire",
+        "contenu": "AU-DELÀ DES TROIS OPÉRATIONS FONDAMENTALES : LES OPÉRATIONS CONNEXES (art. 13)\n\nLes établissements de crédit peuvent aussi effectuer des opérations connexes :\n• La mise en location de coffres-forts\n• Les opérations de change (achat/vente de devises étrangères)\n• Les opérations sur l'or et les métaux précieux\n• La prise de participation dans des entreprises\n• Le conseil en gestion de patrimoine et ingénierie financière\n• La distribution de produits d'assurance\n• Le conseil, la formation et l'éducation financière\n\nCes opérations sont «connexes» car elles ne constituent pas le cœur de l'activité bancaire, mais elles s'y rattachent naturellement.\n\nLA MOBILITÉ BANCAIRE (art. 132-133) :\n\nNouvelle protection introduite par la loi 2020-011 : tout client a le DROIT DE CHANGER DE BANQUE gratuitement et sans condition. La banque d'origine doit faciliter le transfert de domiciliation des prélèvements et virements automatiques vers la nouvelle banque.\n\nPréavis minimum d'un mois pour permettre les formalités administratives.\n\nC'est une réforme importante pour la concurrence : une banque ne peut plus «retenir» un client contre son gré par des obstacles administratifs.\n\nLE FONDS DE GARANTIE DES DÉPÔTS (art. 193-199) :\n\nToutes les banques agréées à collecter des dépôts contribuent annuellement à un Fonds de garantie. En cas de faillite bancaire, ce fonds rembourse PARTIELLEMENT les déposants (dans la limite d'un plafond fixé par décret).\n\nSont EXCLUS de la garantie (art. 197) :\n• Les dépôts de l'État et de ses démembrements\n• Les dépôts des autres EC et établissements d'assurance\n• Les dépôts des actionnaires et dirigeants de l'EC concerné\n• Les dépôts liés à des condamnations pour blanchiment\n\nCe fonds protège le citoyen ordinaire, pas les initiés du système.",
+
+        "exemple_concret": "Hery a 5 millions d'ariary à la banque BETA. Cette banque est mise en liquidation. Grâce au Fonds de garantie des dépôts (art. 193), Hery récupère ses fonds jusqu'au plafond fixé par décret — même si la banque est en faillite. En revanche, si Hery était actionnaire de cette banque, ses dépôts ne seraient pas garantis (art. 197). La protection est réservée aux clients ordinaires, pas aux insiders."
+      }
+    ],
+
+    "resume": "Le droit bancaire malgache repose sur la loi n°2020-011. Il organise un monopole strict : seuls des établissements agréés par la CSBF peuvent exercer les trois opérations de banque (réception de fonds du public, crédit, moyens de paiement). Les établissements sont classifiés en banques, établissements financiers et IMF, chacun avec des prérogatives différentes. La CSBF surveille, réglemente, contrôle et sanctionne. La relation banque-client est encadrée par des obligations de transparence, un droit au compte universel, un droit de rétractation de 7 jours, et un Fonds de garantie des dépôts qui protège les épargnants en cas de faillite bancaire.",
+
+    "points_cles": [
+      "Art. 5 loi 2020-011 : monopole bancaire — seuls les EC agréés peuvent exercer les opérations de banque",
+      "3 opérations de banque : réception de fonds (art. 6), crédit (art. 7), moyens de paiement (art. 12)",
+      "Crédit-bail (art. 8), affacturage (art. 9), crédit participatif (art. 10) = assimilés au crédit",
+      "Banques proprement dites = toutes opérations / Banques de développement = crédit uniquement, pas de dépôts",
+      "Art. 27 : agrément CSBF obligatoire avant toute activité bancaire",
+      "Art. 34 : CSBF = autorité administrative, réglementaire, de contrôle, préventive, disciplinaire",
+      "Art. 60 : sanctions CSBF allant de l'avertissement au retrait d'agrément",
+      "Art. 122 : toute relation banque-client régie par une convention écrite en termes clairs",
+      "Art. 125 : droit au compte universel — toute personne domiciliée à Madagascar y a droit",
+      "Art. 130-131 : client peut résilier à tout moment / banque doit respecter 2 mois de préavis",
+      "Art. 155 : droit de rétractation de 7 jours après signature d'un contrat bancaire",
+      "Art. 193 : Fonds de garantie des dépôts protège les épargnants en cas de faillite"
+    ]
+  },
+
+  "quiz": {
+    "instructions": "50 questions pour tester votre maîtrise du module. Une seule bonne réponse par question.",
+    "questions": [
+      {
+        "id": 1,
+        "question": "Quelle est la loi bancaire actuellement en vigueur à Madagascar ?",
+        "options": ["Loi n°95-030 du 22 février 1996", "Loi n°2020-011 du 1er septembre 2020", "Loi n°2005-016 du 29 septembre 2005", "Loi n°2017-026 du 8 février 2018"],
+        "reponse_correcte": 1,
+        "explication": "La loi n°2020-011 du 1er septembre 2020 est la loi bancaire actuellement en vigueur. Elle a remplacé la loi n°95-030 de 1996, devenue obsolète face aux évolutions technologiques (mobile money, fintech, banque digitale)."
+      },
+      {
+        "id": 2,
+        "question": "Selon l'article 5 de la loi n°2020-011, les opérations de banque comprennent :",
+        "options": ["Uniquement la réception de fonds du public", "La réception de fonds du public, les opérations de crédit, et la mise à disposition de moyens de paiement", "Le crédit et les assurances", "Les opérations de change et le crédit"],
+        "reponse_correcte": 1,
+        "explication": "L'article 5 définit les trois piliers des opérations de banque : (1) la réception de fonds du public, (2) les opérations de crédit, et (3) la mise à la disposition du public ou la gestion de moyens de paiement."
+      },
+      {
+        "id": 3,
+        "question": "Qu'est-ce qu'un fonds reçu du public selon l'article 6 de la loi bancaire ?",
+        "options": ["Tout argent reçu de n'importe qui", "Les fonds recueillis d'un tiers avec le droit d'en disposer mais l'obligation de les restituer", "L'argent reçu de l'État", "Les fonds propres de la banque"],
+        "reponse_correcte": 1,
+        "explication": "L'article 6 définit les fonds reçus du public comme «les fonds qu'une personne recueille d'un tiers, avec le droit d'en disposer pour son propre compte, mais à charge pour elle de les restituer». C'est l'essence du dépôt bancaire."
+      },
+      {
+        "id": 4,
+        "question": "Les fonds reçus des actionnaires détenant au moins 5% du capital sont-ils considérés comme des fonds du public ?",
+        "options": ["Oui, toujours", "Non, ils sont expressément exclus par l'article 6", "Oui, si la somme dépasse 1 million d'ariary", "Cela dépend du type de banque"],
+        "reponse_correcte": 1,
+        "explication": "L'article 6 al. 2 exclut expressément des fonds du public les fonds des actionnaires détenant au moins 5% du capital. Ces personnes ont un lien direct avec l'établissement et ne sont pas des clients ordinaires à protéger."
+      },
+      {
+        "id": 5,
+        "question": "Selon l'article 7, une opération de crédit est :",
+        "options": ["Uniquement un prêt d'argent en espèces", "Tout acte par lequel une personne, à titre onéreux, met des fonds à disposition ou prend un engagement par signature", "Un simple contrat de dépôt", "Une opération réservée aux particuliers"],
+        "reponse_correcte": 1,
+        "explication": "L'article 7 donne une définition large : «tout acte par lequel une personne, agissant à titre onéreux, met ou promet de mettre des fonds à la disposition d'une personne ou prend, dans l'intérêt de celle-ci, un engagement par signature tel qu'un aval, un cautionnement, ou une garantie.»"
+      },
+      {
+        "id": 6,
+        "question": "Le crédit-bail est défini à l'article 8 comme :",
+        "options": ["Un simple prêt d'argent", "Une opération où l'EC achète un bien à la demande du client, le lui loue, avec option d'achat en fin de contrat", "Un type d'assurance", "Un compte d'épargne bloqué"],
+        "reponse_correcte": 1,
+        "explication": "L'article 8 : le crédit-bail est une opération où l'EC (crédit-bailleur) achète un bien à la demande du client (crédit-preneur), le lui loue contre un loyer périodique. À l'expiration, le client peut restituer, acheter ou renouveler."
+      },
+      {
+        "id": 7,
+        "question": "Dans l'affacturage (art. 9), l'affactureur dispose-t-il d'un recours contre son client si le débiteur ne paie pas ?",
+        "options": ["Oui, toujours", "Non, l'affactureur ne dispose d'aucun recours contre son client en cas de défaillance du débiteur", "Oui, seulement pour les créances supérieures à 1 million", "Oui, si le contrat le prévoit"],
+        "reponse_correcte": 1,
+        "explication": "L'article 9 al. 2 est clair : «L'affactureur ne dispose d'aucun recours contre son client en cas de défaillance du débiteur.» C'est le risque que l'affactureur accepte en rachetant la créance."
+      },
+      {
+        "id": 8,
+        "question": "Le crédit participatif (art. 10) consiste à :",
+        "options": ["Accorder des crédits aux coopératives agricoles", "Mettre en relation des emprunteurs et des prêteurs via un EC qui collecte et gère les fonds", "Financer uniquement les projets de l'État", "Un crédit réservé aux IMF"],
+        "reponse_correcte": 1,
+        "explication": "L'article 10 définit le crédit participatif (crowdlending) : l'EC collecte des fonds de prêteurs dans un compte bloqué et les met à disposition d'emprunteurs sous forme de prêts, assurant le remboursement aux prêteurs."
+      },
+      {
+        "id": 9,
+        "question": "Qu'est-ce que la mise à disposition de moyens de paiement selon l'article 12 ?",
+        "options": ["Uniquement l'émission de chèques", "Toute opération mettant en circulation un instrument permettant de retirer, verser, transférer de l'argent ou effectuer tout paiement", "L'émission de billets de banque", "La gestion des distributeurs automatiques uniquement"],
+        "reponse_correcte": 1,
+        "explication": "L'article 12 définit les moyens de paiement très largement : «tout moyen de paiement ou tout instrument qui, quel que soit le support ou le procédé technique utilisé, permet à toute personne de retirer, de verser, de transférer de l'argent et d'effectuer tout paiement.» Cela inclut les cartes, virements, mobile money."
+      },
+      {
+        "id": 10,
+        "question": "Quelles opérations connexes les établissements de crédit peuvent-ils effectuer selon l'article 13 ?",
+        "options": ["Uniquement les opérations de change", "Les opérations de change, la location de coffres-forts, la prise de participations, le conseil financier, la distribution d'assurances, etc.", "Uniquement la distribution d'assurances", "Les opérations connexes sont interdites aux banques"],
+        "reponse_correcte": 1,
+        "explication": "L'article 13 liste les opérations connexes autorisées : location de coffres-forts, change, opérations sur métaux précieux, prises de participation, conseil en patrimoine, ingénierie financière, distribution d'assurances, formation et éducation financière."
+      },
+      {
+        "id": 11,
+        "question": "Les banques proprement dites (art. 16) sont habilitées à effectuer :",
+        "options": ["Uniquement les opérations de crédit", "Uniquement la réception de dépôts", "Tous les services bancaires : opérations bancaires et connexes", "Seulement les opérations de change"],
+        "reponse_correcte": 2,
+        "explication": "L'article 16 est clair : «Les banques proprement dites sont habilitées à effectuer tous les services bancaires incluant les opérations bancaires et les opérations connexes.» Elles ont la panoplie complète."
+      },
+      {
+        "id": 12,
+        "question": "Les banques de développement (art. 17) sont-elles autorisées à collecter des fonds du public ?",
+        "options": ["Oui, sans restriction", "Non, elles ne sont pas autorisées à collecter des fonds du public", "Oui, mais uniquement en Ariary", "Oui, avec autorisation préalable de la CSBF"],
+        "reponse_correcte": 1,
+        "explication": "L'article 17 précise que les banques de développement «effectuent à titre d'activité principale des opérations de crédit» et «ne sont pas autorisées à collecter les fonds du public». Elles financent leur activité par des ressources propres."
+      },
+      {
+        "id": 13,
+        "question": "Les établissements d'épargne (art. 19) peuvent-ils accorder des crédits ?",
+        "options": ["Oui, c'est leur activité principale", "Non, ils peuvent recevoir des fonds du public mais ne sont pas autorisés à faire des opérations de crédit", "Oui, uniquement aux PME", "Cela dépend de leur agrément spécifique"],
+        "reponse_correcte": 1,
+        "explication": "L'article 19 : les établissements d'épargne «peuvent recevoir du fonds du public. Ils ne sont pas autorisés à faire des opérations de crédit.» Ils collectent l'épargne et l'investissent dans des instruments financiers."
+      },
+      {
+        "id": 14,
+        "question": "Les Institutions de Microfinance (IMF) relèvent de quelle réglementation spécifique ?",
+        "options": ["La loi bancaire uniquement", "La loi n°2017-026 du 8 février 2018 sur la microfinance", "La loi sur les coopératives", "Le Code de commerce"],
+        "reponse_correcte": 1,
+        "explication": "L'article 22 précise que «les IMF effectuent l'activité de microfinance conformément à la réglementation y afférente» — c'est la loi n°2017-026 du 8 février 2018 sur la microfinance qui s'applique spécifiquement."
+      },
+      {
+        "id": 15,
+        "question": "Les établissements de monnaie électronique (comme MVola) sont-ils des établissements de crédit ?",
+        "options": ["Oui, ils sont des banques", "Non, ce sont des 'autres prestataires de services bancaires' (art. 26)", "Oui, s'ils ont plus de 1000 clients", "Non, ils ne font aucune opération bancaire"],
+        "reponse_correcte": 1,
+        "explication": "L'article 26 classe les établissements de monnaie électronique parmi les «autres prestataires de services bancaires», non parmi les établissements de crédit proprement dits. Ils exercent des opérations bancaires mais dans un cadre réglementaire distinct."
+      },
+      {
+        "id": 16,
+        "question": "L'exercice des services bancaires sans agrément préalable de la CSBF est :",
+        "options": ["Une simple infraction administrative", "Un délit pénal prévu au Titre IX de la loi n°2020-011", "Toléré si le volume est faible", "Autorisé pour les associations"],
+        "reponse_correcte": 1,
+        "explication": "L'article 27 pose l'agrément comme condition préalable obligatoire. Le Titre IX (dispositions pénales) de la loi n°2020-011 sanctionne pénalement l'exercice illégal de services bancaires sans agrément."
+      },
+      {
+        "id": 17,
+        "question": "Le dossier de demande d'agrément doit notamment contenir :",
+        "options": ["Uniquement les statuts de la société", "Le plan d'affaires sur 5 ans, la présentation des promoteurs, un plan préventif de redressement et un dispositif anti-blanchiment", "Uniquement les projections financières", "Un simple formulaire de demande"],
+        "reponse_correcte": 1,
+        "explication": "L'article 27 liste les éléments du dossier : présentation du promoteur, actionnaires et dirigeants, plan d'affaires sur 5 ans, moyens techniques et financiers, plan préventif de redressement, dispositif de contrôle interne et de gestion des risques, dispositif anti-blanchiment."
+      },
+      {
+        "id": 18,
+        "question": "Les frais de dossier de demande d'agrément sont-ils remboursés en cas de refus ?",
+        "options": ["Oui, intégralement", "Oui, à 50%", "Non, ils ne sont pas remboursables quel que soit le sort de la demande", "Oui, si le refus n'est pas motivé"],
+        "reponse_correcte": 2,
+        "explication": "L'article 27 est formel : «Les frais ne sont pas remboursables, quel que soit le sort de la demande d'agrément.» Que la demande soit acceptée ou refusée, les frais de dossier restent acquis à la CSBF."
+      },
+      {
+        "id": 19,
+        "question": "La CSBF peut refuser un agrément si :",
+        "options": ["L'EC prévu est trop petit", "L'origine des ressources financières n'est pas justifiée ou l'actionnariat manque de transparence", "Il y a déjà trop de banques à Madagascar", "Le siège est prévu en province"],
+        "reponse_correcte": 1,
+        "explication": "L'article 30 liste les motifs de refus : origine des fonds non justifiée (risque de blanchiment), actionnariat peu transparent, dirigeants sans garanties d'honorabilité, plan d'affaires non viable, dossier incomplet ou incohérent."
+      },
+      {
+        "id": 20,
+        "question": "Dès le retrait de son agrément, que doit faire immédiatement un établissement de crédit ?",
+        "options": ["Continuer ses activités pendant 6 mois", "Réduire progressivement ses activités", "Cesser immédiatement ses activités et entrer en liquidation", "Fusionner avec une autre banque"],
+        "reponse_correcte": 2,
+        "explication": "L'article 33 al. 3 : «Dès le retrait de son agrément, l'EC cesse immédiatement ses activités et entre en liquidation, conformément aux dispositions des articles 201 à 227 de la présente loi.» Il n'y a aucune période de transition."
+      },
+      {
+        "id": 21,
+        "question": "Quelle est la mission principale de la CSBF selon l'article 34 ?",
+        "options": ["Fixer les taux d'intérêt des banques", "Veiller à la solidité des prestataires de services bancaires, vérifier le respect des règles et contribuer à la stabilité financière", "Accorder des crédits aux PME", "Gérer la politique monétaire de Madagascar"],
+        "reponse_correcte": 1,
+        "explication": "L'article 34 définit la mission de la CSBF : «veiller au maintien de la solidité des prestataires de services bancaires, de vérifier le respect par ces derniers des dispositions qui leur sont applicables, et de contribuer à la stabilité du système financier.»"
+      },
+      {
+        "id": 22,
+        "question": "La CSBF comprend combien de collèges selon l'article 66 ?",
+        "options": ["Un seul collège", "Deux collèges : de supervision (11 membres) et de résolution (9 membres)", "Trois collèges", "Quatre collèges selon les domaines"],
+        "reponse_correcte": 1,
+        "explication": "L'article 66 institue deux collèges : le collège de supervision (11 membres, présidé par le Gouverneur de BFM) pour les fonctions administratives, de contrôle et disciplinaires, et le collège de résolution (9 membres) pour gérer les crises graves."
+      },
+      {
+        "id": 23,
+        "question": "Qui préside la CSBF selon l'article 66 ?",
+        "options": ["Le Ministre des Finances", "Le Gouverneur de Banky Foiben'i Madagasikara (BFM)", "Le Premier Ministre", "Le Président de la République"],
+        "reponse_correcte": 1,
+        "explication": "L'article 66 désigne le Gouverneur de BFM (Banky Foiben'i Madagasikara, la Banque Centrale de Madagascar) comme Président des deux collèges de la CSBF."
+      },
+      {
+        "id": 24,
+        "question": "Quelle est la sanction disciplinaire la plus grave que la CSBF peut prononcer selon l'article 60 ?",
+        "options": ["Le blâme", "L'interdiction temporaire d'opérations", "Le retrait d'agrément", "L'amende maximale"],
+        "reponse_correcte": 2,
+        "explication": "L'article 60 liste les sanctions par ordre croissant de gravité : avertissement, blâme, interdiction d'opérations, limitation des dividendes, révocation des dirigeants, suspension des administrateurs, retrait d'autorisation du commissaire aux comptes, et enfin le RETRAIT D'AGRÉMENT — la sanction ultime."
+      },
+      {
+        "id": 25,
+        "question": "Le contrôle sur place de la CSBF (art. 44) peut-il être effectué sans préavis ?",
+        "options": ["Non, un préavis de 15 jours est obligatoire", "Oui, la CSBF réalise le contrôle sur place à tout moment", "Non, il faut une autorisation judiciaire", "Oui, mais uniquement en cas de crise déclarée"],
+        "reponse_correcte": 1,
+        "explication": "L'article 44 : «La CSBF réalise le contrôle sur place à tout moment.» Il n'y a aucune obligation de préavis pour les contrôles sur place, ce qui renforce l'efficacité de la surveillance."
+      },
+      {
+        "id": 26,
+        "question": "Les membres de la CSBF sont-ils soumis au secret professionnel ?",
+        "options": ["Non, ils sont tenus à la transparence totale", "Oui, pendant et après leur mission, sous peine de sanctions pénales (art. 86)", "Oui, uniquement pendant leur mandat", "Non, sauf pour les informations classifiées"],
+        "reponse_correcte": 1,
+        "explication": "L'article 86 : toutes les personnes ayant eu connaissance d'informations confidentielles liées aux attributions de la CSBF «sont tenues au secret professionnel durant et à l'issue de leur mission, sous peine de l'application des sanctions prévues à l'article 378 du Code pénal»."
+      },
+      {
+        "id": 27,
+        "question": "La relation entre un EC et son client doit être régie par (art. 122) :",
+        "options": ["Un accord verbal suffit", "Une convention écrite définissant durée, tarifs, droits et obligations, réclamations", "Un simple reçu de dépôt", "Les statuts de la banque uniquement"],
+        "reponse_correcte": 1,
+        "explication": "L'article 122 exige une convention écrite entre l'EC et son client. Elle doit définir notamment la durée, les conditions tarifaires, les droits et obligations des parties, les modalités de modification, les pénalités et le mécanisme de traitement des réclamations."
+      },
+      {
+        "id": 28,
+        "question": "Si une banque modifie ses tarifs, que peut faire le client qui refuse la modification (art. 123) ?",
+        "options": ["Rien, il doit accepter les nouvelles conditions", "Résilier la convention sans pénalité", "Saisir le tribunal", "Payer les anciens tarifs pendant 1 an encore"],
+        "reponse_correcte": 1,
+        "explication": "L'article 123 : «En cas de refus, la clientèle peut rompre la convention sans pénalité.» C'est une protection essentielle contre les modifications tarifaires abusives unilatérales."
+      },
+      {
+        "id": 29,
+        "question": "Les relevés de comptes transmis par la banque au client ont-ils une valeur probatoire (art. 124) ?",
+        "options": ["Non, ils ont une valeur purement informative", "Oui, ils sont admis comme moyens de preuve entre l'EC et ses clients jusqu'à preuve du contraire", "Oui, mais uniquement devant les tribunaux de commerce", "Non, seuls les actes notariés valent preuve"],
+        "reponse_correcte": 1,
+        "explication": "L'article 124 : «les relevés de comptes établis par les EC et transmis à la clientèle par tout moyen laissant trace écrite sont admis comme moyens de preuve entre eux et leurs clients jusqu'à preuve du contraire.» C'est une règle de preuve importante."
+      },
+      {
+        "id": 30,
+        "question": "Toute personne domiciliée à Madagascar a-t-elle le droit d'ouvrir un compte (art. 125) ?",
+        "options": ["Non, la banque est libre de refuser", "Oui, c'est un droit universel — et si toutes les banques refusent, la CSBF désigne une banque d'office", "Oui, mais uniquement pour les salariés", "Non, il faut justifier d'un revenu minimum"],
+        "reponse_correcte": 1,
+        "explication": "L'article 125 consacre un droit fondamental : «Toute personne physique ou morale domiciliée à Madagascar a droit à l'ouverture d'un compte de transaction.» Si une banque refuse, la personne peut saisir la CSBF qui désigne une banque dans les 15 jours (art. 127)."
+      },
+      {
+        "id": 31,
+        "question": "Quand une banque refuse l'ouverture d'un compte, dans quel délai doit-elle remettre une attestation écrite de refus ?",
+        "options": ["Immédiatement, verbalement", "Dans les 2 jours à compter de la demande (art. 126)", "Dans les 15 jours", "Elle n'est pas obligée de motiver son refus"],
+        "reponse_correcte": 1,
+        "explication": "L'article 126 oblige la banque à remettre gratuitement une attestation écrite de refus dans un délai de 2 jours à compter de la demande d'ouverture de compte. Elle doit aussi informer le client de son droit de saisir la CSBF."
+      },
+      {
+        "id": 32,
+        "question": "Le client peut-il résilier sans frais une convention bancaire à durée indéterminée (art. 130) ?",
+        "options": ["Non, des frais de clôture de compte s'appliquent toujours", "Oui, à tout moment sans frais avec un préavis maximum d'1 mois", "Oui, mais uniquement en fin d'année", "Non, il doit respecter 6 mois de préavis"],
+        "reponse_correcte": 1,
+        "explication": "L'article 130 : «le client peut résilier, à tout moment sans frais, la convention conclue pour une durée indéterminée» sous réserve d'un préavis ne pouvant dépasser 1 mois. C'est une liberté fondamentale du client."
+      },
+      {
+        "id": 33,
+        "question": "Quel est le préavis minimum qu'une banque doit respecter pour résilier une convention avec son client (art. 131) ?",
+        "options": ["15 jours", "1 mois", "2 mois", "6 mois"],
+        "reponse_correcte": 2,
+        "explication": "L'article 131 impose à l'EC un préavis minimum de 2 mois, contre seulement 1 mois pour le client. L'asymétrie protège le client. De plus, la résiliation doit être motivée par écrit — sauf en cas de suspicion de blanchiment."
+      },
+      {
+        "id": 34,
+        "question": "Dans quels cas la banque peut-elle résilier sans respecter le délai de préavis de 2 mois (art. 131) ?",
+        "options": ["Si le client a un découvert", "Si la banque ferme une agence", "En cas de suspicion de blanchiment de capitaux ou de financement du terrorisme", "Si le client n'utilise pas son compte pendant 3 mois"],
+        "reponse_correcte": 2,
+        "explication": "L'article 131 al. 2 : «L'EC n'est pas tenu de motiver la décision de résiliation en cas de suspicion de blanchiment de capitaux et de financement du terrorisme.» Dans ce cas, il informe la CSBF et le service de renseignements financiers."
+      },
+      {
+        "id": 35,
+        "question": "Selon l'article 134, au bout de combien d'années d'inactivité totale un compte est-il considéré comme 'inactif' ?",
+        "options": ["1 an", "2 ans", "3 ans", "5 ans"],
+        "reponse_correcte": 2,
+        "explication": "L'article 134 : «Un compte est inactif lorsque le titulaire n'a effectué aucune opération sur ledit compte ou ne s'est pas manifesté pendant une période de trois (3) ans.» La banque doit en aviser le client 6 mois avant ce délai."
+      },
+      {
+        "id": 36,
+        "question": "Que deviennent les fonds d'un compte inactif non réclamé selon l'article 134 ?",
+        "options": ["Ils sont confisqués par la banque", "Ils restent indéfiniment sur le compte", "Ils sont transférés à la Caisse de dépôt et de consignation", "Ils sont versés au Fonds de garantie des dépôts"],
+        "reponse_correcte": 2,
+        "explication": "L'article 134 : «Les EC transfèrent à la Caisse de dépôt et de consignation les dépôts et avoirs nets non réclamés.» Les fonds ne sont pas perdus pour le client, mais conservés par un organisme public en attendant qu'il se manifeste."
+      },
+      {
+        "id": 37,
+        "question": "Avant d'accorder un crédit, la banque doit impérativement (art. 136) :",
+        "options": ["Demander l'avis de la CSBF", "Consulter les infrastructures financières permettant d'évaluer la solvabilité du demandeur", "Obtenir deux cautions personnelles", "Exiger un apport minimum de 30%"],
+        "reponse_correcte": 1,
+        "explication": "L'article 136 impose la consultation préalable des infrastructures financières (centrale des risques, historique de crédit) pour «analyser et évaluer la solvabilité de toute personne demandeur de crédit». C'est une obligation, pas une faculté."
+      },
+      {
+        "id": 38,
+        "question": "La convention de crédit doit obligatoirement mentionner (art. 137) :",
+        "options": ["Uniquement le taux d'intérêt", "Le montant emprunté, les conditions tarifaires, les délais de remboursement, la possibilité de rétractation, les procédures de recouvrement", "Uniquement la durée du prêt", "L'identité des garants uniquement"],
+        "reponse_correcte": 1,
+        "explication": "L'article 137 liste les mentions obligatoires : montant emprunté, conditions tarifaires, délais de remboursement, possibilité de remboursement anticipé, droit de rétractation du client, procédures de recouvrement, mécanisme de traitement des réclamations."
+      },
+      {
+        "id": 39,
+        "question": "Pour interrompre un crédit à durée indéterminée, la banque doit respecter un préavis minimum de (art. 139) :",
+        "options": ["30 jours", "45 jours", "60 jours", "90 jours"],
+        "reponse_correcte": 2,
+        "explication": "L'article 139 impose un préavis minimum de 60 jours pour toute réduction ou interruption d'un crédit à durée indéterminée. Exception : comportement gravement répréhensible du bénéficiaire ou situation irrémédiablement compromise."
+      },
+      {
+        "id": 40,
+        "question": "Le client a-t-il un droit de rétractation après signature d'un contrat bancaire (art. 155) ?",
+        "options": ["Non, la signature engage définitivement", "Oui, un droit de rétractation de 7 jours, sans frais sauf les intérêts si les fonds ont déjà été versés", "Oui, mais uniquement dans les 24 heures", "Oui, 30 jours pour les crédits immobiliers"],
+        "reponse_correcte": 1,
+        "explication": "L'article 155 accorde au client «le droit de rétractation dans un délai de sept (7) jours à compter de la signature du contrat sans frais sauf ceux liés aux dépenses encourues fixées dans la convention». Si les fonds ont déjà été versés, le capital doit être remboursé avec les intérêts correspondants."
+      },
+      {
+        "id": 41,
+        "question": "La mobilité bancaire (art. 132) est proposée par les EC :",
+        "options": ["Avec des frais variables", "Gratuitement et sans condition, avec un préavis d'au moins 1 mois", "Uniquement pour les comptes courants", "Sur autorisation préalable de la CSBF"],
+        "reponse_correcte": 1,
+        "explication": "L'article 132 : «Les EC proposent gratuitement et sans condition un service d'aide à la mobilité bancaire.» Ce service permet au client de changer de banque en transférant ses domiciliations (prélèvements, virements) vers son nouveau compte, avec un préavis d'au moins 1 mois."
+      },
+      {
+        "id": 42,
+        "question": "À quoi sert le Fonds de garantie des dépôts (art. 193) ?",
+        "options": ["À financer les crédits aux PME", "À rembourser partiellement les déposants en cas de faillite d'une banque", "À financer la CSBF", "À couvrir les pertes de change"],
+        "reponse_correcte": 1,
+        "explication": "L'article 193 crée le Fonds de garantie des dépôts «destiné à rembourser partiellement les déposants» si une banque est mise en liquidation. Toutes les banques autorisées à collecter des dépôts y contribuent annuellement."
+      },
+      {
+        "id": 43,
+        "question": "Les dépôts de l'État sont-ils couverts par le Fonds de garantie des dépôts ?",
+        "options": ["Oui, comme tout autre déposant", "Non, ils sont exclus de la garantie (art. 197)", "Oui, mais jusqu'à un plafond réduit", "Cela dépend du type de ministère"],
+        "reponse_correcte": 1,
+        "explication": "L'article 197 exclut expressément de la garantie «les dépôts effectués par l'État et ses démembrements» ainsi que ceux des EC, compagnies d'assurances, actionnaires et membres des organes de gouvernance de la banque concernée."
+      },
+      {
+        "id": 44,
+        "question": "Qu'est-ce que le risque systémique selon la loi n°2020-011 (art. 4) ?",
+        "options": ["Le risque de crédit pour une seule banque", "Le risque de propagation des effets de la défaillance d'un EC sur la stabilité du système financier ou sur le plan social", "Le risque lié aux opérations de change", "Le risque de cyberattaque sur une banque"],
+        "reponse_correcte": 1,
+        "explication": "L'article 4 définit le risque systémique comme «tout risque de propagation des effets de la défaillance ou de la faillite d'un EC sur la stabilité du système financier ou sur le plan social». C'est ce risque que la supervision bancaire cherche principalement à prévenir."
+      },
+      {
+        "id": 45,
+        "question": "L'inclusion financière est définie par l'article 4 comme :",
+        "options": ["L'accès aux produits bancaires pour les entreprises uniquement", "Tout accès aux produits et services financiers adaptés et de proximité, offerts par des institutions pérennes et utilisés par tous les segments de la population", "L'obligation pour les banques d'ouvrir des agences en province", "L'éducation financière des jeunes"],
+        "reponse_correcte": 1,
+        "explication": "L'article 4 définit l'inclusion financière comme «tout accès aux produits et services financiers adaptés et de proximité, dont l'épargne, le crédit, l'assurance et le paiement, offerts par des institutions pérennes et utilisés par tous les segments de la population.»"
+      },
+      {
+        "id": 46,
+        "question": "Les établissements de crédit sont-ils tenus de lutter contre le blanchiment de capitaux (art. 121) ?",
+        "options": ["Non, c'est la responsabilité de la police", "Oui, ils doivent mettre en place un dispositif interne, former leur personnel et adopter des mesures de vigilance basées sur les risques", "Oui, mais uniquement pour les transactions supérieures à 10 millions d'ariary", "Non, uniquement les établissements traitant des devises étrangères"],
+        "reponse_correcte": 1,
+        "explication": "L'article 121 impose aux EC de «respecter les dispositions légales et règlementaires en vigueur relatives à la lutte contre le blanchiment de capitaux et le financement du terrorisme» : dispositif interne de prévention, formation du personnel, vigilance adaptée au profil client."
+      },
+      {
+        "id": 47,
+        "question": "La convention entre une banque et son client doit être rédigée en :",
+        "options": ["Français uniquement", "Malgache uniquement", "Malgache et/ou français, en termes clairs et facilement compréhensibles (art. 122)", "Anglais pour les opérations internationales"],
+        "reponse_correcte": 2,
+        "explication": "L'article 122 précise que la convention «est rédigée en langues malgache et/ou française avec des termes clairs, facilement compréhensibles selon les modalités prévues par instruction de la CSBF». L'objectif est la compréhension du client."
+      },
+      {
+        "id": 48,
+        "question": "Qui peut exercer la profession d'agent de distribution d'une banque (art. 144) ?",
+        "options": ["Tout commerçant inscrit au registre du commerce", "Toute personne sauf celles frappées des interdictions prévues par l'article 232 de la loi", "Uniquement des personnes physiques", "Uniquement des sociétés anonymes agréées"],
+        "reponse_correcte": 1,
+        "explication": "L'article 144 interdit l'exercice de la profession d'agent de distribution «à toute personne qui tombe sous le coup des interdictions prévues par l'article 232 de la présente loi» — notamment les personnes condamnées pour certaines infractions."
+      },
+      {
+        "id": 49,
+        "question": "Quel organisme est chargé de gérer la politique monétaire à Madagascar, distinct de la CSBF ?",
+        "options": ["Le Ministère des Finances", "Banky Foiben'i Madagasikara (BFM)", "La CSBF elle-même", "Le Trésor Public"],
+        "reponse_correcte": 1,
+        "explication": "Banky Foiben'i Madagasikara (BFM) est la Banque Centrale de Madagascar, chargée de la politique monétaire. La CSBF est une commission de supervision dont le Gouverneur de BFM est le Président — les deux institutions sont distinctes mais liées."
+      },
+      {
+        "id": 50,
+        "question": "Pourquoi la loi n°95-030 de 1996 a-t-elle été remplacée par la loi n°2020-011 ?",
+        "options": ["Parce que la loi de 1996 était anticonstitutionnelle", "Parce que l'essor du mobile money, de la banque digitale et des fintech avait rendu la loi de 1996 obsolète face aux nouvelles réalités du secteur financier", "Parce que Madagascar a rejoint la zone franc CFA", "Parce que le FMI l'a imposé"],
+        "reponse_correcte": 1,
+        "explication": "L'exposé des motifs de la loi n°2020-011 explique clairement : l'essor du mobile banking (MVola, Orange Money), de la banque digitale et des fintech, ainsi que les nouvelles normes internationales de gestion des risques post-crise de 2008, ont rendu la loi de 1996 inadaptée aux réalités actuelles."
+      }
+    ]
+  },
+
+  "cas_pratiques": [
+    {
+      "id": "CP1",
+      "titre": "La tontine déguisée en banque à Antsiranana",
+      "contexte": "Monsieur ZAFY dirige une association informelle à Antsiranana. Depuis 6 mois, il collecte les économies de 80 personnes du quartier en leur promettant un intérêt mensuel de 8%. Il gère ces fonds dans son compte personnel et prête l'argent à des commerçants locaux. Il n'a aucun agrément de la CSBF.\n\nDeux membres réclament le remboursement de leurs dépôts. M. ZAFY ne peut pas rembourser. Les 80 membres ont perdu au total 15 millions d'ariary. Ils saisissent la justice.",
+      "questions": [
+        {
+          "numero": 1,
+          "question": "M. ZAFY exerce-t-il illégalement des opérations de banque ?",
+          "reponse_attendue": "OUI, sans aucun doute. M. ZAFY exerce DEUX des trois opérations de banque au sens de l'article 5 de la loi n°2020-011 :\n\n1. LA RÉCEPTION DE FONDS DU PUBLIC (art. 6) : il recueille les fonds de 80 personnes tierces, avec le droit d'en disposer mais l'obligation de les restituer. C'est exactement la définition légale.\n\n2. LES OPÉRATIONS DE CRÉDIT (art. 7) : il prête ces fonds à des commerçants à titre onéreux (pour obtenir les 8% d'intérêt qu'il promet à ses déposants).\n\nOr, en vertu du monopole bancaire, seuls les établissements de crédit agréés par la CSBF (art. 27) peuvent exercer ces opérations à titre habituel. M. ZAFY n'est pas agréé. Il exerce illégalement."
+        },
+        {
+          "numero": 2,
+          "question": "Quelles sanctions risque M. ZAFY ?",
+          "reponse_attendue": "M. ZAFY s'expose à des sanctions PÉNALES prévues au Titre IX de la loi n°2020-011 pour exercice illégal de services bancaires. Il peut être poursuivi pour :\n\n• Exercice illégal des opérations de banque (sans agrément)\n• Abus de confiance (art. 391 et suivants du Code pénal malgache) : il a détourné les fonds confiés\n• Escroquerie (art. 382 et suivants) : il a promis des intérêts de 8% qu'il ne pouvait pas tenir\n\nSur le plan civil, sa responsabilité délictuelle est engagée envers les 80 victimes. Il doit restituer les 15 millions d'ariary et réparer le préjudice subi (perte des intérêts attendus, préjudice moral).\n\nParallèlement, les associations de défense des consommateurs de services bancaires (art. 157-158) peuvent se constituer partie civile et agir en justice."
+        },
+        {
+          "numero": 3,
+          "question": "Les victimes auraient-elles été protégées si M. ZAFY avait opéré dans une banque agréée ?",
+          "reponse_attendue": "OUI, plusieurs mécanismes de protection auraient joué :\n\n1. CONTRÔLE DE LA CSBF : une banque agréée est sous surveillance permanente. La CSBF aurait détecté les anomalies (ratio de solvabilité, gestion des risques) bien avant la faillite.\n\n2. FONDS DE GARANTIE DES DÉPÔTS (art. 193) : si une banque agréée fait faillite, les déposants ordinaires sont remboursés partiellement jusqu'au plafond fixé par décret. Ce mécanisme n'existe pas pour les opérateurs illégaux.\n\n3. NORMES PRUDENTIELLES (art. 99) : une banque agréée doit respecter des règles de solvabilité et de liquidité. Elle ne peut pas promettre 8% d'intérêts mensuel sans avoir les fonds pour tenir cet engagement.\n\n4. DROIT AU REMBOURSEMENT : les déposants d'une banque agréée ont des voies de recours formalisées et une priorité de remboursement en cas de liquidation (art. 201 et suivants)."
+        },
+        {
+          "numero": 4,
+          "question": "L'association de M. ZAFY peut-elle régulariser sa situation en demandant un agrément rétroactif ?",
+          "reponse_attendue": "NON. L'agrément ne peut pas être accordé rétroactivement. L'article 27 est clair : l'exercice des services bancaires est subordonné à l'obtention d'un agrément PRÉALABLE.\n\nDe plus, le dossier de demande d'agrément (art. 27 et 30) exige notamment :\n• Justifier l'origine des ressources financières (ici : fonds collectés illégalement = problème rédhibitoire)\n• Présenter une structure de gouvernance conforme\n• Un plan d'affaires viable\n• Un dispositif anti-blanchiment\n\nLa CSBF refuserait l'agrément. M. ZAFY ne peut donc pas régulariser : il reste dans l'illégalité et reste passible des poursuites pénales pour les agissements passés, quelle que soit sa bonne volonté future."
+        }
+      ],
+      "lecon_tiree": "Ce cas illustre le monopole bancaire et ses raisons d'être. Les tontines informelles et les systèmes de collecte illégale d'épargne sont fréquents à Madagascar. Ils exposent les victimes à des risques considérables sans aucune protection légale. La loi n°2020-011 a renforcé les sanctions pour décourager ces pratiques et protéger les citoyens."
+    },
+    {
+      "id": "CP2",
+      "titre": "Le client lésé par sa banque à Diego Suarez",
+      "contexte": "Madame VOLASOA est cliente de la banque DIANA FINANCE à Antsiranana. Elle a un compte courant ouvert depuis 3 ans et un crédit personnel de 2.000.000 Ar contracté il y a 1 an.\n\nSituation 1 : La banque lui annonce oralement qu'elle augmente les frais de tenue de compte de 50%. Pas de notification écrite.\n\nSituation 2 : La banque lui notifie par lettre qu'elle clôture son compte dans 3 semaines, sans explication.\n\nSituation 3 : La banque lui refuse un second crédit sans lui remettre aucun document.\n\nSituation 4 : Mme VOLASOA réalise que son compte n'a plus eu aucune opération depuis 3,5 ans (le crédit a été remboursé entre-temps). La banque vient de transférer ses 800.000 Ar restants à la Caisse de dépôt.",
+      "questions": [
+        {
+          "numero": 1,
+          "question": "L'augmentation des frais non notifiée par écrit est-elle valide ?",
+          "reponse_attendue": "NON. L'article 123 de la loi n°2020-011 exige que «toute modification des conditions tarifaires et des caractéristiques des produits doit être notifiée à la clientèle par tout moyen laissant trace écrite dans les conditions prévues dans la convention».\n\nUne annonce orale ne respecte pas cette obligation. DIANA FINANCE ne peut pas imposer cette augmentation sans notification écrite préalable.\n\nDe plus, l'article 123 donne à Mme VOLASOA le droit de REFUSER cette modification et de RÉSILIER SON COMPTE SANS PÉNALITÉ si elle n'accepte pas les nouveaux tarifs. Elle n'est pas obligée de subir l'augmentation."
+        },
+        {
+          "numero": 2,
+          "question": "La clôture du compte dans 3 semaines est-elle conforme à la loi ?",
+          "reponse_attendue": "NON. L'article 131 de la loi n°2020-011 impose à l'EC un préavis MINIMUM de 2 mois (60 jours) pour résilier une convention à durée indéterminée.\n\n3 semaines (environ 21 jours) est largement insuffisant. La banque viole l'article 131.\n\nDe plus, la résiliation doit être notifiée par écrit et motivée. Si la lettre n'explique pas la raison, c'est une violation supplémentaire — sauf en cas de suspicion de blanchiment (art. 131 al. 2), mais la banque doit alors en informer la CSBF et le service de renseignements financiers.\n\nMme VOLASOA peut contester cette clôture auprès de la banque et, si nécessaire, saisir la CSBF."
+        },
+        {
+          "numero": 3,
+          "question": "Le refus de crédit sans documentation est-il conforme à la loi ?",
+          "reponse_attendue": "NON. L'article 136 de la loi n°2020-011 est clair : la banque doit «notifier au demandeur l'acceptation ou le rejet d'une demande de crédit par tout procédé laissant trace écrite».\n\nUn refus verbal ne suffit pas. Mme VOLASOA a droit à :\n1. Une notification écrite du refus\n2. À sa demande : les éléments recueillis sur les systèmes d'information ayant motivé le refus (consultation de la centrale des risques par exemple)\n\nElle ne peut pas exiger l'octroi du crédit (la banque reste libre de refuser), mais elle a droit à une réponse écrite motivée. Si la banque refuse de la lui remettre, c'est une violation de la loi que Mme VOLASOA peut signaler à la CSBF ou au mécanisme de réclamation prévu dans sa convention."
+        },
+        {
+          "numero": 4,
+          "question": "Le transfert des 800.000 Ar à la Caisse de dépôt était-il légal, et Mme VOLASOA peut-elle les récupérer ?",
+          "reponse_attendue": "Le transfert était LÉGAL — mais les formalités ont peut-être été mal respectées.\n\nL'article 134 prévoit que les comptes inactifs pendant 3 ans voient leurs fonds transférés à la Caisse de dépôt et de consignation. Avec 3,5 ans d'inactivité, la condition est remplie.\n\nCependant, la banque avait l'obligation d'avertir Mme VOLASOA par écrit 6 MOIS AVANT l'expiration du délai de 3 ans (art. 134 al. 2). Si elle ne l'a pas fait ou ne peut pas en apporter la preuve, elle a violé la loi.\n\nMme VOLASOA peut-elle récupérer ses 800.000 Ar ? OUI. Les fonds transférés à la Caisse de dépôt ne sont pas perdus — ils sont conservés au nom du titulaire. Mme VOLASOA peut se présenter à la Caisse de dépôt et de consignation pour les réclamer. Si la banque n'a pas respecté l'obligation d'information préalable, elle peut aussi réclamer des dommages-intérêts pour le préjudice causé par l'absence de notification."
+        }
+      ],
+      "lecon_tiree": "Ce cas pratique couvre 4 situations concrètes tirées de la vie bancaire quotidienne à Madagascar. Il illustre comment la loi n°2020-011 protège le client à chaque étape : modification tarifaire, fermeture de compte, refus de crédit, comptes inactifs. Connaître ses droits face à sa banque, c'est la première étape pour les défendre."
+    }
+  ],
+
+  "references_legales": [
+    { "article": "4", "sujet": "Définitions : risque systémique, inclusion financière, mobilité bancaire, compte de transaction" },
+    { "article": "5", "sujet": "Les trois opérations de banque — monopole bancaire" },
+    { "article": "6", "sujet": "Réception de fonds du public — définition et exclusions" },
+    { "article": "7", "sujet": "Opérations de crédit — définition et engagement par signature" },
+    { "article": "8", "sujet": "Le crédit-bail" },
+    { "article": "9", "sujet": "L'affacturage" },
+    { "article": "10", "sujet": "Le crédit participatif" },
+    { "article": "12", "sujet": "Mise à disposition et gestion des moyens de paiement" },
+    { "article": "13", "sujet": "Opérations connexes autorisées aux EC" },
+    { "article": "15-17", "sujet": "Les banques proprement dites et les banques de développement" },
+    { "article": "18-21", "sujet": "Les établissements financiers : épargne, spécialisés, affaires" },
+    { "article": "22", "sujet": "Les Institutions de Microfinance (IMF)" },
+    { "article": "23-26", "sujet": "Les autres prestataires de services bancaires" },
+    { "article": "27-33", "sujet": "Agrément — procédure, refus, retrait" },
+    { "article": "34-35", "sujet": "Mission et fonctions de la CSBF" },
+    { "article": "43-44", "sujet": "Contrôle permanent et contrôle sur place de la CSBF" },
+    { "article": "60", "sujet": "Sanctions disciplinaires de la CSBF" },
+    { "article": "86", "sujet": "Secret professionnel des membres de la CSBF" },
+    { "article": "122-124", "sujet": "Convention banque-client : obligations, preuve" },
+    { "article": "125-128", "sujet": "Droit au compte universel" },
+    { "article": "130-131", "sujet": "Résiliation de la convention — droits du client et de la banque" },
+    { "article": "132-133", "sujet": "Mobilité bancaire gratuite" },
+    { "article": "134-135", "sujet": "Comptes inactifs et transfert à la Caisse de dépôt" },
+    { "article": "136-140", "sujet": "Convention de crédit — obligations préalables, mentions obligatoires, préavis" },
+    { "article": "155-158", "sujet": "Protection des consommateurs — droit de rétractation, confidentialité, associations" },
+    { "article": "193-199", "sujet": "Fonds de garantie des dépôts — constitution, dépôts garantis et exclus" }
+  ]
+}
