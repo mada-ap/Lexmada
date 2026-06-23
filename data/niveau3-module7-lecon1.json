@@ -1,0 +1,875 @@
+{
+  "titre": "Le droit pénal spécial — crimes et délits courants",
+  "module": "Module 07 — Le droit pénal spécial : crimes et délits courants",
+  "niveau": "Avancé",
+  "contenu": [
+    {
+      "titre": "Le vol : soustraction frauduleuse et circonstances aggravantes",
+      "texte": "L'article 379 du Code pénal définit le vol de manière concise : quiconque a soustrait frauduleusement une chose qui ne lui appartient pas est coupable de vol. Trois éléments matériels sont requis : une soustraction (acte positif de déplacement de la chose, contre la volonté de son propriétaire), une chose mobilière (corporelle, susceptible d'être déplacée et d'avoir une valeur), et la fraudulence (la conscience et la volonté de s'approprier ce qui appartient à autrui). L'élément moral du vol est l'intention de s'approprier : il faut que l'auteur sache qu'il prend ce qui ne lui appartient pas. Une prise de bonne foi, même erronée, exclut le vol. Le vol simple entre certains proches — époux, ascendants/descendants directs — ne donne lieu qu'à des réparations civiles sans poursuite pénale (article 380). Le vol qualifié, en revanche, est aggravé par des circonstances précises. La peine maximale — les travaux forcés à perpétuité, depuis l'abolition de la peine de mort par la loi n° 2014-035 du 9 janvier 2015 — s'applique aux vols réunissant simultanément cinq circonstances : commis la nuit, par deux personnes ou plus, avec port d'armes, avec effraction/escalade/fausses clés dans un lieu habité ou par usurpation de qualité officielle, et avec violence ou menace d'usage d'armes (article 381). Le vol simple résiduel — toutes les soustractions non aggravées non spécifiquement qualifiées — est puni d'un emprisonnement d'un an à cinq ans, avec possibilité d'amende (article 401). L'effraction est définie à l'article 393 comme tout forcement, rupture, dégradation, enlèvement de murs, portes, serrures, cadenas ou autres dispositifs de fermeture.",
+      "definition": "Le vol est la soustraction frauduleuse d'une chose appartenant à autrui (art. 379). Son élément moral est l'intention d'appropriation. La peine va d'un an à cinq ans pour le vol simple (art. 401) jusqu'aux travaux forcés à perpétuité pour le vol avec les cinq circonstances aggravantes cumulées (art. 381). Depuis la loi n° 2014-035 du 9 janvier 2015, la peine de mort a été remplacée partout par les travaux forcés à perpétuité.",
+      "exemple": "Fidy entre la nuit dans une quincaillerie en forçant la serrure (effraction), armé d'un couteau, avec deux complices. Ils menacent le veilleur de nuit et emportent des marchandises. Toutes les circonstances aggravantes de l'article 381 sont réunies : nuit, plusieurs auteurs, armes, effraction dans un lieu servant à l'habitation ou au moins commercial, violence/menace. La peine maximale applicable est les travaux forcés à perpétuité. Si Fidy avait simplement pris des fruits sur un étal de marché sans violence ni nuit ni arme, c'est un vol simple : 1 à 5 ans d'emprisonnement."
+    },
+    {
+      "titre": "Meurtre et assassinat : l'homicide volontaire et ses degrés",
+      "texte": "L'article 295 pose la définition fondamentale : l'homicide commis volontairement est qualifié meurtre. L'élément moral essentiel est l'intention homicide — la volonté délibérée de donner la mort. Sans cette intention, même si la mort résulte de l'acte, la qualification de meurtre ne peut pas être retenue. Le meurtre simple est puni des travaux forcés à perpétuité (article 304 alinéa 2). L'assassinat est le meurtre aggravé par deux circonstances particulières définies aux articles 296 à 298 : la préméditation (le dessein formé à l'avance, avant l'action, d'attenter à la vie d'une personne déterminée ou même de quiconque serait rencontré) et le guet-apens (le fait d'attendre plus ou moins de temps, dans un ou plusieurs lieux, un individu pour lui donner la mort ou exercer des violences sur lui). Depuis la loi n° 2014-035 de 2015, l'assassinat est puni des travaux forcés à perpétuité — la peine de mort qui s'appliquait auparavant ayant été abolie. Le parricide (meurtre des père, mère ou ascendants légitimes, naturels ou adoptifs, article 299) et l'infanticide (meurtre d'un enfant nouveau-né, article 300) sont des formes spéciales de meurtre. L'empoisonnement (article 301) est tout attentat à la vie par l'effet de substances pouvant donner la mort, de quelque manière qu'elles aient été administrées et quelles qu'en aient été les suites : c'est une infraction formelle — elle est consommée dès l'administration, même si la victime survit. L'homicide involontaire (article 319) — commis par maladresse, imprudence, inattention, négligence ou inobservation des règlements — est puni de trois mois à deux ans d'emprisonnement et d'une amende : l'élément moral n'est pas l'intention mais la faute.",
+      "definition": "Le meurtre (art. 295) est l'homicide volontaire : intention de donner la mort + acte ayant causé la mort. Peine : travaux forcés à perpétuité. L'assassinat est le meurtre avec préméditation ou guet-apens (arts. 296-298), puni des travaux forcés à perpétuité depuis l'abolition de la peine de mort en 2015. L'homicide involontaire (art. 319) résulte d'une faute (imprudence, négligence) sans intention de tuer : 3 mois à 2 ans d'emprisonnement.",
+      "exemple": "Trois situations à distinguer : 1) Lors d'une bagarre spontanée, Rivo saisit une bouteille et frappe violemment Tafita à la tête, qui décède. L'intention homicide doit être établie pour retenir le meurtre ; si l'intention était de blesser sans vouloir tuer, la qualification sera différente. 2) Sylvain planifie pendant une semaine le meurtre de son associé, guette son passage sur un chemin et lui tire dessus : c'est un assassinat — préméditation prouvée par les préparatifs. 3) Un chauffeur de taxi-brousse distrait par son téléphone écrase un piéton qui décède : homicide involontaire par inobservation des règlements de la route — pas d'intention de tuer, mais une faute grave."
+    },
+    {
+      "titre": "Coups et blessures volontaires : le seuil des vingt jours",
+      "texte": "Les violences volontaires — coups et blessures — sont organisées en degrés de gravité par les articles 309 à 312, selon deux critères : la durée de l'incapacité de travail causée et l'existence d'une préméditation ou d'un guet-apens. Le seuil pivot est celui de vingt jours d'incapacité de travail. Lorsque les coups ou blessures ont causé une maladie ou une incapacité de travail de plus de vingt jours, l'infraction est qualifiée et punie de la réclusion (article 309). Si ce même fait a été commis avec préméditation ou guet-apens, la peine est portée aux travaux forcés à temps (article 310). Lorsque les coups ou blessures n'ont causé ni maladie ni incapacité de plus de vingt jours, la peine est l'emprisonnement d'un mois à deux ans et une amende (article 311) ; avec préméditation ou guet-apens, deux à cinq ans d'emprisonnement et amende. L'article 312 prévoit une aggravation automatique lorsque ces violences sont commises sur les père, mère, ou autres ascendants légitimes, naturels ou adoptifs : chaque niveau de peine monte d'un cran (ce qui était emprisonnement devient réclusion, ce qui était réclusion devient travaux forcés à temps, ce qui était travaux forcés à temps devient travaux forcés à perpétuité). Il faut distinguer les coups mortels sans intention de donner la mort : lorsque les coups sont portés volontairement mais que la mort survient sans que l'auteur l'ait voulu, l'infraction retenue n'est pas le meurtre (qui requiert l'intention homicide) mais une qualification intermédiaire appréciée par le juge au regard de toutes les circonstances — notamment le degré de violence employé.",
+      "definition": "Les coups et blessures volontaires sont gradués selon la durée de l'incapacité de travail causée. Seuil clé : 20 jours. Au-delà de 20 jours → réclusion (art. 309). En dessous de 20 jours → 1 mois à 2 ans d'emprisonnement (art. 311). La préméditation aggrave chaque niveau. Violences sur ascendants → aggravation automatique d'un cran (art. 312).",
+      "exemple": "Lors d'une dispute de voisinage, Jean frappe Marc avec un bâton. Le certificat médical constate une fracture de l'avant-bras entraînant 45 jours d'incapacité de travail. L'incapacité étant supérieure à 20 jours, l'infraction relève de l'article 309 : peine de réclusion. Si Jean avait attendu Marc le lendemain devant chez lui pour le frapper (guet-apens), l'article 310 s'applique : travaux forcés à temps. Si Marc avait été le père de Jean, l'article 312 élève encore la peine d'un niveau supplémentaire."
+    },
+    {
+      "titre": "L'escroquerie : manœuvres frauduleuses et remise consentie",
+      "texte": "L'article 405 du Code pénal définit l'escroquerie comme le fait, par l'emploi de certains procédés frauduleux, de se faire remettre ou délivrer des fonds, meubles, obligations, billets, promesses, quittances ou décharges, escroquant ainsi tout ou partie de la fortune d'autrui. La peine est d'un an à cinq ans d'emprisonnement et d'une amende. L'escroquerie se distingue du vol sur un point fondamental : dans le vol, la chose est prise contre la volonté de la victime ; dans l'escroquerie, la victime remet elle-même la chose, mais son consentement a été vicié par les manœuvres de l'auteur. L'article 405 énumère trois procédés frauduleux qui permettent de caractériser l'escroquerie : l'usage de faux noms ou de fausses qualités (se présenter sous une fausse identité ou une fausse profession) ; les manœuvres frauduleuses pour persuader de l'existence de fausses entreprises, d'un pouvoir ou crédit imaginaire (monter une mise en scène pour tromper) ; ou les manœuvres pour faire naître l'espérance ou la crainte d'un succès, d'un accident ou de tout autre événement chimérique. Un simple mensonge, même efficace, ne suffit pas à caractériser l'escroquerie : il faut des actes positifs, une mise en scène suffisamment élaborée pour tromper une personne raisonnable — c'est la différence entre le simple mensonge (non punissable sous cette qualification) et la manœuvre frauduleuse. L'intention frauduleuse — la conscience de tromper pour s'enrichir aux dépens d'autrui — est l'élément moral indispensable.",
+      "definition": "L'escroquerie (art. 405) est le fait d'obtenir la remise d'une chose par des procédés frauduleux : faux nom/qualité, manœuvres frauduleuses pour faire croire à de fausses entreprises ou créer des espérances chimériques. La victime remet volontairement la chose, mais son consentement est vicié. Peine : 1 à 5 ans d'emprisonnement + amende. Un simple mensonge ne suffit pas : il faut une mise en scène active.",
+      "exemple": "Un individu se présente à des commerçants de Mahajanga comme 'représentant du Ministère de l'Économie', montre de faux documents officiels et leur demande de verser des 'frais de dossier' pour accéder à un programme de subvention fictif. Plusieurs commerçants lui remettent volontairement de l'argent, bernés par la mise en scène. C'est une escroquerie caractérisée : fausse qualité officielle + manœuvres frauduleuses (faux documents) + remise consentie mais viciée par la tromperie. Si le même individu avait simplement affirmé oralement être un représentant sans aucun document, la qualification pourrait être discutée — le simple mensonge verbal sans mise en scène matérielle est insuffisant."
+    },
+    {
+      "titre": "L'abus de confiance : le détournement d'un bien remis légitimement",
+      "texte": "L'article 408 du Code pénal définit l'abus de confiance comme le fait de détourner ou dissiper, au préjudice du propriétaire, possesseur ou détenteur, des effets, deniers, marchandises, billets, quittances ou tous autres écrits contenant obligation ou décharge, qui n'ont été remis qu'à titre de dépôt ou pour un travail salarié, à la charge de les rendre ou de les représenter, ou d'en faire un usage ou emploi déterminé. La peine est celle prévue à l'article 406 : emprisonnement de deux mois à deux ans et amende. L'abus de confiance partage avec l'escroquerie le fait que la victime remet volontairement le bien — mais il en diffère fondamentalement : dans l'abus de confiance, la remise est parfaitement légitime et régulière au départ ; c'est l'usage ultérieur qui devient frauduleux. La remise doit avoir été faite à titre précaire — dépôt, mandat, prêt, travail salarié, louage — avec l'obligation de restituer ou d'en faire un usage déterminé. Ce qui est remis à titre de transfert de propriété (une vente) ne peut pas donner lieu à abus de confiance. L'élément matériel est le détournement ou la dissipation : utiliser le bien à des fins autres que celles convenues, le vendre, le donner, le consommer, le confondre avec son propre patrimoine. L'élément moral est l'intention frauduleuse — la volonté consciente de ne pas rendre ou de détourner à son profit. L'article 407 vise l'abus de blanc-seing : quiconque, abusant d'un document signé en blanc qu'on lui a confié, y inscrit frauduleusement une obligation ou décharge, est puni des mêmes peines.",
+      "definition": "L'abus de confiance (art. 408) est le détournement frauduleux d'un bien remis à titre précaire (dépôt, mandat, prêt, travail salarié) avec obligation de le restituer ou d'en faire un usage précis. La différence clé avec l'escroquerie : la remise est légale au départ, c'est l'usage ultérieur qui est frauduleux. Peine : 2 mois à 2 ans d'emprisonnement + amende.",
+      "exemple": "Un agent immobilier à Antananarivo perçoit des loyers pour le compte de propriétaires absents, avec mandat de les leur reverser chaque mois. Pendant six mois, il utilise ces sommes pour ses dépenses personnelles sans rien reverser. La remise des loyers était parfaitement régulière et légale (mandat de gestion) ; c'est leur détournement à des fins personnelles qui constitue l'abus de confiance. Comparez avec l'escroquerie : si ce même agent avait prétendu être propriétaire des appartements pour encaisser les loyers sans jamais avoir de mandat, il commettrait une escroquerie — la remise initiale étant elle-même obtenue par tromperie."
+    },
+    {
+      "titre": "Le viol et les attentats aux mœurs",
+      "texte": "L'article 331 dispose que quiconque a commis le crime de viol, ou est coupable de tout autre attentat à la pudeur, consommé ou tenté avec violence contre des individus de l'un ou l'autre sexe, est puni de la réclusion. Le viol est ainsi défini par deux éléments cumulatifs : un acte d'atteinte à la pudeur consommé ou tenté, et l'emploi de violence. L'article 332 aggrave la peine lorsque la victime est un enfant de moins de quinze ans accomplis : la peine devient les travaux forcés à temps. L'article 333 porte la peine aux travaux forcés à perpétuité (depuis l'abolition de la peine de mort) dans trois situations : si l'auteur appartient à la classe de ceux qui ont autorité sur la victime (parents, tuteurs) ; s'il est instituteur, serviteur, fonctionnaire public ou ministre d'un culte à l'égard de la victime ; ou si le coupable, quel qu'il soit, a été aidé dans son crime par une ou plusieurs personnes (commission en réunion). L'article 330 punit l'outrage public à la pudeur d'un emprisonnement de trois mois à un an et d'une amende : c'est une forme moins grave qui ne requiert pas de violence physique mais la réalisation publique d'un acte contraire à la pudeur. L'article 334 vise les atteintes aux mœurs par excitation, favorisation ou facilitation habituelle de la débauche ou de la corruption de la jeunesse de moins de vingt et un ans : peine d'emprisonnement de six mois à deux ans et amende. Si les auteurs sont les père, mère ou tuteurs de la victime, la peine est portée à deux à cinq ans d'emprisonnement.",
+      "definition": "Le viol (art. 331) est l'attentat à la pudeur commis avec violence : peine de réclusion. Aggravé si victime de moins de 15 ans → travaux forcés à temps (art. 332). Aggravé si auteur en position d'autorité, fonctionnaire ou commission en réunion → travaux forcés à perpétuité (art. 333). L'outrage public à la pudeur (art. 330) ne requiert pas de violence : 3 mois à 1 an d'emprisonnement.",
+      "exemple": "Trois situations distinctes illustrant les degrés de sévérité : 1) Un homme commet un viol sur une femme adulte avec violence : réclusion (art. 331). 2) Même crime commis sur une enfant de 12 ans : travaux forcés à temps (art. 332). 3) Un instituteur commet ce crime sur un élève de 12 ans avec l'aide d'un complice : travaux forcés à perpétuité — double aggravation cumulée (autorité de l'enseignant sur l'élève + commission en réunion, art. 333). La peine s'aggrave à chaque niveau parce que l'abus de vulnérabilité ou d'autorité est de plus en plus caractérisé."
+    },
+    {
+      "titre": "Le faux témoignage, l'escroquerie aux sûretés et les destructions volontaires",
+      "texte": "Le faux témoignage est défini par l'article 361 : quiconque est coupable de faux témoignage en matière criminelle, que ce soit contre l'accusé ou en sa faveur, est puni des travaux forcés à temps. Si l'accusé a été condamné à une peine plus forte que les travaux forcés à temps, le faux témoin qui a déposé contre lui subit la même peine que l'accusé. Le faux témoignage en matière correctionnelle ou de police est puni de la réclusion (article 362). Lorsque le faux témoin a reçu une rémunération pour sa déposition, la peine est les travaux forcés à temps en toutes matières (article 364). La subornation de témoins — le fait de corrompre un témoin pour le pousser au faux témoignage — est punie avec une sévérité croissante selon la peine qu'aurait entraîné le faux témoignage (article 365), pouvant atteindre les travaux forcés à perpétuité. Les destructions volontaires par incendie sont parmi les infractions les plus lourdement punies du Code pénal. L'article 434 prévoit que quiconque a volontairement mis le feu à des édifices, navires, magasins, chantiers, forêts, bois, récoltes ou matières combustibles placées de manière à communiquer le feu à ces choses, est puni des travaux forcés à perpétuité (peine de mort remplacée depuis 2015). Les destructions d'édifices par tout moyen (article 437) sont punies de la réclusion ; si l'acte cause mort ou blessures, la peine monte respectivement aux travaux forcés à perpétuité ou aux travaux forcés à temps.",
+      "definition": "Le faux témoignage (art. 361) en matière criminelle est puni des travaux forcés à temps, pouvant aller jusqu'à la même peine que l'accusé condamné. En matière correctionnelle ou de police : réclusion (art. 362). La subornation de témoins est encore plus sévèrement punie (art. 365). L'incendie volontaire (art. 434) est puni des travaux forcés à perpétuité depuis la loi de 2015 abolissant la peine de mort.",
+      "exemple": "Lors d'un procès pour meurtre, un complice dépose un faux témoignage pour accabler l'accusé principal, qui est condamné aux travaux forcés à perpétuité. Le faux témoin encourt alors lui-même les travaux forcés à perpétuité — la même peine que celle prononcée contre l'accusé qu'il a contribué à condamner injustement. Si ce témoin a reçu de l'argent pour sa déposition mensongère, les fonds qu'il a reçus seront en outre confisqués."
+    }
+  ],
+  "quiz": [
+    {
+      "question": "Quelle est la définition légale du vol selon l'article 379 du Code pénal malgache ?",
+      "choix": [
+        "L'obtention d'une chose par tromperie",
+        "La soustraction frauduleuse d'une chose qui n'appartient pas à l'auteur",
+        "L'appropriation de biens trouvés sur la voie publique",
+        "L'utilisation non autorisée d'un bien d'autrui"
+      ],
+      "reponse": 1,
+      "explication": "L'article 379 du Code pénal définit le vol de façon concise : quiconque a soustrait frauduleusement une chose qui ne lui appartient pas est coupable de vol. Trois éléments sont requis : une soustraction (acte positif), une chose ne lui appartenant pas, et la fraudulence (conscience et volonté d'appropriation illicite).",
+      "indices": [
+        "La définition tient en une seule phrase dans le Code.",
+        "Elle repose sur l'acte de 'soustraction', pas de 'remise'.",
+        "L'adverbe 'frauduleusement' indique l'élément moral."
+      ]
+    },
+    {
+      "question": "Quelle est la différence fondamentale entre le vol et l'escroquerie quant à la remise de la chose ?",
+      "choix": [
+        "Dans le vol comme dans l'escroquerie, la victime remet la chose volontairement",
+        "Dans le vol, la chose est prise contre la volonté de la victime ; dans l'escroquerie, la victime la remet elle-même mais sous l'effet de la tromperie",
+        "Le vol ne concerne que les biens immobiliers, l'escroquerie les biens mobiliers",
+        "Il n'y a aucune différence entre les deux infractions"
+      ],
+      "reponse": 1,
+      "explication": "C'est la différence fondamentale : dans le vol (art. 379), la soustraction est opérée par l'auteur contre la volonté du propriétaire. Dans l'escroquerie (art. 405), la victime remet elle-même la chose, mais son consentement a été vicié par les manœuvres frauduleuses de l'auteur. C'est l'existence ou non d'un consentement vicié qui distingue les deux infractions.",
+      "indices": [
+        "Pensez à qui effectue matériellement le transfert de la chose.",
+        "Dans l'une, la victime 'donne' en croyant faire quelque chose de légitime.",
+        "Dans l'autre, la chose lui est prise directement."
+      ]
+    },
+    {
+      "question": "Le vol entre époux ou entre ascendants et descendants directs est-il pénalement punissable selon l'article 380 ?",
+      "choix": [
+        "Oui, comme tout autre vol",
+        "Non, il ne donne lieu qu'à des réparations civiles",
+        "Oui, mais avec une peine réduite de moitié",
+        "Non, ces faits sont totalement impunis"
+      ],
+      "reponse": 1,
+      "explication": "L'article 380 prévoit une exception notable : les soustractions commises entre époux, entre enfants et parents ou autres ascendants/descendants directs, ne peuvent donner lieu qu'à des réparations civiles — sans poursuite pénale. La loi considère que ces conflits familiaux doivent se régler sur le plan civil (dommages-intérêts, restitution) plutôt que pénal. En revanche, tout tiers qui aurait recélé ou utilisé les objets ainsi soustraits reste punissable.",
+      "indices": [
+        "C'est une exception au régime général du vol.",
+        "Elle vise les relations familiales très proches.",
+        "Le droit civil prend le relais du droit pénal dans ces cas."
+      ]
+    },
+    {
+      "question": "Quelles sont les cinq circonstances aggravantes devant être TOUTES réunies pour atteindre la peine maximale du vol selon l'article 381 ?",
+      "choix": [
+        "Nuit, récidive, armes, violence, butin supérieur à 1 million Ar",
+        "Nuit, deux personnes ou plus, port d'armes, effraction/escalade/fausses clés ou usurpation de qualité officielle, violence ou menace d'usage d'armes",
+        "Nuit, lieu habité, violence, préméditation, fuite organisée",
+        "Récidive, armes, violence, victime vulnérable, complicité"
+      ],
+      "reponse": 1,
+      "explication": "L'article 381 exige la réunion simultanée et cumulative des cinq circonstances pour atteindre la peine maximale (travaux forcés à perpétuité depuis l'abolition de la peine de mort) : 1) vol commis la nuit, 2) par deux personnes ou plus, 3) avec port d'armes apparentes ou cachées, 4) avec effraction/escalade/fausses clés dans un lieu habité ou par usurpation de titre officiel, 5) avec violence ou menace d'user d'armes. Si l'une manque, on applique les articles 382 à 386 selon les circonstances présentes.",
+      "indices": [
+        "Il faut exactement cinq circonstances cumulatives.",
+        "La nuit est la première, la violence la dernière.",
+        "L'absence d'une seule fait descendre d'un niveau dans l'échelle des peines."
+      ]
+    },
+    {
+      "question": "Quelle peine s'applique au vol simple non aggravé selon l'article 401 du Code pénal ?",
+      "choix": [
+        "6 mois à 3 ans d'emprisonnement",
+        "1 an à 5 ans d'emprisonnement avec possibilité d'amende",
+        "Travaux forcés à temps",
+        "Réclusion"
+      ],
+      "reponse": 1,
+      "explication": "L'article 401 dispose que les vols non spécifiés dans les articles précédents (vols simples résiduels), les larcins et filouteries, ainsi que les tentatives de ces mêmes délits, sont punis d'un emprisonnement d'un an au moins et de cinq ans au plus, pouvant être accompagné d'une amende. Les coupables peuvent aussi être interdits de certains droits civiques pendant 5 à 10 ans après l'exécution de leur peine.",
+      "indices": [
+        "C'est la peine de droit commun pour le vol non aggravé.",
+        "La tentative de vol simple reçoit la même peine.",
+        "Elle est bien inférieure aux peines des vols aggravés."
+      ]
+    },
+    {
+      "question": "Quelle est la définition légale du meurtre selon l'article 295 du Code pénal ?",
+      "choix": [
+        "Tout acte ayant causé la mort d'autrui",
+        "L'homicide commis volontairement",
+        "L'homicide commis avec préméditation",
+        "La mort résultant de violences, quelle que soit l'intention"
+      ],
+      "reponse": 1,
+      "explication": "L'article 295 du Code pénal donne une définition brève et précise : 'L'homicide commis volontairement est qualifié meurtre.' L'élément moral central est la volonté — l'intention de donner la mort. Sans cette intention, même si la mort résulte des actes de l'auteur, la qualification de meurtre ne peut pas être retenue.",
+      "indices": [
+        "La définition tient en une phrase simple.",
+        "L'adverbe clé est 'volontairement'.",
+        "Ce qui distingue le meurtre de l'homicide involontaire est précisément l'intention."
+      ]
+    },
+    {
+      "question": "Quelle est la différence entre le meurtre et l'assassinat selon les articles 295 à 298 ?",
+      "choix": [
+        "Le meurtre utilise une arme, l'assassinat pas",
+        "L'assassinat est le meurtre aggravé par la préméditation ou le guet-apens",
+        "Le meurtre est commis sur un inconnu, l'assassinat sur un proche",
+        "L'assassinat requiert plusieurs auteurs"
+      ],
+      "reponse": 1,
+      "explication": "L'article 296 dispose que tout meurtre commis avec préméditation ou guet-apens est qualifié assassinat. La préméditation (art. 297) est le dessein formé avant l'action d'attenter à la vie d'une personne déterminée ou même de quiconque serait rencontré. Le guet-apens (art. 298) est le fait d'attendre plus ou moins de temps dans un ou plusieurs lieux un individu pour lui donner la mort ou exercer des violences. Ces deux éléments — préméditation et guet-apens — constituent les seules circonstances aggravantes transformant le meurtre en assassinat.",
+      "indices": [
+        "L'un est spontané, l'autre est planifié.",
+        "Deux circonstances seulement transforment le meurtre en assassinat.",
+        "La préméditation est un élément temporel : elle existe avant le passage à l'acte."
+      ]
+    },
+    {
+      "question": "Quelle est la peine pour l'assassinat à Madagascar depuis la loi n° 2014-035 du 9 janvier 2015 ?",
+      "choix": [
+        "La réclusion à perpétuité",
+        "Les travaux forcés à perpétuité",
+        "La peine de mort",
+        "Les travaux forcés à temps"
+      ],
+      "reponse": 1,
+      "explication": "Avant 2015, l'assassinat était puni de la peine de mort (art. 302 du Code pénal). La loi n° 2014-035 du 9 janvier 2015 a aboli la peine de mort à Madagascar et disposé à l'article 2 que 'dans tous les textes en vigueur prévoyant que la peine de mort est encourue, la référence à cette peine est remplacée par la peine des travaux forcés à perpétuité.' L'assassinat est donc désormais puni des travaux forcés à perpétuité.",
+      "indices": [
+        "La peine de mort a été abolie en 2015.",
+        "La loi d'abolition l'a remplacée par autre chose dans tous les textes.",
+        "C'est la peine la plus lourde encore existante dans le système malgache."
+      ]
+    },
+    {
+      "question": "Quelle est la peine pour le meurtre simple (sans préméditation ni guet-apens) selon l'article 304 ?",
+      "choix": [
+        "Réclusion à temps",
+        "Travaux forcés à perpétuité",
+        "5 à 10 ans d'emprisonnement",
+        "Travaux forcés à temps"
+      ],
+      "reponse": 1,
+      "explication": "L'article 304 alinéa 2 dispose que le meurtre simple (sans les circonstances aggravantes de l'assassinat) est puni des travaux forcés à perpétuité. Cette peine est identique à celle de l'assassinat depuis la loi de 2015, car les deux encouraient auparavant des peines différentes (travaux forcés à perpétuité pour le meurtre simple, peine de mort pour l'assassinat), mais aujourd'hui la peine maximale pour les deux est les travaux forcés à perpétuité.",
+      "indices": [
+        "C'est la peine prévue par l'article 304 al. 2.",
+        "Elle est distincte de la peine des coups mortels involontaires.",
+        "Elle suppose prouvée l'intention de donner la mort."
+      ]
+    },
+    {
+      "question": "Qu'est-ce que la préméditation au sens de l'article 297 du Code pénal ?",
+      "choix": [
+        "Le fait d'avoir déjà commis une infraction similaire auparavant",
+        "Le dessein formé avant l'action d'attenter à la vie d'une personne déterminée ou même de quiconque serait rencontré",
+        "Le fait d'utiliser une arme planifiée à l'avance",
+        "Le fait d'agir en groupe organisé"
+      ],
+      "reponse": 1,
+      "explication": "L'article 297 définit précisément la préméditation : elle consiste dans le dessein formé, avant l'action, d'attenter à la personne d'un individu déterminé, ou même de celui qui sera trouvé ou rencontré, quand même ce dessein serait dépendant de quelque circonstance ou condition. L'élément essentiel est la temporalité : la résolution criminelle doit être antérieure à l'action, même si la victime n'est pas précisément identifiée à l'avance.",
+      "indices": [
+        "La préméditation est toujours antérieure au passage à l'acte.",
+        "La victime peut être indéterminée au moment de la décision.",
+        "C'est la réflexion préalable qui la caractérise, pas l'impulsivité."
+      ]
+    },
+    {
+      "question": "Quel est le seuil d'incapacité de travail qui distingue les deux régimes principaux des coups et blessures volontaires ?",
+      "choix": [
+        "10 jours",
+        "20 jours",
+        "30 jours",
+        "45 jours"
+      ],
+      "reponse": 1,
+      "explication": "Le seuil pivot est celui de 20 jours d'incapacité de travail. Au-delà de 20 jours : peine de réclusion (art. 309). En dessous de 20 jours : emprisonnement d'un mois à deux ans et amende (art. 311). Ce seuil est apprécié par les médecins légistes ou les médecins certificateurs, et son établissement est souvent contesté dans les affaires pénales car il détermine directement la qualification retenue.",
+      "indices": [
+        "C'est un seuil précis mentionné explicitement dans le Code.",
+        "Au-delà, la peine est nettement plus sévère.",
+        "Ce seuil est établi par certificat médical."
+      ]
+    },
+    {
+      "question": "Quelle peine s'applique aux coups et blessures ayant causé plus de 20 jours d'incapacité de travail, sans préméditation ?",
+      "choix": [
+        "Emprisonnement de 1 mois à 2 ans",
+        "La réclusion",
+        "Les travaux forcés à temps",
+        "Emprisonnement de 2 à 5 ans"
+      ],
+      "reponse": 1,
+      "explication": "L'article 309 prévoit que les coups et blessures volontaires ayant causé une maladie ou une incapacité de travail de plus de 20 jours sont punis de la peine de réclusion. Si ces mêmes faits ont été commis avec préméditation ou guet-apens, la peine est portée aux travaux forcés à temps (art. 310).",
+      "indices": [
+        "La réclusion est une peine criminelle.",
+        "Elle s'applique dès que le seuil de 20 jours est dépassé.",
+        "La préméditation aggrave encore la peine d'un niveau supplémentaire."
+      ]
+    },
+    {
+      "question": "Comment l'article 312 aggrave-t-il les peines des coups et blessures commis sur un ascendant ?",
+      "choix": [
+        "Il double la durée de la peine",
+        "Chaque niveau de peine monte d'un cran automatiquement",
+        "Il ajoute une amende supplémentaire de 50%",
+        "Il impose la peine maximale quelle que soit la gravité des blessures"
+      ],
+      "reponse": 1,
+      "explication": "L'article 312 prévoit une aggravation systématique lorsque les faits des articles 309, 310 ou 311 sont commis envers les père, mère légitimes, naturels ou adoptifs, ou autres ascendants légitimes : si l'article prévoyait l'emprisonnement et l'amende → réclusion ; si l'article prévoyait la réclusion → travaux forcés à temps ; si l'article prévoyait les travaux forcés à temps → travaux forcés à perpétuité. C'est une aggravation automatique d'un cran à chaque niveau.",
+      "indices": [
+        "C'est une aggravation automatique, pas optionnelle.",
+        "Elle s'applique uniquement aux ascendants légitimes, naturels ou adoptifs.",
+        "Chaque niveau de la peine de base monte d'un degré."
+      ]
+    },
+    {
+      "question": "Quelle est la peine prévue par l'article 319 pour l'homicide involontaire ?",
+      "choix": [
+        "Réclusion à perpétuité",
+        "Travaux forcés à temps",
+        "Emprisonnement de 3 mois à 2 ans et amende",
+        "Emprisonnement de 1 à 5 ans"
+      ],
+      "reponse": 2,
+      "explication": "L'article 319 punit l'homicide involontaire — commis par maladresse, imprudence, inattention, négligence ou inobservation des règlements — d'un emprisonnement de trois mois à deux ans et d'une amende. La peine est bien moins sévère que pour le meurtre (travaux forcés à perpétuité) car l'élément moral est différent : il s'agit d'une faute, non d'une intention de tuer.",
+      "indices": [
+        "C'est une infraction non intentionnelle.",
+        "La peine est nettement plus légère que pour le meurtre.",
+        "L'accident de la route mortel par imprudence en est l'exemple classique."
+      ]
+    },
+    {
+      "question": "Quels sont les trois procédés frauduleux visés par l'article 405 qui permettent de caractériser l'escroquerie ?",
+      "choix": [
+        "Mensonge, falsification de documents, utilisation de fausses monnaies",
+        "Usage de faux noms/fausses qualités, manœuvres frauduleuses pour persuader de fausses entreprises/crédit imaginaire, manœuvres pour créer l'espérance ou la crainte d'un événement chimérique",
+        "Violence, menace, abus d'autorité",
+        "Fausse identité, faux témoignage, faux documents judiciaires"
+      ],
+      "reponse": 1,
+      "explication": "L'article 405 énumère précisément trois procédés frauduleux : 1) l'usage de faux noms ou de fausses qualités, 2) les manœuvres frauduleuses pour persuader de l'existence de fausses entreprises, d'un pouvoir ou crédit imaginaire, 3) les manœuvres pour faire naître l'espérance ou la crainte d'un succès, d'un accident ou de tout autre événement chimérique. Ces procédés impliquent une mise en scène active, pas un simple mensonge verbal.",
+      "indices": [
+        "Trois procédés distincts sont listés.",
+        "Tous impliquent une forme active de tromperie, au-delà du simple mensonge.",
+        "La mise en scène matérielle ou la fausse identité sont les plus courants."
+      ]
+    },
+    {
+      "question": "Pourquoi un simple mensonge verbal ne suffit-il pas à constituer l'escroquerie ?",
+      "choix": [
+        "Parce que les mensonges ne sont jamais punissables en droit pénal",
+        "Parce que l'escroquerie exige des manœuvres frauduleuses actives — une mise en scène suffisamment élaborée — et non un simple mensonge",
+        "Parce que l'escroquerie ne concerne que les biens immobiliers",
+        "Parce que la victime d'un mensonge ne peut pas se faire remettre une chose"
+      ],
+      "reponse": 1,
+      "explication": "La jurisprudence et la doctrine distinguent le mensonge simple — qui n'est pas punissable au titre de l'escroquerie — des manœuvres frauduleuses qui impliquent une mise en scène active, l'utilisation de faux documents, la création d'un environnement trompeur suffisamment élaboré pour convaincre une personne raisonnable. Affirmer oralement être médecin pour obtenir de l'argent est un mensonge ; se présenter avec un faux diplôme encadré dans un bureau pour obtenir de l'argent est une manœuvre frauduleuse.",
+      "indices": [
+        "La loi exige des 'manœuvres', pas seulement des 'mots'.",
+        "Un acte matériel de mise en scène est nécessaire.",
+        "C'est la différence entre dire un mensonge et construire une illusion."
+      ]
+    },
+    {
+      "question": "Quelle est la peine prévue par l'article 405 pour l'escroquerie ?",
+      "choix": [
+        "6 mois à 3 ans d'emprisonnement",
+        "1 an à 5 ans d'emprisonnement et amende",
+        "Travaux forcés à temps",
+        "Réclusion"
+      ],
+      "reponse": 1,
+      "explication": "L'article 405 prévoit pour l'escroquerie une peine d'emprisonnement d'un an au moins et de cinq ans au plus, accompagnée d'une amende. Le condamné peut en outre être interdit, pendant cinq à dix ans après l'exécution de sa peine, de certains droits civiques. Cette peine est identique à celle du vol simple de l'article 401.",
+      "indices": [
+        "La peine plancher est d'un an.",
+        "La peine plafond est de cinq ans.",
+        "Une amende peut s'y ajouter."
+      ]
+    },
+    {
+      "question": "Quelle est la différence fondamentale entre l'abus de confiance et l'escroquerie quant à la légitimité de la remise initiale ?",
+      "choix": [
+        "Dans les deux infractions, la remise initiale est illégale",
+        "Dans l'abus de confiance, la remise initiale est parfaitement légitime et régulière ; dans l'escroquerie, elle est obtenue par tromperie dès le départ",
+        "Dans l'abus de confiance, il n'y a pas de remise de bien",
+        "Les deux infractions sont identiques mais avec des peines différentes"
+      ],
+      "reponse": 1,
+      "explication": "C'est la différence essentielle : dans l'abus de confiance (art. 408), la remise du bien est parfaitement régulière et légale au départ — dépôt, mandat, prêt, travail salarié — et c'est l'usage ultérieur qui devient frauduleux. Dans l'escroquerie (art. 405), la remise elle-même est obtenue par la tromperie dès le commencement. L'abus de confiance trahit une relation de confiance préalablement établie ; l'escroquerie l'instaure artificiellement.",
+      "indices": [
+        "Dans l'une, la relation de confiance est réelle au départ et trahie ensuite.",
+        "Dans l'autre, la 'confiance' de la victime est construite artificiellement pour lui soutirer quelque chose.",
+        "Le mandataire qui détourne les fonds de son mandant vs. l'escroc qui prétend être un mandataire sans l'être."
+      ]
+    },
+    {
+      "question": "Quels types de biens et dans quels cadres l'article 408 prévoit-il que l'abus de confiance peut être commis ?",
+      "choix": [
+        "Uniquement de l'argent, remis en prêt",
+        "Effets, deniers, marchandises, billets, quittances ou écrits, remis à titre de dépôt ou pour un travail salarié, à charge de les rendre ou d'en faire un usage déterminé",
+        "Uniquement des biens immobiliers mis en location",
+        "Uniquement des titres de propriété remis chez un notaire"
+      ],
+      "reponse": 1,
+      "explication": "L'article 408 vise une liste large de biens : effets, deniers (argent), marchandises, billets, quittances ou tous autres écrits contenant obligation ou décharge. Ces biens doivent avoir été remis dans un cadre précaire : à titre de dépôt, ou pour un travail salarié, à la charge de les rendre, les représenter, ou d'en faire un usage ou emploi déterminé. La condition essentielle est l'obligation de restitution ou d'usage déterminé.",
+      "indices": [
+        "La liste de biens est large et non exhaustive.",
+        "Le cadre de la remise est toujours précaire (obligation de restituer ou d'usage déterminé).",
+        "Un transfert de propriété definitif ne peut pas donner lieu à abus de confiance."
+      ]
+    },
+    {
+      "question": "Qu'est-ce que l'abus de blanc-seing prévu à l'article 407 ?",
+      "choix": [
+        "L'utilisation d'un chèque sans provision",
+        "Le fait d'inscrire frauduleusement une obligation sur un document signé en blanc par autrui et qui avait été confié à l'auteur",
+        "La signature d'un contrat sous contrainte",
+        "L'utilisation d'une signature électronique falsifiée"
+      ],
+      "reponse": 1,
+      "explication": "L'article 407 vise spécifiquement l'abus de blanc-seing : quiconque, abusant d'un blanc-seing (un document signé mais sans contenu, remis en confiance) qui lui a été confié, y inscrit frauduleusement une obligation, une décharge ou tout autre acte pouvant compromettre la personne ou la fortune du signataire, est puni des mêmes peines que l'escroquerie. Si le blanc-seing n'avait pas été confié mais avait été dérobé, l'auteur serait poursuivi comme faussaire.",
+      "indices": [
+        "Un 'blanc-seing' est un document signé à l'avance, laissé vierge.",
+        "L'élément clé est que ce document avait été confié volontairement.",
+        "L'auteur exploite la confiance de celui qui lui a remis le document signé."
+      ]
+    },
+    {
+      "question": "Quelle est la peine prévue par l'article 331 pour le viol commis avec violence ?",
+      "choix": [
+        "Emprisonnement de 5 à 10 ans",
+        "La réclusion",
+        "Les travaux forcés à temps",
+        "Les travaux forcés à perpétuité"
+      ],
+      "reponse": 1,
+      "explication": "L'article 331 dispose que quiconque a commis le crime de viol, ou est coupable de tout autre attentat à la pudeur consommé ou tenté avec violence contre des individus de l'un ou l'autre sexe, est puni de la réclusion. C'est la peine de base, applicable au viol simple sans circonstances aggravantes.",
+      "indices": [
+        "C'est la peine de base de l'article 331.",
+        "Elle monte avec les circonstances aggravantes des articles 332 et 333.",
+        "La réclusion est une peine criminelle, moins lourde que les travaux forcés."
+      ]
+    },
+    {
+      "question": "Comment la peine pour viol est-elle aggravée lorsque la victime a moins de 15 ans selon l'article 332 ?",
+      "choix": [
+        "Elle passe de la réclusion aux travaux forcés à perpétuité",
+        "Elle passe de la réclusion aux travaux forcés à temps",
+        "Elle double simplement la durée de la peine de base",
+        "Elle reste la réclusion mais dans son maximum"
+      ],
+      "reponse": 1,
+      "explication": "L'article 332 prévoit une aggravation lorsque le crime a été commis sur la personne d'un enfant de moins de quinze ans accomplis : la peine passe de la réclusion (peine de base, art. 331) aux travaux forcés à temps. C'est donc une aggravation d'un niveau dans l'échelle des peines criminelles, en raison de la vulnérabilité particulière de la victime mineure.",
+      "indices": [
+        "La peine monte d'un niveau par rapport à l'article 331.",
+        "L'âge limite est 15 ans accomplis.",
+        "Les travaux forcés à temps sont plus lourds que la réclusion."
+      ]
+    },
+    {
+      "question": "Dans quelles trois situations l'article 333 porte-t-il la peine pour viol aux travaux forcés à perpétuité ?",
+      "choix": [
+        "Récidive, armes, victime handicapée",
+        "Auteur ayant autorité sur la victime, auteur fonctionnaire public/instituteur/ministre du culte, commission en réunion (avec aide d'une ou plusieurs personnes)",
+        "Victime mineure de moins de 10 ans, violence avec arme, séquestration de la victime",
+        "Préméditation, guet-apens, utilisation d'un véhicule"
+      ],
+      "reponse": 1,
+      "explication": "L'article 333 prévoit les travaux forcés à perpétuité (anciennement la peine de mort, remplacée depuis 2015) dans trois hypothèses : 1) si l'auteur appartient à la classe de ceux qui ont autorité sur la victime (parents, tuteur) ; 2) si l'auteur est instituteur, serviteur à gages de la victime, fonctionnaire public ou ministre d'un culte à son égard ; 3) si le coupable, quel qu'il soit, a été aidé dans son crime par une ou plusieurs personnes (commission en réunion). Ces trois hypothèses peuvent se cumuler.",
+      "indices": [
+        "Trois situations distinctes sont prévues.",
+        "L'une concerne la position d'autorité de l'auteur.",
+        "L'autre concerne le nombre d'auteurs impliqués."
+      ]
+    },
+    {
+      "question": "Qu'est-ce que l'outrage public à la pudeur selon l'article 330, et quelle est sa peine ?",
+      "choix": [
+        "Un acte de violence sexuelle ; réclusion",
+        "Un acte contraire à la pudeur accompli en public, sans nécessité de violence ; 3 mois à 1 an d'emprisonnement et amende",
+        "La diffusion d'images indécentes ; 1 à 5 ans d'emprisonnement",
+        "Tout comportement sexuellement inapproprié ; amende uniquement"
+      ],
+      "reponse": 1,
+      "explication": "L'article 330 punit quiconque a commis un outrage public à la pudeur d'un emprisonnement de trois mois à un an et d'une amende. Contrairement au viol (art. 331) qui requiert un acte avec violence, l'outrage public à la pudeur concerne les actes contraires à la pudeur accomplis en public, sans qu'il soit nécessaire de prouver l'emploi de la violence — c'est la publicité de l'acte qui est sanctionnée.",
+      "indices": [
+        "Il ne requiert pas de violence, contrairement au viol.",
+        "La 'publicité' de l'acte est l'élément clé.",
+        "Sa peine est bien moins lourde que celle du viol."
+      ]
+    },
+    {
+      "question": "Quelle est la peine pour le faux témoignage en matière criminelle contre l'accusé selon l'article 361 ?",
+      "choix": [
+        "Emprisonnement de 2 à 5 ans",
+        "Les travaux forcés à temps",
+        "La réclusion",
+        "L'amende uniquement"
+      ],
+      "reponse": 1,
+      "explication": "L'article 361 dispose que quiconque est coupable de faux témoignage en matière criminelle, qu'il soit contre l'accusé ou en sa faveur, est puni des travaux forcés à temps. Si l'accusé a cependant été condamné à une peine plus forte que les travaux forcés à temps, le faux témoin qui a déposé contre lui subira cette même peine — ce qui peut aller jusqu'aux travaux forcés à perpétuité.",
+      "indices": [
+        "La peine de base est les travaux forcés à temps.",
+        "Elle peut être aggravée si l'accusé a été condamné encore plus sévèrement.",
+        "Le sens du faux témoignage (pour ou contre) n'importe pas pour la peine de base."
+      ]
+    },
+    {
+      "question": "Quelle est la peine pour le faux témoignage en matière correctionnelle ou de police selon l'article 362 ?",
+      "choix": [
+        "Les travaux forcés à temps",
+        "La réclusion",
+        "Emprisonnement de 1 à 3 ans",
+        "Amende uniquement"
+      ],
+      "reponse": 1,
+      "explication": "L'article 362 prévoit que le faux témoignage en matière correctionnelle ou de police — contrairement au faux témoignage en matière criminelle (art. 361) — est puni de la réclusion. Ce régime différencié correspond à la graduation de la gravité des procédures : les affaires criminelles sont plus graves, d'où une peine plus lourde (travaux forcés à temps) pour le faux témoignage en matière criminelle.",
+      "indices": [
+        "La peine est la réclusion, différente de celle prévue en matière criminelle.",
+        "Cette distinction suit la hiérarchie des juridictions.",
+        "En matière criminelle la peine est plus lourde qu'en matière correctionnelle."
+      ]
+    },
+    {
+      "question": "Quelle conséquence l'article 364 prévoit-il si le faux témoin a reçu de l'argent pour sa déposition ?",
+      "choix": [
+        "La peine de base reste inchangée",
+        "La peine devient les travaux forcés à temps dans tous les cas, et ce qui a été reçu est confisqué",
+        "L'amende est simplement doublée",
+        "La peine de base est triplée"
+      ],
+      "reponse": 1,
+      "explication": "L'article 364 prévoit deux conséquences lorsque le faux témoin a reçu une rémunération pour sa déposition : d'abord, la peine est les travaux forcés à temps en toute matière (criminelle, correctionnelle ou de police) ; ensuite, dans tous les cas, ce que le faux témoin a reçu sera confisqué. La corruption du processus judiciaire est ainsi plus lourdement sanctionnée que le simple faux témoignage non rémunéré.",
+      "indices": [
+        "La rémunération aggrave la peine de base.",
+        "Une mesure de confiscation s'y ajoute systématiquement.",
+        "C'est une protection de l'intégrité du processus judiciaire."
+      ]
+    },
+    {
+      "question": "Qu'est-ce que la subornation de témoins selon l'article 365 ?",
+      "choix": [
+        "Le fait de menacer physiquement un témoin pour l'empêcher de témoigner",
+        "Le fait de corrompre un témoin pour le pousser à faire un faux témoignage",
+        "Le fait de témoigner à la place d'une autre personne",
+        "Le fait de refuser de témoigner malgré une convocation légale"
+      ],
+      "reponse": 1,
+      "explication": "La subornation de témoins consiste à corrompre un témoin — par des dons, promesses ou pressions — pour qu'il fasse un faux témoignage. L'article 365 la punit avec une sévérité croissante selon ce qu'aurait entraîné le faux témoignage : travaux forcés à temps si le faux témoignage aurait mérité la réclusion ; travaux forcés à perpétuité si le faux témoignage aurait mérité les travaux forcés à temps ou à perpétuité ; voire la même peine maximale dans les cas les plus graves.",
+      "indices": [
+        "C'est l'infraction de celui qui corrompt, pas du faux témoin lui-même.",
+        "Sa peine est indexée sur la gravité du faux témoignage corrompu.",
+        "Elle peut atteindre les travaux forcés à perpétuité."
+      ]
+    },
+    {
+      "question": "Quelle peine l'article 434 prévoit-il pour l'incendie volontaire d'édifices, forêts ou récoltes depuis la loi de 2015 ?",
+      "choix": [
+        "La réclusion",
+        "Les travaux forcés à perpétuité",
+        "Les travaux forcés à temps",
+        "Emprisonnement de 5 à 10 ans"
+      ],
+      "reponse": 1,
+      "explication": "L'article 434 prévoyait originellement la peine de mort pour l'incendie volontaire d'édifices, navires, magasins, chantiers, forêts, bois, récoltes, etc. Depuis la loi n° 2014-035 du 9 janvier 2015 abolissant la peine de mort et la remplaçant partout par les travaux forcés à perpétuité, l'incendie volontaire est désormais puni des travaux forcés à perpétuité. C'est l'une des infractions les plus lourdement sanctionnées du Code pénal.",
+      "indices": [
+        "Cette infraction était punissable de la peine de mort avant 2015.",
+        "La loi d'abolition a remplacé la peine de mort par quelque chose de précis.",
+        "C'est la peine la plus lourde encore existante dans le système malgache."
+      ]
+    },
+    {
+      "question": "Quelle peine l'article 437 prévoit-il pour la destruction volontaire d'édifices ou constructions par tout moyen ?",
+      "choix": [
+        "Emprisonnement de 2 à 5 ans",
+        "La réclusion, portée aux travaux forcés à perpétuité si mort résulte de l'acte",
+        "Les travaux forcés à temps dans tous les cas",
+        "Amende uniquement si le bien appartient à l'État"
+      ],
+      "reponse": 1,
+      "explication": "L'article 437 punit la destruction volontaire d'édifices, ponts, digues ou autres constructions appartenant à autrui de la réclusion, plus une amende. Si l'acte a causé la mort d'une personne, la peine est portée aux travaux forcés à perpétuité (anciennement la peine de mort) ; si l'acte a causé des blessures sans entraîner la mort, la peine est les travaux forcés à temps.",
+      "indices": [
+        "La peine de base est la réclusion.",
+        "Elle peut s'aggraver considérablement si des personnes sont blessées ou tuées.",
+        "Le résultat (mort ou blessures) détermine le niveau d'aggravation."
+      ]
+    },
+    {
+      "question": "Le vol est-il constitué si l'auteur pensait de bonne foi que la chose lui appartenait ?",
+      "choix": [
+        "Oui, peu importe ce que l'auteur croyait",
+        "Non, l'intention frauduleuse (conscience de prendre ce qui appartient à autrui) est indispensable",
+        "Oui, car l'erreur n'est pas une excuse en droit pénal",
+        "Cela dépend de la valeur de la chose prise"
+      ],
+      "reponse": 1,
+      "explication": "L'élément moral du vol est l'intention frauduleuse : la conscience et la volonté de s'approprier une chose que l'on sait appartenir à autrui. Une prise de bonne foi, même erronée — par exemple prendre un objet identique au sien en croyant se tromper — exclut cet élément moral et donc la qualification de vol. Sans intention frauduleuse prouvée, le tribunal ne peut pas condamner pour vol.",
+      "indices": [
+        "L'adverbe 'frauduleusement' dans l'art. 379 renvoie à l'élément moral.",
+        "La bonne foi, même erronée, exclut la fraude.",
+        "C'est une application de la règle générale selon laquelle l'élément moral est requis pour les infractions intentionnelles."
+      ]
+    },
+    {
+      "question": "La tentative de vol simple est-elle punissable selon l'article 401 ?",
+      "choix": [
+        "Non, seule la tentative de vol aggravé est punissable",
+        "Oui, l'article 401 punit expressément la tentative de vol simple au même titre que le vol consommé",
+        "Non, la tentative de délit n'est jamais punissable en droit malgache",
+        "Oui, mais avec une peine réduite de moitié"
+      ],
+      "reponse": 1,
+      "explication": "L'article 401 prévoit expressément que les tentatives de ces mêmes délits (les vols résiduels non aggravés, larcins et filouteries) sont punies des mêmes peines que les infractions consommées. C'est une exception à la règle générale selon laquelle la tentative de délit n'est punissable que si la loi le prévoit expressément — ici, la loi le prévoit explicitement.",
+      "indices": [
+        "L'article 401 mentionne expressément 'ainsi que les tentatives de ces mêmes délits'.",
+        "C'est une application du régime de la tentative des délits (punissable uniquement si la loi le prévoit).",
+        "La peine de la tentative est identique à celle du délit consommé."
+      ]
+    },
+    {
+      "question": "Comment qualifie-t-on pénalement le fait d'attendre de nuit dans une ruelle qu'une personne identifiée passe pour l'agresser et la dépouiller ?",
+      "choix": [
+        "Vol simple",
+        "Vol aggravé avec au moins guet-apens et circonstances de nuit",
+        "Tentative de meurtre uniquement",
+        "Abus de confiance"
+      ],
+      "reponse": 1,
+      "explication": "Ce comportement cumule plusieurs qualifications : c'est d'abord un vol (soustraction de biens d'autrui), aggravé par plusieurs circonstances (nuit, guet-apens préparé, éventuellement violence). Le fait d'attendre une personne identifiée dans un lieu précis pour l'agresser caractérise le guet-apens (art. 298 : attendre plus ou moins de temps dans un ou plusieurs lieux un individu). Si des coups sont portés, les coups et blessures volontaires peuvent se cumuler avec le vol. L'identification et la sévérité exacte dépendent des circonstances précises de l'acte.",
+      "indices": [
+        "L'attente planifiée d'une victime dans un lieu précis correspond au guet-apens.",
+        "Le vol nocturne est une circonstance aggravante de l'article 381.",
+        "Plusieurs qualifications peuvent se cumuler sur les mêmes faits."
+      ]
+    },
+    {
+      "question": "Quel article du Code pénal vise spécifiquement l'extorsion par la contrainte de la signature d'un écrit, d'un acte ou d'une quittance ?",
+      "choix": [
+        "Article 401",
+        "Article 405",
+        "Article 400",
+        "Article 408"
+      ],
+      "reponse": 2,
+      "explication": "L'article 400 punit des travaux forcés à temps quiconque aura extorqué par force, violence ou contrainte la signature ou la remise d'un écrit, d'un acte, d'un titre, d'une pièce quelconque contenant ou opérant obligation, disposition ou décharge. C'est une infraction distincte du vol et de l'escroquerie : elle concerne spécifiquement l'extorsion d'écrits ou d'actes, par la contrainte physique ou morale.",
+      "indices": [
+        "Ce n'est pas une soustraction (vol) ni une tromperie (escroquerie).",
+        "C'est la contrainte — force ou violence — qui caractérise cette infraction.",
+        "Elle vise spécifiquement les actes contenant obligation ou décharge."
+      ]
+    },
+    {
+      "question": "Comment l'empoisonnement se distingue-t-il des autres formes d'homicide au regard de l'élément matériel selon l'article 301 ?",
+      "choix": [
+        "L'empoisonnement est une infraction matérielle qui exige le décès de la victime",
+        "L'empoisonnement est une infraction formelle consommée dès l'administration des substances, même si la victime survit",
+        "L'empoisonnement n'est punissable que si la victime est décédée",
+        "L'empoisonnement est identique au meurtre, sauf sur le mode opératoire"
+      ],
+      "reponse": 1,
+      "explication": "L'article 301 définit l'empoisonnement comme tout attentat à la vie par l'effet de substances pouvant donner la mort, de quelque manière qu'elles aient été employées ou administrées, et 'quelles qu'en aient été les suites'. Cette précision finale est décisive : l'infraction est consommée dès l'administration des substances mortifères, même si la victime survit grâce à une intervention médicale. C'est une infraction formelle, consommée par l'emploi du moyen, indépendamment du résultat.",
+      "indices": [
+        "La formule 'quelles qu'en aient été les suites' est le cœur de la définition.",
+        "Le résultat (la mort) n'est pas un élément constitutif.",
+        "C'est l'exemple classique d'infraction formelle mentionné dans le module 6."
+      ]
+    },
+    {
+      "question": "Peut-on être poursuivi à la fois pour faux témoignage et pour subornation de témoins pour les mêmes faits ?",
+      "choix": [
+        "Non, les deux infractions s'excluent mutuellement",
+        "Non, seule la subornation de témoins s'applique si de l'argent a été versé",
+        "Non, en principe on ne peut poursuivre qu'une seule personne par rôle joué",
+        "Oui : le faux témoin répond de son propre témoignage et le suborneur répond de la corruption qu'il a organisée, ce sont deux infractions distinctes commises par deux auteurs différents"
+      ],
+      "reponse": 3,
+      "explication": "La subornation de témoins (art. 365) et le faux témoignage (arts. 361-364) sont deux infractions distinctes impliquant des auteurs différents : le faux témoin est poursuivi pour avoir fait une déposition mensongère, le suborneur pour avoir corrompu ce témoin. Les deux peuvent être poursuivis simultanément pour leurs actes respectifs. L'article 365 précise même que le coupable de subornation sera condamné à une peine équivalente ou supérieure à celle du faux témoin.",
+      "indices": [
+        "Deux personnes, deux infractions distinctes.",
+        "Le suborneur et le suborné peuvent tous deux être poursuivis.",
+        "La peine du suborneur suit ou dépasse celle du faux témoin."
+      ]
+    },
+    {
+      "question": "En droit pénal spécial malgache, la qualification 'assassinat' requiert-elle que la victime soit identifiée à l'avance ?",
+      "choix": [
+        "Oui, sans identification préalable de la victime, il ne peut y avoir d'assassinat",
+        "Non, l'article 297 précise que la préméditation peut viser un individu déterminé ou même celui qui sera trouvé ou rencontré",
+        "Oui, mais une description physique générale suffit",
+        "Non, mais uniquement en cas de guet-apens"
+      ],
+      "reponse": 1,
+      "explication": "L'article 297 prévoit explicitement que la préméditation consiste dans le dessein formé avant l'action d'attenter à la personne d'un individu déterminé 'ou même de celui qui sera trouvé ou rencontré'. L'assassinat peut donc être retenu même si l'auteur n'avait pas identifié précisément sa victime à l'avance, dès lors que la résolution criminelle préexistait à l'action.",
+      "indices": [
+        "L'article 297 contient une formule importante à propos de la victime.",
+        "La victime peut être indéterminée au moment de la décision.",
+        "Ce qui compte, c'est l'antériorité de la décision criminelle, pas l'identité de la victime."
+      ]
+    },
+    {
+      "question": "L'article 380 qui exclut les poursuites pénales pour vol entre proches s'applique-t-il à un voisin ayant recelé les biens volés par le fils au père ?",
+      "choix": [
+        "Oui, le voisin bénéficie aussi de l'exclusion familiale",
+        "Non, l'article 380 précise que les tiers qui recelleraient ces biens restent punissables comme coupables de vol",
+        "Oui, car il n'a pas lui-même soustrait les biens",
+        "Non, mais sa peine est réduite de moitié"
+      ],
+      "reponse": 1,
+      "explication": "L'article 380 alinéa 2 est explicite : 'A l'égard de tous autres individus qui auraient recélé ou appliqué à leur profit tout ou partie des objets volés, ils seront punis comme coupables de vol.' L'exception familiale ne bénéficie qu'aux membres de la famille entre lesquels la soustraction a été commise — elle ne profite jamais aux tiers qui participeraient au recel des biens ainsi obtenus.",
+      "indices": [
+        "La protection familiale est strictement personnelle.",
+        "Elle ne s'étend jamais aux tiers, même bienveillants.",
+        "Le recel est expressément visé par l'article 380 alinéa 2."
+      ]
+    },
+    {
+      "question": "L'effraction est-elle définie dans le Code pénal malgache, et si oui, comment ?",
+      "choix": [
+        "Non, c'est une notion laissée à l'appréciation du juge",
+        "Oui, l'article 393 la définit comme tout forcement, rupture, dégradation, enlèvement de murs, portes, serrures, cadenas ou autres dispositifs de fermeture",
+        "Oui, elle désigne uniquement le bris de vitre",
+        "Non, le Code pénal n'utilise pas ce terme"
+      ],
+      "reponse": 1,
+      "explication": "L'article 393 du Code pénal définit précisément l'effraction : elle consiste en tout forcement, rupture, dégradation, enlèvement de murs, portes, fenêtres, serrures, cadenas ou autres dispositifs de fermeture. Elle peut aussi résulter de fausses clés (article 394) ou de l'escalade (article 395). Ces définitions légales sont importantes car l'effraction est l'une des circonstances aggravantes du vol.",
+      "indices": [
+        "C'est l'article 393 qui la définit.",
+        "Elle couvre plusieurs types d'actes physiques distincts.",
+        "Les fausses clés et l'escalade font l'objet d'articles séparés (394 et 395)."
+      ]
+    },
+    {
+      "question": "Le vol à la tire (pickpocket) — subtilisation d'un portefeuille dans la poche d'une victime dans un marché bondé — est-il constitutif d'un vol avec ou sans circonstances aggravantes ?",
+      "choix": [
+        "Vol aggravé car commis dans un lieu public",
+        "Vol simple car il n'y a ni effraction, ni nuit, ni armes, ni violence",
+        "Escroquerie car la victime est distraite",
+        "Abus de confiance car la foule crée une relation de proximité"
+      ],
+      "reponse": 1,
+      "explication": "Le vol à la tire est une soustraction frauduleuse sans circonstances aggravantes particulières de l'article 381 : il ne comporte ni nuit, ni effraction, ni armes, ni violence, ni pluralité nécessaire d'auteurs dans un lieu habité. Il relève donc du vol simple de l'article 401, puni d'un an à cinq ans d'emprisonnement. Le fait que la victime soit distraite est le modus operandi, mais ne change pas la nature du vol.",
+      "indices": [
+        "Vérifiez si l'une des cinq circonstances aggravantes de l'art. 381 est présente.",
+        "L'absence de toutes ces circonstances renvoie à la qualification résiduelle.",
+        "Le vol à la tire n'implique ni violence ni effraction."
+      ]
+    },
+    {
+      "question": "Quelle est la qualification pénale du fait de s'introduire dans un immeuble habité en escaladant un mur et en cassant une fenêtre pour voler, commis de jour par une seule personne sans arme ni violence ?",
+      "choix": [
+        "Vol simple (art. 401) car commis de jour",
+        "Vol aggravé par effraction et escalade dans un lieu habité (arts. 385-390), mais pas la peine maximale de l'art. 381 qui requiert toutes les cinq circonstances cumulées",
+        "Simple violation de domicile sans vol",
+        "Tentative d'escroquerie"
+      ],
+      "reponse": 1,
+      "explication": "Ce vol présente deux circonstances aggravantes : l'effraction (cassure de fenêtre, art. 393) et l'escalade (franchissement du mur, art. 395), commises dans un lieu habité (art. 390). Mais il manque plusieurs des cinq circonstances de l'article 381 (pas de nuit, un seul auteur, pas d'armes, pas de violence). On applique donc les articles 385-390 qui prévoient des peines intermédiaires pour certaines combinaisons de circonstances aggravantes, sans atteindre la peine maximale réservée au cumul des cinq.",
+      "indices": [
+        "L'article 381 exige toutes les cinq circonstances cumulativement.",
+        "Les articles 382-390 traitent des combinaisons partielles.",
+        "La présence de deux circonstances seulement donne une peine intermédiaire."
+      ]
+    },
+    {
+      "question": "Qu'est-ce que le recel et en quoi est-il lié au vol ?",
+      "choix": [
+        "Le recel est le vol commis par un revendeur",
+        "Le recel est le fait de détenir sciemment, utiliser ou transmettre une chose provenant d'un crime ou délit, sachant qu'elle a été frauduleusement obtenue",
+        "Le recel est uniquement le fait de cacher physiquement un criminel",
+        "Le recel est une infraction qui ne s'applique qu'aux biens immobiliers"
+      ],
+      "reponse": 1,
+      "explication": "Le recel est l'infraction connexe au vol : il consiste à détenir, utiliser, transformer ou transmettre une chose en sachant qu'elle provient d'un crime ou d'un délit. Le receleur n'a pas commis le vol lui-même, mais en profite en connaissance de cause. Le Code pénal malgache le punit des mêmes peines que les auteurs du crime ou du délit dont proviennent les objets recelés — c'est une application du principe de l'emprunt de criminalité aux infractions connexes.",
+      "indices": [
+        "Le receleur n'est pas l'auteur du vol, mais en profite sciemment.",
+        "La connaissance de l'origine frauduleuse est l'élément moral essentiel.",
+        "La peine du recel suit celle de l'infraction principale dont proviennent les biens."
+      ]
+    },
+    {
+      "question": "Un individu tue une personne lors d'une bagarre sans préméditation ni guet-apens. Peut-il bénéficier de circonstances atténuantes pour descendre sous la peine des travaux forcés à perpétuité ?",
+      "choix": [
+        "Non, la peine des travaux forcés à perpétuité est incompressible pour le meurtre",
+        "Oui, si le tribunal reconnaît des circonstances atténuantes, la peine de travaux forcés à perpétuité pour meurtre peut être réduite à une peine de travaux forcés à temps ou de réclusion",
+        "Oui, mais uniquement si la victime avait provoqué l'auteur",
+        "Non, les circonstances atténuantes ne s'appliquent jamais aux crimes contre les personnes"
+      ],
+      "reponse": 1,
+      "explication": "Le mécanisme des circonstances atténuantes (étudié dans le module 6) s'applique aussi aux crimes contre les personnes. Pour le meurtre puni des travaux forcés à perpétuité, la reconnaissance de circonstances atténuantes permet au tribunal de descendre d'un niveau dans l'échelle des peines criminelles : travaux forcés à temps ou réclusion selon les textes applicables. C'est le pouvoir d'individualisation de la peine laissé au juge pénal.",
+      "indices": [
+        "Les circonstances atténuantes peuvent s'appliquer à tous les crimes, sauf exclusion expresse.",
+        "Elles permettent de descendre dans l'échelle légale des peines.",
+        "Elles ne changent pas la qualification (meurtre reste meurtre) mais réduisent la peine prononcée."
+      ]
+    },
+    {
+      "question": "La légitime défense est-elle un fait justificatif pouvant exclure la qualification de meurtre ou de coups et blessures en droit pénal malgache ?",
+      "choix": [
+        "Non, tuer quelqu'un est toujours un meurtre quelles que soient les circonstances",
+        "Oui, les articles 327-329 prévoient des présomptions légales de légitime défense qui excluent la responsabilité pénale lorsque les conditions sont réunies",
+        "Oui, mais uniquement pour protéger ses biens, pas sa personne",
+        "Non, la légitime défense n'est reconnue qu'en droit civil malgache"
+      ],
+      "reponse": 1,
+      "explication": "Les articles 327 à 329 du Code pénal malgache prévoient que l'homicide ou les blessures causés en état de légitime défense — nécessité actuelle de se défendre ou de défendre autrui contre une agression injuste — ne sont ni crime ni délit. L'article 329 pose deux présomptions légales de légitime défense : repousser de nuit l'escalade ou l'effraction d'une maison habitée, ou se défendre contre les auteurs de vols ou pillages exécutés avec violence. Ces présomptions légales simplifient la preuve pour la personne poursuivie.",
+      "indices": [
+        "Les articles 327-329 traitent spécifiquement de la légitime défense.",
+        "Elle exclut totalement la responsabilité pénale si les conditions sont réunies.",
+        "Deux présomptions légales de légitime défense sont expressément prévues."
+      ]
+    },
+    {
+      "question": "Dans une affaire d'escroquerie, la victime doit-elle avoir effectivement subi un préjudice financier pour que l'infraction soit constituée ?",
+      "choix": [
+        "Non, l'escroquerie est constituée dès la remise du bien sous l'effet des manœuvres, même si le préjudice est minime",
+        "Oui, sans préjudice financier prouvé, il ne peut y avoir d'escroquerie",
+        "Non, l'escroquerie est une infraction formelle qui ne requiert aucun résultat",
+        "Oui, le préjudice doit dépasser un seuil minimum fixé par décret"
+      ],
+      "reponse": 0,
+      "explication": "L'article 405 vise le fait 'd'escroquer ainsi tout ou partie de la fortune d'autrui' : un préjudice patrimonial doit résulter des manœuvres frauduleuses. Cependant, ce préjudice peut être très faible — il n'existe pas de seuil minimum. L'infraction est constituée dès que la victime a remis quelque chose sous l'effet de la tromperie. Si rien n'a été remis malgré les manœuvres, on pourrait être en présence d'une tentative d'escroquerie.",
+      "indices": [
+        "L'article 405 mentionne 'tout ou partie de la fortune', sans seuil minimum.",
+        "Un préjudice même minime suffit à consommer l'infraction.",
+        "L'absence totale de remise pourrait ramener à la tentative d'escroquerie."
+      ]
+    },
+    {
+      "question": "Un avocat qui détourne les fonds de consignation de ses clients pour couvrir ses dépenses personnelles commet-il un abus de confiance ?",
+      "choix": [
+        "Non, car les avocats sont soumis à des règles déontologiques distinctes du droit pénal",
+        "Oui, les fonds de consignation sont remis à l'avocat à titre précaire (mandat), avec obligation de les affecter à un usage déterminé ; leur détournement est un abus de confiance",
+        "Non, c'est une escroquerie car l'avocat a trompé ses clients",
+        "Oui, mais uniquement si le montant dépasse 1 million d'ariary"
+      ],
+      "reponse": 1,
+      "explication": "L'article 408 vise expressément les fonds remis pour un travail salarié ou dans le cadre d'un mandat, à charge de les affecter à un usage déterminé. Un avocat reçoit les fonds de consignation dans le cadre d'un mandat professionnel, avec l'obligation précise de les utiliser pour le compte de son client (paiement de frais, consignation judiciaire, etc.). Détourner ces fonds à des fins personnelles constitue exactement le détournement visé par l'article 408. La faute déontologique et l'infraction pénale coexistent.",
+      "indices": [
+        "Le mandat professionnel est l'un des cadres de remise visés par l'art. 408.",
+        "L'obligation d'usage déterminé des fonds est caractérisée dans une relation avocat-client.",
+        "La sanction déontologique n'exclut pas la poursuite pénale."
+      ]
+    },
+    {
+      "question": "Le viol tenté — acte d'attentat à la pudeur commencé avec violence mais n'ayant pas abouti — est-il punissable ?",
+      "choix": [
+        "Non, la tentative d'attentat aux mœurs n'est jamais punissable",
+        "Oui, l'article 331 vise expressément le viol et 'tout autre attentat à la pudeur, consommé ou tenté avec violence'",
+        "Oui, mais avec une peine réduite de moitié par rapport au viol consommé",
+        "Non, car c'est un crime et la tentative de crime n'existe pas en droit malgache"
+      ],
+      "reponse": 1,
+      "explication": "L'article 331 est explicite : il punit quiconque est coupable de viol ou de 'tout autre attentat à la pudeur, consommé ou tenté avec violence'. La tentative est donc expressément prévue et punie des mêmes peines que l'acte consommé. Il s'agit d'une application du régime général de l'article 2 (tentative de crime toujours punissable comme le crime lui-même) renforcée par une mention expresse dans le texte d'incrimination spécial.",
+      "indices": [
+        "Le texte de l'article 331 mentionne lui-même 'consommé ou tenté'.",
+        "La tentative est punie identiquement à l'acte consommé.",
+        "Ce n'est pas une exception au droit commun, mais une confirmation explicite."
+      ]
+    },
+    {
+      "question": "Quelle est la peine prévue à l'article 400 pour l'extorsion par violence d'un écrit ou d'une quittance ?",
+      "choix": [
+        "Réclusion",
+        "Emprisonnement de 1 à 5 ans",
+        "Travaux forcés à temps",
+        "Travaux forcés à perpétuité"
+      ],
+      "reponse": 2,
+      "explication": "L'article 400 punit des travaux forcés à temps quiconque, par violence ou menaces, a contraint une personne à lui remettre un écrit, un acte, un titre ou une pièce quelconque contenant ou opérant obligation, disposition ou décharge. Cette peine est plus sévère que celle de l'escroquerie (1 à 5 ans) et se justifie par l'usage de la violence ou de la contrainte, absent dans l'escroquerie.",
+      "indices": [
+        "L'art. 400 est distinct de l'escroquerie (art. 405).",
+        "La peine est plus lourde car elle implique violence ou menaces.",
+        "Les travaux forcés à temps sont une peine criminelle."
+      ]
+    },
+    {
+      "question": "Dans le cas où un auteur de coups et blessures volontaires ayant causé moins de 20 jours d'incapacité a agi avec préméditation, quelle peine encourt-il selon l'article 311 ?",
+      "choix": [
+        "1 mois à 2 ans d'emprisonnement et amende (même peine que sans préméditation)",
+        "2 à 5 ans d'emprisonnement et amende",
+        "La réclusion",
+        "Les travaux forcés à temps"
+      ],
+      "reponse": 1,
+      "explication": "L'article 311 distingue deux régimes pour les coups et blessures n'ayant pas causé plus de 20 jours d'incapacité : sans préméditation ni guet-apens, la peine est d'un mois à deux ans d'emprisonnement et amende ; avec préméditation ou guet-apens, la peine est portée à deux à cinq ans d'emprisonnement et amende. La préméditation aggrave donc la peine même pour les blessures légères, mais sans atteindre le niveau de la réclusion (réservé à l'art. 310, pour blessures graves avec préméditation).",
+      "indices": [
+        "L'article 311 prévoit deux niveaux selon la préméditation.",
+        "Sans préméditation : 1 mois à 2 ans. Avec préméditation : 2 à 5 ans.",
+        "La réclusion n'est atteinte qu'à l'article 309 (plus de 20 jours d'incapacité)."
+      ]
+    },
+    {
+      "question": "Pourquoi le droit pénal spécial est-il complémentaire au droit pénal général étudié dans le module précédent ?",
+      "choix": [
+        "Le droit pénal spécial remplace entièrement le droit pénal général",
+        "Le droit pénal général pose les règles communes (éléments constitutifs, peines, tentative, complicité) ; le droit pénal spécial en est l'application concrète infraction par infraction, définissant les actes précis incriminés et les peines spécifiques encourues",
+        "Le droit pénal spécial ne concerne que les crimes, le droit pénal général que les délits",
+        "Les deux branches sont totalement indépendantes et n'ont aucun lien entre elles"
+      ],
+      "reponse": 1,
+      "explication": "Le droit pénal général (module 6) fournit la charpente théorique commune : définition de l'infraction, ses trois éléments constitutifs, classification tripartite, régime de la tentative et de la complicité, échelle des peines, récidive, prescription. Le droit pénal spécial (module 7) applique concrètement ces règles à chaque infraction particulière : il définit précisément ce qu'est un vol, un meurtre, une escroquerie, avec les peines spécifiques. Pour analyser correctement une infraction concrète, il faut mobiliser les deux : la grille du général + les éléments du spécial.",
+      "indices": [
+        "L'un pose les règles communes, l'autre les applique cas par cas.",
+        "Sans le général, le spécial manque de fondement théorique.",
+        "Sans le spécial, le général reste abstrait et inapplicable à des faits concrets."
+      ]
+    }
+  ],
+  "exercices": [
+    {
+      "question": "CAS PRATIQUE N°1 — Qualification des infractions contre les biens\n\nTrois situations distinctes survenues dans la région DIANA :\n\nSituation A — Patrick et son ami Luc pénètrent de nuit dans l'entrepôt d'un grossiste d'Antsiranana en découpant le grillage extérieur (effraction). Ils sont armés de couteaux. Ils ligotent le gardien de nuit, le menacent de mort s'il crie, et emportent pour 8 millions d'ariary de marchandises. Ils agissent à deux.\n\nSituation B — Mireille se présente à de petits commerçants du marché d'Antsiranana en se faisant passer pour 'inspectrice de la DGCC (Direction Générale du Commerce et de la Consommation)'. Elle brandit de faux documents officiels et exige de chaque commerçant le paiement d'une 'taxe de conformité' de 50 000 ariary, sous peine de fermeture immédiate. Douze commerçants lui remettent la somme.\n\nSituation C — Rado est comptable pour une société d'import-export. Son employeur lui a confié un accès au compte bancaire de la société pour effectuer les paiements fournisseurs. Sur six mois, Rado a effectué 15 virements fictifs vers un compte qu'il contrôle, détournant ainsi 12 millions d'ariary des fonds de la société.\n\nQUESTIONS :\n1. Qualifiez précisément l'infraction commise dans chaque situation et identifiez les articles applicables.\n2. Pour la situation A, quelles sont les circonstances aggravantes présentes et quelles sont celles qui manquent pour atteindre la peine maximale de l'article 381 ?\n3. Pour la situation B, pourquoi s'agit-il d'escroquerie et non d'abus de confiance ?",
+      "choix": [
+        "1. A : vol aggravé (arts. 381, 385 et suivants) — plusieurs circonstances aggravantes réunies mais pas toutes les cinq de l'art. 381. B : escroquerie (art. 405) — remise consentie obtenue par fausse qualité et faux documents. C : abus de confiance (art. 408) — détournement de fonds remis légitimement dans le cadre d'un mandat salarié. 2. Circonstances présentes : nuit, deux auteurs, port d'armes, effraction dans un lieu servant au commerce/habitation, violence et menaces. Si toutes les cinq conditions de l'art. 381 sont cumulées : travaux forcés à perpétuité. 3. L'escroquerie (art. 405) et non l'abus de confiance parce que la remise des 50 000 Ar est obtenue dès le départ par la tromperie (fausse qualité + faux documents) — il n'y a jamais eu de relation de confiance légitime préalable entre Mireille et les commerçants.",
+        "1. A : meurtre tenté. B : vol aggravé. C : escroquerie. 2. Il n'y a aucune circonstance aggravante. 3. C'est un abus de confiance car les commerçants lui ont fait confiance.",
+        "1. Toutes les trois constituent des escroqueries aggravées. 2. Les cinq circonstances de l'art. 381 sont toutes présentes. 3. La différence entre escroquerie et abus de confiance n'est pas pertinente ici.",
+        "1. A : vol simple. B : abus de confiance. C : vol avec effraction. 2. Aucune circonstance aggravante. 3. Il s'agit d'un abus de confiance car les commerçants ont remis l'argent volontairement."
+      ],
+      "reponse": 0,
+      "explication": "ANALYSE DÉTAILLÉE :\n\nSITUATION A — QUALIFICATION : Vol aggravé. Les éléments constitutifs du vol sont réunis : soustraction + chose d'autrui + fraudulence. Les circonstances aggravantes présentes : nuit (1ère condition art. 381), deux auteurs (2ème condition), port d'armes (3ème condition), effraction extérieure dans un local servant à l'activité commerciale (4ème condition), violence et menaces de mort (5ème condition). Si les cinq conditions de l'article 381 sont TOUTES cumulativement réunies — ce qui semble être le cas ici — la peine est les travaux forcés à perpétuité. Les tribunaux vérifieront notamment si le local est qualifiable de 'servant à l'habitation' au sens de l'art. 390 (qui peut inclure les dépendances d'une habitation), ce qui pourrait être discuté pour un entrepôt commercial pur. Si l'une des cinq conditions manque, on descend aux articles 382-386 selon les circonstances présentes.\n\nSITUATION B — QUALIFICATION : Escroquerie (art. 405). Les éléments sont parfaitement constitués : Mireille a utilisé une fausse qualité officielle (inspectrice DGCC) ET employé des manœuvres frauduleuses (faux documents officiels) pour se faire remettre des fonds (les 50 000 Ar de chaque commerçant). La remise est certes volontaire de la part des commerçants, mais leur consentement est vicié par la mise en scène. Peine : 1 à 5 ans d'emprisonnement + amende pour chaque acte d'escroquerie.\n\nSITUATION C — QUALIFICATION : Abus de confiance (art. 408). Tous les éléments sont présents : Rado avait reçu un accès aux fonds de la société dans le cadre d'un travail salarié (mandat explicite), avec l'obligation d'en faire un usage précis (paiements fournisseurs). Il a détourné ces fonds à son profit personnel — c'est exactement le détournement au préjudice du propriétaire des fonds remis à titre de mandat. La différence avec la situation B est fondamentale : la remise des accès bancaires à Rado était parfaitement légale et légitime au départ ; c'est l'usage frauduleux ultérieur qui constitue l'infraction. Peine : 2 mois à 2 ans d'emprisonnement + amende, mais aussi potentiellement d'autres qualifications selon le montant (faux, usage de faux informatique, etc.)."
+    },
+    {
+      "question": "CAS PRATIQUE N°2 — Homicides et violences : détermination des qualifications\n\nQuatre faits divers survenus à Madagascar :\n\nFait 1 — Lors d'une fête de village à Mahajanga, Jean et Paul se disputent violemment après avoir bu. Dans un accès de colère, Jean saisit une bouteille vide et frappe Paul plusieurs fois à la tête. Paul tombe inconscient, est transporté à l'hôpital et décède 48 heures plus tard des suites d'un traumatisme crânien. Jean déclare 'je voulais juste lui faire mal, pas le tuer'.\n\nFait 2 — Durant trois semaines, Marie nourrit discrètement les repas de son mari avec de petites quantités d'un insecticide liquide. Son mari, affaibli progressivement, décède au bout de 25 jours d'un empoisonnement interne. L'autopsie révèle la présence de la substance toxique.\n\nFait 3 — Solofo, chauffeur de camion, conduit après avoir consommé de l'alcool. Il grille un feu rouge et percute un groupe de piétons, tuant une femme et blessant grièvement deux autres personnes (30 et 45 jours d'incapacité de travail respectivement).\n\nFait 4 — Un propriétaire terrien, apprenant que son voisin Rakoto lui a volé des récoltes, l'attend caché dans un chemin la nuit suivante et le tue avec une machette.\n\nQUESTIONS :\n1. Qualifiez précisément l'infraction principale dans chaque fait et précisez les articles applicables.\n2. Pour le fait 1, quel est l'élément central du débat judiciaire qui déterminera la qualification retenue ?\n3. Pour le fait 2, pourquoi la qualification retenue est-elle indépendante du délai de décès de la victime ?",
+      "choix": [
+        "1. Fait 1 : coups mortels sans intention de donner la mort ou meurtre selon l'intention prouvée (arts. 295-309). Fait 2 : empoisonnement (art. 301) + assassinat (arts. 295-297) avec préméditation. Fait 3 : homicide involontaire (art. 319) et blessures involontaires (art. 320) par inobservation des règlements. Fait 4 : assassinat avec préméditation et guet-apens (arts. 296-298). 2. Pour le fait 1 : l'élément central est la preuve de l'intention homicide — Jean voulait-il tuer ou seulement blesser ? Cette question détermine si c'est un meurtre ou des coups mortels sans intention de donner la mort. 3. Pour le fait 2 : l'empoisonnement est une infraction formelle selon l'art. 301, consommée dès l'administration des substances mortifères 'quelles qu'en aient été les suites' — le fait que la mort soit survenue 25 jours après n'a aucune incidence sur la constitution de l'infraction.",
+        "1. Tous les quatre sont des meurtres simples. 2. L'élément central est l'arme utilisée. 3. L'infraction ne peut être retenue que si la victime est décédée.",
+        "1. Fait 1 : meurtre avec préméditation. Fait 2 : homicide involontaire. Fait 3 : meurtre. Fait 4 : légitime défense. 2. L'état d'ivresse de Jean est l'élément central. 3. Le délai importe car il détermine la prescription.",
+        "1. Tous constituent des assassinats. 2. Aucun débat n'est nécessaire. 3. L'infraction n'est constituée que si la mort survient dans les 48 heures."
+      ],
+      "reponse": 0,
+      "explication": "ANALYSE DÉTAILLÉE :\n\nFAIT 1 — Jean/Paul : Deux qualifications sont possibles selon l'élément moral. Si Jean avait l'intention de donner la mort → meurtre (art. 295), puni des travaux forcés à perpétuité. Si Jean voulait uniquement blesser, sans vouloir la mort → coups mortels sans intention de donner la mort, qualifiés selon les arts. 309 et suivants selon les circonstances. La déclaration de Jean ('je voulais juste lui faire mal') oriente vers la seconde qualification, mais le juge appréciera souverainement selon tous les éléments : intensité des coups, nature de l'arme, localisation des frappes. C'est l'élément moral — l'intention homicide — qui est au cœur du débat judiciaire.\n\nFAIT 2 — Marie : Double qualification possible et cumulable. L'empoisonnement (art. 301) est constitué dès l'administration répétée de l'insecticide — infraction formelle, consommée par le seul emploi du moyen mortifère, 'quelles qu'en aient été les suites'. Le fait que la mort soit survenue 25 jours après est sans incidence sur la constitution de l'infraction. Par ailleurs, le fait de nourrir discrètement son mari pendant trois semaines avec une substance toxique caractérise la préméditation : dessein formé et exécuté sur la durée → assassinat (art. 296). Les deux qualifications peuvent se cumuler.\n\nFAIT 3 — Solofo : Homicide involontaire (art. 319) pour la femme décédée : conduite en état d'ivresse + grillage de feu rouge = inobservation des règlements de la route ayant causé la mort. Peine : 3 mois à 2 ans d'emprisonnement + amende. Blessures involontaires (art. 320) pour les deux blessés. Les deux victimes blessées ont une incapacité de plus de 20 jours (30 et 45 jours) : les coups involontaires dépassant ce seuil pourraient justifier une application de la jurisprudence sur les blessures involontaires graves.\n\nFAIT 4 — Le propriétaire/Rakoto : C'est un assassinat (arts. 296-298) caractérisé par l'existence cumulée de la préméditation (le propriétaire a pris la décision de tuer après avoir appris le vol, puis a prémédité son acte) ET du guet-apens (il a attendu caché Rakoto dans un chemin pour lui donner la mort). Les deux circonstances aggravantes du meurtre en assassinat sont réunies. La provocation par le vol de récoltes ne constitue pas une cause d'irresponsabilité pénale absolue, mais pourrait être invoquée comme circonstance atténuante. Peine : travaux forcés à perpétuité."
+    }
+  ]
+        }
