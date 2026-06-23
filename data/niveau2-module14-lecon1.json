@@ -1,0 +1,906 @@
+{
+  "titre": "La propriété intellectuelle",
+  "module": "Module 14 — La propriété intellectuelle",
+  "niveau": "Intermédiaire",
+  "contenu": [
+    {
+      "titre": "Qu'est-ce que la propriété intellectuelle ?",
+      "texte": "La propriété intellectuelle désigne l'ensemble des droits reconnus aux créateurs sur leurs créations de l'esprit. Ces créations sont immatérielles — elles n'ont pas d'existence physique propre — mais elles ont une valeur économique considérable. Un roman, une invention technique, un logo de marque, un logiciel, un film : autant de créations de l'esprit protégées par la propriété intellectuelle. Ce qui distingue la propriété intellectuelle de la propriété ordinaire, c'est que son objet est une idée concrétisée, une forme d'expression, une innovation. On ne protège pas l'idée en elle-même — les idées sont libres et appartiennent à tous — mais la manière dont elle est exprimée ou mise en œuvre. La propriété intellectuelle se divise en deux grandes branches. La propriété littéraire et artistique protège les œuvres de l'esprit (romans, musiques, films, logiciels) à travers le droit d'auteur et les droits voisins. La propriété industrielle protège les créations à usage commercial (inventions, marques, dessins et modèles) à travers les brevets, les marques enregistrées et les autres titres industriels. Ces deux branches partagent une philosophie commune : récompenser le créateur en lui accordant un monopole temporaire ou permanent sur son œuvre, tout en permettant à terme l'enrichissement du patrimoine commun de l'humanité.",
+      "definition": "Propriété intellectuelle : ensemble des droits reconnus aux créateurs sur leurs créations de l'esprit. Se divise en propriété littéraire et artistique (droit d'auteur, droits voisins) et propriété industrielle (brevets, marques, dessins et modèles). On protège l'expression d'une idée, pas l'idée elle-même."
+    },
+    {
+      "titre": "Le droit d'auteur : conditions de protection",
+      "texte": "Le droit d'auteur protège les œuvres de l'esprit originales. Pour être protégée, une œuvre doit réunir deux conditions essentielles. Elle doit être une œuvre de l'esprit : elle doit résulter d'un effort créatif humain, exprimer quelque chose. Les formes naturelles, les données brutes, les faits, les idées en tant que tels ne sont pas protégés. Elle doit être originale : c'est la condition centrale. L'originalité ne signifie pas nouveauté ou valeur artistique — le droit ne juge pas la qualité d'une œuvre. L'originalité signifie que l'œuvre porte l'empreinte de la personnalité de son auteur, qu'elle traduit ses choix esthétiques, sa vision, son style. Une photo peut être originale si le photographe a fait des choix créatifs de cadrage, lumière, angle. La protection naît automatiquement, dès la création de l'œuvre, sans aucune formalité. Pas de dépôt, pas d'enregistrement requis. Contrairement au brevet ou à la marque, l'auteur n'a rien à faire pour bénéficier de la protection : il suffit de créer. Les œuvres protégeables sont très diverses : œuvres littéraires (romans, poèmes, articles), œuvres musicales, œuvres audiovisuelles (films, documentaires), œuvres des arts plastiques (peintures, sculptures), photographies, logiciels, bases de données originales, œuvres d'architecture.",
+      "definition": "Conditions de protection par le droit d'auteur : être une œuvre de l'esprit (résultat d'un effort créatif humain) ET être originale (porter l'empreinte de la personnalité de son auteur). La protection naît automatiquement à la création, sans formalité. On ne protège pas les idées, les faits ou les données brutes.",
+      "exemple": "Un roman est protégé dès que l'auteur l'a écrit, sans aucun dépôt. Un article de journal est protégé. La recette d'un plat en tant que liste d'ingrédients n'est pas protégée (idée) mais la manière de la rédiger peut l'être si elle est originale."
+    },
+    {
+      "titre": "Le droit d'auteur : le droit moral",
+      "texte": "Le droit d'auteur comprend deux volets fondamentalement différents : le droit moral et les droits patrimoniaux. Le droit moral est le lien indissoluble entre l'auteur et son œuvre. Il est perpétuel, inaliénable et imprescriptible — il dure pour toujours et ne peut jamais être cédé, même après la mort de l'auteur. Le droit moral regroupe plusieurs prérogatives. Le droit de divulgation : l'auteur seul décide si et quand son œuvre sera rendue publique. Personne ne peut publier son œuvre sans son accord, même si elle a été créée sur commande. Le droit au respect du nom : l'auteur peut exiger que son nom soit mentionné sur son œuvre. Le droit au respect de l'intégrité de l'œuvre : personne ne peut modifier, déformer, mutiler l'œuvre sans l'accord de l'auteur. Adapter un roman en film fidèlement est acceptable ; en trahir le sens ou le modifier de façon dégradante est une atteinte au droit moral. Le droit de repentir ou de retrait : l'auteur peut, même après avoir cédé ses droits d'exploitation, retirer son œuvre du commerce s'il estime qu'elle ne correspond plus à sa pensée — contre indemnisation du cessionnaire.",
+      "definition": "Droit moral : lien entre l'auteur et son œuvre. Perpétuel, inaliénable, imprescriptible. Comprend : droit de divulgation (décider si et quand l'œuvre est publiée), droit au nom (être mentionné), droit à l'intégrité (s'opposer à toute modification dégradante), droit de repentir (retirer l'œuvre du commerce contre indemnisation).",
+      "exemple": "Un auteur a cédé ses droits d'exploitation à un éditeur. L'éditeur ne peut pas modifier le titre du roman sans l'accord de l'auteur (droit à l'intégrité). Si l'auteur change d'avis sur une œuvre de jeunesse, il peut en demander le retrait du commerce contre indemnisation de l'éditeur (droit de repentir)."
+    },
+    {
+      "titre": "Le droit d'auteur : les droits patrimoniaux",
+      "texte": "Les droits patrimoniaux sont la dimension économique du droit d'auteur. Ils permettent à l'auteur d'exploiter son œuvre et d'en tirer des revenus. Contrairement au droit moral, les droits patrimoniaux sont cessibles : l'auteur peut les céder à un tiers (un éditeur, un producteur, une maison de disques) qui les exploitera en son nom et lui versera des redevances. Les droits patrimoniaux regroupent principalement le droit de reproduction (droit d'autoriser ou d'interdire toute fixation de l'œuvre par quelque procédé que ce soit) et le droit de représentation (droit d'autoriser ou d'interdire toute communication de l'œuvre au public). Toute exploitation de l'œuvre — la publier dans un livre, la diffuser à la radio, la projeter au cinéma, la télécharger sur internet — nécessite l'autorisation de l'auteur ou de son ayant droit. Les droits patrimoniaux ont une durée limitée. En France et dans la plupart des systèmes inspirés du droit civil, ils durent la vie de l'auteur plus 70 ans après sa mort. Passé ce délai, l'œuvre tombe dans le domaine public : n'importe qui peut l'utiliser librement et gratuitement. À Madagascar, la protection est également temporaire, alignée sur les standards internationaux.",
+      "definition": "Droits patrimoniaux : dimension économique du droit d'auteur. Comprennent le droit de reproduction et le droit de représentation. Cessibles (peuvent être cédés à un tiers). Durée : vie de l'auteur + 70 ans après sa mort. À l'expiration, l'œuvre tombe dans le domaine public.",
+      "exemple": "Un auteur cède ses droits d'édition à un éditeur malgache pour 5 ans. L'éditeur peut publier et vendre le livre et verse des royalties à l'auteur. L'auteur garde son droit moral : si l'éditeur veut changer la couverture radicalement, il doit obtenir son accord."
+    },
+    {
+      "titre": "Les exceptions au droit d'auteur",
+      "texte": "Le droit d'auteur ne confère pas un monopole absolu. La loi prévoit des exceptions qui permettent d'utiliser une œuvre sans l'autorisation de l'auteur et sans payer de redevances. Ces exceptions sont interprétées strictement : elles ne peuvent pas être étendues au-delà de ce que la loi prévoit expressément. La courte citation est l'exception la plus connue : on peut citer un extrait court d'une œuvre à titre d'illustration ou de critique, en mentionnant la source et l'auteur. Les revues de presse permettent de reproduire des articles à des fins d'information. La copie privée autorise la reproduction d'une œuvre pour l'usage personnel de celui qui la réalise — mais pas pour diffusion. La parodie, le pastiche et la caricature sont permis à condition de ne pas porter atteinte à l'honneur ou à la réputation de l'auteur. L'utilisation à des fins pédagogiques permet dans certains cas de reproduire des extraits pour l'enseignement. Ces exceptions sont encadrées par un test en trois étapes dit test des trois étapes : l'exception doit concerner un cas spécial, ne pas porter atteinte à l'exploitation normale de l'œuvre, et ne pas causer un préjudice injustifié aux intérêts légitimes de l'auteur.",
+      "definition": "Exceptions au droit d'auteur (liste non exhaustive) : courte citation (extrait illustratif avec mention de la source), copie privée (usage personnel), parodie/caricature, revue de presse, usage pédagogique. Ces exceptions sont d'interprétation stricte et soumises au test des trois étapes.",
+      "exemple": "Un professeur peut projeter un extrait d'un film en classe à des fins pédagogiques sans payer de droits. Un blogueur peut citer deux paragraphes d'un roman pour en faire la critique, en citant l'auteur. En revanche, reproduire l'intégralité d'un roman sous prétexte de le commenter est illicite."
+    },
+    {
+      "titre": "Les droits voisins",
+      "texte": "À côté du droit d'auteur existent les droits voisins, qui protègent des personnes qui contribuent à la diffusion des œuvres sans en être les auteurs. Ces droits sont 'voisins' du droit d'auteur parce qu'ils s'inspirent de sa logique sans lui être identiques. Les principaux titulaires de droits voisins sont les artistes-interprètes (comédiens, musiciens, chanteurs) qui ont le droit de contrôler les enregistrements de leurs prestations et d'en percevoir les revenus. Un musicien qui joue une œuvre du domaine public reste titulaire de droits voisins sur son interprétation : il peut s'opposer à la diffusion de son enregistrement sans autorisation. Les producteurs de phonogrammes (maisons de disques) et de vidéogrammes sont titulaires de droits sur leurs enregistrements. Les entreprises de communication audiovisuelle (chaînes de télévision, radios) ont des droits sur leurs programmes. Les droits voisins ont une durée plus courte que le droit d'auteur : en principe 50 ans à compter de la fixation ou de la première communication au public. Ces droits coexistent avec le droit d'auteur : pour diffuser un enregistrement musical, il faut en principe l'autorisation à la fois du compositeur (droit d'auteur) et du musicien interprète et du producteur (droits voisins).",
+      "definition": "Droits voisins : droits reconnus aux personnes qui contribuent à la diffusion des œuvres sans en être auteurs. Titulaires : artistes-interprètes, producteurs de phonogrammes et vidéogrammes, entreprises de communication audiovisuelle. Durée : 50 ans en principe. Coexistent avec le droit d'auteur.",
+      "exemple": "Pour diffuser à la radio une chanson, il faut l'autorisation du compositeur (droit d'auteur sur la mélodie et les paroles), du chanteur (droit voisin de l'artiste-interprète) et de la maison de disques (droit voisin du producteur). Trois titulaires, trois autorisations nécessaires."
+    },
+    {
+      "titre": "Le brevet d'invention : conditions et portée",
+      "texte": "Le brevet est le titre de propriété industrielle qui protège les inventions techniques. Contrairement au droit d'auteur qui naît automatiquement, le brevet doit être déposé auprès d'un office spécialisé et examiné. Pour être brevetable, une invention doit réunir trois conditions cumulatives. La nouveauté : l'invention ne doit pas être connue avant la date du dépôt de la demande de brevet. Si l'invention a déjà été divulguée publiquement — par une publication, un discours, une utilisation — elle n'est plus nouvelle et ne peut pas être brevetée. L'activité inventive : l'invention ne doit pas découler de façon évidente de l'état de la technique pour un spécialiste du domaine. Une simple combinaison évidente de techniques connues n'est pas brevetable. L'application industrielle : l'invention doit pouvoir être fabriquée ou utilisée dans tout type d'industrie. Certaines choses ne sont pas brevetables : les découvertes scientifiques (on découvre ce qui existe déjà), les théories mathématiques, les méthodes intellectuelles, les programmes d'ordinateur en tant que tels, les créations esthétiques (qui relèvent du droit d'auteur), et les inventions contraires à l'ordre public ou aux bonnes mœurs.",
+      "definition": "Brevet d'invention : titre de propriété industrielle protégeant les inventions techniques. Conditions cumulatives : nouveauté (inconnue avant le dépôt), activité inventive (non évidente pour un spécialiste), application industrielle (fabricable ou utilisable). Dépôt obligatoire. Non brevetables : découvertes, théories, méthodes intellectuelles, logiciels en tant que tels.",
+      "exemple": "Un chercheur malgache met au point un nouveau procédé de traitement de l'eau. S'il n'a jamais été divulgué, qu'il n'est pas évident pour un ingénieur spécialiste et qu'il peut être mis en œuvre industriellement, il est brevetable. En revanche, la théorie mathématique qui sous-tend ce procédé ne l'est pas."
+    },
+    {
+      "titre": "Le brevet : durée, effets et limites",
+      "texte": "Le brevet confère à son titulaire un monopole d'exploitation de 20 ans à compter du dépôt de la demande. Pendant cette période, nul ne peut fabriquer, utiliser, vendre ou importer le produit ou le procédé breveté sans l'autorisation du titulaire — sous peine de contrefaçon. Après 20 ans, l'invention tombe dans le domaine public et peut être librement exploitée par tous. C'est le système de la récompense différée : le brevet stimule l'innovation en accordant un monopole temporaire, puis enrichit le patrimoine commun. Le titulaire d'un brevet peut l'exploiter lui-même, le céder (le vendre) ou le licencier (autoriser un tiers à l'exploiter moyennant redevances). Le brevet a une portée territoriale : il ne protège que dans le ou les pays où il a été déposé. Une invention brevetée en France n'est pas protégée à Madagascar si elle n'y a pas été déposée. Des systèmes régionaux (brevet européen) et internationaux (traité PCT) permettent de simplifier les dépôts dans plusieurs pays. Le brevet impose aussi une contrepartie : la description complète de l'invention doit être publiée. En échange du monopole, l'inventeur partage son savoir avec la communauté scientifique.",
+      "definition": "Durée du brevet : 20 ans à compter du dépôt. Effets : monopole d'exploitation (fabriquer, vendre, importer). Portée territoriale (protection uniquement dans les pays de dépôt). Contrepartie : publication de la description de l'invention. À l'expiration : domaine public.",
+      "exemple": "Une entreprise dépose un brevet sur un médicament en 2020. Elle a le monopole de sa production et vente jusqu'en 2040. En 2041, n'importe quel laboratoire peut fabriquer ce médicament (générique). Pendant 20 ans, les laboratoires concurrents devront soit obtenir une licence, soit ne pas copier."
+    },
+    {
+      "titre": "La marque commerciale : définition et conditions",
+      "texte": "La marque est un signe distinctif qui permet à une entreprise de distinguer ses produits ou services de ceux de ses concurrents. C'est l'un des actifs les plus précieux d'une entreprise : Apple, Nike, Coca-Cola sont des marques valant des milliards. Une marque peut être un nom (Coca-Cola), un logo, un slogan, une forme (la bouteille de Coca-Cola), une couleur distinctive, un son (la mélodie d'un opérateur téléphonique). Pour être enregistrée valablement, une marque doit réunir plusieurs conditions. Elle doit être distinctive : elle doit permettre de distinguer les produits d'une entreprise de ceux des autres. Un mot générique ou descriptif ne peut pas être une marque (on ne peut pas s'approprier le mot 'boulangerie' pour une boulangerie). Elle doit être disponible : elle ne doit pas être déjà protégée par une marque antérieure dans la même classe de produits ou services. Elle doit être licite : elle ne doit pas être contraire à l'ordre public ou trompeuse. Elle doit être déposée auprès de l'organisme compétent pour bénéficier de la protection. Contrairement au droit d'auteur, la marque n'est pas protégée automatiquement : elle doit être enregistrée.",
+      "definition": "Marque : signe distinctif (nom, logo, slogan, forme, couleur, son) permettant à une entreprise de distinguer ses produits ou services. Conditions : être distinctive (non générique ou descriptive), disponible (non déjà protégée), licite (non trompeuse). Protection par enregistrement obligatoire.",
+      "exemple": "L'entreprise de Solofo qui fabrique des boissons veut déposer la marque 'Boisson fraîche' : refus car descriptif et non distinctif. En revanche, il peut déposer 'Tsarasoa' associé à un logo original. Cette marque déposée lui donne le monopole sur ce signe pour les boissons à Madagascar."
+    },
+    {
+      "titre": "La marque : durée, effets et exploitation",
+      "texte": "La marque confère à son titulaire un monopole sur le signe pour les produits et services dans les classes pour lesquels elle a été enregistrée. Ce monopole est potentiellement perpétuel — c'est la grande différence avec le brevet. La marque dure 10 ans à compter de l'enregistrement, mais elle est indéfiniment renouvelable par périodes de 10 ans, à condition de l'exploiter effectivement. Une marque non exploitée pendant 5 ans consécutifs peut être déchue : le titulaire perd son droit si la marque tombe en désuétude. Les effets de la marque sont territoriaux comme pour le brevet : elle ne protège que dans les pays où elle a été enregistrée. Le titulaire peut exploiter sa marque lui-même, la céder ou la concéder en licence (franchise, licence de marque). La contrefaçon de marque consiste à utiliser sans autorisation un signe identique ou similaire à une marque enregistrée pour des produits ou services identiques ou similaires, créant un risque de confusion dans l'esprit du public. La contrefaçon engage la responsabilité civile (dommages-intérêts) et pénale (peines d'emprisonnement et amendes) du contrefacteur.",
+      "definition": "Durée de la marque : 10 ans renouvelables indéfiniment (différence fondamentale avec le brevet). Déchéance possible pour non-exploitation pendant 5 ans. Effets : monopole territorial. Contrefaçon : utilisation non autorisée d'un signe similaire créant un risque de confusion. Engage la responsabilité civile et pénale.",
+      "exemple": "Coca-Cola a enregistré sa marque au XIXe siècle et la renouvelle tous les 10 ans : elle reste protégée aujourd'hui. Une entreprise qui commercialise une boisson sous le nom 'Koka-Cola' commet une contrefaçon : le signe est similaire, les produits identiques, le risque de confusion évident."
+    },
+    {
+      "titre": "Les dessins et modèles industriels",
+      "texte": "Les dessins et modèles industriels protègent l'apparence extérieure d'un produit — sa forme, ses couleurs, ses lignes, sa texture — et non sa fonction technique (qui relève du brevet) ni son contenu créatif (qui peut relever du droit d'auteur). Un dessin est une création bidimensionnelle (un motif imprimé sur un tissu). Un modèle est une création tridimensionnelle (la forme d'un meuble, d'un appareil électroménager, d'une voiture). Pour être protégée, la création doit être nouvelle (pas déjà connue) et avoir un caractère propre (produire une impression visuelle globale différente de celle produite par toute création antérieure). La protection est accordée par enregistrement, pour une durée de 5 ans renouvelable jusqu'à 25 ans maximum dans la plupart des systèmes. Les dessins et modèles sont importants dans de nombreux secteurs : mode, ameublement, automobile, électronique grand public. La protection des dessins et modèles peut se cumuler avec le droit d'auteur si la création est originale, et avec le brevet si elle intègre une innovation technique. On parle alors de la théorie de l'unité de l'art.",
+      "definition": "Dessins et modèles industriels : protection de l'apparence extérieure d'un produit (forme, couleurs, lignes). Conditions : nouveauté et caractère propre. Protection par enregistrement. Durée : 5 ans renouvelables jusqu'à 25 ans maximum. Cumul possible avec droit d'auteur (originalité) et brevet (innovation technique).",
+      "exemple": "La forme caractéristique d'un smartphone est un modèle protégé. Le motif imprimé sur un tissu de mode est un dessin protégé. Si la forme du smartphone incorpore aussi une innovation technique (brevet) et si elle est originale (droit d'auteur), ces trois protections peuvent se cumuler."
+    },
+    {
+      "titre": "La contrefaçon : définition et sanctions",
+      "texte": "La contrefaçon est toute atteinte à un droit de propriété intellectuelle. Elle peut porter sur le droit d'auteur (reproduire une œuvre sans autorisation), sur un brevet (fabriquer un produit breveté sans licence), sur une marque (utiliser un signe protégé sans autorisation) ou sur des dessins et modèles (copier l'apparence d'un produit protégé). La contrefaçon engage deux types de responsabilité. Sur le plan civil, la victime peut obtenir des dommages-intérêts pour réparer le préjudice subi : manque à gagner, perte de clientèle, atteinte à l'image. Elle peut également obtenir la saisie et la destruction des produits contrefaisants et l'interdiction de poursuivre l'activité litigieuse. Sur le plan pénal, la contrefaçon est un délit punissable de peines d'emprisonnement et d'amendes pouvant être très lourdes. La mondialisation du commerce et l'internet ont considérablement amplifié le phénomène de la contrefaçon. La contrefaçon de médicaments et de pièces détachées peut mettre des vies en danger. La contrefaçon de produits de luxe représente des pertes économiques considérables. La lutte contre la contrefaçon est un enjeu majeur de la propriété intellectuelle au XXIe siècle.",
+      "definition": "Contrefaçon : toute atteinte non autorisée à un droit de propriété intellectuelle (droit d'auteur, brevet, marque, dessins et modèles). Double responsabilité : civile (dommages-intérêts, saisie, interdiction) et pénale (emprisonnement et amendes). La contrefaçon en ligne et internationale est un défi majeur.",
+      "exemple": "Vendre de faux sacs de luxe avec une marque copiée : contrefaçon de marque. Télécharger illégalement un film et le redistribuer : contrefaçon de droit d'auteur. Fabriquer un médicament générique pendant la durée de protection d'un brevet : contrefaçon de brevet."
+    },
+    {
+      "titre": "La propriété intellectuelle à Madagascar",
+      "texte": "À Madagascar, la propriété intellectuelle est régie par le droit national qui s'inspire largement des conventions internationales auxquelles le pays est partie. L'accord ADPIC (Aspects des droits de propriété intellectuelle qui touchent au commerce), annexé aux accords de l'OMC, fixe des standards minimaux que tous les membres de l'OMC, dont Madagascar, doivent respecter. La Convention de Berne protège les droits d'auteur au niveau international : une œuvre protégée dans un pays membre est automatiquement protégée dans tous les autres pays membres, sans formalité supplémentaire. La Convention de Paris protège la propriété industrielle. L'OMAPI (Office Malgache de la Propriété Industrielle) est l'organisme chargé de l'enregistrement des brevets, marques et dessins et modèles à Madagascar. Le Burkina Faso, le Sénégal, Madagascar et d'autres pays africains font partie de l'OAPI (Organisation Africaine de la Propriété Intellectuelle) pour ce qui est des marques et brevets. L'OMDA (Office Malgache du Droit d'Auteur) gère la protection et la gestion collective des droits d'auteur. La contrefaçon est également un délit à Madagascar, sanctionné par le code pénal et les lois spéciales sur la propriété intellectuelle.",
+      "definition": "Propriété intellectuelle à Madagascar : régie par le droit national et les conventions internationales (ADPIC/OMC, Convention de Berne pour le droit d'auteur, Convention de Paris pour la propriété industrielle). Organismes : OMAPI (propriété industrielle), OMDA (droit d'auteur). Membre de l'OAPI pour les marques et brevets.",
+      "exemple": "Un auteur malgache publie un roman à Antananarivo. Son œuvre est automatiquement protégée dans tous les pays membres de la Convention de Berne (dont la France, les États-Unis, etc.) sans aucune formalité dans ces pays. Un entrepreneur malgache qui veut protéger sa marque dans les pays de l'OAPI dépose une seule demande qui vaut pour tous les États membres."
+    },
+    {
+      "titre": "Tableau comparatif : droit d'auteur vs brevet vs marque",
+      "texte": "Pour bien maîtriser la propriété intellectuelle, il est essentiel de comprendre les différences entre les trois grands instruments de protection. Le droit d'auteur protège les œuvres de l'esprit originales. Il naît automatiquement sans formalité. Il dure la vie de l'auteur plus 70 ans. Le droit moral est perpétuel. L'objet de la protection est l'expression originale d'une idée. Le brevet protège les inventions techniques. Il nécessite un dépôt et un examen. Il dure 20 ans non renouvelables. La portée est strictement territoriale. L'objet de la protection est une solution technique à un problème technique. La marque protège les signes distinctifs d'une entreprise. Elle nécessite un enregistrement. Elle dure 10 ans renouvelables indéfiniment (si exploitée). La portée est territoriale. L'objet de la protection est un signe permettant au consommateur d'identifier l'origine des produits ou services. Un même produit peut bénéficier de plusieurs protections cumulées : la forme d'un produit peut être protégée par un modèle industriel, un brevet si elle est fonctionnelle, et le droit d'auteur si elle est originale. Une marque peut coexister avec un brevet sur le même produit.",
+      "definition": "Comparatif : droit d'auteur (œuvres de l'esprit, naissance automatique, vie + 70 ans, droit moral perpétuel) vs brevet (inventions techniques, dépôt requis, 20 ans non renouvelables) vs marque (signes distinctifs, enregistrement requis, 10 ans renouvelables indéfiniment si exploitée). Cumul possible.",
+      "exemple": "Un créateur de mode malgache crée une robe avec un motif original. Le motif peut être protégé par le droit d'auteur (originalité). Si le tissu utilise un procédé technique innovant, ce procédé peut être breveté. La marque cousue sur la robe est protégée par le droit des marques. Trois protections, un seul produit."
+    }
+  ],
+  "quiz": [
+    {
+      "question": "Qu'est-ce que la propriété intellectuelle ?",
+      "choix": [
+        "Le droit de propriété sur les biens immobiliers appartenant à des intellectuels",
+        "L'ensemble des droits reconnus aux créateurs sur leurs créations de l'esprit",
+        "Le droit des universités sur les travaux de leurs étudiants",
+        "L'ensemble des règles protégeant les secrets industriels uniquement"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Elle porte sur des créations immatérielles — pas sur des biens physiques.",
+        "Elle se divise en propriété littéraire et artistique et propriété industrielle.",
+        "Elle protège romans, inventions, marques, logiciels."
+      ],
+      "explication": "La propriété intellectuelle est l'ensemble des droits reconnus aux créateurs sur leurs créations de l'esprit. Ces créations sont immatérielles mais ont une valeur économique. Elle se divise en propriété littéraire et artistique (droit d'auteur sur les œuvres) et propriété industrielle (brevets sur les inventions, marques sur les signes distinctifs)."
+    },
+    {
+      "question": "Quelles sont les deux grandes branches de la propriété intellectuelle ?",
+      "choix": [
+        "La propriété foncière et la propriété mobilière",
+        "La propriété littéraire et artistique et la propriété industrielle",
+        "Le droit des marques et le droit des brevets",
+        "Le droit d'auteur et le droit de la concurrence"
+      ],
+      "reponse": 1,
+      "indices": [
+        "L'une protège les œuvres de l'esprit créatives.",
+        "L'autre protège les créations à usage commercial.",
+        "La leçon les présente explicitement."
+      ],
+      "explication": "La propriété intellectuelle se divise en deux grandes branches. La propriété littéraire et artistique protège les œuvres de l'esprit (romans, musiques, films, logiciels) à travers le droit d'auteur et les droits voisins. La propriété industrielle protège les créations à usage commercial (inventions, marques, dessins et modèles) à travers les brevets et autres titres industriels."
+    },
+    {
+      "question": "Le droit d'auteur protège-t-il les idées en tant que telles ?",
+      "choix": [
+        "Oui, toute idée originale est protégée par le droit d'auteur",
+        "Non, le droit d'auteur protège l'expression d'une idée, pas l'idée elle-même",
+        "Oui, mais seulement si l'idée a été publiée",
+        "Non, sauf si l'idée est entièrement nouvelle"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Les idées sont libres et appartiennent à tous.",
+        "Ce qui est protégé, c'est la façon dont l'idée est exprimée ou mise en œuvre.",
+        "Deux auteurs peuvent écrire sur le même sujet — leurs œuvres seront toutes deux protégées."
+      ],
+      "explication": "Non. Le droit d'auteur ne protège pas les idées en tant que telles — les idées sont libres. Ce qui est protégé, c'est l'expression originale d'une idée : la façon dont l'auteur l'a concrétisée dans une œuvre. Deux auteurs peuvent écrire un roman sur le même thème : leurs œuvres respectives seront toutes deux protégées, car c'est l'expression qui est protégée, non l'idée."
+    },
+    {
+      "question": "Qu'est-ce que l'originalité en droit d'auteur ?",
+      "choix": [
+        "La nouveauté absolue : l'œuvre ne doit ressembler à aucune autre existante",
+        "La valeur artistique élevée de l'œuvre jugée par des experts",
+        "L'empreinte de la personnalité de l'auteur dans l'œuvre — ses choix créatifs",
+        "Le fait que l'œuvre soit inédite et non publiée"
+      ],
+      "reponse": 2,
+      "indices": [
+        "Le droit ne juge pas la qualité artistique.",
+        "Une photo banale peut être originale si le photographe a fait des choix créatifs.",
+        "C'est la personnalité de l'auteur qui transparaît dans l'œuvre."
+      ],
+      "explication": "L'originalité en droit d'auteur ne signifie pas nouveauté ni valeur artistique. Elle signifie que l'œuvre porte l'empreinte de la personnalité de son auteur — qu'elle traduit ses choix esthétiques, sa vision, son style. Le droit ne juge pas si l'œuvre est belle ou nouvelle, mais si elle exprime la personnalité de celui qui l'a créée."
+    },
+    {
+      "question": "Vrai ou faux : pour être protégé par le droit d'auteur, un auteur doit déposer son œuvre auprès d'un organisme officiel.",
+      "choix": [
+        "Vrai",
+        "Faux"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Le droit d'auteur est très différent du brevet sur ce point.",
+        "La protection naît dès la création de l'œuvre.",
+        "Aucune formalité n'est requise."
+      ],
+      "explication": "Faux. La protection par le droit d'auteur naît automatiquement dès la création de l'œuvre, sans aucune formalité. Pas de dépôt, pas d'enregistrement requis. C'est une différence fondamentale avec le brevet et la marque qui nécessitent un dépôt. L'auteur n'a rien à faire pour être protégé : il suffit de créer une œuvre originale."
+    },
+    {
+      "question": "Qu'est-ce que le droit moral de l'auteur ?",
+      "choix": [
+        "Le droit de l'auteur à percevoir des redevances sur l'exploitation de son œuvre",
+        "Le lien perpétuel et inaliénable entre l'auteur et son œuvre : droit de divulgation, droit au nom, droit à l'intégrité, droit de repentir",
+        "Le droit de l'auteur à être jugé selon ses valeurs morales",
+        "Le droit de l'auteur de choisir librement le prix de vente de son œuvre"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Le droit moral est perpétuel — il ne disparaît jamais.",
+        "Il est inaliénable — on ne peut pas le vendre.",
+        "Il comprend le droit de décider si et quand l'œuvre est publiée."
+      ],
+      "explication": "Le droit moral est le lien indissoluble entre l'auteur et son œuvre. Il est perpétuel, inaliénable et imprescriptible. Il comprend le droit de divulgation (décider si et quand l'œuvre est publiée), le droit au nom (être mentionné), le droit à l'intégrité (s'opposer à toute modification dégradante) et le droit de repentir (retirer l'œuvre du commerce contre indemnisation)."
+    },
+    {
+      "question": "Un éditeur qui a acquis les droits d'exploitation d'un roman peut-il en modifier le titre sans l'accord de l'auteur ?",
+      "choix": [
+        "Oui, car il a acquis tous les droits sur l'œuvre",
+        "Non, car le titre fait partie du droit moral de l'auteur au respect de l'intégrité de son œuvre",
+        "Oui, mais seulement s'il augmente les ventes",
+        "Cela dépend des termes du contrat d'édition"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Le droit moral est inaliénable — l'auteur ne peut pas le céder.",
+        "Le droit à l'intégrité protège l'œuvre contre les modifications.",
+        "La cession des droits patrimoniaux ne cède pas le droit moral."
+      ],
+      "explication": "Non. Même si l'éditeur a acquis les droits patrimoniaux d'exploitation, le droit moral reste toujours à l'auteur — il est inaliénable. Le droit à l'intégrité de l'œuvre protège l'auteur contre toute modification, déformation ou mutilation de son œuvre. Modifier le titre sans accord de l'auteur violerait ce droit moral, même si le contrat d'édition a été régulièrement conclu."
+    },
+    {
+      "question": "Qu'est-ce que le droit de repentir en droit d'auteur ?",
+      "choix": [
+        "Le droit de l'auteur de s'excuser publiquement pour une œuvre offensante",
+        "Le droit de l'auteur de retirer son œuvre du commerce même après en avoir cédé les droits, contre indemnisation du cessionnaire",
+        "Le droit de l'auteur de modifier son œuvre après publication",
+        "Le droit de l'auteur de réclamer des dommages-intérêts pour plagiat"
+      ],
+      "reponse": 1,
+      "indices": [
+        "C'est un droit exceptionnel qui permet de revenir sur une décision.",
+        "Il impose une contrepartie financière au cessionnaire.",
+        "Il s'applique même après que l'auteur a cédé ses droits patrimoniaux."
+      ],
+      "explication": "Le droit de repentir permet à l'auteur, même après avoir cédé ses droits d'exploitation à un éditeur ou un producteur, de retirer son œuvre du commerce s'il estime qu'elle ne correspond plus à sa pensée ou à ses convictions. Ce retrait n'est possible que contre indemnisation du cessionnaire qui avait investi dans l'exploitation de l'œuvre."
+    },
+    {
+      "question": "Quelle est la durée de protection des droits patrimoniaux d'auteur dans la plupart des systèmes juridiques ?",
+      "choix": [
+        "10 ans à compter de la publication",
+        "50 ans à compter de la création",
+        "La vie de l'auteur plus 70 ans après sa mort",
+        "Indéfiniment — les droits patrimoniaux sont perpétuels comme le droit moral"
+      ],
+      "reponse": 2,
+      "indices": [
+        "La durée s'étend au-delà de la mort de l'auteur.",
+        "C'est pour permettre à ses héritiers d'exploiter l'œuvre.",
+        "Après expiration, l'œuvre tombe dans le domaine public."
+      ],
+      "explication": "Les droits patrimoniaux d'auteur durent la vie de l'auteur plus 70 ans après sa mort dans la plupart des systèmes. Après ce délai, l'œuvre tombe dans le domaine public et peut être librement utilisée. C'est différent du droit moral qui, lui, est perpétuel. Les héritiers de l'auteur bénéficient des droits patrimoniaux pendant les 70 ans suivant son décès."
+    },
+    {
+      "question": "Qu'est-ce que le domaine public en droit d'auteur ?",
+      "choix": [
+        "Les œuvres appartenant à l'État",
+        "Les œuvres dont les droits patrimoniaux ont expiré et qui peuvent être librement utilisées par tous",
+        "Les œuvres créées avec des fonds publics",
+        "Les œuvres accessibles sur internet sans inscription"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Il s'agit des œuvres dont la durée de protection a expiré.",
+        "L'œuvre peut être librement reproduite, adaptée, distribuée.",
+        "Les romans de Balzac ou de Hugo sont dans le domaine public."
+      ],
+      "explication": "Le domaine public désigne les œuvres dont les droits patrimoniaux ont expiré — généralement 70 ans après la mort de l'auteur. Ces œuvres peuvent être librement utilisées, reproduites, adaptées par n'importe qui, sans autorisation ni paiement de redevances. Les œuvres de Molière, Shakespeare, Mozart sont dans le domaine public. Attention : le droit moral de l'auteur subsiste même pour les œuvres du domaine public."
+    },
+    {
+      "question": "La copie privée est-elle une exception au droit d'auteur ?",
+      "choix": [
+        "Non, toute copie d'une œuvre nécessite l'autorisation de l'auteur",
+        "Oui, la reproduction d'une œuvre pour l'usage personnel de celui qui la réalise est autorisée sans permission",
+        "Oui, mais seulement pour les œuvres achetées légalement",
+        "Non, la copie privée n'existe pas en droit français"
+      ],
+      "reponse": 1,
+      "indices": [
+        "C'est l'une des exceptions prévues par la loi au monopole de l'auteur.",
+        "Elle ne couvre que l'usage strictement personnel.",
+        "Elle ne permet pas la diffusion à d'autres personnes."
+      ],
+      "explication": "Oui. La copie privée est une exception légale au droit d'auteur qui autorise la reproduction d'une œuvre pour l'usage strictement personnel de celui qui la réalise, sans autorisation et sans paiement de redevances. Cette exception ne couvre pas la diffusion à des tiers, le partage en ligne, ni la reproduction massive. Elle est compensée dans certains pays par une redevance sur les supports de copie (disques durs, CD vierges)."
+    },
+    {
+      "question": "Qu'est-ce que les droits voisins et qui en sont les titulaires ?",
+      "choix": [
+        "Les droits des voisins d'un auteur sur ses œuvres",
+        "Les droits reconnus aux personnes qui contribuent à la diffusion des œuvres sans en être auteurs : artistes-interprètes, producteurs, diffuseurs",
+        "Les droits des éditeurs sur les livres qu'ils publient",
+        "Les droits des héritiers de l'auteur sur son œuvre"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Ils sont voisins du droit d'auteur car ils en suivent la logique.",
+        "Les musiciens, les maisons de disques et les chaînes TV en sont titulaires.",
+        "Ils protègent non pas la création mais la prestation ou la production."
+      ],
+      "explication": "Les droits voisins protègent les personnes qui contribuent à la diffusion des œuvres sans en être les auteurs. Les artistes-interprètes (musiciens, chanteurs, comédiens) ont le droit de contrôler les enregistrements de leurs prestations. Les producteurs de phonogrammes (maisons de disques) ont des droits sur leurs enregistrements. Les entreprises de communication audiovisuelle ont des droits sur leurs programmes."
+    },
+    {
+      "question": "Pour diffuser un enregistrement musical à la radio, combien d'autorisations sont en principe nécessaires ?",
+      "choix": [
+        "Une seule : celle du compositeur",
+        "Deux : compositeur et chanteur",
+        "Trois : compositeur (droit d'auteur), chanteur/artiste-interprète (droit voisin) et maison de disques (droit voisin)",
+        "Aucune si l'œuvre est diffusée gratuitement"
+      ],
+      "reponse": 2,
+      "indices": [
+        "Le compositeur a un droit d'auteur sur la musique et les paroles.",
+        "Le chanteur a un droit voisin sur son interprétation.",
+        "La maison de disques a un droit voisin sur la production de l'enregistrement."
+      ],
+      "explication": "Trois autorisations sont en principe nécessaires. Celle du compositeur (et auteur des paroles) au titre du droit d'auteur sur l'œuvre musicale. Celle de l'artiste-interprète au titre du droit voisin sur sa prestation enregistrée. Celle du producteur de phonogrammes (maison de disques) au titre du droit voisin sur l'enregistrement. En pratique, ces droits sont souvent gérés collectivement par des sociétés de gestion (type SACEM en France)."
+    },
+    {
+      "question": "Quelles sont les trois conditions cumulatives pour qu'une invention soit brevetable ?",
+      "choix": [
+        "Originalité, utilité et enregistrement",
+        "Nouveauté, activité inventive et application industrielle",
+        "Innovation, secret et dépôt",
+        "Créativité, faisabilité et originalité"
+      ],
+      "reponse": 1,
+      "indices": [
+        "La nouveauté : l'invention ne doit pas être connue avant le dépôt.",
+        "L'activité inventive : elle ne doit pas être évidente pour un spécialiste.",
+        "L'application industrielle : elle doit pouvoir être fabriquée ou utilisée."
+      ],
+      "explication": "Pour être brevetable, une invention doit réunir trois conditions cumulatives. La nouveauté : l'invention ne doit pas être connue avant la date de dépôt. L'activité inventive : elle ne doit pas découler de façon évidente de l'état de la technique pour un spécialiste du domaine. L'application industrielle : elle doit pouvoir être fabriquée ou utilisée dans un secteur industriel."
+    },
+    {
+      "question": "Pourquoi les découvertes scientifiques pures ne sont-elles pas brevetables ?",
+      "choix": [
+        "Parce qu'elles ne sont pas originales",
+        "Parce qu'une découverte révèle ce qui existe déjà dans la nature — elle n'est pas une invention technique créant quelque chose de nouveau",
+        "Parce que la science doit rester libre et accessible",
+        "Parce que les scientifiques ne sont pas des inventeurs"
+      ],
+      "reponse": 1,
+      "indices": [
+        "On découvre ce qui existe déjà, on n'invente pas.",
+        "La loi de la gravité existait avant Newton.",
+        "Le brevet protège une solution technique, pas un fait naturel."
+      ],
+      "explication": "Les découvertes scientifiques ne sont pas brevetables parce qu'elles révèlent ce qui existe déjà dans la nature — elles ne créent rien de nouveau. La loi de la gravité existait avant Newton. Le gène humain est une découverte, pas une invention. En revanche, une application technique utilisant une découverte peut être brevetable : un médicament exploitant une propriété moléculaire nouvellement découverte peut l'être."
+    },
+    {
+      "question": "Quelle est la durée de protection d'un brevet ?",
+      "choix": [
+        "10 ans renouvelables indéfiniment",
+        "20 ans non renouvelables à compter du dépôt",
+        "La vie de l'inventeur plus 70 ans",
+        "50 ans à compter de la première commercialisation"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Le brevet est limité dans le temps pour favoriser la diffusion des innovations.",
+        "20 ans est la durée standard fixée par l'accord ADPIC.",
+        "Après expiration, l'invention peut être librement exploitée par tous."
+      ],
+      "explication": "Le brevet confère un monopole de 20 ans à compter du dépôt de la demande. Cette durée est non renouvelable : après 20 ans, l'invention tombe dans le domaine public et peut être librement exploitée par tous (c'est ainsi que les médicaments génériques apparaissent quand le brevet du princeps expire). Cette limitation est la contrepartie du monopole accordé à l'inventeur."
+    },
+    {
+      "question": "Un inventeur dépose un brevet en France mais pas à Madagascar. Son invention est-elle protégée à Madagascar ?",
+      "choix": [
+        "Oui, les brevets ont une portée mondiale automatique",
+        "Non, le brevet n'est protégé que dans les pays où il a été déposé",
+        "Oui, mais seulement dans les pays membres de l'OMC",
+        "Non, sauf si l'inventeur est malgache"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Le brevet a une portée strictement territoriale.",
+        "Pour être protégé dans plusieurs pays, il faut déposer dans chaque pays.",
+        "Des systèmes internationaux simplifient le dépôt multi-pays."
+      ],
+      "explication": "Non. Le brevet a une portée strictement territoriale : il ne protège que dans le ou les pays où il a été déposé et accordé. Un brevet déposé uniquement en France ne protège pas en Allemagne, au Japon, ni à Madagascar. Pour être protégé dans plusieurs pays, l'inventeur doit déposer dans chaque pays ou utiliser des systèmes régionaux (brevet européen) ou international (traité PCT)."
+    },
+    {
+      "question": "Qu'est-ce qu'une marque commerciale ?",
+      "choix": [
+        "Le nom légal d'une entreprise enregistré au registre du commerce",
+        "Un signe distinctif (nom, logo, slogan, forme, couleur, son) permettant de distinguer les produits ou services d'une entreprise de ceux de ses concurrents",
+        "Tout dessin ou image utilisé dans la publicité",
+        "Un label de qualité accordé par l'État"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Elle peut prendre de nombreuses formes : mot, image, son, couleur.",
+        "Elle identifie l'origine commerciale des produits.",
+        "Apple, Nike, Coca-Cola en sont des exemples célèbres."
+      ],
+      "explication": "Une marque est un signe distinctif qui permet à une entreprise de distinguer ses produits ou services de ceux de ses concurrents. Elle peut être un nom, un logo, un slogan, une forme caractéristique, une couleur distinctive ou même un son. Sa fonction essentielle est d'indiquer l'origine commerciale d'un produit et de permettre au consommateur de faire des choix éclairés."
+    },
+    {
+      "question": "Pourquoi une boulangerie ne peut-elle pas enregistrer le mot 'boulangerie' comme marque pour ses produits ?",
+      "choix": [
+        "Parce que les mots en français ne peuvent pas être des marques",
+        "Parce que ce mot est générique et descriptif — il désigne l'activité elle-même et ne peut pas être approprié par une seule entreprise",
+        "Parce que le secteur alimentaire est exclu de la protection des marques",
+        "Parce que les marques doivent être en anglais ou en latin pour être distinctives"
+      ],
+      "reponse": 1,
+      "indices": [
+        "La marque doit être distinctive — elle doit permettre de distinguer une entreprise d'une autre.",
+        "Un terme qui décrit l'activité ou le produit n'est pas distinctif.",
+        "Si chaque boulangerie pouvait s'approprier ce mot, les autres ne pourraient plus l'utiliser."
+      ],
+      "explication": "Le mot 'boulangerie' est générique et descriptif : il désigne l'activité elle-même. S'il était possible de se l'approprier comme marque, toutes les autres boulangeries seraient dans l'impossibilité de se désigner. Une marque doit être distinctive — elle doit permettre au consommateur d'identifier l'entreprise précise. Les termes génériques, descriptifs ou usuels ne peuvent pas être monopolisés."
+    },
+    {
+      "question": "Quelle est la grande différence entre la durée de protection d'un brevet et celle d'une marque ?",
+      "choix": [
+        "Le brevet dure plus longtemps que la marque",
+        "La marque dure 10 ans renouvelables indéfiniment (si exploitée) ; le brevet dure 20 ans non renouvelables",
+        "La marque et le brevet durent tous les deux 20 ans",
+        "Le brevet est perpétuel ; la marque est limitée à 10 ans"
+      ],
+      "reponse": 1,
+      "indices": [
+        "La marque peut durer éternellement si elle est renouvelée et exploitée.",
+        "Le brevet a une durée fixe et non renouvelable.",
+        "Coca-Cola protège sa marque depuis plus d'un siècle."
+      ],
+      "explication": "La marque dure 10 ans renouvelables indéfiniment à condition d'être effectivement exploitée. Une marque comme Coca-Cola peut ainsi être protégée pendant des siècles. Le brevet, lui, dure exactement 20 ans non renouvelables. C'est une différence fondamentale : l'inventeur doit enrichir le domaine public après 20 ans, alors que le commerçant peut conserver sa marque indéfiniment."
+    },
+    {
+      "question": "Qu'est-ce que la déchéance d'une marque pour non-usage ?",
+      "choix": [
+        "L'annulation d'une marque pour vice de forme dans l'enregistrement",
+        "La perte du droit sur une marque enregistrée mais non exploitée pendant 5 ans consécutifs",
+        "L'expiration automatique d'une marque après 10 ans",
+        "Le retrait d'une marque jugée trompeuse par l'autorité compétente"
+      ],
+      "reponse": 1,
+      "indices": [
+        "La marque doit être exploitée pour rester valable.",
+        "5 ans sans usage = possibilité pour un tiers de demander la déchéance.",
+        "La marque n'est pas un titre qu'on peut thésauriser indéfiniment sans l'utiliser."
+      ],
+      "explication": "La déchéance pour non-usage est la sanction qui frappe une marque enregistrée mais non exploitée pendant 5 ans consécutifs. Un concurrent peut alors demander la déchéance : le titulaire perd son droit sur la marque. Cette règle évite de bloquer des marques sans les exploiter pour empêcher les concurrents de les utiliser. Le titulaire peut éviter la déchéance en prouvant un usage sérieux de la marque."
+    },
+    {
+      "question": "Qu'est-ce qu'un dessin ou modèle industriel ?",
+      "choix": [
+        "Un plan technique d'une machine industrielle",
+        "La protection de l'apparence extérieure d'un produit : sa forme, ses couleurs, ses lignes",
+        "Un brevet portant sur le design d'un produit",
+        "Une marque portant sur l'image graphique d'un produit"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Il protège l'apparence — pas la fonction technique.",
+        "Un meuble, une voiture, un vêtement peuvent avoir un modèle protégé.",
+        "Il se distingue du brevet (technique) et du droit d'auteur (expression originale)."
+      ],
+      "explication": "Les dessins et modèles industriels protègent l'apparence extérieure d'un produit : sa forme, ses couleurs, ses lignes, sa texture, son ornementation. On protège le visuel, pas la technique (brevet) ni le contenu créatif abstrait (droit d'auteur). La forme caractéristique d'une voiture, d'un smartphone ou d'un flacon de parfum peut être protégée comme modèle industriel."
+    },
+    {
+      "question": "Quelle est la durée maximale de protection d'un dessin ou modèle industriel ?",
+      "choix": [
+        "10 ans non renouvelables",
+        "20 ans comme un brevet",
+        "5 ans renouvelables jusqu'à 25 ans maximum",
+        "Perpétuelle comme une marque"
+      ],
+      "reponse": 2,
+      "indices": [
+        "La protection commence par 5 ans.",
+        "Elle peut être renouvelée plusieurs fois.",
+        "Il y a un plafond maximum."
+      ],
+      "explication": "La protection des dessins et modèles industriels dure 5 ans à compter de l'enregistrement, renouvelables par périodes de 5 ans jusqu'à un maximum de 25 ans dans la plupart des systèmes. C'est une durée intermédiaire entre le brevet (20 ans fixes) et la marque (potentiellement perpétuelle)."
+    },
+    {
+      "question": "Qu'est-ce que la contrefaçon ?",
+      "choix": [
+        "La reproduction d'une œuvre du domaine public sans en citer la source",
+        "Toute atteinte non autorisée à un droit de propriété intellectuelle (droit d'auteur, brevet, marque, dessins et modèles)",
+        "La fabrication de faux billets de banque",
+        "Le plagiat dans un contexte académique"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Elle peut porter sur n'importe quel droit de propriété intellectuelle.",
+        "Elle engage la responsabilité civile ET pénale.",
+        "Vendre des faux sacs de luxe, télécharger illégalement des films, copier un brevet."
+      ],
+      "explication": "La contrefaçon est toute atteinte non autorisée à un droit de propriété intellectuelle : reproduire une œuvre sans autorisation (droit d'auteur), fabriquer un produit breveté sans licence (brevet), utiliser un signe protégé sans autorisation (marque), copier l'apparence d'un produit (dessins et modèles). Elle engage la responsabilité civile (dommages-intérêts) et pénale (emprisonnement et amendes)."
+    },
+    {
+      "question": "La contrefaçon engage-t-elle uniquement la responsabilité civile du contrefacteur ?",
+      "choix": [
+        "Oui, seuls des dommages-intérêts peuvent être réclamés",
+        "Non, la contrefaçon est aussi un délit pénal : le contrefacteur peut être poursuivi pénalement et risque emprisonnement et amendes",
+        "Non, mais la sanction pénale ne s'applique qu'aux grandes entreprises",
+        "Oui, la responsabilité pénale n'existe qu'en cas de récidive"
+      ],
+      "reponse": 1,
+      "indices": [
+        "La contrefaçon est à la fois une faute civile et un délit pénal.",
+        "La victime peut agir civilement ET pénalement.",
+        "Les sanctions pénales visent à dissuader les contrefacteurs."
+      ],
+      "explication": "Non. La contrefaçon engage une double responsabilité. Sur le plan civil : la victime peut obtenir des dommages-intérêts, la saisie des produits contrefaisants et leur destruction. Sur le plan pénal : la contrefaçon est un délit qui expose le contrefacteur à des peines d'emprisonnement et à des amendes qui peuvent être très lourdes. La sévérité des sanctions pénales vise à dissuader la contrefaçon à grande échelle."
+    },
+    {
+      "question": "Quel organisme gère les droits d'auteur à Madagascar ?",
+      "choix": [
+        "L'OMAPI (Office Malgache de la Propriété Industrielle)",
+        "L'OMDA (Office Malgache du Droit d'Auteur)",
+        "L'OAPI (Organisation Africaine de la Propriété Intellectuelle)",
+        "Le Ministère de la Culture de Madagascar"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Il existe deux offices distincts à Madagascar.",
+        "L'un gère la propriété industrielle, l'autre le droit d'auteur.",
+        "OMDA = Office Malgache du Droit d'Auteur."
+      ],
+      "explication": "L'OMDA (Office Malgache du Droit d'Auteur) est chargé de la protection et de la gestion collective des droits d'auteur à Madagascar. L'OMAPI (Office Malgache de la Propriété Industrielle) est l'organisme chargé de l'enregistrement des brevets, marques et dessins et modèles. Ces deux offices ont des missions distinctes correspondant aux deux branches de la propriété intellectuelle."
+    },
+    {
+      "question": "Qu'est-ce que la Convention de Berne et quel est son effet pour un auteur malgache ?",
+      "choix": [
+        "Un accord commercial sur les importations de produits culturels",
+        "Une convention internationale qui protège automatiquement une œuvre dans tous les pays membres sans formalité dans chaque pays",
+        "Un traité obligeant les auteurs à enregistrer leurs œuvres dans chaque pays membre",
+        "Un accord limitant la durée de protection à 50 ans dans tous les pays"
+      ],
+      "reponse": 1,
+      "indices": [
+        "La Convention de Berne est fondée sur le principe de la protection automatique.",
+        "Un auteur malgache n'a pas besoin de déposer son œuvre en France pour y être protégé.",
+        "La protection vaut dans tous les pays membres sans formalité supplémentaire."
+      ],
+      "explication": "La Convention de Berne est une convention internationale sur le droit d'auteur. Son principe fondamental est la protection automatique et réciproque : une œuvre protégée dans un pays membre est automatiquement protégée dans tous les autres pays membres, sans formalité supplémentaire. Un auteur malgache n'a donc pas besoin de déposer son roman en France pour y être protégé — la Convention de Berne y pourvoit automatiquement."
+    },
+    {
+      "question": "Un logiciel informatique est-il protégé par le droit d'auteur ?",
+      "choix": [
+        "Non, les logiciels sont uniquement protégés par les brevets",
+        "Oui, les logiciels sont protégés par le droit d'auteur comme des œuvres de l'esprit originales",
+        "Non, les logiciels ne sont pas considérés comme des créations de l'esprit",
+        "Oui, mais seulement s'ils ont été déposés auprès d'un office spécialisé"
+      ],
+      "reponse": 1,
+      "indices": [
+        "La leçon cite les logiciels parmi les œuvres protégeables.",
+        "Le code source d'un logiciel est traité comme une œuvre littéraire.",
+        "La protection naît automatiquement comme pour tout droit d'auteur."
+      ],
+      "explication": "Oui. Les logiciels sont protégés par le droit d'auteur comme des œuvres de l'esprit originales. Le code source est traité comme une œuvre littéraire. La protection naît automatiquement à la création, sans dépôt. En revanche, un logiciel en tant que tel n'est pas brevetable (même si certaines fonctionnalités techniques peuvent l'être selon les pays)."
+    },
+    {
+      "question": "Vrai ou faux : un auteur peut vendre (céder) son droit moral à un éditeur.",
+      "choix": [
+        "Vrai",
+        "Faux"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Le droit moral est inaliénable.",
+        "Inaliénable signifie qu'il ne peut pas être cédé, même volontairement.",
+        "L'auteur peut céder ses droits patrimoniaux mais jamais son droit moral."
+      ],
+      "explication": "Faux. Le droit moral est inaliénable : il ne peut jamais être cédé, vendu ou transféré à un tiers, même avec l'accord de l'auteur. Tout contrat prévoyant la cession du droit moral serait nul. L'auteur peut céder ses droits patrimoniaux (droit de reproduction, droit de représentation) mais son droit moral lui appartient de façon indissoluble et perpétuelle."
+    },
+    {
+      "question": "Qu'est-ce que le test des trois étapes en droit d'auteur ?",
+      "choix": [
+        "Les trois étapes de la procédure d'enregistrement d'une œuvre",
+        "Le test permettant de vérifier si une exception au droit d'auteur est licite : cas spécial, pas d'atteinte à l'exploitation normale, pas de préjudice injustifié",
+        "Les trois conditions de l'originalité d'une œuvre",
+        "Le processus en trois phases de création d'une œuvre collective"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Ce test s'applique aux exceptions au monopole de l'auteur.",
+        "Il vient des accords internationaux sur la propriété intellectuelle.",
+        "Les trois critères sont cumulatifs."
+      ],
+      "explication": "Le test des trois étapes est le critère international permettant de vérifier si une exception au droit d'auteur est licite. L'exception doit : (1) concerner un cas spécial bien délimité, (2) ne pas porter atteinte à l'exploitation normale de l'œuvre, et (3) ne pas causer un préjudice injustifié aux intérêts légitimes de l'auteur. Ce test, issu de la Convention de Berne et des accords ADPIC, s'impose aux exceptions que les législations nationales peuvent prévoir."
+    },
+    {
+      "question": "Peut-on cumuler la protection par droit d'auteur et par modèle industriel pour le même objet ?",
+      "choix": [
+        "Non, un objet ne peut bénéficier que d'une seule protection à la fois",
+        "Oui, si l'objet est original (droit d'auteur) et répond aux conditions des dessins et modèles (nouveauté, caractère propre)",
+        "Non, sauf si l'objet est un logiciel",
+        "Oui, mais seulement dans les pays membres de l'UE"
+      ],
+      "reponse": 1,
+      "indices": [
+        "La leçon mentionne la théorie de l'unité de l'art.",
+        "Un objet créatif peut réunir les conditions de plusieurs protections.",
+        "Le cumul enrichit la protection du créateur."
+      ],
+      "explication": "Oui. Un objet peut cumuler plusieurs protections si les conditions de chacune sont remplies. La forme d'un objet peut être protégée par un modèle industriel (nouveauté + caractère propre) ET par le droit d'auteur si elle est originale. On parle de la théorie de l'unité de l'art : les œuvres appliquées aux objets (design) peuvent bénéficier à la fois des deux protections."
+    },
+    {
+      "question": "Qu'est-ce que l'accord ADPIC et quel est son rôle ?",
+      "choix": [
+        "Un accord bilatéral entre Madagascar et la France sur les droits d'auteur",
+        "L'accord de l'OMC sur les aspects des droits de propriété intellectuelle liés au commerce, fixant des standards minimaux que tous les membres doivent respecter",
+        "Un accord africain sur la protection des marques commerciales",
+        "Un traité international exclusivement consacré aux brevets pharmaceutiques"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Il est annexé aux accords de l'OMC.",
+        "Il fixe des standards minimaux pour tous les membres de l'OMC.",
+        "Madagascar, membre de l'OMC, est donc lié par cet accord."
+      ],
+      "explication": "L'accord ADPIC (Aspects des droits de propriété intellectuelle qui touchent au commerce) est annexé aux accords de l'Organisation Mondiale du Commerce. Il fixe des standards minimaux de protection de la propriété intellectuelle que tous les membres de l'OMC, dont Madagascar, doivent respecter dans leur législation nationale. Il couvre le droit d'auteur, les brevets, les marques, les indications géographiques et d'autres droits."
+    },
+    {
+      "question": "Une entreprise malgache fabrique sans autorisation un médicament breveté dont le brevet est toujours en vigueur. Commet-elle une contrefaçon ?",
+      "choix": [
+        "Non, car la santé publique prime sur les brevets pharmaceutiques",
+        "Oui, sauf si Madagascar a accordé une licence obligatoire dans le cadre des flexibilités ADPIC pour raisons de santé publique",
+        "Non, car les brevets pharmaceutiques ne sont pas valables dans les pays en développement",
+        "Oui, sans aucune exception possible"
+      ],
+      "reponse": 1,
+      "indices": [
+        "La contrefaçon de brevet est en principe illicite.",
+        "L'accord ADPIC prévoit des flexibilités pour la santé publique.",
+        "La licence obligatoire permet à un État d'autoriser la production d'un médicament breveté sans accord du titulaire."
+      ],
+      "explication": "En principe oui, c'est une contrefaçon. Cependant, l'accord ADPIC prévoit des flexibilités : les États peuvent accorder des licences obligatoires permettant de fabriquer un médicament breveté sans l'accord du titulaire en cas d'urgence sanitaire ou de santé publique. La Déclaration de Doha de 2001 a confirmé ce droit des pays en développement. Sans licence obligatoire accordée par les autorités, la fabrication est bien une contrefaçon de brevet."
+    },
+    {
+      "question": "Vrai ou faux : une photo prise de façon spontanée par un amateur peut être protégée par le droit d'auteur.",
+      "choix": [
+        "Vrai",
+        "Faux"
+      ],
+      "reponse": 0,
+      "indices": [
+        "La photo est mentionnée parmi les œuvres protégeables.",
+        "L'originalité s'apprécie par les choix créatifs du photographe.",
+        "La valeur artistique ou le statut professionnel ne sont pas des critères."
+      ],
+      "explication": "Vrai. Une photo peut être protégée par le droit d'auteur si elle est originale — si elle porte l'empreinte de la personnalité de son auteur à travers ses choix de cadrage, de lumière, d'angle, de moment. Le statut amateur ou professionnel du photographe est indifférent. Certaines photos 'mécaniques' (copies de documents) sans choix créatifs pourraient ne pas être originales, mais une photo qui traduit la vision artistique de son auteur est protégée."
+    },
+    {
+      "question": "Quelle est la différence entre céder ses droits patrimoniaux et accorder une licence sur son œuvre ?",
+      "choix": [
+        "Ce sont deux termes synonymes désignant la même opération",
+        "La cession transfère définitivement les droits au cessionnaire ; la licence autorise un tiers à exploiter l'œuvre tout en gardant ses droits",
+        "La cession est gratuite ; la licence est toujours payante",
+        "La cession ne vaut que pour les droits d'auteur ; la licence ne vaut que pour les brevets"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Dans la cession, l'auteur se dépossède de ses droits.",
+        "Dans la licence, l'auteur reste titulaire mais autorise une exploitation.",
+        "Une maison de disques peut acquérir les droits (cession) ou obtenir une licence."
+      ],
+      "explication": "La cession transfère définitivement les droits patrimoniaux au cessionnaire : l'auteur ne les a plus. C'est comme une vente de droits. La licence est une autorisation d'exploiter l'œuvre pour une durée et un territoire déterminés, tout en conservant la titularité de ses droits. L'auteur reste propriétaire et peut accorder plusieurs licences simultanées à des tiers différents."
+    },
+    {
+      "question": "Vrai ou faux : les noms de domaine internet peuvent constituer des droits de propriété intellectuelle.",
+      "choix": [
+        "Vrai",
+        "Faux"
+      ],
+      "reponse": 0,
+      "indices": [
+        "Un nom de domaine identifie une entreprise sur internet.",
+        "Des conflits entre noms de domaine et marques sont fréquents.",
+        "Le 'cybersquatting' consiste à enregistrer un nom de domaine reproduisant une marque connue."
+      ],
+      "explication": "Vrai. Les noms de domaine sont reconnus comme des droits de propriété intellectuelle dans de nombreux systèmes. Ils constituent un signe distinctif identifiant une présence sur internet. Des conflits fréquents opposent les titulaires de marques et des personnes ayant enregistré un nom de domaine reproduisant leur marque (cybersquatting). Des procédures spéciales de résolution de ces conflits existent (procédure UDRP de l'OMPI)."
+    },
+    {
+      "question": "Qu'est-ce que l'OAPI et quel est son rôle pour Madagascar ?",
+      "choix": [
+        "L'Organisation Africaine de la Propriété Intellectuelle : un dépôt unique vaut pour tous les États membres",
+        "L'Organisation Africaine de Protection des Inventions : protège exclusivement les brevets",
+        "L'Office Africain des Publications Intellectuelles : enregistre les droits d'auteur africains",
+        "L'Organisation des Auteurs et Producteurs Indépendants : représente les créateurs africains"
+      ],
+      "reponse": 0,
+      "indices": [
+        "OAPI = Organisation Africaine de la Propriété Intellectuelle.",
+        "Un seul dépôt suffit pour être protégé dans tous les États membres.",
+        "Cela simplifie la protection multi-pays en Afrique."
+      ],
+      "explication": "L'OAPI (Organisation Africaine de la Propriété Intellectuelle) est une organisation régionale regroupant plusieurs pays africains dont Madagascar. Un seul dépôt auprès de l'OAPI vaut protection dans tous les États membres pour les marques, brevets et dessins et modèles. Cela simplifie considérablement la protection multi-pays en Afrique, évitant les dépôts nationaux séparés dans chaque pays membre."
+    },
+    {
+      "question": "Un auteur malgache crée un roman à Antananarivo. Dans quels pays son œuvre est-elle automatiquement protégée ?",
+      "choix": [
+        "Uniquement à Madagascar",
+        "Dans tous les pays membres de la Convention de Berne, sans aucune formalité dans ces pays",
+        "Dans tous les pays du monde sans exception",
+        "Uniquement dans les pays africains membres de l'OAPI"
+      ],
+      "reponse": 1,
+      "indices": [
+        "La Convention de Berne établit la protection automatique et réciproque.",
+        "Madagascar est membre de la Convention de Berne.",
+        "L'auteur n'a rien à faire pour être protégé dans les autres pays membres."
+      ],
+      "explication": "L'œuvre est automatiquement protégée dans tous les pays membres de la Convention de Berne, sans formalité. Madagascar étant membre, un auteur malgache bénéficie automatiquement de la protection dans plus de 170 pays membres (dont la France, les États-Unis, le Japon, etc.) sans dépôt dans chacun d'eux. C'est le principe de la protection automatique et du traitement national."
+    },
+    {
+      "question": "Vrai ou faux : un brevet sur un médicament tombe dans le domaine public après 20 ans, permettant à n'importe quel laboratoire de fabriquer des médicaments génériques.",
+      "choix": [
+        "Vrai",
+        "Faux"
+      ],
+      "reponse": 0,
+      "indices": [
+        "La durée du brevet est de 20 ans non renouvelables.",
+        "Après 20 ans, l'invention est dans le domaine public.",
+        "C'est le principe qui permet l'apparition des médicaments génériques."
+      ],
+      "explication": "Vrai. Après l'expiration du brevet (20 ans non renouvelables), l'invention tombe dans le domaine public. N'importe quel laboratoire peut alors fabriquer et commercialiser le médicament sans autorisation du titulaire du brevet original. C'est le principe qui permet l'apparition des médicaments génériques, moins chers que les médicaments de marque, et qui rend les traitements plus accessibles."
+    },
+    {
+      "question": "Récapitulatif : un artiste malgache compose une chanson, l'enregistre, et la publie sous une marque (son nom de scène). Identifiez tous les droits de propriété intellectuelle potentiellement en jeu.",
+      "choix": [
+        "Uniquement le droit d'auteur sur la chanson",
+        "Droit d'auteur sur la composition musicale et les paroles + droits voisins de l'artiste-interprète sur son enregistrement + droit des marques sur le nom de scène enregistré",
+        "Uniquement la marque sur le nom de scène",
+        "Droit d'auteur + brevet sur la technique d'enregistrement"
+      ],
+      "reponse": 1,
+      "indices": [
+        "La chanson (mélodie + paroles) est une œuvre de l'esprit : quel droit ?",
+        "L'enregistrement de sa prestation lui donne un droit supplémentaire : lequel ?",
+        "Son nom de scène peut être déposé comme marque."
+      ],
+      "explication": "Plusieurs droits se cumulent. Le droit d'auteur sur la composition musicale et les paroles : naît automatiquement, vie + 70 ans. Le droit voisin de l'artiste-interprète sur son enregistrement : il peut contrôler la diffusion de son enregistrement, durée 50 ans. Si un producteur a financé l'enregistrement, ce dernier a aussi des droits voisins de producteur de phonogrammes. Le droit des marques sur le nom de scène s'il a été enregistré : monopole 10 ans renouvelables. Ces droits coexistent et se cumulent sur le même objet."
+    },
+    {
+      "question": "Vrai ou faux : une idée de scénario de film peut être protégée par le droit d'auteur.",
+      "choix": [
+        "Vrai",
+        "Faux"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Le droit d'auteur protège l'expression des idées, pas les idées elles-mêmes.",
+        "Une idée ('un film sur un naufrage') n'est pas protégée.",
+        "Le scénario rédigé et développé peut l'être si original."
+      ],
+      "explication": "Faux. Une idée de scénario en tant que telle n'est pas protégée par le droit d'auteur — les idées sont libres. En revanche, le scénario développé, rédigé, avec dialogues, structure narrative et personnages développés, est une œuvre de l'esprit originale qui peut être protégée. La frontière est entre l'idée (non protégeable) et son expression développée et originale (protégeable)."
+    },
+    {
+      "question": "Qu'est-ce que la parodie en droit d'auteur et est-elle autorisée ?",
+      "choix": [
+        "La parodie est toujours interdite car elle porte atteinte au droit moral de l'auteur",
+        "La parodie est une exception au droit d'auteur : elle est autorisée sans accord de l'auteur à condition de ne pas porter atteinte à son honneur ou à sa réputation",
+        "La parodie est autorisée mais nécessite l'accord de l'auteur et le paiement de redevances",
+        "La parodie n'est autorisée que pour les œuvres du domaine public"
+      ],
+      "reponse": 1,
+      "indices": [
+        "La parodie est citée parmi les exceptions au droit d'auteur.",
+        "Elle doit se distinguer clairement de l'œuvre originale.",
+        "Elle ne doit pas dénigrer l'auteur ou porter atteinte à son honneur."
+      ],
+      "explication": "La parodie est une exception légale au droit d'auteur dans de nombreux systèmes. Elle est autorisée sans accord de l'auteur et sans paiement de redevances, à condition de se distinguer clairement de l'œuvre originale et de ne pas porter atteinte à l'honneur ou à la réputation de l'auteur. C'est la liberté d'expression et la liberté de créer qui justifient cette exception."
+    },
+    {
+      "question": "Vrai ou faux : une marque non renouvelée à l'expiration de sa période de 10 ans tombe automatiquement dans le domaine public.",
+      "choix": [
+        "Vrai",
+        "Faux"
+      ],
+      "reponse": 0,
+      "indices": [
+        "La marque dure 10 ans et doit être renouvelée pour rester valable.",
+        "Si elle n'est pas renouvelée, la protection s'arrête.",
+        "N'importe qui peut alors déposer ce signe comme marque."
+      ],
+      "explication": "Vrai. Si le titulaire ne renouvelle pas sa marque à l'expiration de la période de 10 ans, la protection cesse. La marque tombe dans le domaine public et n'importe quel concurrent peut alors déposer ce signe comme marque pour ses propres produits. C'est une différence avec le droit d'auteur qui s'éteint automatiquement après un délai fixe sans aucune démarche à effectuer."
+    },
+    {
+      "question": "Qu'est-ce que le droit de suite en droit d'auteur ?",
+      "choix": [
+        "Le droit de l'auteur de suivre son œuvre dans toutes ses reventes",
+        "Le droit inaliénable de l'auteur d'une œuvre d'art originale de participer aux bénéfices des ventes successives de cette œuvre",
+        "Le droit de l'auteur de poursuivre les contrefacteurs devant les tribunaux",
+        "Le droit de l'auteur de modifier son œuvre après chaque vente"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Il concerne les arts graphiques et plastiques.",
+        "Il permet à l'auteur de profiter de la plus-value de ses œuvres.",
+        "Si un tableau acheté 1 000 euros est revendu 100 000 euros, l'auteur touche un pourcentage."
+      ],
+      "explication": "Le droit de suite est le droit inaliénable et imprescriptible de l'auteur d'une œuvre d'art originale (tableau, sculpture, photographie d'art) de percevoir un pourcentage sur le prix des ventes successives de cette œuvre sur le marché de l'art. Si un tableau acheté 500 000 ariary est revendu 5 000 000 ariary, l'auteur a droit à un pourcentage de la plus-value. Ce droit compense le fait que l'auteur ne profite pas de l'augmentation de valeur de son œuvre après la première vente."
+    },
+    {
+      "question": "Un entrepreneur malgache crée un produit artisanal caractéristique de la région DIANA. Quel mécanisme de propriété intellectuelle pourrait protéger l'origine géographique de ce produit ?",
+      "choix": [
+        "Un brevet d'invention sur le procédé de fabrication",
+        "Une indication géographique (IG) ou appellation d'origine protégée",
+        "Un droit d'auteur sur le design du produit",
+        "Une marque collective déposée par tous les artisans de la région"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Ce mécanisme protège l'origine géographique d'un produit.",
+        "Le champagne, le café de Jamaïque, la vanille de Madagascar en sont des exemples.",
+        "Il appartient à la propriété industrielle."
+      ],
+      "explication": "Une indication géographique (IG) ou appellation d'origine protégée (AOP) est le mécanisme qui protège l'origine géographique d'un produit dont les qualités ou la réputation sont liées à ce territoire. La vanille de Madagascar, le café des Hautes Terres, le raphia de la côte est sont des produits qui pourraient bénéficier de ce type de protection. Elle appartient à la propriété industrielle et empêche des producteurs d'autres régions d'utiliser ces noms géographiques."
+    },
+    {
+      "question": "Vrai ou faux : en droit d'auteur, même les œuvres mineures ou sans valeur artistique peuvent être protégées si elles sont originales.",
+      "choix": [
+        "Vrai",
+        "Faux"
+      ],
+      "reponse": 0,
+      "indices": [
+        "Le droit d'auteur ne juge pas la qualité artistique.",
+        "L'originalité est la seule condition (avec le fait d'être une œuvre de l'esprit).",
+        "Une lettre banale peut être protégée si elle porte l'empreinte de son auteur."
+      ],
+      "explication": "Vrai. Le droit d'auteur ne juge pas la valeur artistique, commerciale ou culturelle d'une œuvre. La seule condition est l'originalité — que l'œuvre porte l'empreinte de la personnalité de son auteur. Une lettre personnelle, un dessin enfantin, un email original, une chanson de mauvaise qualité peuvent tous être protégés par le droit d'auteur s'ils expriment la personnalité de leur auteur. Le juge n'a pas à apprécier la beauté ou la valeur de l'œuvre."
+    },
+    {
+      "question": "Vrai ou faux : les logiciels sont protégés par le droit d'auteur sans dépôt ni formalité.",
+      "choix": [
+        "Vrai",
+        "Faux"
+      ],
+      "reponse": 0,
+      "indices": [
+        "Le code source est traité comme une œuvre littéraire.",
+        "La protection naît automatiquement.",
+        "Pas de dépôt requis — comme pour tout droit d'auteur."
+      ],
+      "explication": "Vrai. Les logiciels sont protégés par le droit d'auteur comme des œuvres de l'esprit originales. Le code source est assimilé à une œuvre littéraire. La protection naît automatiquement à la création sans aucune formalité, exactement comme pour un roman ou une chanson."
+    },
+    {
+      "question": "Qu'est-ce que le droit de suite en droit d'auteur ?",
+      "choix": [
+        "Le droit de l'auteur de suivre son œuvre lors de chaque revente",
+        "Le droit inaliénable de l'auteur d'une œuvre d'art originale de percevoir un pourcentage sur le prix des ventes successives de cette œuvre sur le marché de l'art",
+        "Le droit de poursuivre les contrefacteurs devant les tribunaux",
+        "Le droit de modifier son œuvre après chaque vente"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Il concerne les arts graphiques et plastiques.",
+        "Il permet à l'auteur de profiter de la plus-value de ses œuvres lors des reventes.",
+        "Si un tableau acheté 500 000 ariary est revendu 5 millions, l'auteur touche un pourcentage."
+      ],
+      "explication": "Le droit de suite est le droit inaliénable de l'auteur d'une œuvre d'art originale de percevoir un pourcentage sur le prix des reventes successives de cette œuvre sur le marché de l'art. Il compense le fait que l'auteur ne profite pas de l'augmentation de valeur de son œuvre après la première vente."
+    },
+    {
+      "question": "Un entrepreneur malgache fabrique un produit artisanal typique de la région DIANA. Quel mécanisme protège l'origine géographique de ce produit ?",
+      "choix": [
+        "Un brevet d'invention sur le procédé de fabrication",
+        "Une indication géographique (IG) ou appellation d'origine protégée",
+        "Un droit d'auteur sur le design du produit",
+        "Une marque collective déposée par tous les artisans de la région"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Ce mécanisme protège l'origine géographique d'un produit.",
+        "La vanille de Madagascar en est un exemple classique.",
+        "Il appartient à la propriété industrielle."
+      ],
+      "explication": "Une indication géographique (IG) ou appellation d'origine protégée est le mécanisme qui protège l'origine géographique d'un produit dont les qualités sont liées à son territoire. La vanille de Madagascar, le café des Hautes Terres peuvent bénéficier de ce type de protection. Elle empêche des producteurs d'autres régions d'utiliser ces noms géographiques."
+    },
+    {
+      "question": "Vrai ou faux : une idée de scénario de film peut être protégée par le droit d'auteur.",
+      "choix": [
+        "Vrai",
+        "Faux"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Le droit d'auteur protège l'expression des idées, pas les idées elles-mêmes.",
+        "Une idée ('un film sur un naufrage') n'est pas protégée.",
+        "Le scénario développé et rédigé peut l'être si original."
+      ],
+      "explication": "Faux. Une idée de scénario en tant que telle n'est pas protégée — les idées sont libres. En revanche, le scénario développé, rédigé avec dialogues, structure narrative et personnages, est une œuvre originale protégée. La frontière est entre l'idée (non protégeable) et son expression développée (protégeable)."
+    }
+  ],
+  "exercices": [
+    {
+      "question": "CAS PRATIQUE 1 : Mahery est un jeune compositeur malgache. Il a composé une chanson originale, 'Mifampahery', qu'il a enregistrée dans un studio professionnel. Une chaîne de radio malgache diffuse régulièrement cette chanson sans avoir demandé aucune autorisation à Mahery et sans lui verser de rémunération. Par ailleurs, un commerçant vend des CD sur lesquels 'Mifampahery' figure parmi d'autres chansons, sans autorisation. Mahery vous consulte. Analysez ses droits et les recours dont il dispose.",
+      "choix": [
+        "Mahery n'a aucun droit car il n'a pas enregistré sa chanson auprès de l'OMDA",
+        "Mahery dispose de droits d'auteur sur sa composition et de droits voisins sur son enregistrement : la radio et le vendeur de CD ont tous deux commis des atteintes à ces droits, engageant leur responsabilité civile et pénale",
+        "Seule la radio a commis une infraction : la vente de CD est tolérée si les CD ne sont pas copiés",
+        "Mahery ne peut agir que contre la radio, pas contre le vendeur de CD"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Quels droits Mahery a-t-il sur sa chanson ? Et sur son enregistrement ?",
+        "La diffusion radio nécessite-t-elle une autorisation ? La vente de CD également ?",
+        "Ces atteintes constituent-elles une contrefaçon civile et pénale ?"
+      ],
+      "explication": "Analyse complète. Les droits de Mahery. Mahery bénéficie de deux catégories de droits distincts. Le droit d'auteur sur sa composition musicale et ses paroles : il naît automatiquement à la création, sans aucune formalité ni dépôt à l'OMDA. La protection existe dès que la chanson a été créée. Ce droit comprend le droit de reproduction (autoriser toute fixation de l'œuvre) et le droit de représentation (autoriser toute communication au public). Le droit voisin de l'artiste-interprète sur son enregistrement : en tant qu'artiste ayant enregistré sa prestation dans le studio, Mahery est titulaire de droits voisins sur cet enregistrement. Ces droits lui permettent de contrôler la diffusion et la reproduction de son enregistrement. Les atteintes commises. La radio commet deux atteintes. En diffusant la chanson sans autorisation, elle viole le droit de représentation de Mahery (droit d'auteur). Elle viole également ses droits voisins d'artiste-interprète sur l'enregistrement diffusé. Sans autorisation et sans rémunération, chaque diffusion constitue une atteinte. Le vendeur de CD commet également deux atteintes. En reproduisant la chanson sur les CD (droit de reproduction — droit d'auteur) et en les vendant au public (droit de représentation indirect), il viole les droits patrimoniaux de Mahery. Il viole aussi ses droits voisins en reproduisant l'enregistrement. Les recours de Mahery. Sur le plan civil : Mahery peut saisir le tribunal compétent pour obtenir des dommages-intérêts compensant ses pertes (redevances non perçues, préjudice moral), la saisie et la destruction des CD contrefaisants, et l'interdiction de poursuivre les diffusions et ventes non autorisées. Sur le plan pénal : la contrefaçon est un délit. Mahery peut porter plainte pour obtenir la condamnation pénale de la radio et du vendeur de CD. Conseil pratique. Mahery devrait contacter l'OMDA (Office Malgache du Droit d'Auteur) qui peut l'aider à faire respecter ses droits et percevoir les redevances dues. Des sociétés de gestion collective existent précisément pour gérer ces droits et percevoir les sommes dues à leur place."
+    },
+    {
+      "question": "CAS PRATIQUE 2 : Vonjy est ingénieur à Antananarivo. Il a mis au point un procédé technique innovant de filtration d'eau potable utilisant des matériaux locaux malgaches. Ce procédé n'a jamais été divulgué publiquement. Son employeur lui dit que comme il a été développé pendant ses heures de travail avec les ressources de l'entreprise, le brevet appartient à l'entreprise. Vonjy pense que ce procédé étant inspiré d'une découverte scientifique récente (publiée dans une revue), il ne serait peut-être pas brevetable de toute façon. Par ailleurs, Vonjy a aussi dessiné un logo original pour ce procédé qu'il souhaite protéger. Analysez les droits de Vonjy et de son employeur, et dites ce qui peut être protégé et comment.",
+      "choix": [
+        "Vonjy est l'inventeur unique : il est seul propriétaire du brevet",
+        "Le brevet appartient à l'entreprise car l'invention a été faite dans le cadre du travail salarié ; le procédé est brevetable car il applique une découverte scientifique de façon nouvelle ; le logo peut être protégé par droit d'auteur et par marque déposée",
+        "Le procédé n'est pas brevetable car basé sur une découverte scientifique",
+        "Vonjy peut protéger le logo mais pas le procédé"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Les inventions réalisées par un salarié dans le cadre de ses fonctions appartiennent en général à l'employeur.",
+        "Une découverte scientifique n'est pas brevetable, mais son application technique peut l'être.",
+        "Le logo original peut bénéficier du droit d'auteur (automatique) et d'une marque déposée."
+      ],
+      "explication": "Analyse complète. La question du titulaire du brevet. En droit du travail et de la propriété intellectuelle, les inventions réalisées par un salarié dans le cadre de ses fonctions et avec les moyens de son employeur sont des inventions de mission : elles appartiennent à l'employeur. Si Vonjy a développé ce procédé pendant ses heures de travail, avec les ressources et les équipements de l'entreprise, et que ses fonctions comportent une activité de recherche ou de conception, le brevet appartient effectivement à l'employeur. Vonjy a cependant droit à une rémunération supplémentaire (juste rétribution) pour son invention, indépendamment de son salaire. La brevetabilité du procédé. La préoccupation de Vonjy n'est pas fondée. La découverte scientifique publiée dans la revue n'est pas brevetable — c'est exact. Mais l'application technique de cette découverte peut l'être. Le procédé de filtration qui utilise des matériaux locaux pour purifier l'eau est une application industrielle d'un principe scientifique : c'est bien une invention technique brevetable si les trois conditions sont réunies. Nouveauté : le procédé n'a jamais été divulgué publiquement — condition remplie. Activité inventive : l'application aux matériaux locaux malgaches n'était pas évidente pour un ingénieur spécialisé — à vérifier mais probablement remplie. Application industrielle : le procédé peut être mis en œuvre industriellement pour purifier l'eau — condition remplie. Le procédé est donc a priori brevetable. L'entreprise devrait déposer rapidement une demande de brevet avant toute divulgation. La protection du logo. Le logo dessiné par Vonjy est une œuvre de l'esprit originale : il est automatiquement protégé par le droit d'auteur dès sa création, sans formalité. Cette protection lui appartient personnellement en tant que créateur (sauf si son contrat de travail prévoit que les créations réalisées dans le cadre de ses fonctions appartiennent à l'employeur — ce qui est souvent le cas pour les droits patrimoniaux). Pour une protection plus robuste et commercialement utile, il serait possible de déposer le logo comme marque auprès de l'OMAPI (ou de l'OAPI pour une protection africaine élargie). Conseil final. Vonjy devrait consulter rapidement son contrat de travail pour vérifier les clauses relatives aux inventions et créations de salariés, et éventuellement négocier sa juste rétribution avec son employeur pour l'invention brevetable."
+    }
+  ]
+    }
