@@ -1,0 +1,740 @@
+{
+  "module": {
+    "id": "module_13",
+    "niveau": 3,
+    "titre": "Le Droit de l'Environnement à Madagascar",
+    "description": "Ce module couvre le cadre juridique et institutionnel de la protection de l'environnement à Madagascar : textes fondamentaux, gestion des forêts et de la biodiversité, lutte contre la pollution, changement climatique et institutions compétentes.",
+    "themes": [
+      "Textes fondamentaux (Charte, COAP)",
+      "Gestion des forêts et biodiversité",
+      "Pollution et déchets",
+      "Changement climatique & REDD+",
+      "Institutions environnementales (ONE, MNP)"
+    ],
+    "lecons": [
+      {
+        "id": "lecon_1",
+        "titre": "Les textes fondamentaux du droit de l'environnement à Madagascar",
+        "theme": "Textes fondamentaux",
+        "contenu": {
+          "introduction": "Le droit de l'environnement à Madagascar repose sur un socle constitutionnel et législatif solide, progressivement élaboré depuis l'indépendance et renforcé à partir des années 1990 sous l'impulsion des engagements internationaux.",
+          "sections": [
+            {
+              "titre": "1.1 Le fondement constitutionnel",
+              "texte": "La Constitution de la Quatrième République (2010) consacre le droit à un environnement sain à son article 39 : 'Toute personne a le droit de vivre dans un environnement sain et équilibré.' Elle impose également à l'État l'obligation de protéger, de préserver et de valoriser l'environnement pour les générations futures. Le préambule affirme l'attachement à la Charte africaine des droits de l'homme et des peuples, qui comprend le droit à un environnement satisfaisant."
+            },
+            {
+              "titre": "1.2 La Charte de l'Environnement Malgache (Loi n°90-033)",
+              "texte": "La Charte de l'Environnement Malgache, adoptée par la Loi n°90-033 du 21 décembre 1990 et modifiée par les Lois n°97-012 et n°2004-015, constitue la loi-cadre en matière d'environnement. Elle pose les principes directeurs suivants :\n\n• Le principe de précaution : en cas d'incertitude scientifique, l'absence de preuve de nocivité ne justifie pas l'inaction ;\n• Le principe pollueur-payeur : celui qui cause une pollution doit en assumer le coût ;\n• Le principe de participation : toute personne a le droit d'être informée et de participer aux décisions environnementales ;\n• Le principe de prévention : il vaut mieux prévenir les atteintes à l'environnement que les réparer ;\n• Le principe d'intégration : l'environnement doit être intégré dans les politiques sectorielles.\n\nLa Charte institue également l'Évaluation d'Impact Environnemental (EIE) comme outil préalable à tout projet susceptible de porter atteinte à l'environnement."
+            },
+            {
+              "titre": "1.3 Le Code de Gestion des Aires Protégées (COAP) – Loi n°2001-005",
+              "texte": "Le COAP, adopté en 2001 et complété par le Décret n°2005-848, organise la création, la gestion et la protection des aires protégées à Madagascar. Il distingue plusieurs catégories selon la classification de l'UICN :\n\n• Réserves naturelles intégrales (catégorie I) : protection maximale, accès très limité ;\n• Parcs nationaux (catégorie II) : ouverture au tourisme dans un cadre strictement réglementé ;\n• Réserves spéciales (catégorie IV) : protection d'espèces ou d'habitats particuliers ;\n• Monuments naturels (catégorie III) ;\n• Paysages terrestres/marins protégés (catégorie V) ;\n• Aires protégées à ressources gérées (catégorie VI).\n\nLe COAP prévoit également la création de nouvelles aires protégées temporaires (APT) et les aires marines protégées (AMP). La violation des interdictions dans les aires protégées est sanctionnée pénalement."
+            },
+            {
+              "titre": "1.4 La Loi sur la Mise en Compatibilité des Investissements avec l'Environnement (MECIE) – Décret n°99-954",
+              "texte": "Le Décret MECIE (modifié par le Décret n°2004-167) précise les modalités d'application de l'EIE prévue par la Charte. Il distingue :\n\n• L'Étude d'Impact Environnemental (EIE) : pour les grands projets à impacts significatifs ;\n• Le Programme d'Engagement Environnemental (PREE) : pour les projets à impacts modérés ;\n• Le Plan de Gestion Environnemental du Projet (PGEP) : document de suivi.\n\nL'ONE (Office National pour l'Environnement) est chargé de l'instruction des dossiers EIE. Aucun projet soumis à EIE ne peut démarrer sans le visa environnemental délivré par le Ministre chargé de l'environnement."
+            },
+            {
+              "titre": "1.5 Les engagements internationaux de Madagascar",
+              "texte": "Madagascar a ratifié les principales conventions internationales en matière d'environnement :\n\n• Convention sur la Diversité Biologique (CDB) - 1992 ;\n• Convention-cadre des Nations Unies sur les Changements Climatiques (CCNUCC) - 1992 ;\n• Convention de Washington sur le commerce international des espèces (CITES) - 1975 ;\n• Convention de Ramsar sur les zones humides - 1999 ;\n• Protocole de Kyoto - 2003 ;\n• Accord de Paris sur le climat - 2016 ;\n• Convention des Nations Unies sur la lutte contre la désertification - 1997.\n\nCes engagements ont un effet direct sur le droit interne malgache et guident l'élaboration des politiques environnementales nationales."
+            }
+          ]
+        }
+      },
+      {
+        "id": "lecon_2",
+        "titre": "La gestion des forêts et de la biodiversité",
+        "theme": "Gestion des forêts et biodiversité",
+        "contenu": {
+          "introduction": "Madagascar est l'un des pays à la biodiversité la plus exceptionnelle au monde avec un taux d'endémisme supérieur à 80%. La protection de ce patrimoine naturel fait l'objet d'un cadre juridique élaboré.",
+          "sections": [
+            {
+              "titre": "2.1 Le régime juridique des forêts",
+              "texte": "La Loi n°97-017 du 8 août 1997 portant révision de la législation forestière constitue le texte de référence. Elle distingue :\n\n• Les forêts domaniales : propriété de l'État, gérées par l'administration forestière ;\n• Les forêts des collectivités territoriales décentralisées (CTD) ;\n• Les forêts privées.\n\nTout défrichement est soumis à autorisation préalable. La coupe d'arbres dans les forêts naturelles sans autorisation constitue un délit pénal. Le texte prévoit des sanctions allant jusqu'à des amendes importantes et des peines d'emprisonnement pour les atteintes graves au domaine forestier."
+            },
+            {
+              "titre": "2.2 La Gestion Contractualisée des Forêts (GCF) et les GELOSE",
+              "texte": "La Loi n°96-025 relative à la Gestion Locale Sécurisée des ressources naturelles renouvelables (GELOSE) et son décret d'application n°2000-027 permettent le transfert de gestion des ressources naturelles aux communautés locales de base (VOI - Vondron'Olona Ifotony).\n\nLe contrat de transfert de gestion est conclu entre :\n• L'État (représenté par la commune) ;\n• La communauté locale de base (VOI) ;\n• Et éventuellement un opérateur de développement.\n\nCe système valorise les savoirs traditionnels et responsabilise les populations locales dans la gestion durable des ressources forestières. Le médiateur environnemental joue un rôle clé dans la résolution des conflits liés à ces transferts."
+            },
+            {
+              "titre": "2.3 La protection de la faune et de la flore sauvages",
+              "texte": "L'Ordonnance n°60-126 du 3 octobre 1960, modifiée, réglemente la chasse et la protection de la faune. Elle classe les espèces en :\n\n• Espèces intégralement protégées (ex. : lémuriens, fossas, tortues) : toute capture, détention, commerce est interdit ;\n• Espèces partiellement protégées : réglementation stricte de l'exploitation.\n\nLa CITES encadre le commerce international des espèces. Madagascar figure en Annexe I pour la plupart de ses espèces emblématiques. Le trafic de bois de rose (palissandre, ébène) a conduit à des inscriptions d'urgence à la CITES et à des interdictions d'exportation depuis 2010. La Loi n°2015-056 renforce les sanctions contre le trafic de bois précieux et de faune sauvage, avec des peines pouvant atteindre 10 ans d'emprisonnement."
+            },
+            {
+              "titre": "2.4 Le Système des Aires Protégées (SAPM)",
+              "texte": "Suite aux engagements du Président Ravalomanana lors du Congrès mondial des parcs de Durban (2003), Madagascar a triplé sa superficie en aires protégées, passant de 1,7 million d'hectares à plus de 7 millions d'hectares.\n\nLe SAPM comprend aujourd'hui plus de 120 aires protégées gérées par :\n• Madagascar National Parks (MNP) : parcs nationaux et réserves spéciales ;\n• Des ONG internationales (WCS, WWF, CI) ;\n• Des communautés locales.\n\nLe financement du SAPM repose sur le Fonds de Développement pour les Aires Protégées (FOPADAD) et les droits d'entrée des touristes."
+            }
+          ]
+        }
+      },
+      {
+        "id": "lecon_3",
+        "titre": "La lutte contre la pollution et la gestion des déchets",
+        "theme": "Pollution et déchets",
+        "contenu": {
+          "introduction": "La croissance urbaine rapide et l'industrialisation croissante de Madagascar ont généré des problématiques importantes de pollution et de gestion des déchets, nécessitant un cadre juridique adapté.",
+          "sections": [
+            {
+              "titre": "3.1 Le cadre général de lutte contre la pollution",
+              "texte": "La Charte de l'Environnement pose le principe pollueur-payeur et interdit tout rejet de substances polluantes dans l'environnement sans autorisation. La Loi n°99-021 sur la politique nationale de gestion et de contrôle des produits chimiques complète ce dispositif.\n\nLes principaux types de pollution réglementés sont :\n• La pollution atmosphérique (émissions industrielles, véhicules) ;\n• La pollution des eaux (rejets industriels, agriculture, assainissement) ;\n• La pollution des sols (déchets, produits chimiques) ;\n• Les nuisances sonores."
+            },
+            {
+              "titre": "3.2 La gestion des déchets solides",
+              "texte": "La Loi n°2015-003 portant Charte de l'Environnement révisée renforce le cadre relatif aux déchets. Le Décret n°2003-943 fixe les normes environnementales applicables aux installations classées.\n\nLa hiérarchie de gestion des déchets selon le droit malgache est :\n1. Réduction à la source ;\n2. Réutilisation ;\n3. Recyclage et valorisation ;\n4. Traitement ;\n5. Élimination (décharge contrôlée).\n\nLe brûlage à ciel ouvert des déchets est interdit mais reste une pratique répandue faute de moyens de contrôle suffisants. Les communes sont responsables de la collecte et du traitement des déchets ménagers sur leur territoire."
+            },
+            {
+              "titre": "3.3 La gestion des déchets dangereux",
+              "texte": "Madagascar a adhéré à la Convention de Bâle sur le contrôle des mouvements transfrontières des déchets dangereux et de leur élimination. L'importation de déchets dangereux est interdite.\n\nLes déchets médicaux et pharmaceutiques font l'objet d'une réglementation spécifique. Les déchets d'activités de soins à risques infectieux (DASRI) doivent être incinérés dans des installations agréées.\n\nLes déchets miniers constituent une préoccupation majeure avec le développement des industries extractives (QMM/Rio Tinto à Fort-Dauphin, Ambatovy). Les études d'impact environnemental de ces projets incluent des plans de gestion spécifiques pour les résidus miniers."
+            },
+            {
+              "titre": "3.4 La pollution des eaux et la gestion de l'eau",
+              "texte": "La Loi n°98-029 du 20 janvier 1999 portant Code de l'Eau réglemente l'utilisation et la protection des ressources en eau. Elle instaure :\n\n• Le principe de gestion intégrée des ressources en eau (GIRE) ;\n• Les Autorités de Bassin chargées de la gestion au niveau local ;\n• Le régime d'autorisation pour les prélèvements d'eau et les rejets.\n\nLes normes de rejet dans les milieux naturels sont fixées par arrêté ministériel. Les contrevenants s'exposent à des sanctions administratives (suspension d'activité) et pénales (amendes, emprisonnement)."
+            }
+          ]
+        }
+      },
+      {
+        "id": "lecon_4",
+        "titre": "Le changement climatique et le mécanisme REDD+",
+        "theme": "Changement climatique & REDD+",
+        "contenu": {
+          "introduction": "Madagascar est l'un des pays les plus vulnérables aux effets du changement climatique (cyclones, sécheresse dans le Sud, montée des eaux). Le pays s'est engagé activement dans les mécanismes internationaux de lutte contre le réchauffement climatique.",
+          "sections": [
+            {
+              "titre": "4.1 Les engagements climatiques de Madagascar",
+              "texte": "Madagascar a ratifié l'Accord de Paris en 2016 et soumis sa Contribution Déterminée au niveau National (CDN/NDC). Les objectifs de Madagascar incluent :\n\n• Une réduction de 30% des émissions de GES d'ici 2030 (conditionnel à l'aide internationale) ;\n• Le maintien et l'extension des aires protégées ;\n• Le développement des énergies renouvelables ;\n• L'adaptation aux effets du changement climatique, notamment dans l'agriculture et la gestion des zones côtières.\n\nLe Plan National d'Adaptation au Changement Climatique (PNACC) guide les politiques sectorielles d'adaptation."
+            },
+            {
+              "titre": "4.2 Le mécanisme REDD+ à Madagascar",
+              "texte": "REDD+ (Réduction des Émissions dues à la Déforestation et à la Dégradation des forêts, avec le rôle de conservation, gestion durable des forêts et renforcement des stocks de carbone) est un mécanisme onusien permettant aux pays en développement d'être rémunérés pour la préservation de leurs forêts.\n\nMadagascar a élaboré :\n• Un Programme National REDD+ intégré dans la Politique forestière nationale ;\n• Des projets REDD+ privés dans plusieurs zones (Makira, Corridor Ankeniheny-Zahamena) ;\n• Un système national de surveillance des forêts (MRV - Mesure, Rapportage, Vérification).\n\nLe projet REDD+ de Makira, géré par WCS, est l'un des plus grands projets forestiers de carbone en Afrique. Il génère des crédits carbone vendus sur le marché volontaire."
+            },
+            {
+              "titre": "4.3 Le cadre juridique national sur le climat",
+              "texte": "Madagascar ne dispose pas encore d'une loi-cadre spécifique sur le changement climatique. Le cadre est assuré par :\n\n• La Charte de l'Environnement (principe de prévention) ;\n• La Politique nationale de l'énergie (développement des EnR) ;\n• La Politique nationale de l'eau (adaptation à la sécheresse) ;\n• La Politique forestière nationale (REDD+, reboisement).\n\nLe Bureau National de Coordination des Changements Climatiques (BNCCC) coordonne la mise en œuvre des engagements internationaux et la mobilisation des financements climatiques (Fonds Vert pour le Climat, Fonds d'Adaptation)."
+            },
+            {
+              "titre": "4.4 La vulnérabilité climatique du Grand Sud",
+              "texte": "Le Grand Sud malgache (régions Androy, Anosy, Atsimo-Andrefana) est particulièrement touché par la sécheresse chronique aggravée par le changement climatique. Cette situation a conduit à des crises alimentaires sévères (Kere).\n\nLe droit de l'environnement intersecte ici avec le droit humanitaire et les droits de l'homme : le droit à la nourriture et à l'eau potable est menacé par les effets climatiques. Des solutions juridiques innovantes sont explorées, comme la reconnaissance du statut de 'réfugié climatique', non encore consacré en droit international positif mais dont les fondements émergent dans les négociations onusiennes."
+            }
+          ]
+        }
+      },
+      {
+        "id": "lecon_5",
+        "titre": "Les institutions environnementales à Madagascar",
+        "theme": "Institutions environnementales",
+        "contenu": {
+          "introduction": "La mise en œuvre du droit de l'environnement à Madagascar repose sur un ensemble d'institutions publiques et para-publiques aux compétences complémentaires.",
+          "sections": [
+            {
+              "titre": "5.1 Le Ministère de l'Environnement et du Développement Durable (MEDD)",
+              "texte": "Le MEDD est l'institution centrale de coordination de la politique environnementale. Ses attributions comprennent :\n\n• L'élaboration et la mise en œuvre de la politique nationale de l'environnement ;\n• La coordination des acteurs environnementaux ;\n• La délivrance du visa environnemental (EIE) ;\n• La représentation de Madagascar dans les négociations internationales.\n\nLe MEDD s'appuie sur des directions régionales de l'environnement (DREF) présentes dans chaque région."
+            },
+            {
+              "titre": "5.2 L'Office National pour l'Environnement (ONE)",
+              "texte": "L'ONE est un établissement public à caractère administratif créé par le Décret n°90-642. C'est le bras technique du MEDD pour :\n\n• L'instruction et le suivi des Études d'Impact Environnemental ;\n• La gestion des bases de données environnementales ;\n• La coordination du Système d'Information Environnementale (SIE) ;\n• Le suivi de l'état de l'environnement (rapports périodiques).\n\nL'ONE publie régulièrement des rapports sur l'état de l'environnement à Madagascar (REE) et est doté d'un Comité Technique d'Évaluation (CTE) pluridisciplinaire pour l'examen des dossiers EIE."
+            },
+            {
+              "titre": "5.3 Madagascar National Parks (MNP)",
+              "texte": "MNP (anciennement ANGAP) est un établissement public créé en 1990 pour gérer le réseau des parcs nationaux et réserves spéciales. Ses missions sont :\n\n• La conservation de la biodiversité dans les aires protégées ;\n• Le développement du tourisme écologique ;\n• La sensibilisation des populations riveraines ;\n• La lutte anti-braconnage.\n\nMNP gère directement 43 aires protégées sur les 120+ que compte le réseau national. Son financement provient des droits d'entrée touristiques, des subventions de l'État et des financements des bailleurs de fonds internationaux."
+            },
+            {
+              "titre": "5.4 Le Fonds National pour l'Environnement (FNE) et le FOPADAD",
+              "texte": "Le FNE est le mécanisme de financement de la politique environnementale nationale, alimenté par :\n• Des contributions de l'État ;\n• Des financements extérieurs ;\n• Des amendes et pénalités environnementales.\n\nLe FOPADAD (Fonds de Développement pour les Aires Protégées) est un mécanisme spécifique de financement durable des aires protégées, géré par une fondation indépendante visant à garantir un financement à long terme du SAPM, indépendamment des aléas budgétaires de l'État."
+            },
+            {
+              "titre": "5.5 Le rôle des juridictions dans la protection de l'environnement",
+              "texte": "Madagascar ne dispose pas encore d'une juridiction spécialisée en matière environnementale. Les litiges sont traités par :\n\n• Les tribunaux de première instance (TPI) pour les infractions pénales environnementales ;\n• Les tribunaux administratifs pour les recours contre les décisions administratives (refus de visa, arrêtés de fermeture) ;\n• La Haute Cour Constitutionnelle en cas de contestation de constitutionnalité.\n\nDes unités spécialisées de police judiciaire environnementale ont été créées pour renforcer la lutte contre les crimes environnementaux. La tendance internationale vers la reconnaissance du 'crime d'écocide' pourrait influencer l'évolution du droit malgache à moyen terme."
+            }
+          ]
+        }
+      }
+    ],
+    "quiz": [
+      {
+        "id": "q1",
+        "theme": "Textes fondamentaux",
+        "question": "Quel article de la Constitution malgache de 2010 consacre le droit à un environnement sain ?",
+        "options": ["Article 15", "Article 39", "Article 52", "Article 68"],
+        "reponse_correcte": "Article 39",
+        "explication": "L'article 39 de la Constitution de 2010 dispose que 'Toute personne a le droit de vivre dans un environnement sain et équilibré.'"
+      },
+      {
+        "id": "q2",
+        "theme": "Textes fondamentaux",
+        "question": "Quelle est la loi constitutive de la Charte de l'Environnement Malgache ?",
+        "options": ["Loi n°97-012", "Loi n°90-033", "Loi n°2001-005", "Loi n°99-021"],
+        "reponse_correcte": "Loi n°90-033",
+        "explication": "La Charte de l'Environnement Malgache a été adoptée par la Loi n°90-033 du 21 décembre 1990."
+      },
+      {
+        "id": "q3",
+        "theme": "Textes fondamentaux",
+        "question": "Le principe selon lequel 'celui qui pollue doit payer les coûts de la dépollution' est appelé :",
+        "options": ["Principe de précaution", "Principe de prévention", "Principe pollueur-payeur", "Principe d'intégration"],
+        "reponse_correcte": "Principe pollueur-payeur",
+        "explication": "Le principe pollueur-payeur impose à l'auteur d'une pollution de supporter les coûts de sa réparation et de la prévention."
+      },
+      {
+        "id": "q4",
+        "theme": "Textes fondamentaux",
+        "question": "Qu'est-ce que le MECIE à Madagascar ?",
+        "options": [
+          "Un ministère de l'environnement",
+          "Un décret sur la mise en compatibilité des investissements avec l'environnement",
+          "Une loi sur les mines",
+          "Un organisme international"
+        ],
+        "reponse_correcte": "Un décret sur la mise en compatibilité des investissements avec l'environnement",
+        "explication": "Le Décret MECIE (n°99-954, modifié) fixe les modalités de l'Évaluation d'Impact Environnemental obligatoire pour certains projets."
+      },
+      {
+        "id": "q5",
+        "theme": "Textes fondamentaux",
+        "question": "Quel outil est obligatoire avant tout grand projet susceptible de porter atteinte à l'environnement à Madagascar ?",
+        "options": [
+          "Un audit financier",
+          "Une Étude d'Impact Environnemental (EIE)",
+          "Un permis de construire",
+          "Un rapport de l'ONE"
+        ],
+        "reponse_correcte": "Une Étude d'Impact Environnemental (EIE)",
+        "explication": "La Charte de l'Environnement et le Décret MECIE imposent une EIE préalable, instruite par l'ONE et aboutissant à un visa environnemental."
+      },
+      {
+        "id": "q6",
+        "theme": "Textes fondamentaux",
+        "question": "Lequel de ces instruments internationaux a été ratifié par Madagascar ?",
+        "options": [
+          "Convention de Berne",
+          "Convention sur la Diversité Biologique (CDB)",
+          "Protocole de Montréal uniquement",
+          "Convention de Rotterdam uniquement"
+        ],
+        "reponse_correcte": "Convention sur la Diversité Biologique (CDB)",
+        "explication": "Madagascar a ratifié la CDB en 1992, ainsi que la CCNUCC, la CITES, la Convention de Ramsar et l'Accord de Paris."
+      },
+      {
+        "id": "q7",
+        "theme": "Textes fondamentaux",
+        "question": "Le Code de Gestion des Aires Protégées (COAP) a été adopté par :",
+        "options": ["Loi n°90-033", "Loi n°97-017", "Loi n°2001-005", "Loi n°96-025"],
+        "reponse_correcte": "Loi n°2001-005",
+        "explication": "Le COAP est institué par la Loi n°2001-005 et son décret d'application n°2005-848."
+      },
+      {
+        "id": "q8",
+        "theme": "Textes fondamentaux",
+        "question": "Selon le Décret MECIE, quel document est requis pour les projets à impacts modérés (non soumis à EIE complète) ?",
+        "options": [
+          "Plan de Gestion Environnementale (PGE)",
+          "Programme d'Engagement Environnemental (PREE)",
+          "Rapport de surveillance environnementale",
+          "Certificat de conformité environnementale"
+        ],
+        "reponse_correcte": "Programme d'Engagement Environnemental (PREE)",
+        "explication": "Le PREE est le document simplifié requis pour les projets à impacts modérés, tandis que l'EIE complète est exigée pour les projets à impacts significatifs."
+      },
+      {
+        "id": "q9",
+        "theme": "Textes fondamentaux",
+        "question": "Quel principe environnemental signifie que l'absence de certitude scientifique ne doit pas retarder l'adoption de mesures préventives ?",
+        "options": [
+          "Principe de précaution",
+          "Principe de prévention",
+          "Principe pollueur-payeur",
+          "Principe de participation"
+        ],
+        "reponse_correcte": "Principe de précaution",
+        "explication": "Le principe de précaution s'applique en situation d'incertitude scientifique : l'action préventive ne doit pas attendre la preuve certaine de nocivité."
+      },
+      {
+        "id": "q10",
+        "theme": "Textes fondamentaux",
+        "question": "Quel organisme instruit les dossiers d'Études d'Impact Environnemental à Madagascar ?",
+        "options": ["MNP", "ONE", "MEDD", "FNE"],
+        "reponse_correcte": "ONE",
+        "explication": "L'Office National pour l'Environnement (ONE) est chargé de l'instruction technique des dossiers EIE avant la délivrance du visa environnemental par le Ministre."
+      },
+      {
+        "id": "q11",
+        "theme": "Gestion des forêts et biodiversité",
+        "question": "Quel est le taux d'endémisme approximatif de la faune et flore malgache ?",
+        "options": ["50%", "65%", "Plus de 80%", "95%"],
+        "reponse_correcte": "Plus de 80%",
+        "explication": "Madagascar abrite plus de 80% d'espèces endémiques dans sa faune et flore, en faisant l'un des hotspots de biodiversité les plus importants au monde."
+      },
+      {
+        "id": "q12",
+        "theme": "Gestion des forêts et biodiversité",
+        "question": "Quelle loi constitue le texte de référence sur la législation forestière à Madagascar ?",
+        "options": ["Loi n°90-033", "Loi n°97-017", "Loi n°96-025", "Loi n°2001-005"],
+        "reponse_correcte": "Loi n°97-017",
+        "explication": "La Loi n°97-017 du 8 août 1997 portant révision de la législation forestière est le texte principal régissant les forêts à Madagascar."
+      },
+      {
+        "id": "q13",
+        "theme": "Gestion des forêts et biodiversité",
+        "question": "Que signifie VOI dans le contexte de la gestion locale des ressources naturelles ?",
+        "options": [
+          "Voie Officielle d'Intervention",
+          "Vondron'Olona Ifotony (communauté de base)",
+          "Vérification des Opérations Illégales",
+          "Valorisation des Opérateurs Indépendants"
+        ],
+        "reponse_correcte": "Vondron'Olona Ifotony (communauté de base)",
+        "explication": "VOI (Vondron'Olona Ifotony) désigne les communautés locales de base qui peuvent recevoir un transfert de gestion des ressources naturelles selon la loi GELOSE."
+      },
+      {
+        "id": "q14",
+        "theme": "Gestion des forêts et biodiversité",
+        "question": "Quelle loi a institué le système GELOSE à Madagascar ?",
+        "options": ["Loi n°97-017", "Loi n°96-025", "Loi n°2001-005", "Loi n°90-033"],
+        "reponse_correcte": "Loi n°96-025",
+        "explication": "La Loi n°96-025 relative à la Gestion Locale Sécurisée des ressources naturelles renouvelables (GELOSE) permet le transfert de gestion aux communautés locales."
+      },
+      {
+        "id": "q15",
+        "theme": "Gestion des forêts et biodiversité",
+        "question": "Lors de quel congrès Madagascar a-t-il annoncé le triplement de sa superficie en aires protégées ?",
+        "options": [
+          "Congrès de Rio 1992",
+          "Congrès mondial des parcs de Durban 2003",
+          "COP21 Paris 2015",
+          "Congrès de Johannesburg 2002"
+        ],
+        "reponse_correcte": "Congrès mondial des parcs de Durban 2003",
+        "explication": "En 2003 à Durban, le Président Ravalomanana a annoncé le triplement des aires protégées, passant de 1,7 million à 7 millions d'hectares."
+      },
+      {
+        "id": "q16",
+        "theme": "Gestion des forêts et biodiversité",
+        "question": "Les lémuriens à Madagascar sont classés comme :",
+        "options": [
+          "Espèces partiellement protégées",
+          "Espèces intégralement protégées",
+          "Espèces exploitables sous quota",
+          "Espèces invasives"
+        ],
+        "reponse_correcte": "Espèces intégralement protégées",
+        "explication": "Les lémuriens sont des espèces intégralement protégées : toute capture, détention, commerce ou exportation est interdite."
+      },
+      {
+        "id": "q17",
+        "theme": "Gestion des forêts et biodiversité",
+        "question": "Quelle catégorie d'aire protégée selon l'UICN correspond aux Parcs Nationaux malgaches ?",
+        "options": ["Catégorie I", "Catégorie II", "Catégorie IV", "Catégorie VI"],
+        "reponse_correcte": "Catégorie II",
+        "explication": "Les Parcs Nationaux correspondent à la catégorie II de l'UICN : protection stricte avec ouverture au tourisme dans un cadre réglementé."
+      },
+      {
+        "id": "q18",
+        "theme": "Gestion des forêts et biodiversité",
+        "question": "Le trafic de bois de rose (palissandre) à Madagascar a conduit à :",
+        "options": [
+          "Une libéralisation du marché du bois",
+          "Des inscriptions d'urgence à la CITES et une interdiction d'exportation depuis 2010",
+          "La création d'une nouvelle aire protégée",
+          "Un accord de libre-échange forestier"
+        ],
+        "reponse_correcte": "Des inscriptions d'urgence à la CITES et une interdiction d'exportation depuis 2010",
+        "explication": "Le pillage massif de bois précieux a conduit à des inscriptions à la CITES et une interdiction d'exportation. La Loi n°2015-056 a renforcé les sanctions pénales."
+      },
+      {
+        "id": "q19",
+        "theme": "Gestion des forêts et biodiversité",
+        "question": "Combien d'aires protégées Madagascar National Parks (MNP) gère-t-il directement ?",
+        "options": ["10", "43", "70", "120"],
+        "reponse_correcte": "43",
+        "explication": "MNP gère directement 43 aires protégées (parcs nationaux et réserves spéciales), les autres étant gérées par des ONG ou des communautés locales."
+      },
+      {
+        "id": "q20",
+        "theme": "Gestion des forêts et biodiversité",
+        "question": "La Convention de Washington (CITES) porte sur :",
+        "options": [
+          "La lutte contre la déforestation tropicale",
+          "Le commerce international des espèces de faune et flore sauvages menacées",
+          "Les droits des peuples autochtones sur les ressources naturelles",
+          "La protection des zones humides"
+        ],
+        "reponse_correcte": "Le commerce international des espèces de faune et flore sauvages menacées",
+        "explication": "La CITES réglemente le commerce international des espèces menacées d'extinction. Madagascar y figure avec de nombreuses espèces endémiques en Annexe I."
+      },
+      {
+        "id": "q21",
+        "theme": "Pollution et déchets",
+        "question": "La Convention de Bâle concerne :",
+        "options": [
+          "La protection de la couche d'ozone",
+          "Le contrôle des mouvements transfrontières des déchets dangereux",
+          "La lutte contre la pollution atmosphérique",
+          "La gestion des eaux transfrontalières"
+        ],
+        "reponse_correcte": "Le contrôle des mouvements transfrontières des déchets dangereux",
+        "explication": "La Convention de Bâle régit les déplacements internationaux de déchets dangereux. Madagascar y a adhéré et interdit l'importation de tels déchets."
+      },
+      {
+        "id": "q22",
+        "theme": "Pollution et déchets",
+        "question": "Quelle est la loi portant Code de l'Eau à Madagascar ?",
+        "options": ["Loi n°97-017", "Loi n°98-029", "Loi n°99-021", "Loi n°96-025"],
+        "reponse_correcte": "Loi n°98-029",
+        "explication": "La Loi n°98-029 du 20 janvier 1999 constitue le Code de l'Eau malgache, instituant la gestion intégrée des ressources en eau (GIRE)."
+      },
+      {
+        "id": "q23",
+        "theme": "Pollution et déchets",
+        "question": "Selon la hiérarchie de gestion des déchets, quelle option doit être privilégiée en premier ?",
+        "options": [
+          "Le recyclage",
+          "La réduction à la source",
+          "L'élimination en décharge",
+          "Le traitement thermique"
+        ],
+        "reponse_correcte": "La réduction à la source",
+        "explication": "La réduction à la source (prévenir la génération de déchets) est la priorité absolue, avant la réutilisation, le recyclage, le traitement et l'élimination."
+      },
+      {
+        "id": "q24",
+        "theme": "Pollution et déchets",
+        "question": "Les DASRI sont des déchets :",
+        "options": [
+          "D'Activités de Soins à Risques Infectieux",
+          "D'Assainissement Solides Recyclables Industriels",
+          "D'Activités de Sablage et Retraitement Industriels",
+          "Des Aires de Stockage à Risques Importants"
+        ],
+        "reponse_correcte": "D'Activités de Soins à Risques Infectieux",
+        "explication": "Les DASRI (Déchets d'Activités de Soins à Risques Infectieux) comprennent les déchets médicaux et doivent être incinérés dans des installations agréées."
+      },
+      {
+        "id": "q25",
+        "theme": "Pollution et déchets",
+        "question": "Qui est responsable de la collecte et du traitement des déchets ménagers à Madagascar ?",
+        "options": [
+          "L'État central",
+          "Les communes",
+          "L'ONE",
+          "Les entreprises privées exclusivement"
+        ],
+        "reponse_correcte": "Les communes",
+        "explication": "Les communes sont responsables de la collecte et du traitement des déchets ménagers sur leur territoire, conformément au droit des collectivités territoriales."
+      },
+      {
+        "id": "q26",
+        "theme": "Pollution et déchets",
+        "question": "Qu'est-ce que le principe GIRE dans le Code de l'Eau malgache ?",
+        "options": [
+          "Gestion Intégrée des Risques Environnementaux",
+          "Gestion Intégrée des Ressources en Eau",
+          "Gestion des Installations de Retraitement des Eaux",
+          "Garantie d'Infrastructure de Réseau et d'Eau"
+        ],
+        "reponse_correcte": "Gestion Intégrée des Ressources en Eau",
+        "explication": "La GIRE (Gestion Intégrée des Ressources en Eau) est le principe directeur du Code de l'Eau, visant à coordonner tous les usages de l'eau à l'échelle d'un bassin versant."
+      },
+      {
+        "id": "q27",
+        "theme": "Pollution et déchets",
+        "question": "Les projets miniers QMM/Rio Tinto et Ambatovy soulèvent principalement des préoccupations environnementales liées à :",
+        "options": [
+          "La pollution lumineuse",
+          "Les résidus miniers et déchets d'exploitation",
+          "La pollution sonore urbaine",
+          "Les émissions de gaz réfrigérants"
+        ],
+        "reponse_correcte": "Les résidus miniers et déchets d'exploitation",
+        "explication": "Les projets miniers à grande échelle génèrent des résidus miniers potentiellement toxiques, nécessitant des plans de gestion spécifiques dans leurs EIE."
+      },
+      {
+        "id": "q28",
+        "theme": "Pollution et déchets",
+        "question": "L'importation de déchets dangereux à Madagascar est :",
+        "options": [
+          "Autorisée sous conditions",
+          "Interdite",
+          "Soumise à taxe uniquement",
+          "Libre pour les déchets industriels"
+        ],
+        "reponse_correcte": "Interdite",
+        "explication": "Conformément à la Convention de Bâle ratifiée par Madagascar, l'importation de déchets dangereux est strictement interdite."
+      },
+      {
+        "id": "q29",
+        "theme": "Pollution et déchets",
+        "question": "Quel décret fixe les normes environnementales applicables aux installations classées à Madagascar ?",
+        "options": ["Décret n°99-954", "Décret n°2003-943", "Décret n°2000-027", "Décret n°2005-848"],
+        "reponse_correcte": "Décret n°2003-943",
+        "explication": "Le Décret n°2003-943 fixe les normes environnementales pour les installations classées (établissements industriels et commerciaux pouvant polluer)."
+      },
+      {
+        "id": "q30",
+        "theme": "Pollution et déchets",
+        "question": "La Loi n°99-021 à Madagascar porte sur :",
+        "options": [
+          "La gestion des forêts",
+          "La politique nationale de gestion des produits chimiques",
+          "La protection des zones humides",
+          "La réglementation des mines"
+        ],
+        "reponse_correcte": "La politique nationale de gestion des produits chimiques",
+        "explication": "La Loi n°99-021 établit le cadre de gestion et de contrôle des produits chimiques, complétant la Charte de l'Environnement sur la lutte contre la pollution."
+      },
+      {
+        "id": "q31",
+        "theme": "Changement climatique & REDD+",
+        "question": "Que signifie l'acronyme REDD+ ?",
+        "options": [
+          "Réduction des Espèces Disparues et Dégradées",
+          "Réduction des Émissions dues à la Déforestation et à la Dégradation des forêts",
+          "Régulation Écologique et Développement Durable",
+          "Registre des Espèces en Danger et Dégradation"
+        ],
+        "reponse_correcte": "Réduction des Émissions dues à la Déforestation et à la Dégradation des forêts",
+        "explication": "REDD+ est le mécanisme onusien permettant aux pays de recevoir une compensation financière pour préserver leurs forêts et stocker du carbone."
+      },
+      {
+        "id": "q32",
+        "theme": "Changement climatique & REDD+",
+        "question": "Madagascar a ratifié l'Accord de Paris sur le climat en :",
+        "options": ["2010", "2015", "2016", "2018"],
+        "reponse_correcte": "2016",
+        "explication": "Madagascar a ratifié l'Accord de Paris en 2016 et soumis sa Contribution Déterminée au niveau National (NDC)."
+      },
+      {
+        "id": "q33",
+        "theme": "Changement climatique & REDD+",
+        "question": "L'objectif conditionnel de réduction des émissions de GES de Madagascar d'ici 2030 est de :",
+        "options": ["10%", "20%", "30%", "50%"],
+        "reponse_correcte": "30%",
+        "explication": "Dans sa NDC, Madagascar s'est engagé à réduire ses émissions de 30% d'ici 2030, sous réserve de financements et soutiens internationaux adéquats."
+      },
+      {
+        "id": "q34",
+        "theme": "Changement climatique & REDD+",
+        "question": "Le projet REDD+ de Makira à Madagascar est géré par :",
+        "options": ["WWF", "WCS", "Conservation International", "Greenpeace"],
+        "reponse_correcte": "WCS",
+        "explication": "Le projet REDD+ de Makira (l'un des plus grands d'Afrique) est géré par Wildlife Conservation Society (WCS) et génère des crédits carbone sur le marché volontaire."
+      },
+      {
+        "id": "q35",
+        "theme": "Changement climatique & REDD+",
+        "question": "Quel sigle désigne le système de Mesure, Rapportage et Vérification dans le cadre REDD+ ?",
+        "options": ["EIE", "MRV", "PNACC", "BNCCC"],
+        "reponse_correcte": "MRV",
+        "explication": "Le MRV (Mesure, Rapportage, Vérification) est le système de surveillance des forêts exigé par le mécanisme REDD+ pour garantir la crédibilité des réductions d'émissions."
+      },
+      {
+        "id": "q36",
+        "theme": "Changement climatique & REDD+",
+        "question": "Quel organisme coordonne la mise en œuvre des engagements climatiques de Madagascar ?",
+        "options": ["ONE", "MNP", "BNCCC", "MEDD"],
+        "reponse_correcte": "BNCCC",
+        "explication": "Le Bureau National de Coordination des Changements Climatiques (BNCCC) est chargé de coordonner la mise en œuvre des engagements climatiques et la mobilisation des financements."
+      },
+      {
+        "id": "q37",
+        "theme": "Changement climatique & REDD+",
+        "question": "Le phénomène de sécheresse chronique dans le Grand Sud malgache est localement appelé :",
+        "options": ["Havana", "Kere", "Fady", "Tavy"],
+        "reponse_correcte": "Kere",
+        "explication": "Le Kere désigne la famine et disette liées à la sécheresse dans le Grand Sud, une réalité aggravée par le changement climatique dans les régions Androy, Anosy et Atsimo-Andrefana."
+      },
+      {
+        "id": "q38",
+        "theme": "Changement climatique & REDD+",
+        "question": "La NDC (Contribution Déterminée au niveau National) est un document prévu par :",
+        "options": [
+          "La Convention sur la Diversité Biologique",
+          "L'Accord de Paris sur le climat",
+          "La Convention de Bâle",
+          "Le Protocole de Kyoto uniquement"
+        ],
+        "reponse_correcte": "L'Accord de Paris sur le climat",
+        "explication": "L'Accord de Paris exige de chaque pays partie de soumettre une NDC décrivant ses engagements de réduction des émissions et d'adaptation au changement climatique."
+      },
+      {
+        "id": "q39",
+        "theme": "Changement climatique & REDD+",
+        "question": "Quel fonds international peut financer l'adaptation climatique de Madagascar ?",
+        "options": [
+          "Fonds de développement africain uniquement",
+          "Fonds Vert pour le Climat (GCF) et Fonds d'Adaptation",
+          "Fonds monétaire international",
+          "Banque mondiale exclusivement"
+        ],
+        "reponse_correcte": "Fonds Vert pour le Climat (GCF) et Fonds d'Adaptation",
+        "explication": "Madagascar peut accéder au Fonds Vert pour le Climat (GCF) et au Fonds d'Adaptation, deux mécanismes onusiens de financement de l'action climatique dans les pays en développement."
+      },
+      {
+        "id": "q40",
+        "theme": "Changement climatique & REDD+",
+        "question": "Madagascar dispose-t-il d'une loi-cadre spécifique sur le changement climatique ?",
+        "options": [
+          "Oui, depuis 2010",
+          "Oui, depuis 2016",
+          "Non, le cadre est assuré par plusieurs textes sectoriels",
+          "Oui, depuis 2020"
+        ],
+        "reponse_correcte": "Non, le cadre est assuré par plusieurs textes sectoriels",
+        "explication": "Madagascar ne dispose pas encore d'une loi-cadre unique sur le changement climatique ; les politiques climatiques reposent sur des textes sectoriels (énergie, forêts, eau, environnement)."
+      },
+      {
+        "id": "q41",
+        "theme": "Institutions environnementales",
+        "question": "Quelle est la mission principale de l'ONE (Office National pour l'Environnement) ?",
+        "options": [
+          "Gérer les parcs nationaux",
+          "Instruire les EIE et coordonner le système d'information environnementale",
+          "Délivrer les permis miniers",
+          "Financer les projets environnementaux"
+        ],
+        "reponse_correcte": "Instruire les EIE et coordonner le système d'information environnementale",
+        "explication": "L'ONE instruits techniquement les dossiers EIE, gère les bases de données environnementales (SIE) et publie des rapports sur l'état de l'environnement."
+      },
+      {
+        "id": "q42",
+        "theme": "Institutions environnementales",
+        "question": "Quel était l'ancien nom de Madagascar National Parks (MNP) ?",
+        "options": ["MEEFT", "ANGAP", "FOPADAD", "ONE"],
+        "reponse_correcte": "ANGAP",
+        "explication": "MNP s'appelait ANGAP (Association Nationale pour la Gestion des Aires Protégées) avant de changer de dénomination."
+      },
+      {
+        "id": "q43",
+        "theme": "Institutions environnementales",
+        "question": "Le FOPADAD est :",
+        "options": [
+          "Un fonds de financement durable des aires protégées",
+          "Un programme de reboisement",
+          "Un texte de loi sur la déforestation",
+          "Une institution judiciaire environnementale"
+        ],
+        "reponse_correcte": "Un fonds de financement durable des aires protégées",
+        "explication": "Le FOPADAD (Fonds de Développement pour les Aires Protégées) est un mécanisme de financement pérenne du Système des Aires Protégées, géré par une fondation indépendante."
+      },
+      {
+        "id": "q44",
+        "theme": "Institutions environnementales",
+        "question": "Quel est le rôle du Comité Technique d'Évaluation (CTE) de l'ONE ?",
+        "options": [
+          "Juger les infractions environnementales",
+          "Examiner pluridisciplinairement les dossiers EIE",
+          "Gérer les aires protégées",
+          "Financer les projets verts"
+        ],
+        "reponse_correcte": "Examiner pluridisciplinairement les dossiers EIE",
+        "explication": "Le CTE est un organe collégial et pluridisciplinaire de l'ONE qui examine techniquement les dossiers EIE avant la décision du Ministre de l'Environnement."
+      },
+      {
+        "id": "q45",
+        "theme": "Institutions environnementales",
+        "question": "Les litiges environnementaux à Madagascar sont jugés par :",
+        "options": [
+          "Un tribunal spécialisé en environnement",
+          "Les tribunaux de droit commun (TPI, tribunaux administratifs)",
+          "L'ONE exclusivement",
+          "La Cour Pénale Internationale"
+        ],
+        "reponse_correcte": "Les tribunaux de droit commun (TPI, tribunaux administratifs)",
+        "explication": "Madagascar ne dispose pas de juridiction spécialisée en matière environnementale. Les affaires sont traitées par les TPI (pénal) ou les tribunaux administratifs (décisions administratives)."
+      },
+      {
+        "id": "q46",
+        "theme": "Institutions environnementales",
+        "question": "Quel document publié périodiquement par l'ONE rend compte de l'état général de l'environnement à Madagascar ?",
+        "options": ["EIE annuel", "REE (Rapport sur l'État de l'Environnement)", "PNACC", "NDC"],
+        "reponse_correcte": "REE (Rapport sur l'État de l'Environnement)",
+        "explication": "L'ONE publie régulièrement des Rapports sur l'État de l'Environnement (REE) qui dressent un bilan de l'évolution des indicateurs environnementaux à Madagascar."
+      },
+      {
+        "id": "q47",
+        "theme": "Institutions environnementales",
+        "question": "Les Directions Régionales de l'Environnement (DREF) relèvent de :",
+        "options": ["L'ONE", "MNP", "Le MEDD", "Les collectivités locales"],
+        "reponse_correcte": "Le MEDD",
+        "explication": "Les DREF sont les représentations régionales du Ministère de l'Environnement et du Développement Durable (MEDD) dans chaque région de Madagascar."
+      },
+      {
+        "id": "q48",
+        "theme": "Institutions environnementales",
+        "question": "Le visa environnemental à l'issue de l'EIE est délivré par :",
+        "options": ["Le Président de la République", "L'ONE", "Le Ministre de l'Environnement", "Le tribunal administratif"],
+        "reponse_correcte": "Le Ministre de l'Environnement",
+        "explication": "Après instruction par l'ONE, le visa environnemental est délivré par le Ministre chargé de l'environnement. Aucun projet soumis à EIE ne peut démarrer sans ce visa."
+      },
+      {
+        "id": "q49",
+        "theme": "Institutions environnementales",
+        "question": "Parmi ces ONG, laquelle est activement impliquée dans la gestion des aires protégées à Madagascar ?",
+        "options": ["Amnesty International", "WCS (Wildlife Conservation Society)", "Oxfam", "Médecins sans frontières"],
+        "reponse_correcte": "WCS (Wildlife Conservation Society)",
+        "explication": "WCS, avec WWF et Conservation International, est parmi les principales ONG gérant des aires protégées à Madagascar, notamment le projet Makira."
+      },
+      {
+        "id": "q50",
+        "theme": "Institutions environnementales",
+        "question": "La notion d' 'écocide', bien qu'encore non consacrée en droit positif international, désigne :",
+        "options": [
+          "La gestion durable des écosystèmes",
+          "Les atteintes graves et massives à l'environnement assimilables à un crime international",
+          "L'extinction d'une espèce animale",
+          "Un type de pollution atmosphérique"
+        ],
+        "reponse_correcte": "Les atteintes graves et massives à l'environnement assimilables à un crime international",
+        "explication": "L'écocide désigne les destructions massives et délibérées de l'environnement. Sa reconnaissance comme crime international est en débat aux Nations Unies et pourrait influencer le droit malgache."
+      }
+    ],
+    "cas_pratiques": [
+      {
+        "id": "cas_1",
+        "titre": "Le projet d'exploitation aurifère artisanale dans une zone tampon d'aire protégée",
+        "contexte": "La société MinEx SA souhaite exploiter un gisement aurifère découvert dans la zone tampon du Parc National de Ranomafana. Elle a déjà obtenu un permis d'exploitation minière du Ministère des Mines, mais n'a pas encore sollicité l'autorisation environnementale. Des communautés locales riveraines s'opposent au projet, craignant la pollution des cours d'eau dont dépend leur agriculture. L'ONG Nature Protection alerte l'opinion publique sur les risques pour les populations de lémuriens du parc.",
+        "questions": [
+          {
+            "question": "Quels textes juridiques s'appliquent à cette situation ?",
+            "elements_de_reponse": "Plusieurs textes s'appliquent cumulativement : (1) La Charte de l'Environnement (Loi n°90-033) qui impose une EIE préalable à tout projet susceptible d'impacter l'environnement ; (2) Le Décret MECIE (n°99-954) qui précise les modalités de l'EIE, obligatoire pour un projet minier ; (3) Le COAP (Loi n°2001-005) qui protège les zones tampons des aires protégées et réglemente strictement les activités en leur sein ; (4) La Loi n°97-017 sur les forêts si le gisement est en zone forestière ; (5) Le Code minier (Loi n°99-022) qui régit les permis miniers mais qui doit se concilier avec les exigences environnementales ; (6) Le Code de l'Eau (Loi n°98-029) pour la protection des cours d'eau."
+          },
+          {
+            "question": "Le permis minier obtenu suffit-il pour démarrer les travaux ? Justifiez.",
+            "elements_de_reponse": "Non, le permis minier ne suffit pas. Conformément à la Charte de l'Environnement et au Décret MECIE, tout projet minier susceptible de porter atteinte à l'environnement est soumis à une EIE obligatoire. Sans le visa environnemental délivré par le Ministre de l'Environnement après instruction par l'ONE, les travaux ne peuvent légalement commencer. Le principe d'intégration exige que les exigences environnementales soient respectées même par les projets disposant d'autorisations sectorielles (permis minier). MinEx SA engage sa responsabilité civile et pénale si elle démarre les travaux sans le visa environnemental."
+          },
+          {
+            "question": "Quels droits les communautés locales peuvent-elles invoquer ?",
+            "elements_de_reponse": "Les communautés locales peuvent invoquer plusieurs droits : (1) Le droit à l'information et à la participation (principe de participation de la Charte) : elles ont le droit d'être informées et de participer au processus d'EIE, notamment lors des consultations publiques obligatoires ; (2) Le droit à un environnement sain (art. 39 de la Constitution) : la menace sur les cours d'eau porte atteinte à ce droit fondamental ; (3) Le droit à l'eau (Code de l'Eau) : les populations ont droit à l'eau pour leurs usages agricoles et domestiques ; (4) Elles peuvent, via un médiateur ou un recours administratif, contester le visa environnemental si accordé, ou saisir le tribunal administratif. Le système GELOSE leur offre également un cadre de négociation sur la gestion locale des ressources."
+          },
+          {
+            "question": "Quelles mesures peuvent être imposées à MinEx SA dans le cadre de l'EIE ?",
+            "elements_de_reponse": "Le Plan de Gestion Environnemental du Projet (PGEP) issu de l'EIE peut imposer à MinEx SA : (1) Des mesures d'évitement et de réduction des impacts sur la faune (en particulier les lémuriens) et les cours d'eau ; (2) Un plan de gestion des résidus miniers et des eaux de drainage minier acide ; (3) Un programme de compensation écologique (reboisement, création d'habitat alternatif) ; (4) Un plan de fermeture et de réhabilitation du site en fin d'exploitation ; (5) Des mécanismes de partage des bénéfices avec les communautés locales ; (6) Un système de surveillance environnementale indépendant. Le visa peut être conditionné, refusé, ou accordé sous réserves selon les conclusions de l'EIE."
+          }
+        ]
+      },
+      {
+        "id": "cas_2",
+        "titre": "Le transfert de gestion des forêts à une communauté locale et un conflit foncier",
+        "contexte": "La communauté de base VOI Mandroso a signé un contrat de transfert de gestion (GELOSE) d'une forêt communautaire de 500 hectares dans la région Boeny. Deux ans après, une société d'exploitation forestière, BoisEx SARL, détenant une concession ancienne dont les limites se chevauchent partiellement avec la zone transférée, a commencé à couper des arbres dans la zone GELOSE. Le chef du VOI a alerté les autorités locales. Par ailleurs, une ONG a constaté que des membres du VOI eux-mêmes pratiquent des feux de brousse incontrôlés à l'intérieur de la zone gérée.",
+        "questions": [
+          {
+            "question": "Quelle est la valeur juridique du contrat GELOSE et quels sont les droits et obligations du VOI ?",
+            "elements_de_reponse": "Le contrat GELOSE, établi en application de la Loi n°96-025 et du Décret n°2000-027, a pleine valeur juridique. Il confère au VOI Mandroso le droit de gestion exclusif de la zone transférée, incluant le droit d'exploitation durable selon le plan de gestion convenu, le droit d'interdire les activités non autorisées dans la zone, et le droit au soutien de l'État et de la commune. En contrepartie, le VOI a l'obligation de respecter le plan de gestion et le dina (règles coutumières), de surveiller la zone, d'exclure les activités non durables (dont les feux incontrôlés), et de rendre compte à la commune et à l'État. La violation des obligations du VOI peut entraîner la résiliation du contrat."
+          },
+          {
+            "question": "Comment résoudre le conflit entre le VOI et BoisEx SARL ?",
+            "elements_de_reponse": "Plusieurs voies sont disponibles : (1) La médiation environnementale : le médiateur environnemental prévu par la loi GELOSE peut être saisi pour résoudre amiablement le conflit ; (2) Le recours administratif : la commune et le Service des Eaux et Forêts peuvent être saisis pour établir les limites exactes des deux droits (GELOSE vs concession forestière) et arbitrer le conflit ; (3) Le recours judiciaire : si le chevauchement est réel, le TPI peut être saisi pour violation du droit de gestion exclusif du VOI, avec demande de cessation immédiate des coupes par BoisEx ; (4) L'inspection forestière peut constater l'infraction et dresser un procès-verbal contre BoisEx SARL. En cas de concession ancienne antérieure au transfert de gestion, le juge devra trancher sur la hiérarchie des droits applicables."
+          },
+          {
+            "question": "Quelles sont les conséquences juridiques des feux de brousse pratiqués par des membres du VOI ?",
+            "elements_de_reponse": "Les feux de brousse incontrôlés constituent une infraction au regard de la Loi n°97-017 sur les forêts et du contrat GELOSE lui-même. Les conséquences sont : (1) Responsabilité pénale individuelle : les membres auteurs des feux s'exposent à des amendes et à des peines d'emprisonnement prévues par la législation forestière ; (2) Responsabilité collective du VOI : en tant que gestionnaire, le VOI manque à son obligation de protection de la zone, ce qui peut entraîner la résiliation du contrat de transfert de gestion ; (3) Application du dina : le règlement coutumier du VOI peut prévoir des sanctions internes pour les contrevenants ; (4) Le VOI doit adopter des mesures préventives (sensibilisation, surveillance renforcée) pour maintenir son droit de gestion. La commune et l'État peuvent exiger un plan d'action correctif avant d'envisager la résiliation."
+          },
+          {
+            "question": "Quel rôle peut jouer l'ONG dans cette situation ?",
+            "elements_de_reponse": "L'ONG peut jouer plusieurs rôles : (1) Alerte et plaidoyer : alerter les autorités compétentes (DREF, commune, ONE) et l'opinion publique sur les infractions constatées ; (2) Assistance juridique : aider le VOI à rédiger ses recours et à faire valoir ses droits devant les juridictions ou en médiation ; (3) Renforcement de capacités : former les membres du VOI à la gestion durable, à la prévention des feux, et à la surveillance de la zone ; (4) Suivi environnemental : documenter les impacts des infractions pour appuyer les procédures judiciaires ; (5) Médiation communautaire : faciliter le dialogue entre le VOI, BoisEx et les autorités locales ; (6) L'ONG peut également, si elle remplit les conditions légales (personnalité morale, objet statutaire environnemental), se constituer partie civile dans une procédure pénale contre BoisEx SARL pour les coupes illégales."
+          }
+        ]
+      }
+    ]
+  }
+}
