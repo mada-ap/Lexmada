@@ -1,0 +1,969 @@
+{
+  "titre": "Le droit de la famille — mariage et divorce",
+  "module": "Module 18 — Niveau 2 (Intermédiaire)",
+  "niveau": "Intermédiaire",
+  "contenu": [
+    {
+      "titre": "Qu'est-ce que le droit de la famille ? Le cadre légal à Madagascar",
+      "texte": "Le droit de la famille est la branche du droit civil qui organise les relations entre les membres d'une famille : le mariage, le divorce, la filiation, l'autorité parentale, la succession. À Madagascar, ces règles sont principalement contenues dans l'ordonnance n° 62-089 du 1er octobre 1962 portant code de mariage, modifiée et complétée au fil des années. Ce texte fondateur a été adopté peu après l'indépendance et reflète à la fois l'héritage du droit civil français et les valeurs traditionnelles malgaches. Il pose les règles sur qui peut se marier, comment on se marie, quelles sont les causes du divorce et comment y mettre fin. Le droit de la famille malgache est un droit d'ordre public — cela signifie que les règles qu'il pose ne peuvent pas être écartées par les parties. On ne peut pas décider par contrat de se marier sans respecter les formes légales, ni décider à l'avance comment on divorcera si les conditions légales ne sont pas réunies. Ce caractère d'ordre public protège les individus — et notamment les personnes les plus vulnérables dans une union : souvent les femmes et les enfants. Comprendre ce droit, c'est comprendre comment l'État organise et protège la cellule familiale, qui est la base de la société malgache.",
+      "definition": "Droit de la famille : branche du droit civil régissant les relations familiales (mariage, divorce, filiation, succession). À Madagascar, régi principalement par l'ordonnance n° 62-089 du 1er octobre 1962 portant code de mariage. Droit d'ordre public : les règles légales s'imposent aux parties et ne peuvent être écartées par convention privée."
+    },
+    {
+      "titre": "Le mariage : définition et finalité",
+      "texte": "Le mariage est une institution juridique et sociale fondamentale. En droit malgache, le mariage est l'union librement consentie entre un homme et une femme, célébrée dans les formes prévues par la loi, créant entre eux des droits et des obligations réciproques. Cette définition appelle plusieurs remarques importantes. Premièrement, le mariage est une union entre un homme et une femme exclusivement. Le droit malgache ne reconnaît pas le mariage entre personnes de même sexe. Cette position reflète à la fois les traditions culturelles malgaches et les valeurs religieuses majoritairement chrétiennes et musulmanes présentes dans le pays. Deuxièmement, le mariage suppose un consentement libre. On ne peut pas forcer quelqu'un à se marier — un mariage contracté sous la contrainte peut être annulé. Troisièmement, le mariage est célébré dans des formes légales précises — c'est la formalité civile qui lui donne son existence juridique. Quatrièmement, le mariage a une finalité naturelle : la procréation et la constitution d'une famille. Il crée un cadre stable pour mettre au monde et élever des enfants. Cinquièmement, le mariage crée des obligations réciproques entre les époux : fidélité, cohabitation, assistance, contribution aux charges du ménage. Ce sont des effets légaux automatiques du mariage — pas besoin de les stipuler dans un contrat.",
+      "definition": "Mariage en droit malgache : union librement consentie entre un homme et une femme, célébrée dans les formes légales. Il est exclusivement hétérosexuel. Sa finalité naturelle est la procréation et la constitution d'une famille. Il crée entre les époux des obligations réciproques d'ordre public : fidélité, cohabitation, assistance, contribution aux charges.",
+      "exemple": "Ravo (homme) et Soa (femme) décident de s'unir. Leur mariage sera juridiquement reconnu à Madagascar. En revanche, deux hommes ou deux femmes ne peuvent pas se marier légalement à Madagascar — le droit malgache réserve l'institution du mariage à l'union entre un homme et une femme."
+    },
+    {
+      "titre": "Les conditions de fond du mariage : qui peut se marier ?",
+      "texte": "Le mariage n'est pas ouvert à tous sans condition. Le droit malgache pose des conditions de fond — des exigences sur la situation personnelle des futurs époux — sans lesquelles le mariage ne peut pas être valablement célébré. Première condition : l'âge minimum. En droit malgache, l'âge minimum pour se marier est de 18 ans pour l'homme et de 17 ans pour la femme. Des dérogations sont possibles pour des motifs graves, accordées par le président du tribunal. En dessous de ces âges, le mariage ne peut pas être célébré sans autorisation judiciaire. Deuxième condition : le consentement libre et éclairé. Chaque futur époux doit donner librement son accord. Un consentement obtenu par violence, dol (tromperie) ou erreur sur l'identité de l'autre peut entraîner la nullité du mariage. Le consentement des parents est requis pour les mineurs. Troisième condition : l'absence d'empêchements. Certaines situations interdisent le mariage : le mariage entre proches parents en ligne directe (père et fille, mère et fils) est absolument prohibé — c'est l'inceste. Le mariage entre frères et sœurs est aussi interdit. Des prohibitions existent en ligne collatérale selon les degrés de parenté. Quatrième condition : l'absence de mariage antérieur. Madagascar reconnaît la monogamie en principe — on ne peut pas se marier si on est déjà marié, sauf à avoir divorcé ou à avoir perdu son conjoint. Cinquième condition : la différence de sexe — comme indiqué précédemment.",
+      "definition": "Conditions de fond du mariage : (1) âge minimum — 18 ans pour l'homme, 17 ans pour la femme, avec possibilité de dispense judiciaire ; (2) consentement libre et éclairé de chaque époux ; (3) absence d'empêchements (parenté prohibée, inceste) ; (4) absence de mariage antérieur non dissous ; (5) différence de sexe. Toute violation d'une condition de fond peut entraîner la nullité du mariage.",
+      "exemple": "Jean (20 ans) veut épouser Marie (16 ans). L'âge de Marie est insuffisant — elle n'a pas encore 17 ans. Le mariage ne peut pas être célébré sans une autorisation du tribunal accordée pour motif grave. Sans cette autorisation, l'officier d'état civil doit refuser de célébrer l'union."
+    },
+    {
+      "titre": "Les conditions de forme : comment on se marie concrètement",
+      "texte": "Vouloir se marier ne suffit pas — encore faut-il suivre les formes légales. À Madagascar, le processus de mariage civil comporte plusieurs étapes concrètes et obligatoires que tout couple doit respecter. Voici comment cela se passe dans la pratique. La première étape est la constitution du dossier. Les futurs époux doivent rassembler un ensemble de documents : leur acte de naissance, leur certificat de résidence, une pièce d'identité, un certificat de célibat ou de non-remariage attestant qu'ils ne sont pas déjà mariés, et selon les cas, le consentement parental si l'un des époux est mineur. La deuxième étape est le dépôt du dossier et la publication des bans. Le dossier est déposé à la mairie ou au bureau de l'état civil compétent. La publication des bans est l'annonce officielle du mariage projeté, affichée pendant dix jours. Cette publication permet à toute personne connaissant un empêchement de s'y opposer. C'est une garantie de transparence — on avertit le public. La troisième étape est la célébration proprement dite devant l'officier d'état civil, en présence de deux témoins au minimum.",
+      "definition": "Conditions de forme du mariage : (1) constitution d'un dossier complet (actes de naissance, certificat de célibat, pièces d'identité, consentement parental si mineur) ; (2) dépôt à la mairie ou bureau d'état civil et publication des bans pendant 10 jours ; (3) célébration devant l'officier d'état civil en présence de deux témoins au minimum. Le non-respect des formes entraîne la nullité du mariage.",
+      "exemple": "Hanta et Rivo veulent se marier. Ils commencent par rassembler leurs actes de naissance et certificats de résidence. Ils déposent leur dossier à la mairie d'Antananarivo. Les bans sont affichés 10 jours. Aucune opposition ne vient. Le jour J, ils se présentent devant l'officier d'état civil avec leurs deux témoins — et le mariage est célébré."
+    },
+    {
+      "titre": "Le rôle du Fokontany : la première porte avant la mairie",
+      "texte": "Dans la pratique concrète du mariage à Madagascar, il y a une étape que beaucoup de gens connaissent très bien mais que les textes de loi n'organisent pas toujours de manière explicite : le passage par le Fokontany. Le Fokontany est la plus petite cellule administrative à Madagascar — l'équivalent du quartier ou du village. Son président — le président de Fokontany — joue un rôle de premier plan dans la procédure de mariage. Dans les faits, c'est lui qui délivre le certificat de résidence indispensable au dossier de mariage. C'est lui qui connaît les habitants de son quartier et peut attester qu'une personne réside bien dans sa circonscription. C'est lui également qui peut certifier le statut de célibataire d'une personne dans son quartier. Cette attestation du président de Fokontany est le premier document que les futurs époux vont obtenir. Elle est ensuite présentée à la mairie ou au bureau d'état civil. Le président de Fokontany est donc le premier maillon d'une chaîne administrative qui mène jusqu'à l'officier d'état civil. Sans son attestation, il est souvent impossible de compléter le dossier de mariage. Ce système ancre la célébration du mariage dans la communauté locale — le voisinage est mis au courant, peut s'opposer si nécessaire, et la publicité locale est assurée avant même la publication des bans officiels.",
+      "definition": "Président de Fokontany : premier acteur administratif dans la procédure de mariage à Madagascar. Il délivre le certificat de résidence et peut attester le statut de célibataire. Ce document est indispensable pour constituer le dossier de mariage déposé ensuite à la mairie ou au bureau de l'état civil. Le Fokontany est la cellule administrative de base — quartier ou village.",
+      "exemple": "Soa habite à Ankadifotsy, Antananarivo. Pour se marier, elle va d'abord voir le président de Fokontany d'Ankadifotsy pour obtenir son certificat de résidence et une attestation de célibat. Avec ces documents, elle peut constituer son dossier de mariage et le déposer à la mairie du 5e arrondissement. Sans le président de Fokontany, pas de dossier possible."
+    },
+    {
+      "titre": "L'officier d'état civil : celui qui donne au mariage sa valeur légale",
+      "texte": "L'officier d'état civil est la clé de voûte du mariage civil à Madagascar. C'est lui qui célèbre le mariage et lui donne son existence légale. Sans sa présence et sa signature, il n'y a pas de mariage civil reconnu par l'État. Qui sont les officiers d'état civil à Madagascar ? En principe, ce sont les maires et leurs adjoints dans les communes urbaines, et les chefs de fokontany dans les fokontany ruraux pour certains actes. Dans les grandes villes comme Antananarivo, Toamasina, Mahajanga, c'est le maire ou son adjoint délégué qui officie. Dans les zones rurales reculées, des officiers d'état civil désignés par l'État peuvent être habilités à célébrer les mariages. L'officier d'état civil a des obligations légales précises. Avant de célébrer le mariage, il doit vérifier que toutes les pièces du dossier sont complètes et régulières, que la publication des bans a bien été effectuée, qu'il n'y a pas d'opposition, et que les deux futurs époux sont bien présents et consentants. Le jour de la célébration, il leur lit les articles du Code de mariage relatifs aux droits et devoirs des époux, recueille leur consentement public, les unit, et dresse l'acte de mariage dans les registres de l'état civil. Cet acte de mariage est la preuve officielle et définitive de l'union. C'est le document que les époux conservent toute leur vie.",
+      "definition": "Officier d'état civil : personne habilitée par la loi à célébrer les mariages civils et à dresser les actes de l'état civil. À Madagascar : maires et adjoints dans les communes urbaines, officiers d'état civil délégués dans les zones rurales. Ses obligations : vérifier le dossier, s'assurer de l'absence d'empêchement, recueillir le consentement des époux, dresser l'acte de mariage dans les registres.",
+      "exemple": "Le jour du mariage d'Hanta et Rivo, le maire-adjoint de la commune les accueille dans la salle des mariages. Il vérifie les identités, lit les droits et devoirs des époux, demande à chacun : 'Prenez-vous pour époux(se) ?' — ils répondent 'Oui'. Il les déclare unis par les liens du mariage et signe l'acte de mariage. À cet instant précis, le mariage existe légalement."
+    },
+    {
+      "titre": "Pourquoi se marier à la mairie ? La différence entre mariage civil et mariage religieux",
+      "texte": "À Madagascar, de nombreuses personnes se marient à l'église, à la mosquée ou selon les traditions culturelles du fihavanana — et pensent parfois être ainsi légalement mariées. Il est crucial de comprendre une distinction fondamentale : seul le mariage civil célébré devant l'officier d'état civil a une valeur juridique reconnue par l'État. Le mariage religieux est une cérémonie spirituelle et communautaire — importante, respectée, célébrée. Mais aux yeux de la loi malgache, il ne crée aucun droit ni aucune obligation entre les époux. Si le couple ne passe pas par la mairie, ils ne sont pas mariés juridiquement — même s'ils ont échangé des vœux devant un pasteur, un prêtre ou un imam. Concrètement, si le couple n'a fait qu'un mariage religieux et se sépare : il n'y a pas de divorce possible puisqu'il n'y a pas de mariage civil — mais il n'y a pas non plus de partage légal des biens, pas de pension alimentaire légale, et les droits de l'un sur l'héritage de l'autre ne sont pas automatiques. La pratique courante à Madagascar est de faire les deux : d'abord le mariage civil à la mairie (souvent plus sobre), puis la cérémonie religieuse ou traditionnelle (souvent plus festive). Mais si une seule chose doit être faite, c'est le mariage civil — c'est lui qui compte aux yeux de la loi.",
+      "definition": "Mariage civil : seul mariage ayant valeur légale à Madagascar. Célébré devant l'officier d'état civil, il crée des droits et obligations entre époux reconnus par l'État. Mariage religieux : cérémonie spirituelle sans valeur juridique directe — ne crée pas de droits légaux entre époux sans mariage civil préalable ou concomitant. La pratique courante combine les deux.",
+      "exemple": "Zo et Fara se marient à l'église mais n'ont jamais fait de mariage civil. Dix ans plus tard, Zo décède. Fara pense hériter automatiquement. Mais aux yeux de la loi, elle n'est pas l'épouse légale de Zo — elle n'a aucun titre d'héritière réservataire. Les biens de Zo reviennent à ses enfants et parents légaux. C'est une conséquence dramatique de l'absence de mariage civil."
+    },
+    {
+      "titre": "Le concubinage : vivre ensemble sans se marier",
+      "texte": "Le concubinage — aussi appelé union libre ou vie en couple non marié — est une réalité très répandue à Madagascar, particulièrement dans les zones rurales et dans les milieux populaires urbains. Le concubinage est la situation de deux personnes qui vivent ensemble comme un couple, partagent une vie commune, sans avoir contracté de mariage civil. En droit malgache, le concubinage n'est pas reconnu comme une institution créant automatiquement des droits et des obligations entre concubins. Il n'existe pas de statut légal du concubinage comparable à ce qu'on trouve dans certains pays (comme le PACS en France). Cela a des conséquences très concrètes et souvent douloureuses. Si le couple se sépare, aucun des deux ne peut réclamer une pension alimentaire à l'autre au titre du couple — seuls les droits des enfants éventuels sont protégés. Le concubin survivant n'hérite pas automatiquement du défunt — contrairement à un époux marié. Les biens acquis ensemble sont difficiles à partager sans preuve de contribution de chacun. En revanche, les enfants nés de concubins ont exactement les mêmes droits que les enfants nés de couples mariés — la loi malgache ne distingue pas entre enfants légitimes et naturels en matière de droits fondamentaux. Le concubinage peut être régularisé à tout moment par un mariage civil.",
+      "definition": "Concubinage (union libre) : situation de deux personnes vivant en couple sans mariage civil. Non reconnu comme institution créant des droits automatiques entre concubins à Madagascar. Conséquences : pas de pension alimentaire entre concubins en cas de séparation, pas d'héritage automatique, difficultés de partage des biens. En revanche, les enfants du couple ont les mêmes droits que les enfants de couples mariés.",
+      "exemple": "Lala et Dada vivent ensemble depuis 8 ans à Fianarantsoa sans s'être mariés. Ils ont deux enfants et une maison achetée ensemble. Dada décède. Lala n'hérite pas automatiquement de la maison — même si elle y vit depuis 8 ans. Les enfants héritent, mais pas Lala en tant que concubine. Si elle veut garder la maison, elle devra prouver sa contribution à l'achat — ce qui peut être difficile sans documents."
+    },
+    {
+      "titre": "Les empêchements au mariage : quand la loi interdit l'union",
+      "texte": "La loi malgache prévoit des situations dans lesquelles deux personnes ne peuvent absolument pas se marier — ce sont les empêchements au mariage. Certains sont absolus (ils ne peuvent jamais être levés), d'autres sont relatifs (ils peuvent être dispensés dans certaines conditions). Les empêchements absolus sont au nombre de trois. Premier empêchement absolu : la bigamie. On ne peut pas se marier si on est déjà marié — le mariage précédent doit avoir été dissous par divorce ou par le décès du conjoint. En France coloniale et maintenant en droit malgache, le mariage est monogame. Toute personne qui se marie alors qu'elle est déjà engagée dans un mariage valide commet le délit de bigamie, punissable pénalement. Deuxième empêchement absolu : la parenté en ligne directe. Il est absolument interdit de se marier avec ses ascendants ou descendants directs — père/fille, mère/fils, grand-père/petite-fille. Cette prohibition est universelle et reflète le tabou de l'inceste. Troisième empêchement absolu : la différence de sexe absente — deux personnes du même sexe ne peuvent pas se marier. Les empêchements relatifs sont des prohibitions qui peuvent être levées par une dispense. Par exemple, le mariage entre cousins germains peut être autorisé dans certaines conditions. L'absence de consentement parental pour un mineur est un empêchement relatif — il peut être surmonté par une décision du tribunal.",
+      "definition": "Empêchements au mariage : obstacles légaux à la célébration du mariage. Absolus (insusceptibles de dispense) : bigamie, parenté en ligne directe (inceste), absence de différence de sexe. Relatifs (susceptibles de dispense judiciaire) : prohibition entre certains collatéraux, absence de consentement parental pour mineurs. Leur violation entraîne la nullité absolue du mariage.",
+      "exemple": "Paul est marié à Noro. Il rencontre Hanta et veut l'épouser sans divorcer de Noro. Il ne peut pas — il est déjà marié. S'il le fait quand même, c'est un mariage nul et il commet le délit de bigamie. Il risque des poursuites pénales en plus de l'annulation du second mariage."
+    },
+    {
+      "titre": "Les effets du mariage : droits et devoirs des époux",
+      "texte": "Le mariage ne se résume pas à une cérémonie — il crée immédiatement des effets juridiques entre les époux, et ces effets sont d'ordre public. Le premier effet est la communauté de vie. Les époux ont l'obligation de vivre ensemble — c'est le devoir de cohabitation. L'époux qui abandonne le domicile conjugal sans raison valable manque à ce devoir et peut en répondre devant un juge. Le deuxième effet est la fidélité. Les époux se doivent mutuellement fidélité — l'adultère est une faute grave qui peut justifier le divorce et donner lieu à des dommages-intérêts. Le troisième effet est l'assistance mutuelle. Les époux doivent se soutenir mutuellement dans les épreuves — maladie, difficultés financières. Si un époux est malade, l'autre ne peut pas l'abandonner sans s'exposer à une faute. Le quatrième effet est la contribution aux charges du ménage. Les deux époux contribuent aux dépenses du foyer — nourriture, logement, éducation des enfants — proportionnellement à leurs ressources. L'un ne peut pas laisser toute la charge à l'autre sans raison. Le cinquième effet concerne les enfants : le mariage établit la présomption de paternité — l'enfant né pendant le mariage est présumé être l'enfant du mari. Ces effets personnels s'appliquent automatiquement dès la célébration du mariage.",
+      "definition": "Effets personnels du mariage : obligations réciproques entre époux d'ordre public. (1) Cohabitation — obligation de vie commune ; (2) Fidélité — devoir de loyauté sexuelle et affective ; (3) Assistance mutuelle — soutien dans les épreuves ; (4) Contribution aux charges du ménage — proportionnelle aux ressources ; (5) Présomption de paternité — l'enfant né pendant le mariage est présumé enfant du mari.",
+      "exemple": "Tiana est marié à Voahangy. Tiana part travailler en ville et ne renvoie plus d'argent à la famille depuis un an. Il manque à son devoir de contribution aux charges du ménage. Voahangy peut saisir le juge pour obtenir une pension alimentaire ou une contribution forcée — le mariage lui donne ce droit que le concubinage ne lui aurait pas accordé."
+    },
+    {
+      "titre": "La dissolution du mariage : décès et divorce",
+      "texte": "Le mariage peut prendre fin de deux façons. La première est naturelle : le décès de l'un des époux. La mort dissout automatiquement le mariage — l'époux survivant redevient célibataire, peut se remarier, et hérite du défunt dans les conditions prévues par la loi successorale. La deuxième façon de dissoudre le mariage est le divorce. Le divorce est la dissolution judiciaire du mariage entre époux tous deux vivants. Et c'est là qu'une question surgit naturellement dans l'esprit de tout étudiant : pourquoi se marie-t-on à la mairie mais doit-on aller au tribunal pour divorcer ? La réponse est fondamentale. Le mariage est un acte de volonté commune — les deux époux veulent s'unir, et l'État prend acte de cette volonté en le célébrant. La mairie est le lieu de l'état civil, de l'enregistrement des actes de la vie. En revanche, le divorce touche à des droits fondamentaux — partage des biens, garde des enfants, pension alimentaire — et parfois à des intérêts contradictoires entre époux. Seul un juge peut trancher ces questions avec impartialité et dans l'intérêt de toutes les parties, y compris les enfants. Le tribunal est le gardien des droits — il protège celui des deux époux qui serait lésé, et surtout les enfants. On va à la mairie pour créer une union. On va au tribunal pour la défaire — parce que défaire une union nécessite arbitrage, protection et autorité.",
+      "definition": "Dissolution du mariage : (1) Par décès — automatique, sans procédure ; (2) Par divorce — dissolution judiciaire prononcée par le tribunal, seul compétent pour trancher les conséquences du divorce (partage, garde, pension). La mairie célèbre l'union librement consentie. Le tribunal dissout ce que les époux ne peuvent plus résoudre seuls — il protège les droits de chacun et l'intérêt des enfants.",
+      "exemple": "Rivo et Hanta veulent divorcer. Même s'ils sont d'accord sur tout, ils doivent saisir le tribunal. Le juge vérifie que l'accord respecte les droits de chacun et surtout ceux de leurs deux enfants — pension alimentaire, garde, droit de visite. Même un divorce 'à l'amiable' passe par le tribunal parce que le juge protège les plus vulnérables."
+    },
+    {
+      "titre": "Les causes de divorce à Madagascar",
+      "texte": "Le divorce ne peut pas être prononcé pour n'importe quelle raison. Le droit malgache prévoit des causes légales précises. On distingue principalement deux grandes formes de divorce. Le premier est le divorce pour faute. Il est prononcé quand l'un des époux a commis une faute grave rendant intolérable le maintien de la vie commune. Les fautes reconnues par la jurisprudence malgache sont nombreuses : l'adultère (la violation du devoir de fidélité) est la faute la plus classique ; les violences physiques ou morales exercées par un époux sur l'autre ou sur les enfants constituent une faute grave ; l'abandon du domicile conjugal sans motif légitime et sans intention de retour est aussi une faute ; l'injure grave — l'humiliation publique, les insultes répétées — peut justifier le divorce pour faute ; la condamnation de l'un des époux à une peine infamante grave constitue également une faute. Dans le divorce pour faute, l'époux fautif peut être condamné à payer des dommages-intérêts à l'autre. Le deuxième est le divorce par consentement mutuel. Quand les deux époux sont d'accord pour divorcer et s'entendent sur toutes les conséquences — partage des biens, garde et pension alimentaire pour les enfants, éventuelle prestation compensatoire — ils peuvent demander ensemble le divorce. Le juge vérifie que l'accord est équilibré et protège les intérêts des enfants avant de le valider.",
+      "definition": "Causes de divorce en droit malgache : (1) Divorce pour faute — fondé sur une faute grave de l'un des époux : adultère, violences, abandon du domicile conjugal, injures graves, condamnation pénale infamante. L'époux fautif peut être condamné à des dommages-intérêts. (2) Divorce par consentement mutuel — accord des deux époux sur le principe et les conséquences du divorce, soumis au contrôle du juge.",
+      "exemple": "Voahangy a des preuves que son mari Tiana la trompe depuis deux ans (adultère) et qu'il l'a frappée à plusieurs reprises (violences conjugales). Elle peut demander le divorce pour faute double. Le tribunal peut prononcer le divorce aux torts exclusifs de Tiana et lui ordonner de verser des dommages-intérêts à Voahangy en réparation du préjudice subi."
+    },
+    {
+      "titre": "La procédure de divorce : du tribunal à la dissolution",
+      "texte": "Le divorce ne se prononce pas en un jour. C'est une procédure judiciaire qui comporte plusieurs étapes. La première étape est la demande en divorce. L'époux qui demande le divorce (ou les deux ensemble en cas de consentement mutuel) saisit le tribunal de première instance par une requête. Un avocat est recommandé, parfois obligatoire selon la juridiction. La deuxième étape est la tentative de conciliation. Avant toute chose, le juge convoque les deux époux en chambre du conseil — une audience non publique — et tente de les réconcilier. Si la réconciliation réussit, la procédure est abandonnée. Si elle échoue, le juge autorise la poursuite de la procédure. Cette étape de conciliation est obligatoire — elle reflète la volonté de l'État de préserver le mariage autant que possible. La troisième étape est l'instruction. Le juge examine les pièces, entend les témoins, peut ordonner des mesures provisoires pendant la procédure : qui gardera les enfants pendant le procès, qui restera dans le domicile conjugal, quelle pension sera versée pendant la procédure. La quatrième étape est le jugement. Le tribunal prononce le divorce, statue sur la garde des enfants, la pension alimentaire, le droit de visite, le partage des biens. Ce jugement est ensuite transcrit à l'état civil — mention du divorce est portée sur l'acte de mariage. Les époux redeviennent officiellement célibataires.",
+      "definition": "Procédure de divorce : (1) Demande introductive d'instance au tribunal de première instance ; (2) Tentative obligatoire de conciliation par le juge ; (3) Instruction — audition des parties et témoins, mesures provisoires ; (4) Jugement de divorce — dissolution du mariage, garde des enfants, pension alimentaire, partage des biens ; (5) Transcription à l'état civil. La procédure peut durer plusieurs mois à plusieurs années.",
+      "exemple": "Hanta dépose une requête en divorce pour faute (adultère de son mari) au tribunal de première instance. Le juge les convoque tous les deux pour une tentative de conciliation. Le mari refuse de revenir. Le juge autorise la procédure. Six mois plus tard, après audition des témoins et examen des preuves, le tribunal prononce le divorce aux torts du mari et lui ordonne de payer une pension alimentaire pour leurs deux enfants."
+    },
+    {
+      "titre": "Les effets du divorce : ce qui change après",
+      "texte": "Le divorce ne se résume pas à la dissolution du lien conjugal — il produit des effets importants sur plusieurs plans. Sur le plan personnel, les époux redeviennent célibataires et peuvent se remarier. La femme divorcée peut reprendre son nom de jeune fille, ou conserver le nom marital si elle le demande et si le tribunal l'y autorise. Sur le plan des enfants, le divorce ne met pas fin aux obligations parentales. Les deux parents restent parents — ils doivent subvenir aux besoins des enfants. Le juge statue sur la garde : garde exclusive à l'un des parents (avec droit de visite à l'autre), ou garde alternée. La pension alimentaire pour les enfants est fixée par le juge en fonction des ressources des parents et des besoins des enfants. Elle est obligatoire et peut être révisée si les circonstances changent. Sur le plan des biens, le régime matrimonial est liquidé — les biens communs sont partagés selon les règles applicables. La prestation compensatoire peut être accordée à l'époux économiquement défavorisé par le divorce. Sur le plan successoral, les ex-époux n'héritent plus l'un de l'autre — le divorce efface le droit successoral entre conjoints. Ces effets commencent à la date du jugement définitif de divorce, mais certains peuvent rétroagir à la date de la demande initiale.",
+      "definition": "Effets du divorce : (1) personnel — redeviennent célibataires, peuvent se remarier ; (2) sur les enfants — maintien des obligations parentales, garde fixée par le juge, pension alimentaire obligatoire ; (3) sur les biens — liquidation du régime matrimonial, prestation compensatoire possible ; (4) successoral — perte des droits successoraux entre ex-époux. Ces effets prennent force au jugement définitif.",
+      "exemple": "Après son divorce, Rivo doit verser 200 000 ariary par mois à son ex-femme pour l'entretien de leurs deux enfants. S'il refuse de payer, son ex-femme peut saisir le tribunal pour le contraindre à payer. Cette obligation alimentaire ne disparaît pas avec le divorce — elle dure jusqu'à ce que les enfants soient autonomes."
+    },
+    {
+      "titre": "La nullité du mariage : quand le mariage n'aurait pas dû exister",
+      "texte": "Il ne faut pas confondre le divorce et la nullité du mariage. Le divorce dissout un mariage qui a valablement existé — on met fin à une union réelle. La nullité du mariage, elle, anéantit rétroactivement un mariage qui n'aurait jamais dû être célébré. C'est comme si le mariage n'avait jamais existé. La nullité est prononcée par le tribunal quand le mariage a été célébré en violation d'une condition de fond ou de forme. On distingue la nullité absolue et la nullité relative. La nullité absolue peut être invoquée par toute personne ayant intérêt — les époux, leurs parents, le ministère public. Elle sanctionne les violations les plus graves : mariage entre proches parents (inceste), bigamie, mariage entre personnes du même sexe. La nullité relative ne peut être invoquée que par la personne protégée par la règle violée : par exemple, le consentement vicié (obtenu par tromperie ou violence) ne peut être invoqué que par l'époux dont le consentement a été vicié. La nullité peut avoir des effets sur les enfants du couple : le mariage putatif protège les enfants d'un mariage nul en maintenant les effets du mariage à leur égard, si l'un au moins des parents était de bonne foi au moment de la célébration.",
+      "definition": "Nullité du mariage : sanction d'un mariage célébré en violation des conditions légales, entraînant son anéantissement rétroactif. Nullité absolue : sanctionne les violations les plus graves (inceste, bigamie, même sexe), invocable par toute personne intéressée. Nullité relative : sanctionne les violations protégeant un époux particulier (vice du consentement), invocable seulement par cet époux. Le mariage putatif protège les enfants du couple.",
+      "exemple": "Paul se marie avec Noro alors qu'il est déjà marié à Cécile (bigamie). Ce mariage est nul de nullité absolue. N'importe qui — Cécile, les parents de Noro, le procureur — peut demander au tribunal de déclarer ce mariage nul. Le tribunal l'annule comme s'il n'avait jamais existé. Cécile reste l'épouse légitime."
+    },
+    {
+      "titre": "Récapitulatif : mariage et divorce, l'essentiel à retenir",
+      "texte": "Voici les points clés de ce module. Sur le mariage : c'est une union entre un homme et une femme, librement consentie, célébrée devant l'officier d'état civil à la mairie. Le processus passe d'abord par le Fokontany (certificat de résidence), puis par la mairie (dépôt du dossier, publication des bans, célébration). Seul le mariage civil a valeur légale — le mariage religieux seul ne crée pas de droits légaux. Le mariage crée des obligations réciproques : fidélité, cohabitation, assistance, contribution aux charges. Le concubinage est courant mais ne crée pas de droits automatiques entre concubins. Sur le divorce : seul le tribunal peut prononcer le divorce — la mairie ne le peut pas. On va à la mairie pour créer une union ; on va au tribunal pour la défaire parce que le juge protège les droits de chacun et surtout des enfants. Les causes de divorce sont : la faute (adultère, violences, abandon, injures) et le consentement mutuel. La procédure comprend obligatoirement une tentative de conciliation. Après le divorce : les époux redeviennent célibataires, les obligations envers les enfants subsistent, les biens sont partagés. Ne pas confondre divorce (dissolution d'un mariage valide) et nullité (anéantissement d'un mariage qui n'aurait pas dû exister).",
+      "definition": "Mariage : union homme-femme, civile, célébrée devant officier d'état civil après passage par le Fokontany. Mariage civil seul a valeur légale. Concubinage : courant mais sans droits automatiques. Divorce : dissolution judiciaire, seul le tribunal est compétent. Causes : faute ou consentement mutuel. Procédure : tentative de conciliation obligatoire, puis jugement. Nullité : distinct du divorce — anéantissement rétroactif."
+    }
+  ],
+  "quiz": [
+    {
+      "question": "Le mariage civil à Madagascar est-il une union entre deux personnes de même sexe ?",
+      "choix": [
+        "Oui, si les deux consentent librement",
+        "Non, le mariage est exclusivement entre un homme et une femme",
+        "Oui, depuis 2015",
+        "Cela dépend de la religion des époux"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Le Code de mariage malgache est très clair.",
+        "Pensez à la finalité naturelle du mariage.",
+        "La procréation suppose..."
+      ],
+      "explication": "Non. En droit malgache, le mariage est exclusivement l'union entre un homme et une femme. Le Code de mariage malgache (ordonnance n° 62-089) ne reconnaît pas le mariage entre personnes de même sexe. Cette position reflète les valeurs culturelles et religieuses majoritaires à Madagascar."
+    },
+    {
+      "question": "Pourquoi se marie-t-on à la mairie mais doit-on aller au tribunal pour divorcer ?",
+      "choix": [
+        "Parce que la mairie est plus grande que le tribunal",
+        "Parce que le mariage est un acte de volonté commune enregistré par l'État, tandis que le divorce touche à des droits contradictoires et à l'intérêt des enfants — seul un juge peut les trancher avec impartialité",
+        "Parce que le divorce est interdit à la mairie par décret",
+        "Parce que le maire refuse de s'occuper des divorces"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Pensez à ce que fait la mairie : elle enregistre.",
+        "Pensez à ce que fait le tribunal : il arbitre et protège.",
+        "Qui protège les enfants dans le divorce ?"
+      ],
+      "explication": "La mairie est le lieu de l'état civil — elle enregistre les actes de la vie civile librement consentis. Le mariage est une volonté commune des deux époux que l'État prend acte. Le divorce, lui, implique souvent des intérêts opposés entre époux et surtout la protection des enfants (garde, pension, droit de visite). Seul un juge peut arbitrer ces conflits avec impartialité et autorité. On crée une union à la mairie ; on la défait sous le contrôle du tribunal."
+    },
+    {
+      "question": "Quel est le rôle du président de Fokontany dans la procédure de mariage ?",
+      "choix": [
+        "Il célèbre le mariage dans les zones rurales",
+        "Il délivre le certificat de résidence indispensable au dossier de mariage — il est le premier maillon de la chaîne administrative",
+        "Il vérifie la compatibilité génétique des futurs époux",
+        "Il fixe la date de la cérémonie à la mairie"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Le Fokontany est la cellule administrative de base.",
+        "Sans son attestation, le dossier de mariage est incomplet.",
+        "Il connaît les habitants de son quartier."
+      ],
+      "explication": "Le président de Fokontany délivre le certificat de résidence qui atteste que les futurs époux résident bien dans sa circonscription. Il peut aussi attester le statut de célibataire. Ce document est indispensable pour constituer le dossier de mariage déposé ensuite à la mairie. C'est le premier maillon d'une chaîne qui mène jusqu'à l'officier d'état civil."
+    },
+    {
+      "question": "Qui est l'officier d'état civil compétent pour célébrer un mariage dans une commune urbaine à Madagascar ?",
+      "choix": [
+        "Le président du tribunal de première instance",
+        "Le maire ou son adjoint délégué",
+        "Le pasteur ou le prêtre de la paroisse",
+        "Le chef de district"
+      ],
+      "reponse": 1,
+      "indices": [
+        "L'officier d'état civil est une autorité civile, pas religieuse.",
+        "Dans les communes urbaines, l'exécutif municipal officie.",
+        "Il signe l'acte de mariage dans les registres."
+      ],
+      "explication": "Dans les communes urbaines à Madagascar, le maire ou son adjoint délégué est l'officier d'état civil compétent pour célébrer les mariages civils. C'est lui qui vérifie le dossier, recueille le consentement des époux, les unit légalement et dresse l'acte de mariage dans les registres de l'état civil."
+    },
+    {
+      "question": "Quel est l'âge minimum légal pour se marier à Madagascar ?",
+      "choix": [
+        "21 ans pour les deux",
+        "18 ans pour l'homme, 17 ans pour la femme",
+        "16 ans pour les deux avec consentement parental",
+        "18 ans pour les deux sans exception"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Il y a une différence entre l'âge de l'homme et celui de la femme.",
+        "Des dérogations sont possibles par décision judiciaire.",
+        "Le Code de mariage malgache fixe ces seuils."
+      ],
+      "explication": "En droit malgache, l'âge minimum pour se marier est de 18 ans pour l'homme et de 17 ans pour la femme. Des dérogations peuvent être accordées par le président du tribunal pour des motifs graves. En dessous de ces âges, le mariage ne peut pas être célébré sans autorisation judiciaire."
+    },
+    {
+      "question": "Qu'est-ce que la publication des bans dans la procédure de mariage ?",
+      "choix": [
+        "La publication de photos du couple sur les réseaux sociaux avant le mariage",
+        "L'annonce officielle du mariage projeté affichée pendant 10 jours, permettant à quiconque connaissant un empêchement de s'y opposer",
+        "La publicité commerciale pour la cérémonie de mariage",
+        "Le registre dans lequel l'acte de mariage est inscrit"
+      ],
+      "reponse": 1,
+      "indices": [
+        "C'est une mesure de transparence et de publicité.",
+        "Elle dure 10 jours.",
+        "Elle permet d'éviter les mariages illicites."
+      ],
+      "explication": "La publication des bans est l'annonce officielle du mariage projeté, affichée pendant dix jours à la mairie ou au bureau de l'état civil. Elle permet à toute personne connaissant un empêchement légal (bigamie, lien de parenté prohibé, absence de consentement...) de former opposition. C'est une garantie de transparence et de légalité du mariage."
+    },
+    {
+      "question": "Zo et Fara se sont mariés uniquement à l'église. Aux yeux de la loi malgache, sont-ils mariés ?",
+      "choix": [
+        "Oui, le mariage religieux est pleinement reconnu par la loi malgache",
+        "Non, seul le mariage civil célébré devant l'officier d'état civil a valeur légale",
+        "Oui, si leur pasteur est reconnu par l'État",
+        "Cela dépend de la religion pratiquée"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Quelle autorité donne au mariage sa valeur légale ?",
+        "La loi malgache reconnaît-elle le mariage religieux seul ?",
+        "Pensez aux conséquences sur l'héritage."
+      ],
+      "explication": "Non. Seul le mariage civil célébré devant l'officier d'état civil a valeur juridique à Madagascar. Un mariage uniquement religieux n'est pas reconnu par l'État — il ne crée aucun droit ni obligation légale entre les époux. Si Fara décède, Zo n'hérite pas automatiquement. La pratique courante est de faire les deux, mais seul le civil compte légalement."
+    },
+    {
+      "question": "Lala et Dada vivent ensemble depuis 8 ans sans mariage civil. Dada décède. Lala hérite-t-elle automatiquement ?",
+      "choix": [
+        "Oui, 8 ans de vie commune créent un droit d'héritage automatique",
+        "Non, le concubinage ne crée pas de droit successoral — seuls les enfants et la famille légale héritent",
+        "Oui, si elle peut prouver 5 ans de vie commune",
+        "Oui, mais seulement pour la moitié des biens"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Le concubinage a-t-il un statut légal à Madagascar ?",
+        "Quelle différence entre épouse légale et concubine ?",
+        "Qui hérite légalement d'une personne décédée ?"
+      ],
+      "explication": "Non. Le concubinage ne confère pas de droit successoral automatique à Madagascar. Lala n'est pas l'épouse légale de Dada — elle est concubine. Aux yeux de la loi, Dada est décédé célibataire. Ses héritiers légaux sont ses enfants et sa famille. Lala devra prouver sa contribution financière aux biens pour espérer une part — ce qui peut être très difficile sans documents."
+    },
+    {
+      "question": "Qu'est-ce que le devoir de fidélité dans le mariage ?",
+      "choix": [
+        "L'obligation de rester dans le domicile conjugal en permanence",
+        "L'obligation réciproque des époux de ne pas entretenir de relations sexuelles avec une tierce personne",
+        "L'obligation de ne jamais quitter la ville où le mariage a été célébré",
+        "L'obligation de partager tous ses revenus avec son conjoint"
+      ],
+      "reponse": 1,
+      "indices": [
+        "C'est l'un des effets personnels du mariage.",
+        "Sa violation s'appelle adultère.",
+        "C'est une cause de divorce pour faute."
+      ],
+      "explication": "Le devoir de fidélité est l'obligation réciproque des époux de ne pas entretenir de relations sexuelles avec des tiers pendant le mariage. Sa violation constitue l'adultère — une faute grave justifiant le divorce pour faute avec dommages-intérêts. Ce devoir est d'ordre public et s'applique automatiquement dès la célébration du mariage."
+    },
+    {
+      "question": "Qu'est-ce que la bigamie et quelles en sont les conséquences ?",
+      "choix": [
+        "Le fait d'avoir deux maisons — c'est légal mais fiscalement pénalisé",
+        "Le fait de se marier alors qu'on est déjà marié — c'est un délit pénal et le second mariage est nul",
+        "Le fait de se marier deux fois avec la même personne après un divorce",
+        "Le fait d'avoir des enfants avec deux personnes différentes"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Le droit malgache est monogame.",
+        "La bigamie est un empêchement absolu au mariage.",
+        "Elle est pénalement sanctionnée."
+      ],
+      "explication": "La bigamie est le fait de se marier alors qu'on est déjà uni par un mariage non dissous. C'est un empêchement absolu au mariage en droit malgache — le second mariage est nul de nullité absolue. De plus, la bigamie est un délit pénal punissable par le droit malgache. Le premier mariage reste valable ; le second est anéanti rétroactivement."
+    },
+    {
+      "question": "Quelle est la tentative de conciliation dans la procédure de divorce ?",
+      "choix": [
+        "Une réunion organisée par les familles des époux pour les réconcilier",
+        "Une audience obligatoire devant le juge avant toute procédure de divorce, au cours de laquelle le juge tente de réconcilier les époux",
+        "Une médiation privée payante avant de saisir le tribunal",
+        "Un délai de réflexion de 30 jours imposé avant de déposer la demande"
+      ],
+      "reponse": 1,
+      "indices": [
+        "C'est une étape obligatoire de la procédure.",
+        "C'est le juge lui-même qui tente la réconciliation.",
+        "Elle se déroule en chambre du conseil — audience non publique."
+      ],
+      "explication": "La tentative de conciliation est une étape obligatoire dans toute procédure de divorce à Madagascar. Le juge convoque les deux époux en chambre du conseil (audience non publique) et tente de les réconcilier. Si la réconciliation réussit, la procédure est abandonnée. Si elle échoue, le juge autorise la poursuite de la procédure. Cette étape reflète la volonté de l'État de préserver le mariage autant que possible."
+    },
+    {
+      "question": "Quelles sont les causes du divorce pour faute reconnues en droit malgache ?",
+      "choix": [
+        "Uniquement l'adultère prouvé par un détective privé",
+        "L'adultère, les violences physiques ou morales, l'abandon du domicile conjugal, les injures graves, la condamnation pénale infamante",
+        "Uniquement le refus de travailler et de contribuer aux charges",
+        "L'incompatibilité d'humeur et les disputes fréquentes"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Le divorce pour faute requiert une faute grave.",
+        "Plusieurs types de comportements sont reconnus.",
+        "L'adultère est la faute classique."
+      ],
+      "explication": "Le droit malgache reconnaît plusieurs causes de divorce pour faute : l'adultère (violation du devoir de fidélité), les violences physiques ou morales, l'abandon du domicile conjugal sans motif légitime, les injures graves et humiliations répétées, et la condamnation de l'un des époux à une peine infamante grave. L'époux fautif peut être condamné à des dommages-intérêts."
+    },
+    {
+      "question": "Que se passe-t-il pour les enfants après le divorce de leurs parents ?",
+      "choix": [
+        "Les obligations parentales disparaissent — les parents sont libres de leurs obligations",
+        "Les obligations parentales subsistent — garde fixée par le juge, pension alimentaire obligatoire, droit de visite pour le parent non gardien",
+        "Les enfants appartiennent automatiquement à la mère",
+        "Les enfants sont confiés aux grands-parents jusqu'à leur majorité"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Le divorce dissout le mariage, pas la parentalité.",
+        "Le juge statue sur plusieurs points concernant les enfants.",
+        "La pension alimentaire est obligatoire."
+      ],
+      "explication": "Le divorce ne met pas fin aux obligations parentales. Les deux parents restent parents — ils doivent contribuer à l'entretien et à l'éducation des enfants. Le juge statue sur la garde (exclusive ou alternée), fixe la pension alimentaire et le droit de visite. Ces obligations perdurent jusqu'à l'autonomie des enfants, indépendamment du divorce."
+    },
+    {
+      "question": "Quelle est la différence entre le divorce et la nullité du mariage ?",
+      "choix": [
+        "Il n'y a aucune différence — ce sont deux mots pour la même chose",
+        "Le divorce dissout un mariage qui a valablement existé. La nullité anéantit rétroactivement un mariage qui n'aurait jamais dû être célébré",
+        "La nullité est plus rapide que le divorce",
+        "Le divorce est prononcé par la mairie, la nullité par le tribunal"
+      ],
+      "reponse": 1,
+      "indices": [
+        "L'un efface ; l'autre dissout.",
+        "Un mariage nul n'a juridiquement jamais existé.",
+        "Un mariage dissous a existé mais prend fin."
+      ],
+      "explication": "Le divorce dissout un mariage valablement formé — il y avait bien mariage, on y met fin. La nullité anéantit rétroactivement un mariage qui n'aurait jamais dû exister — il est effacé comme s'il n'avait jamais eu lieu (mariage entre proches parents, bigamie, vice du consentement). La nullité est prononcée par le tribunal comme le divorce, mais leurs effets diffèrent."
+    },
+    {
+      "question": "Pourquoi le consentement libre des époux est-il une condition essentielle du mariage ?",
+      "choix": [
+        "Pour que les époux ne puissent pas se plaindre des obligations du mariage après",
+        "Parce que le mariage est un acte juridique personnel — un consentement forcé ou trompé vicie l'acte et peut entraîner sa nullité",
+        "Pour que la cérémonie soit plus belle",
+        "Parce que l'État veut contrôler qui se marie"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Le mariage est un acte juridique.",
+        "Les vices du consentement en droit civil s'appliquent ici.",
+        "Violence, dol, erreur — ce sont des vices du consentement."
+      ],
+      "explication": "Le consentement libre est une condition de validité du mariage parce que le mariage est un acte juridique personnel et grave — il engage la vie entière. Un consentement obtenu par violence (menaces, contrainte), par dol (tromperie sur l'identité ou les qualités essentielles de l'autre) ou par erreur sur la personne est vicié. Le mariage peut être annulé à la demande de l'époux dont le consentement a été vicié."
+    },
+    {
+      "question": "Le mariage religieux seul donne-t-il droit à une pension alimentaire en cas de séparation à Madagascar ?",
+      "choix": [
+        "Oui, si la cérémonie a été officiée par un ministre du culte reconnu",
+        "Non, seul le mariage civil crée des droits légaux — dont la pension alimentaire entre époux",
+        "Oui, si le couple a vécu ensemble plus de 5 ans",
+        "Oui, mais seulement pour les couples musulmans"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Quelle valeur le mariage religieux a-t-il aux yeux de la loi ?",
+        "Les droits légaux découlent du mariage civil, pas religieux.",
+        "Pas de mariage civil = pas de droits légaux entre époux."
+      ],
+      "explication": "Non. Le mariage religieux seul n'a aucune valeur légale à Madagascar. Il ne crée aucun droit ni obligation légale entre époux — donc pas de pension alimentaire, pas de partage légal des biens, pas d'héritage automatique. Pour avoir des droits légaux en cas de séparation, il faut impérativement avoir contracté un mariage civil devant l'officier d'état civil."
+    },
+    {
+      "question": "Qu'est-ce que le mariage putatif ?",
+      "choix": [
+        "Un mariage célébré sans publication des bans",
+        "Un mariage nul mais dont les effets sont maintenus à l'égard des enfants et de l'époux de bonne foi",
+        "Un mariage contracté à l'étranger et reconnu en Madagascar",
+        "Un mariage entre deux personnes de nationalités différentes"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Putatif vient du latin 'putare' — croire, supposer.",
+        "L'époux croyait sincèrement que le mariage était valide.",
+        "Il protège les innocents d'un mariage nul."
+      ],
+      "explication": "Le mariage putatif est un mariage nul (qui n'aurait pas dû exister) mais dont les effets sont néanmoins maintenus en faveur des enfants et de l'époux de bonne foi (celui qui ignorait la cause de nullité). Ainsi, si un époux ignorait sincèrement que l'autre était déjà marié, les effets du mariage sont préservés pour lui et pour les enfants, même si le mariage est annulé."
+    },
+    {
+      "question": "Qu'est-ce que la présomption de paternité dans le mariage ?",
+      "choix": [
+        "L'obligation du mari de déclarer tous ses enfants à l'état civil",
+        "La règle selon laquelle l'enfant né pendant le mariage est présumé être l'enfant du mari",
+        "Le droit du mari de contester la paternité de tous les enfants",
+        "L'obligation du père de pourvoir aux besoins des enfants"
+      ],
+      "reponse": 1,
+      "indices": [
+        "C'est un effet automatique du mariage.",
+        "Elle s'applique aux enfants nés pendant le mariage.",
+        "Elle peut être contestée par voie judiciaire."
+      ],
+      "explication": "La présomption de paternité est la règle légale selon laquelle l'enfant né d'une femme mariée est présumé être l'enfant de son mari. C'est un effet automatique du mariage qui facilite l'établissement de la filiation. Cette présomption peut être contestée par le mari par une action en désaveu de paternité devant le tribunal, s'il apporte la preuve que l'enfant n'est pas le sien."
+    },
+    {
+      "question": "Peut-on divorcer par consentement mutuel à Madagascar ?",
+      "choix": [
+        "Non, le divorce doit toujours être prononcé aux torts de l'un des époux",
+        "Oui, quand les deux époux sont d'accord sur le principe et les conséquences du divorce, sous contrôle judiciaire",
+        "Oui, en allant directement à la mairie signer les papiers",
+        "Non, le divorce est toujours contentieux à Madagascar"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Il existe plusieurs formes de divorce.",
+        "Le consentement mutuel suppose un accord total.",
+        "Le juge reste impliqué même en cas d'accord."
+      ],
+      "explication": "Oui. Le divorce par consentement mutuel est possible à Madagascar quand les deux époux sont d'accord sur le principe du divorce ET sur toutes ses conséquences (garde des enfants, pension alimentaire, partage des biens). Ils soumettent leur accord au juge qui vérifie qu'il est équilibré et protège les enfants, puis prononce le divorce. Même en cas d'accord, on passe toujours par le tribunal."
+    },
+    {
+      "question": "Qu'est-ce que la prestation compensatoire dans le divorce ?",
+      "choix": [
+        "La somme versée à l'avocat pour conduire la procédure de divorce",
+        "Une compensation financière accordée par le juge à l'époux économiquement défavorisé par le divorce pour compenser la disparité de niveau de vie",
+        "Les frais de justice remboursés à l'époux gagnant le procès",
+        "La compensation versée aux enfants pour le préjudice subi"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Elle compense un déséquilibre économique.",
+        "Elle est fixée par le juge.",
+        "L'un des époux se retrouve dans une situation économique bien inférieure après le divorce."
+      ],
+      "explication": "La prestation compensatoire est une somme versée par l'un des ex-époux à l'autre pour compenser la disparité de situation économique créée par le divorce. Par exemple, si l'épouse a renoncé à sa carrière pour élever les enfants et se retrouve sans ressources après le divorce, le juge peut condamner le mari à lui verser une prestation compensatoire. Elle peut être versée en capital ou sous forme de rente."
+    },
+    {
+      "question": "Le concubinage crée-t-il des droits entre concubins à Madagascar ?",
+      "choix": [
+        "Oui, après 5 ans de vie commune",
+        "Non, le concubinage ne crée pas de droits légaux automatiques entre concubins",
+        "Oui, si le couple a des enfants ensemble",
+        "Oui, s'il y a un contrat de concubinage signé devant notaire"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Le concubinage a-t-il un statut légal à Madagascar ?",
+        "Comparez avec la situation en mariage.",
+        "Pas de mariage = pas de statut légal du couple."
+      ],
+      "explication": "Non. Le concubinage ne crée pas de droits légaux automatiques entre concubins à Madagascar. Pas de pension alimentaire entre eux en cas de séparation, pas d'héritage automatique, difficultés de partage des biens. En revanche, les enfants nés de concubins ont exactement les mêmes droits que les enfants de couples mariés."
+    },
+    {
+      "question": "Quel document le président de Fokontany délivre-t-il dans le cadre d'une procédure de mariage ?",
+      "choix": [
+        "L'acte de mariage définitif",
+        "Le certificat de résidence attestant que les futurs époux résident dans sa circonscription",
+        "L'autorisation de mariage pour les mineurs",
+        "La publication des bans"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Le Fokontany connaît ses résidents.",
+        "Ce document est indispensable pour le dossier de mariage.",
+        "Il atteste où habite la personne."
+      ],
+      "explication": "Le président de Fokontany délivre principalement le certificat de résidence — document attestant qu'une personne réside bien dans la circonscription du Fokontany. Ce certificat est indispensable pour constituer le dossier de mariage. Le président peut aussi attester le statut de célibataire d'une personne connue dans son quartier."
+    },
+    {
+      "question": "Qu'est-ce que la nullité absolue du mariage et qui peut l'invoquer ?",
+      "choix": [
+        "Une nullité que seul l'époux lésé peut invoquer",
+        "Une nullité sanctionnant les violations les plus graves (inceste, bigamie, même sexe), invocable par toute personne ayant un intérêt : époux, parents, procureur",
+        "Une nullité qui s'applique automatiquement sans décision de justice",
+        "Une nullité que seul le tribunal peut décider d'office"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Les nullités absolues sanctionnent les violations de l'ordre public.",
+        "Tout le monde peut l'invoquer — pas seulement les époux.",
+        "Exemples : inceste, bigamie."
+      ],
+      "explication": "La nullité absolue sanctionne les violations les plus graves de l'ordre public matrimonial : inceste, bigamie, mariage entre personnes du même sexe. Elle peut être invoquée par toute personne ayant un intérêt légitime : les époux eux-mêmes, leurs parents, le ministère public (procureur). Elle est imprescriptible dans certains cas. Elle anéantit le mariage rétroactivement."
+    },
+    {
+      "question": "Que signifie l'obligation de cohabitation entre époux ?",
+      "choix": [
+        "Les époux doivent habiter exactement dans la même chambre",
+        "Les époux ont l'obligation de vivre ensemble sous le même toit — l'abandon du domicile conjugal sans raison valable est une faute",
+        "Les époux doivent habiter dans la même ville que leurs parents",
+        "Les époux doivent cohabiter avec leur belle-famille"
+      ],
+      "reponse": 1,
+      "indices": [
+        "C'est un effet personnel du mariage.",
+        "Sa violation peut justifier le divorce pour faute.",
+        "L'abandon du domicile conjugal en découle."
+      ],
+      "explication": "L'obligation de cohabitation impose aux époux de vivre ensemble sous le même toit et de maintenir une vie commune. L'époux qui abandonne le domicile conjugal sans motif légitime et sans intention de retour manque à ce devoir. Cet abandon peut constituer une faute justifiant le divorce pour faute à ses torts. Des exceptions existent : travail à distance, hospitalisation, danger."
+    },
+    {
+      "question": "Après le prononcé du divorce, où la mention de divorce est-elle transcrite ?",
+      "choix": [
+        "Dans le registre du tribunal de commerce",
+        "Sur l'acte de mariage, dans les registres de l'état civil",
+        "Dans le casier judiciaire des ex-époux",
+        "Dans le registre du Fokontany du domicile"
+      ],
+      "reponse": 1,
+      "indices": [
+        "L'état civil enregistre tous les actes majeurs de la vie.",
+        "Le mariage est dans ces registres — sa dissolution aussi.",
+        "C'est la mairie qui tient ces registres."
+      ],
+      "explication": "Le jugement de divorce est transcrit à l'état civil — une mention de divorce est portée en marge de l'acte de mariage dans les registres de l'état civil. Cette transcription rend le divorce opposable aux tiers. C'est à partir de cette transcription que les ex-époux sont officiellement redevables de l'état de célibataire aux yeux de tous."
+    },
+    {
+      "question": "Quels sont les empêchements absolus au mariage en droit malgache ?",
+      "choix": [
+        "L'âge insuffisant, la différence de nationalité, le chômage",
+        "La bigamie, la parenté en ligne directe (inceste), l'absence de différence de sexe",
+        "L'alcoolisme, le casier judiciaire, la maladie grave",
+        "L'insolvabilité financière, l'absence de logement, la mésentente des familles"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Les empêchements absolus ne peuvent jamais être levés.",
+        "Ils touchent à l'ordre public le plus fondamental.",
+        "Bigamie, inceste..."
+      ],
+      "explication": "Les empêchements absolus au mariage — insusceptibles de toute dispense — sont au nombre de trois : la bigamie (être déjà marié), la parenté en ligne directe ou entre frères et sœurs (inceste), et l'absence de différence de sexe. Leur violation entraîne la nullité absolue du mariage et peut donner lieu à des poursuites pénales."
+    },
+    {
+      "question": "Combien de témoins minimum sont requis lors de la célébration du mariage civil ?",
+      "choix": [
+        "Un seul suffît",
+        "Deux témoins au minimum",
+        "Quatre témoins",
+        "Aucun témoin n'est requis"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Les témoins garantissent la publicité de l'acte.",
+        "Ils attestent que le mariage a bien été célébré.",
+        "Deux est le minimum légal."
+      ],
+      "explication": "La célébration du mariage civil requiert la présence d'au moins deux témoins. Ils attestent par leur présence que le mariage a bien été célébré, que les époux étaient présents et ont donné leur consentement. Leurs identités sont inscrites dans l'acte de mariage. Leur présence est une condition de forme du mariage."
+    },
+    {
+      "question": "Qu'est-ce que la contribution aux charges du ménage ?",
+      "choix": [
+        "L'obligation du seul mari de payer toutes les dépenses du foyer",
+        "L'obligation réciproque des deux époux de contribuer aux dépenses du foyer proportionnellement à leurs ressources",
+        "L'obligation des enfants d'aider leurs parents dans les dépenses",
+        "La taxe foncière due par les ménages mariés"
+      ],
+      "reponse": 1,
+      "indices": [
+        "C'est un effet personnel du mariage.",
+        "Elle est réciproque — pas unilatérale.",
+        "Elle est proportionnelle aux ressources de chacun."
+      ],
+      "explication": "La contribution aux charges du ménage est l'obligation réciproque des deux époux de contribuer aux dépenses du foyer — nourriture, logement, éducation des enfants — proportionnellement à leurs ressources respectives. L'un ne peut pas laisser toute la charge à l'autre. Si un époux refuse de contribuer, l'autre peut saisir le juge pour obtenir une contribution forcée."
+    },
+    {
+      "question": "Paul est marié à Cécile. Il épouse Noro sans avoir divorcé de Cécile. Quel est le statut du second mariage ?",
+      "choix": [
+        "Le second mariage est valide — à Madagascar, la polygamie est tolérée",
+        "Le second mariage est nul de nullité absolue — c'est de la bigamie",
+        "Le second mariage est valide si Cécile est au courant",
+        "Le second mariage est valide mais Cécile peut demander des dommages-intérêts"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Le droit malgache est monogame.",
+        "La bigamie est un empêchement absolu.",
+        "Le second mariage ne peut pas exister légalement."
+      ],
+      "explication": "Le second mariage entre Paul et Noro est nul de nullité absolue. Paul est encore marié à Cécile — la bigamie est un empêchement absolu au mariage en droit malgache. De plus, Paul commet le délit pénal de bigamie. Le premier mariage avec Cécile reste valable. Le tribunal annulera le second mariage comme s'il n'avait jamais existé."
+    },
+    {
+      "question": "Un mineur de 16 ans peut-il se marier à Madagascar sans aucune formalité supplémentaire ?",
+      "choix": [
+        "Oui, avec le simple accord de ses parents",
+        "Non, il n'a pas l'âge légal minimum — il faut une autorisation judiciaire pour motif grave",
+        "Oui, si l'autre époux est majeur",
+        "Oui, si le mariage a lieu dans une zone rurale"
+      ],
+      "reponse": 1,
+      "indices": [
+        "L'âge minimum légal est de 18 ans pour l'homme et 17 ans pour la femme.",
+        "16 ans est en dessous du minimum légal.",
+        "Une procédure judiciaire est nécessaire."
+      ],
+      "explication": "Non. Un mineur de 16 ans est en dessous de l'âge légal minimum de mariage (18 ans pour l'homme, 17 ans pour la femme). Il ne peut se marier qu'avec une autorisation du président du tribunal accordée pour des motifs graves et exceptionnels. Le simple accord des parents ne suffit pas — il faut une décision judiciaire."
+    },
+    {
+      "question": "Qu'est-ce que l'abandon du domicile conjugal et quelles en sont les conséquences juridiques ?",
+      "choix": [
+        "Le fait de partir en voyage sans prévenir son conjoint — sans conséquences",
+        "Le fait pour un époux de quitter le domicile commun sans motif légitime et sans intention de revenir — faute pouvant justifier le divorce",
+        "Le fait de vendre la maison familiale sans accord du conjoint",
+        "Le fait pour un époux de refuser de travailler"
+      ],
+      "reponse": 1,
+      "indices": [
+        "C'est une violation du devoir de cohabitation.",
+        "Elle peut justifier le divorce pour faute.",
+        "L'intention de ne pas revenir est déterminante."
+      ],
+      "explication": "L'abandon du domicile conjugal est le fait pour un époux de quitter le foyer commun sans motif légitime (ni travail, ni maladie, ni danger) et sans intention d'y revenir. C'est une violation du devoir de cohabitation — une faute grave justifiant le divorce pour faute aux torts de l'époux qui a abandonné. Le tribunal peut prononcer le divorce à ses torts."
+    },
+    {
+      "question": "Pourquoi l'État impose-t-il une tentative de conciliation avant le divorce ?",
+      "choix": [
+        "Pour allonger la procédure et augmenter les frais de justice",
+        "Parce que l'État préfère préserver le mariage — institution fondamentale — et protéger les enfants d'une rupture hâtive",
+        "Parce que les juges ne veulent pas juger des affaires de famille",
+        "Pour donner le temps au mari de retrouver son épouse"
+      ],
+      "reponse": 1,
+      "indices": [
+        "L'État considère le mariage comme une institution à protéger.",
+        "La conciliation peut éviter des drames familiaux.",
+        "L'intérêt des enfants est aussi en jeu."
+      ],
+      "explication": "L'État impose la tentative de conciliation parce qu'il considère le mariage comme une institution fondamentale de la société — à préserver autant que possible. Certains divorces sont demandés dans un moment de crise passagère que la réflexion et le dialogue peuvent surmonter. De plus, éviter un divorce protège les enfants d'une rupture familiale douloureuse. Si la réconciliation est impossible, la procédure continue — mais l'État aura essayé."
+    },
+    {
+      "question": "Que doit vérifier l'officier d'état civil avant de célébrer un mariage ?",
+      "choix": [
+        "Uniquement que les futurs époux ont un logement",
+        "Que le dossier est complet, que les bans ont été publiés, qu'il n'y a pas d'opposition, et que les époux sont présents et consentants",
+        "Que les familles approuvent l'union",
+        "Que les époux ont les moyens financiers d'élever une famille"
+      ],
+      "reponse": 1,
+      "indices": [
+        "L'officier d'état civil a des obligations légales précises.",
+        "Il vérifie le fond et la forme.",
+        "Il doit s'assurer de l'absence d'empêchements."
+      ],
+      "explication": "Avant de célébrer un mariage, l'officier d'état civil doit vérifier : que le dossier est complet et régulier (pièces d'identité, actes de naissance, certificats), que la publication des bans a bien été effectuée, qu'aucune opposition n'a été formée, et que les deux futurs époux sont présents et consentants. Si une condition fait défaut, il doit refuser de célébrer le mariage."
+    },
+    {
+      "question": "Qu'est-ce que l'acte de mariage et quelle est son importance ?",
+      "choix": [
+        "Un contrat privé signé entre les époux avant le mariage",
+        "Le document officiel dressé par l'officier d'état civil dans les registres, qui constitue la preuve définitive du mariage civil",
+        "La liste des biens apportés par chaque époux dans le mariage",
+        "L'autorisation donnée par les parents des époux"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Il est dressé par l'officier d'état civil.",
+        "Il est inscrit dans les registres de l'état civil.",
+        "C'est la preuve officielle du mariage."
+      ],
+      "explication": "L'acte de mariage est le document officiel dressé par l'officier d'état civil dans les registres de l'état civil lors de la célébration du mariage. Il contient les identités des époux et des témoins, la date et le lieu de célébration. Il constitue la preuve définitive et officielle du mariage civil — c'est le document que les époux conservent toute leur vie et qui leur permettra de prouver leur situation matrimoniale."
+    },
+    {
+      "question": "Voahangy subit des violences physiques de son mari Tiana depuis deux ans. Elle veut divorcer. Quel type de divorce peut-elle demander ?",
+      "choix": [
+        "Un divorce par consentement mutuel — si Tiana accepte",
+        "Un divorce pour faute — les violences physiques constituent une faute grave justifiant le divorce aux torts de Tiana",
+        "Elle ne peut pas divorcer — les violences ne sont pas une cause légale",
+        "Un divorce pour incompatibilité d'humeur"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Les violences conjugales sont-elles reconnues comme faute ?",
+        "Qui est fautif ici ?",
+        "Quel type de divorce sanctionne la faute ?"
+      ],
+      "explication": "Voahangy peut demander le divorce pour faute. Les violences physiques exercées par un époux sur l'autre constituent une faute grave reconnue par le droit malgache, justifiant le divorce aux torts exclusifs de l'époux violent. Le tribunal peut prononcer le divorce aux torts de Tiana et le condamner à verser des dommages-intérêts à Voahangy en réparation du préjudice subi."
+    },
+    {
+      "question": "La pension alimentaire fixée après le divorce est-elle définitive ou peut-elle être révisée ?",
+      "choix": [
+        "Elle est définitive et ne peut jamais être modifiée",
+        "Elle peut être révisée si les circonstances changent (hausse des revenus du débiteur, baisse des besoins de l'enfant, etc.)",
+        "Elle est automatiquement réduite de moitié tous les cinq ans",
+        "Elle disparaît automatiquement quand l'enfant a 15 ans"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Les situations évoluent avec le temps.",
+        "Le juge peut être saisi à nouveau en cas de changement.",
+        "La pension doit toujours correspondre aux besoins réels."
+      ],
+      "explication": "La pension alimentaire peut être révisée à la hausse ou à la baisse si les circonstances changent : augmentation significative des revenus du parent débiteur, baisse de ses revenus, augmentation des besoins de l'enfant (études, santé), ou diminution de ces besoins. La partie intéressée saisit le juge d'une demande de révision. La pension doit toujours correspondre à la réalité des besoins et des ressources."
+    },
+    {
+      "question": "Pourquoi les enfants nés de concubins ont-ils les mêmes droits que les enfants de couples mariés ?",
+      "choix": [
+        "Parce que le concubinage est reconnu comme un mariage informel",
+        "Parce que le droit malgache ne punit pas les enfants pour la situation matrimoniale de leurs parents — les droits de l'enfant sont indépendants du statut de ses parents",
+        "Parce que la loi ne distingue plus entre enfants légitimes et naturels depuis 1960",
+        "Parce que les concubins payent les mêmes impôts que les mariés"
+      ],
+      "reponse": 1,
+      "indices": [
+        "L'enfant n'a pas choisi la situation de ses parents.",
+        "Le droit protège l'enfant indépendamment.",
+        "Les droits de l'enfant sont une protection universelle."
+      ],
+      "explication": "Le droit malgache protège les enfants indépendamment de la situation matrimoniale de leurs parents. Un enfant n'est pas responsable du fait que ses parents ne se sont pas mariés. En conséquence, les enfants nés de concubins ont les mêmes droits que les enfants de couples mariés : droit à l'entretien, à l'éducation, à la succession de leurs parents. C'est une protection fondamentale de l'intérêt de l'enfant."
+    },
+    {
+      "question": "Qu'est-ce que le régime matrimonial et quel est son rôle ?",
+      "choix": [
+        "Le régime alimentaire que les époux doivent suivre pendant le mariage",
+        "L'ensemble des règles organisant les rapports financiers entre époux et leur relation avec les tiers concernant les biens",
+        "Les règles d'héritage entre époux",
+        "Le contrat de mariage signé devant notaire"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Il concerne les biens, pas les personnes.",
+        "Il détermine qui possède quoi pendant et après le mariage.",
+        "Il peut être choisi par les époux ou imposé par la loi."
+      ],
+      "explication": "Le régime matrimonial est l'ensemble des règles légales ou conventionnelles qui organisent les rapports pécuniaires entre époux (propriété des biens, gestion, responsabilité des dettes) et leurs relations avec les tiers. À défaut de contrat de mariage, un régime légal s'applique par défaut. Lors du divorce, le régime matrimonial est liquidé — les biens sont partagés selon ses règles."
+    },
+    {
+      "question": "Qu'est-ce que l'assistance mutuelle entre époux ?",
+      "choix": [
+        "L'obligation pour les époux de s'aider à faire le ménage ensemble",
+        "L'obligation réciproque des époux de se soutenir dans les épreuves de la vie — maladie, difficultés financières, deuil",
+        "L'obligation du mari d'assister sa femme lors des accouchements",
+        "L'obligation des époux d'assister aux réunions du Fokontany ensemble"
+      ],
+      "reponse": 1,
+      "indices": [
+        "C'est un devoir moral devenu obligation légale.",
+        "La maladie, les difficultés... le conjoint doit être là.",
+        "Son absence est une faute susceptible de justifier le divorce."
+      ],
+      "explication": "L'assistance mutuelle est l'obligation réciproque des époux de se soutenir moralement et matériellement dans les épreuves de la vie — maladie grave, difficultés financières, deuil, handicap. Un époux ne peut pas abandonner son conjoint malade ou en difficulté sans s'exposer à une faute pouvant justifier le divorce. C'est un devoir fondamental qui traduit la solidarité du couple marié."
+    },
+    {
+      "question": "Le divorce par consentement mutuel nécessite-t-il quand même une décision de justice ?",
+      "choix": [
+        "Non, les époux d'accord peuvent simplement signer un document à la mairie",
+        "Oui, même le divorce par consentement mutuel doit être prononcé par le tribunal qui vérifie l'accord et protège les enfants",
+        "Non, une simple déclaration devant le président de Fokontany suffit",
+        "Oui, mais uniquement si le couple a des enfants"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Même en cas d'accord, on passe par le tribunal.",
+        "Qui protège les enfants dans cet accord ?",
+        "Le juge vérifie que l'accord est équilibré."
+      ],
+      "explication": "Oui, même le divorce par consentement mutuel doit être prononcé par le tribunal. Le juge vérifie que l'accord entre époux est équilibré, qu'il ne lèse pas l'un d'eux, et surtout qu'il protège adéquatement les intérêts des enfants (garde, pension, droit de visite). Le tribunal est le gardien des droits de toutes les parties — y compris quand les époux semblent d'accord."
+    },
+    {
+      "question": "Quel est l'effet de l'adultère sur une procédure de divorce ?",
+      "choix": [
+        "L'adultère n'a aucun effet juridique sur le divorce à Madagascar",
+        "L'adultère est une faute grave pouvant fonder le divorce pour faute aux torts de l'époux infidèle, avec possibilité de dommages-intérêts",
+        "L'adultère entraîne automatiquement le divorce sans procédure",
+        "L'adultère est seulement pris en compte si l'autre époux n'a pas lui-même commis d'adultère"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Le devoir de fidélité est d'ordre public.",
+        "Sa violation est la faute classique en divorce.",
+        "Le tribunal peut allouer des dommages-intérêts."
+      ],
+      "explication": "L'adultère — violation du devoir de fidélité — est la cause de divorce pour faute la plus classique en droit malgache. L'époux trompé peut demander le divorce aux torts exclusifs de l'époux infidèle et réclamer des dommages-intérêts en réparation du préjudice moral subi. L'adultère doit être prouvé devant le tribunal par tous moyens de preuve admissibles."
+    },
+    {
+      "question": "Peut-on se remarier immédiatement après un divorce à Madagascar ?",
+      "choix": [
+        "Non, il faut attendre 3 ans",
+        "En principe oui, une fois le divorce devenu définitif — mais la femme peut être soumise à un délai de viduité pour éviter toute confusion de paternité",
+        "Non, il faut attendre que les enfants soient majeurs",
+        "Oui, dès le lendemain du jugement"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Le divorce restitue le statut de célibataire.",
+        "La femme est soumise à une règle particulière liée à la filiation.",
+        "Le délai de viduité concerne la femme divorcée."
+      ],
+      "explication": "En principe, les ex-époux peuvent se remarier une fois le divorce devenu définitif. Cependant, la femme divorcée est traditionnellement soumise à un délai de viduité (délai d'attente avant de se remarier) pour éviter toute confusion de paternité sur les enfants à naître. Ce délai est fixé par la loi pour permettre de déterminer avec certitude l'identité du père d'un enfant conçu après le divorce."
+    },
+    {
+      "question": "Quelle est la valeur du mariage traditionnel malgache (selon le fihavanana) aux yeux du droit civil ?",
+      "choix": [
+        "Il est pleinement reconnu et équivalent au mariage civil",
+        "Il n'a pas de valeur légale directe — seul le mariage civil crée des droits reconnus par l'État",
+        "Il est reconnu uniquement dans les zones rurales",
+        "Il est reconnu si au moins 10 témoins l'attestent"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Quelle autorité donne valeur légale au mariage ?",
+        "Le fihavanana est une valeur culturelle, pas une institution légale.",
+        "Comparez avec le mariage religieux."
+      ],
+      "explication": "Le mariage traditionnel malgache selon le fihavanana est une pratique culturelle et familiale importante — reconnue socialement — mais il n'a pas de valeur légale directe aux yeux du droit civil malgache. Seul le mariage civil célébré devant l'officier d'état civil crée des droits et obligations légaux entre époux. Le mariage traditionnel peut précéder ou accompagner le mariage civil, mais il ne le remplace pas."
+    },
+    {
+      "question": "Qu'est-ce que la nullité relative du mariage et qui peut l'invoquer ?",
+      "choix": [
+        "Une nullité que n'importe qui peut invoquer à tout moment",
+        "Une nullité protégeant un époux particulier (vice du consentement), invocable uniquement par cet époux ou son représentant",
+        "Une nullité qui ne produit pas d'effets rétroactifs",
+        "Une nullité prononcée automatiquement sans procédure judiciaire"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Elle protège la personne vulnérable — pas l'ordre public.",
+        "Qui est protégé par la règle violée ?",
+        "Exemple : violence pour obtenir le consentement."
+      ],
+      "explication": "La nullité relative protège une personne particulière dont l'intérêt a été violé. Elle ne peut être invoquée que par cette personne ou son représentant légal. Exemple : si Noro a consenti au mariage sous la menace de violence, seule Noro peut demander la nullité relative pour vice du consentement. Les tiers et le procureur ne peuvent pas l'invoquer à sa place."
+    },
+    {
+      "question": "Pourquoi la publication des bans dure-t-elle 10 jours ?",
+      "choix": [
+        "Pour laisser le temps aux familles de préparer la fête",
+        "Pour permettre à toute personne connaissant un empêchement légal de former opposition avant la célébration",
+        "Parce que la loi impose un délai administratif de 10 jours pour tous les actes civils",
+        "Pour laisser aux futurs époux le temps de changer d'avis"
+      ],
+      "reponse": 1,
+      "indices": [
+        "C'est une mesure de publicité et de contrôle.",
+        "Pendant ces 10 jours, chacun peut réagir.",
+        "Opposition = signaler un empêchement légal."
+      ],
+      "explication": "La publication des bans dure 10 jours pour laisser le temps à toute personne connaissant un empêchement légal — bigamie, lien de parenté prohibé, minorité non autorisée — de former opposition auprès de l'officier d'état civil. C'est une garantie de légalité du mariage. Si aucune opposition n'est formée dans ce délai, la cérémonie peut avoir lieu."
+    },
+    {
+      "question": "Quel tribunal est compétent pour prononcer le divorce à Madagascar ?",
+      "choix": [
+        "Le tribunal de commerce",
+        "Le tribunal de première instance",
+        "Le tribunal administratif",
+        "La cour d'appel"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Le divorce est une matière civile.",
+        "C'est la juridiction de droit commun en première instance.",
+        "Pas le tribunal de commerce — ce n'est pas du commerce."
+      ],
+      "explication": "Le divorce relève du tribunal de première instance — la juridiction civile de droit commun. C'est lui qui est compétent pour prononcer le divorce, statuer sur la garde des enfants, fixer les pensions alimentaires et organiser le partage des biens. Le juge aux affaires familiales au sein de ce tribunal instruit les dossiers de divorce."
+    },
+    {
+      "question": "Quels documents composent généralement le dossier de mariage à Madagascar ?",
+      "choix": [
+        "Uniquement les pièces d'identité des époux",
+        "Actes de naissance, pièces d'identité, certificat de résidence (délivré par le Fokontany), certificat de célibat, consentement parental si mineur",
+        "Un contrat de mariage signé devant notaire et les extraits de casier judiciaire",
+        "Uniquement les actes de naissance et une photo récente"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Le dossier est constitué avant le dépôt à la mairie.",
+        "Le Fokontany intervient pour un document essentiel.",
+        "Le célibat doit être prouvé."
+      ],
+      "explication": "Le dossier de mariage comprend généralement : les actes de naissance des futurs époux, leurs pièces d'identité, le certificat de résidence délivré par le président de Fokontany, un certificat de célibat ou de non-remariage attestant qu'ils ne sont pas déjà mariés, et le cas échéant le consentement des parents si l'un des futurs époux est mineur."
+    },
+    {
+      "question": "Vrai ou faux : le concubinage de longue durée crée automatiquement un mariage présumé en droit malgache.",
+      "choix": [
+        "Vrai",
+        "Faux"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Le droit malgache reconnaît-il le mariage présumé ?",
+        "Une durée de vie commune peut-elle remplacer la célébration civile ?",
+        "Comparez avec d'autres pays où le 'mariage de fait' existe."
+      ],
+      "explication": "Faux. En droit malgache, aucune durée de vie commune ne crée un mariage présumé ou automatique. Le concubinage, même de 20 ou 30 ans, reste du concubinage — il ne se transforme jamais en mariage légal par le simple effet du temps. Seule la célébration civile devant l'officier d'état civil crée un mariage reconnu par la loi."
+    },
+    {
+      "question": "Qu'est-ce que le désaveu de paternité ?",
+      "choix": [
+        "Le refus d'un père de reconnaître son enfant né hors mariage",
+        "L'action judiciaire par laquelle un mari conteste la présomption de paternité en prouvant que l'enfant né pendant le mariage n'est pas le sien",
+        "Le refus d'un enfant adulte de reconnaître son père",
+        "La procédure par laquelle un père retire sa reconnaissance d'un enfant naturel"
+      ],
+      "reponse": 1,
+      "indices": [
+        "C'est la contestation de la présomption de paternité.",
+        "Seul le mari peut l'exercer en principe.",
+        "Il doit apporter la preuve que l'enfant n'est pas le sien."
+      ],
+      "explication": "Le désaveu de paternité est l'action judiciaire par laquelle un mari conteste la présomption de paternité — la règle légale selon laquelle l'enfant né pendant le mariage est présumé être le sien. Pour réussir, il doit apporter la preuve que l'enfant n'est pas biologiquement le sien (test ADN, preuve d'impossibilité de cohabitation à la période de conception). C'est une action encadrée par des délais légaux stricts."
+    },
+    {
+      "question": "Quelle est la conséquence du divorce sur le droit successoral entre ex-époux ?",
+      "choix": [
+        "Les ex-époux continuent à hériter l'un de l'autre",
+        "Le divorce supprime les droits successoraux entre ex-époux — ils ne s'héritent plus",
+        "Seul l'époux fautif perd ses droits successoraux",
+        "Le droit successoral est maintenu pendant 5 ans après le divorce"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Le mariage créait ce droit — sa dissolution l'efface.",
+        "Après le divorce, quelle est la situation matrimoniale des ex-époux ?",
+        "Des célibataires n'héritent pas automatiquement l'un de l'autre."
+      ],
+      "explication": "Le divorce supprime entièrement les droits successoraux entre ex-époux. Ils redeviennent des étrangers l'un pour l'autre du point de vue légal. Si l'un décède après le divorce, l'autre n'hérite pas automatiquement — sauf disposition testamentaire expresse. C'est une conséquence importante du divorce que les ex-époux doivent anticiper, notamment pour leurs assurances-vie et testaments."
+    },
+    {
+      "question": "Que signifie 'prononcer le divorce aux torts exclusifs' d'un époux ?",
+      "choix": [
+        "Forcer cet époux à quitter le domicile familial immédiatement",
+        "Reconnaître que cet époux seul est responsable de la rupture du mariage en raison de sa faute, avec des conséquences financières possibles",
+        "Interdire à cet époux de se remarier pendant 5 ans",
+        "Confier automatiquement la garde des enfants à l'autre époux"
+      ],
+      "reponse": 1,
+      "indices": [
+        "'Torts exclusifs' = toute la faute repose sur un seul époux.",
+        "Des conséquences financières découlent de cette décision.",
+        "L'époux innocent peut obtenir des dommages-intérêts."
+      ],
+      "explication": "Prononcer le divorce aux torts exclusifs d'un époux signifie que le tribunal reconnaît que cet époux seul est responsable de l'échec du mariage par sa faute (adultère, violences, abandon...). L'époux innocent peut alors réclamer des dommages-intérêts. L'époux fautif peut également se voir refuser ou voir réduire certains avantages. La désignation des torts a des conséquences financières concrètes."
+    },
+    {
+      "question": "Peut-on régulariser un concubinage en mariage à tout moment ?",
+      "choix": [
+        "Non, après 3 ans de concubinage il faut obtenir une autorisation judiciaire",
+        "Oui, les concubins peuvent se marier à tout moment en suivant la procédure normale de mariage civil",
+        "Non, si des enfants sont nés du concubinage le mariage est impossible",
+        "Oui, mais seulement si les deux concubins sont de même nationalité"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Le mariage civil est toujours possible pour ceux qui remplissent les conditions.",
+        "Le concubinage antérieur ne crée pas d'obstacle.",
+        "Il suffit de suivre la procédure normale."
+      ],
+      "explication": "Oui. Des concubins peuvent se marier à tout moment, sans condition liée à la durée du concubinage ou à l'existence d'enfants. Il leur suffit de suivre la procédure normale de mariage civil : dossier au Fokontany, dépôt à la mairie, publication des bans, célébration devant l'officier d'état civil. Une fois mariés, ils bénéficient immédiatement de tous les droits et obligations du mariage."
+    }
+  ],
+  "exercices": [
+    {
+      "question": "CAS PRATIQUE 1 : Noro (18 ans) et Jean (20 ans) veulent se marier à Antananarivo. Ils ont vécu ensemble six mois en concubinage. Jean est déjà marié civilement à Cécile depuis 2019 — il ne l'a pas dit à Noro. Noro n'a jamais fait de mariage civil auparavant. Ils déposent leur dossier à la mairie sans publication des bans (le fonctionnaire a 'oublié'). Le mariage est célébré. Six mois plus tard, Cécile l'apprend. (1) Le mariage entre Jean et Noro est-il valide ? (2) Qui peut demander la nullité et sur quel fondement ? (3) Quel est le statut des 6 mois de concubinage de Jean et Noro aux yeux de la loi ? (4) Noro est-elle protégée par le mariage putatif ?",
+      "choix": [
+        "Le mariage est valide car célébré devant l'officier d'état civil. Seule Noro peut demander la nullité. Le concubinage crée des droits. Noro n'est pas protégée.",
+        "(1) Le mariage est nul de nullité absolue — Jean est déjà marié (bigamie). (2) Toute personne intéressée peut demander la nullité : Cécile, Noro, le procureur. Fondement : bigamie, empêchement absolu. (3) Le concubinage préalable n'a aucune valeur légale — il ne crée pas de droits entre Jean et Noro. (4) Oui, Noro bénéficie du mariage putatif — elle ignorait la bigamie, elle était de bonne foi. Les effets du mariage sont maintenus en sa faveur.",
+        "(1) Le mariage est valide malgré la bigamie. (2) Seul Jean peut demander la nullité. (3) Le concubinage crée des droits après 6 mois. (4) Noro n'est pas protégée car elle aurait dû vérifier.",
+        "(1) Le mariage est nul. (2) Seule Cécile peut agir. (3) Le concubinage est un quasi-mariage. (4) Le mariage putatif ne s'applique pas."
+      ],
+      "reponse": 1,
+      "indices": [
+        "Jean est déjà marié — quel est l'empêchement en cause ?",
+        "La bigamie est-elle une nullité absolue ou relative ?",
+        "Le concubinage crée-t-il des droits entre concubins ?",
+        "Noro ignorait-elle la situation de Jean ? Qu'est-ce que la bonne foi dans le mariage putatif ?"
+      ],
+      "explication": "(1) Le mariage entre Jean et Noro est NUL de nullité absolue. Jean est déjà marié civilement à Cécile — la bigamie est un empêchement absolu au mariage en droit malgache. Le fait que l'officier d'état civil ait célébré le mariage malgré l'omission des bans ne valide pas l'union — l'acte de l'officier est lui-même irrégulier. (2) La bigamie entraîne une nullité absolue qui peut être invoquée par toute personne ayant un intérêt : Cécile (première épouse), Noro (qui a été trompée), et le ministère public (procureur). Le fondement est la bigamie — violation d'un empêchement absolu d'ordre public. Jean commet aussi le délit pénal de bigamie. (3) Les 6 mois de concubinage de Jean et Noro n'ont aucune valeur légale. Le concubinage ne crée pas de droits automatiques entre concubins à Madagascar. Noro ne peut réclamer aucune pension alimentaire, aucun droit sur les biens acquis ensemble pendant ce concubinage sans preuve de sa contribution. (4) OUI, Noro bénéficie du mariage putatif. Elle ignorait sincèrement que Jean était déjà marié — elle était de bonne foi au moment de la célébration. Le mariage putatif maintient les effets du mariage en faveur de l'époux de bonne foi. Ainsi, Noro peut conserver certains avantages du mariage comme s'il avait été valide."
+    },
+    {
+      "question": "CAS PRATIQUE 2 : Tiana et Voahangy sont mariés civilement depuis 10 ans. Ils ont deux enfants (8 et 5 ans). Tiana a une maîtresse depuis 2 ans (adultère prouvé par messages). Il a quitté le domicile conjugal il y a 8 mois sans raison valable et n'envoie plus d'argent à la famille. Voahangy veut divorcer et obtenir la garde des enfants, une pension alimentaire, et des dommages-intérêts. Tiana propose un divorce à l'amiable en disant : 'On va à la mairie, on signe, c'est réglé.' (1) Voahangy peut-elle demander un divorce pour faute ? Sur quels fondements ? (2) Tiana a-t-il raison de dire qu'ils peuvent aller à la mairie pour divorcer ? (3) Que peut obtenir Voahangy comme mesures ? (4) Quelle est la première étape obligatoire de la procédure ?",
+      "choix": [
+        "Voahangy ne peut pas demander le divorce pour faute car elle n'a pas de témoin de l'adultère. Tiana a raison pour la mairie. Voahangy ne peut rien obtenir. Il n'y a pas d'étape obligatoire.",
+        "(1) Oui — fautes multiples : adultère (violation du devoir de fidélité), abandon du domicile conjugal, non-contribution aux charges. (2) Non — le divorce se prononce toujours au tribunal, jamais à la mairie. (3) Voahangy peut obtenir : divorce aux torts exclusifs de Tiana, dommages-intérêts, garde des enfants, pension alimentaire. (4) La tentative de conciliation devant le juge est obligatoire avant toute procédure.",
+        "(1) Oui, uniquement pour l'adultère. (2) Tiana a raison — la mairie peut prononcer le divorce par consentement mutuel. (3) Voahangy obtient automatiquement tout. (4) Il n'y a pas d'étape obligatoire préalable.",
+        "(1) Non — les messages ne sont pas une preuve valable. (2) Non — mais le Fokontany peut le faire. (3) Voahangy obtient seulement les dommages-intérêts. (4) Le dépôt du dossier au Fokontany."
+      ],
+      "reponse": 1,
+      "indices": [
+        "Comptez les fautes de Tiana : adultère, abandon, non-contribution — combien de fondements pour le divorce pour faute ?",
+        "Qui prononce le divorce à Madagascar — la mairie ou le tribunal ?",
+        "Quelles sont les conséquences du divorce pour faute aux torts exclusifs ?",
+        "Quelle étape le juge doit-il impérativement tenter avant d'instruire le dossier ?"
+      ],
+      "explication": "(1) OUI, Voahangy peut demander le divorce pour faute et elle dispose de trois fondements solides. Premier fondement : l'adultère de Tiana (violation du devoir de fidélité prouvé par les messages — en droit commercial la preuve est libre, et en matière familiale les messages sont admissibles comme preuves). Deuxième fondement : l'abandon du domicile conjugal depuis 8 mois sans raison valable — violation du devoir de cohabitation. Troisième fondement : la non-contribution aux charges du ménage depuis 8 mois — violation du devoir de contribution. L'accumulation de ces fautes justifie le divorce aux torts exclusifs de Tiana. (2) NON, Tiana a absolument tort. On ne divorce jamais à la mairie à Madagascar. La mairie célèbre les mariages — c'est l'officier d'état civil. Le divorce se prononce toujours au tribunal de première instance, que ce soit un divorce pour faute ou un divorce par consentement mutuel. Même s'ils sont d'accord sur tout, ils doivent passer par le tribunal. (3) Voahangy peut demander et potentiellement obtenir : le divorce aux torts exclusifs de Tiana, des dommages-intérêts pour le préjudice moral causé par l'adultère et les autres fautes, la garde des deux enfants (avec droit de visite pour Tiana), une pension alimentaire fixée par le juge pour les enfants en fonction des revenus de Tiana. Elle peut aussi demander une prestation compensatoire si le divorce la défavorise économiquement. (4) La première étape obligatoire est la tentative de conciliation devant le juge. Même si Voahangy est déterminée à divorcer et que Tiana a commis toutes ces fautes, le juge doit d'abord convoquer les deux époux en chambre du conseil pour tenter de les réconcilier. Si la réconciliation échoue — ce qui est probable ici — le juge autorise la poursuite de la procédure."
+    }
+  ]
+        }
