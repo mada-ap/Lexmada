@@ -1,0 +1,824 @@
+{
+  "module": 10,
+  "niveau": 3,
+  "domaine": "Droit international privé malgache",
+  "titre": "Le droit international privé - conflits de lois",
+  "sous_titre": "Les règles de rattachement du droit malgache applicables aux personnes, aux biens, aux contrats, aux délits, aux successions et à la famille en présence d'un élément d'extranéité",
+  "avertissement": "Ce module porte exclusivement sur le droit positif malgache des conflits de lois, tel qu'il résulte du Titre II, Chapitre II, de l'ordonnance n°62-041 du 19 septembre 1962 relative aux dispositions générales de droit interne et de droit international privé (art. 26 à 34), complété pour le droit de la famille par les articles 6 à 11 de l'ordonnance n°60-171 du 3 octobre 1960, expressément maintenus en vigueur par l'ordonnance n°62-058 du 24 septembre 1962. Les solutions de droit international privé français ou d'autres systèmes francophones, parfois proches dans leur inspiration historique, ne sont pas transposables telles quelles au droit malgache et ne doivent pas lui être substituées. Par ailleurs, les règles relatives au statut personnel et familial codifiées en 1960 (notamment la référence à la « loi du statut du mari ») doivent être confrontées aux réformes ultérieures du droit malgache de la famille, en particulier la loi n°2007-022 du 20 août 2007 relative au mariage et aux régimes matrimoniaux, avant toute application contentieuse actuelle : ce module présente le cadre légal des conflits de lois tel qu'il a été posé par les textes fondateurs, qui demeure la grille de lecture de référence en la matière, et invite à vérifier son articulation avec le droit substantiel de la famille en vigueur.",
+  "objectifs_pedagogiques": [
+    "Situer le droit international privé malgache parmi les trois branches classiques : nationalité, condition des étrangers, conflits de lois.",
+    "Connaître les principes encadrant la condition des étrangers et des personnes morales étrangères à Madagascar.",
+    "Maîtriser les règles de rattachement applicables à l'état des personnes, aux biens, aux contrats, aux délits, aux successions, aux donations et à la forme des actes.",
+    "Comprendre le mécanisme du renvoi, le rôle des lois de police et la réserve des droits acquis comme correctifs aux règles de conflit.",
+    "Appliquer ces règles à des situations concrètes comportant un élément d'extranéité, telles qu'elles se présentent dans la région DIANA."
+  ],
+  "lecon": {
+    "introduction": "Dès qu'une situation juridique privée comporte un élément d'extranéité - une partie de nationalité étrangère, un bien situé hors de Madagascar, un acte passé à l'étranger, un délit commis en dehors du territoire - se pose la question de savoir quelle loi le juge malgache doit appliquer. Cette question est résolue par le droit international privé, et plus précisément par sa branche consacrée aux conflits de lois. Le texte fondateur en la matière, l'ordonnance n°62-041 du 19 septembre 1962, devait s'inscrire en tête du futur Code civil malgache : elle pose, dans son Titre II, les principes gouvernant la condition des étrangers puis les règles de rattachement applicables aux principales matières du droit civil. Ce module présente d'abord le cadre général de la condition des étrangers à Madagascar, avant d'exposer méthodiquement les règles de conflit de lois applicables aux personnes, aux biens, aux contrats, aux délits, aux successions, aux donations, à la forme des actes et, enfin, au droit de la famille.",
+    "sections": [
+      {
+        "titre": "1. Le droit international privé malgache : notion et sources",
+        "contenu": "Le droit international privé regroupe traditionnellement trois grandes matières : le droit de la nationalité, la condition des étrangers, et la théorie des conflits de lois. À Madagascar, la nationalité fait l'objet d'un texte distinct, le Code de la nationalité malgache. C'est l'ordonnance n°62-041 du 19 septembre 1962 relative aux dispositions générales de droit interne et de droit international privé qui pose, dans son Titre II, les principes relatifs à la condition des étrangers (Chapitre premier) puis aux conflits de lois (Chapitre II). Conçue pour figurer en tête du futur Code civil malgache, cette ordonnance énonce des solutions générales dans les principales matières du droit civil : droit des personnes, des biens, des contrats et obligations, des régimes matrimoniaux, des successions et des libéralités.\n\nLe droit de la famille - mariage, filiation, adoption - n'a, à dessein, pas été traité par l'ordonnance de 1962, ses rédacteurs estimant que les travaux de codification du droit civil malgache n'étaient pas encore achevés sur ce point. Les règles de conflit applicables en cette matière demeurent donc celles des articles 6 à 11 de l'ordonnance n°60-171 du 3 octobre 1960, relative au partage des compétences entre les juridictions de droit moderne et les juridictions de droit traditionnel, dont ces dispositions ont été expressément maintenues en vigueur lors de la promulgation du Code de procédure civile malgache en 1962."
+      },
+      {
+        "titre": "2. La condition des étrangers à Madagascar",
+        "contenu": "Avant d'aborder les conflits de lois proprement dits, l'ordonnance n°62-041 fixe le statut des personnes physiques et morales étrangères sur le territoire malgache. L'étranger jouit à Madagascar des mêmes droits que les nationaux, à l'exception de ceux qui lui sont expressément refusés par la loi ; l'exercice d'un droit déterminé peut toutefois être subordonné à la réciprocité, c'est-à-dire à la condition que le même droit soit reconnu aux Malgaches dans le pays de cet étranger. Les droits politiques - électorat, éligibilité, accès à la fonction publique ou juridictionnelle - lui restent en revanche fermés, sous réserve des traités diplomatiques ou accords de coopération. L'étranger ne peut avoir de domicile à Madagascar, au sens de la loi malgache, que s'il satisfait aux obligations imposées par la législation relative au séjour des étrangers.\n\nPour les personnes morales, l'ordonnance retient un double critère. Le critère du siège social détermine en principe le régime applicable : une société dont le siège social est à Madagascar jouit de tous les droits reconnus aux Malgaches, compatibles avec sa nature et son objet ; une société dont le siège social est à l'étranger ne jouit que des droits reconnus aux étrangers. Ce critère cède toutefois devant celui du contrôle effectif : une société dont la gestion est placée sous le contrôle d'étrangers, même si son siège social est à Madagascar, ne jouit que des droits reconnus aux étrangers ; inversement, une société étrangère contrôlée par des Malgaches jouit des droits reconnus à ces derniers. Le contrôle est présumé, notamment, lorsqu'une personne détient, directement ou indirectement, plus de la moitié des droits de vote d'une société, ou lorsqu'elle dispose, à elle seule, d'une fraction des droits de vote supérieure à 40 % sans qu'aucun autre associé n'en détienne une fraction plus importante. La personnalité morale conférée par la loi du pays de création d'une société est, par ailleurs, reconnue de plein droit à Madagascar."
+      },
+      {
+        "titre": "3. Les règles de conflit de lois générales (Chapitre II de l'ordonnance n°62-041)",
+        "contenu": "Le cœur du droit international privé malgache des conflits de lois réside dans les articles 26 à 34 de l'ordonnance n°62-041, qui désignent pour chaque matière la loi applicable.\n\nLe statut personnel - l'état et la capacité des personnes - demeure soumis à la loi nationale de l'intéressé : un Malgache, même résidant à l'étranger, reste régi sur ce point par la loi malgache, et un étranger installé à Madagascar relève de sa propre loi nationale. Seuls les apatrides domiciliés à Madagascar échappent à ce principe : ils sont régis, pour leur état et leur capacité, par la loi malgache elle-même, faute de loi nationale à laquelle les rattacher.\n\nLe statut réel - les biens - relève de la loi du lieu où ils sont situés (lex rei sitae). Cette règle reçoit une application particulièrement ferme pour les immeubles : tout immeuble situé à Madagascar est régi par la loi malgache, même lorsqu'il appartient à un étranger.\n\nEn matière d'obligations contractuelles et quasi contractuelles, ainsi qu'en matière de régimes matrimoniaux contractuels, le droit malgache consacre le principe de l'autonomie de la volonté : la juridiction saisie doit rechercher et appliquer la loi sous l'empire de laquelle les parties ont entendu se placer, qu'elle ait été désignée expressément ou qu'elle se déduise des circonstances de l'acte. En matière d'obligations délictuelles et quasi délictuelles, en revanche, aucune place n'est laissée à la volonté des parties : seule la loi du lieu du délit ou quasi-délit est applicable (lex loci delicti).\n\nLes successions immobilières obéissent à la loi du lieu de situation des immeubles qui en dépendent - une solution cohérente avec la règle générale applicable aux biens. Les donations relèvent, quant à elles, de la loi du donateur. Enfin, la validité formelle de tout acte juridique s'apprécie au regard de la loi en vigueur au lieu où l'acte a été passé (la règle locus regit actum)."
+      },
+      {
+        "titre": "4. Les correctifs aux règles de conflit : renvoi, lois de police et droits acquis",
+        "contenu": "Le mécanisme du renvoi est organisé par l'article 26 de l'ordonnance n°62-041. Lorsque la règle de conflit malgache désigne une loi étrangère comme compétente, mais que cette loi étrangère refuse elle-même de se reconnaître compétente, il convient d'appliquer toute autre loi étrangère qui accepte cette compétence ou, à défaut, la loi malgache. Ce mécanisme vise à éviter qu'un rapport de droit reste sans loi pour le régir - ce que les travaux préparatoires de l'ordonnance qualifient de « rapport de droit apatride » - en faisant en dernier recours prévaloir la territorialité de la loi malgache.\n\nLes lois de police et de sûreté obligent, pour leur part, tous ceux qui habitent le territoire malgache, indépendamment de leur nationalité et sans égard à la loi normalement désignée par la règle de conflit : elles s'appliquent immédiatement et impérativement à toute personne présente sur le territoire.\n\nEnfin, les règles de conflit de l'ordonnance ne s'appliquent que sous réserve des situations juridiques antérieurement acquises : une situation valablement constituée sous l'empire d'une loi (malgache ou étrangère) antérieurement compétente conserve, en principe, ses effets, ce qui garantit la sécurité juridique des relations internationales nouées avant l'entrée en vigueur de la règle de conflit ou son évolution. À ces correctifs s'ajoute, plus largement, le principe selon lequel on ne peut déroger par des conventions particulières aux lois qui intéressent l'ordre public et les bonnes mœurs - un principe qui fonde, en droit international privé, la possibilité d'écarter une loi étrangère normalement compétente lorsque son application heurterait l'ordre public malgache."
+      },
+      {
+        "titre": "5. Les règles de conflit propres au droit de la famille (articles 6 à 11 de l'ordonnance n°60-171)",
+        "contenu": "Les conflits de lois en matière familiale demeurent régis par les articles 6 à 11 de l'ordonnance n°60-171 du 3 octobre 1960, maintenus en vigueur pour compléter le chapitre des conflits de lois de l'ordonnance de 1962.\n\nPour tout ce qui touche à la validité du mariage, au régime matrimonial en l'absence de contrat de mariage, aux droits et obligations des époux, à la puissance paternelle, à la dissolution de l'union conjugale et à ses conséquences, ainsi qu'à la filiation légitime, il est statué conformément à la loi qui régit le statut du mari. Une exception notable subsiste cependant : les conditions requises pour contracter mariage sont appréciées, en ce qui concerne la femme, selon la loi qui régit son propre statut. Cette règle doit être distinguée de celle, vue plus haut, qui régit le régime matrimonial contractuel : lorsque les époux ont conclu un contrat de mariage, c'est la loi qu'ils ont entendu choisir qui s'applique (article 30 de l'ordonnance n°62-041) ; à défaut de contrat, c'est la loi du statut du mari qui régit leur régime matrimonial légal.\n\nLes actions en recherche de paternité ou de maternité naturelle sont tranchées, lorsqu'elles sont admises, selon la loi qui régit le statut du père ou de la mère prétendus. En matière d'adoption, la loi du statut de l'adopté est seule applicable, sous réserve que les conditions requises pour adopter soient appréciées selon la loi qui régit le statut de l'adoptant. Les successions sont régies par la loi du statut du défunt - une règle qui complète, pour les biens mobiliers notamment, la règle spéciale de l'ordonnance de 1962 relative aux successions immobilières. Les donations relèvent de la loi du statut du donateur, ce qui confirme la solution déjà posée par l'ordonnance n°62-041. Enfin, en matière de contrats et d'obligations, ce même texte rappelle que la juridiction saisie recherche et applique la loi sous l'empire de laquelle les parties ont entendu se placer - reprenant ainsi le principe de l'autonomie de la volonté déjà énoncé pour les obligations contractuelles."
+      },
+      {
+        "titre": "6. Méthode de raisonnement et application pratique",
+        "contenu": "Face à une situation comportant un élément d'extranéité, le raisonnement du juge ou du praticien malgache suit en principe trois étapes. Il faut d'abord qualifier la question posée - relève-t-elle de l'état des personnes, des biens, des contrats, des délits, des successions, des donations, de la forme d'un acte, ou du droit de la famille ? - afin d'identifier la règle de rattachement applicable parmi celles des articles 26 à 34 de l'ordonnance n°62-041 et des articles 6 à 11 de l'ordonnance n°60-171. Il faut ensuite désigner concrètement la loi compétente au regard du critère retenu - nationalité, lieu de situation du bien, volonté des parties, lieu du délit, statut du défunt ou du donateur, lieu de passation de l'acte. Il faut enfin vérifier que cette désignation ne se heurte pas aux correctifs du système : la loi étrangère désignée se reconnaît-elle compétente, ou faut-il appliquer le mécanisme du renvoi ? Une loi de police malgache fait-elle, par ailleurs, obstacle à l'application de la loi étrangère normalement compétente ? Cette application porte-t-elle atteinte à une situation juridique antérieurement acquise, ou à l'ordre public malgache ?\n\nPour les praticiens de la région DIANA, ces questions se posent concrètement à l'occasion de mariages mixtes célébrés à Antsiranana, de successions portant sur des biens immobiliers situés à Ramena ou à Diego-Suarez et appartenant à des ressortissants étrangers, ou encore de contrats commerciaux conclus entre opérateurs malgaches et partenaires étrangers dans le cadre des activités portuaires et économiques de la région."
+      }
+    ],
+    "points_cles": [
+      "Le droit international privé malgache se compose de trois branches classiques : nationalité, condition des étrangers, conflits de lois ; ce module porte sur la troisième.",
+      "L'état et la capacité des personnes relèvent de la loi nationale (art. 28), sauf pour les apatrides domiciliés à Madagascar, régis par la loi malgache.",
+      "Les biens, et en particulier les immeubles situés à Madagascar, relèvent de la loi du lieu de leur situation (art. 29) ; les successions immobilières suivent la même règle (art. 31).",
+      "Les obligations contractuelles obéissent à l'autonomie de la volonté ; les obligations délictuelles relèvent exclusivement de la loi du lieu du délit (art. 30).",
+      "Les donations relèvent de la loi du donateur (art. 32) ; la forme des actes suit la règle locus regit actum (art. 33).",
+      "Le renvoi (art. 26), les lois de police (art. 27) et la réserve des droits acquis (art. 34) corrigent l'application mécanique des règles de rattachement.",
+      "Pour le droit de la famille, les articles 6 à 11 de l'ordonnance n°60-171 demeurent la référence : loi du statut du mari pour le régime matrimonial légal et les effets du mariage, loi du statut de l'adopté pour l'adoption, loi du statut du défunt pour les successions."
+    ],
+    "lexique": [
+      {
+        "terme": "Élément d'extranéité",
+        "definition": "Facteur de rattachement d'une situation juridique à un ordre juridique étranger : nationalité d'une partie, lieu de situation d'un bien, lieu de conclusion d'un acte, lieu d'un délit, etc."
+      },
+      {
+        "terme": "Règle de rattachement",
+        "definition": "Règle de conflit qui désigne, pour une catégorie de questions donnée (état des personnes, biens, contrats...), la loi applicable au regard d'un critère déterminé (nationalité, situation du bien, volonté des parties...)."
+      },
+      {
+        "terme": "Lex rei sitae",
+        "definition": "Principe selon lequel les biens, notamment les immeubles, sont régis par la loi du lieu où ils se trouvent."
+      },
+      {
+        "terme": "Lex loci delicti",
+        "definition": "Principe selon lequel les obligations délictuelles et quasi délictuelles sont régies par la loi du lieu où le délit ou quasi-délit a été commis."
+      },
+      {
+        "terme": "Autonomie de la volonté",
+        "definition": "Principe selon lequel, en matière contractuelle, la loi applicable est celle que les parties ont entendu choisir, expressément ou implicitement."
+      },
+      {
+        "terme": "Locus regit actum",
+        "definition": "Règle selon laquelle la validité formelle d'un acte juridique s'apprécie au regard de la loi en vigueur au lieu où l'acte a été passé."
+      },
+      {
+        "terme": "Renvoi",
+        "definition": "Mécanisme par lequel, lorsque la loi étrangère désignée par la règle de conflit refuse de se reconnaître compétente, une autre loi étrangère acceptant cette compétence, ou à défaut la loi malgache, est appliquée."
+      },
+      {
+        "terme": "Lois de police",
+        "definition": "Lois impératives qui s'appliquent à tous ceux qui habitent le territoire malgache, indépendamment de la loi normalement désignée par la règle de conflit."
+      },
+      {
+        "terme": "Droits acquis",
+        "definition": "Situations juridiques valablement constituées sous l'empire d'une loi antérieurement compétente, dont les effets sont préservés malgré le changement de loi applicable."
+      },
+      {
+        "terme": "Loi du statut",
+        "definition": "Expression désignant, pour une personne donnée (le mari, l'adopté, le défunt, le donateur...), la loi nationale qui régit son état et sa capacité, et qui sert de point de rattachement pour certaines matières familiales et successorales."
+      }
+    ]
+  },
+  "quiz": [
+    {
+      "id": 1,
+      "question": "Quelles sont les trois branches traditionnelles du droit international privé selon l'exposé des motifs de l'ordonnance n°62-041 ?",
+      "choix": [
+        "La nationalité, la condition des étrangers et les conflits de lois",
+        "Le droit pénal, le droit civil et le droit commercial",
+        "Le droit des contrats, le droit des biens et le droit des successions",
+        "La capacité, la filiation et l'adoption"
+      ],
+      "reponse": "La nationalité, la condition des étrangers et les conflits de lois",
+      "indices": "L'exposé des motifs énumère explicitement ces trois matières classiques.",
+      "explication": "L'exposé des motifs de l'ordonnance n°62-041 rappelle que le droit international privé comprend traditionnellement trois grandes parties : la nationalité, la condition des étrangers et la théorie des conflits de lois."
+    },
+    {
+      "id": 2,
+      "question": "Quel texte constitue la source principale du droit malgache des conflits de lois ?",
+      "choix": [
+        "L'ordonnance n°62-041 du 19 septembre 1962",
+        "Le Code pénal malgache de 1972",
+        "La loi organique n°2004-036 du 1er octobre 2004",
+        "Le Code de procédure civile de 1960 dans son intégralité"
+      ],
+      "reponse": "L'ordonnance n°62-041 du 19 septembre 1962",
+      "indices": "C'est le même texte qui contient également les dispositions générales de droit interne.",
+      "explication": "L'ordonnance n°62-041 du 19 septembre 1962 relative aux dispositions générales de droit interne et de droit international privé contient, en son Titre II, Chapitre II, les règles de conflit de lois (articles 26 à 34)."
+    },
+    {
+      "id": 3,
+      "question": "Pourquoi l'ordonnance n°62-041 ne traite-t-elle pas, en principe, des conflits de lois en matière de mariage, de divorce ou de filiation ?",
+      "choix": [
+        "Parce que les travaux de codification du droit civil malgache n'étaient pas achevés sur ce point au moment de sa rédaction",
+        "Parce que ces matières ne posent jamais de conflit de lois",
+        "Parce que ces questions relèvent exclusivement du droit pénal",
+        "Parce que Madagascar ne reconnaît pas les mariages mixtes"
+      ],
+      "reponse": "Parce que les travaux de codification du droit civil malgache n'étaient pas achevés sur ce point au moment de sa rédaction",
+      "indices": "L'exposé des motifs justifie explicitement cette absence.",
+      "explication": "L'exposé des motifs précise qu'il a paru difficile de poser des principes de droit international privé en matière de droit des personnes (mariage, divorce, filiation) alors que la commission de rédaction du Code civil malgache n'avait pas terminé ses travaux sur ce point."
+    },
+    {
+      "id": 4,
+      "question": "Quel texte complète, pour le droit de la famille, les règles de conflit de lois de l'ordonnance n°62-041 ?",
+      "choix": [
+        "Les articles 6 à 11 de l'ordonnance n°60-171 du 3 octobre 1960",
+        "Le Code pénal malgache",
+        "La loi n°97-036 du 30 octobre 1997",
+        "Le Code de procédure pénale malgache"
+      ],
+      "reponse": "Les articles 6 à 11 de l'ordonnance n°60-171 du 3 octobre 1960",
+      "indices": "Une note de bas de page de l'ordonnance de 1962 renvoie expressément à ce texte antérieur.",
+      "explication": "Les articles 6 à 11 de l'ordonnance n°60-171 du 3 octobre 1960 relative au partage des compétences entre juridictions de droit moderne et de droit traditionnel ont été expressément maintenus en vigueur pour compléter le chapitre des conflits de lois de l'ordonnance n°62-041."
+    },
+    {
+      "id": 5,
+      "question": "Quel acte juridique malgache devait, selon l'exposé des motifs, accueillir en tête de son texte les dispositions de l'ordonnance n°62-041 ?",
+      "choix": [
+        "Le futur Code civil malgache",
+        "Le Code de la nationalité malgache",
+        "Le Code pénal malgache",
+        "Le Code du travail malgache"
+      ],
+      "reponse": "Le futur Code civil malgache",
+      "indices": "Le texte se présente lui-même comme préparatoire à une codification plus large.",
+      "explication": "L'exposé des motifs indique que les dispositions de droit interne et de droit international privé de l'ordonnance n°62-041 doivent s'inscrire en tête du futur Code civil malgache, en tant que source du droit privé."
+    },
+    {
+      "id": 6,
+      "question": "De quels droits l'étranger jouit-il en principe à Madagascar selon l'article 20 de l'ordonnance n°62-041 ?",
+      "choix": [
+        "Des mêmes droits que les nationaux, sauf ceux qui lui sont expressément refusés par la loi",
+        "D'aucun droit civil tant qu'il n'a pas acquis la nationalité malgache",
+        "Uniquement des droits prévus par un traité bilatéral spécifique",
+        "Des mêmes droits politiques que les nationaux"
+      ],
+      "reponse": "Des mêmes droits que les nationaux, sauf ceux qui lui sont expressément refusés par la loi",
+      "indices": "Le principe est large, les exceptions doivent être expresses.",
+      "explication": "L'article 20 pose le principe selon lequel l'étranger jouit à Madagascar des mêmes droits que les nationaux, à l'exception de ceux qui lui sont expressément refusés par la loi."
+    },
+    {
+      "id": 7,
+      "question": "L'exercice d'un droit par un étranger à Madagascar peut-il être subordonné à une condition de réciprocité ?",
+      "choix": [
+        "Oui, l'article 20 le prévoit expressément",
+        "Non, la réciprocité est interdite en droit malgache",
+        "Oui, mais uniquement pour les sociétés commerciales",
+        "Non, sauf accord exprès du Ministre de la Justice"
+      ],
+      "reponse": "Oui, l'article 20 le prévoit expressément",
+      "indices": "Ce mécanisme est qualifié de « réciprocité législative » dans l'exposé des motifs.",
+      "explication": "L'article 20 prévoit que l'exercice d'un droit par un étranger peut être subordonné à la réciprocité, c'est-à-dire à la condition que le même droit soit reconnu au Malgache dans le pays de cet étranger."
+    },
+    {
+      "id": 8,
+      "question": "Quels droits restent en principe fermés aux étrangers à Madagascar ?",
+      "choix": [
+        "Les droits d'électorat, d'éligibilité et l'accès à la fonction publique ou juridictionnelle",
+        "Le droit de conclure un contrat de vente",
+        "Le droit d'ester en justice devant les tribunaux civils",
+        "Le droit de posséder un véhicule"
+      ],
+      "reponse": "Les droits d'électorat, d'éligibilité et l'accès à la fonction publique ou juridictionnelle",
+      "indices": "Il s'agit des droits de nature politique et institutionnelle.",
+      "explication": "Sous réserve des traités diplomatiques ou accords de coopération, l'étranger ne jouit ni des droits d'électorat et d'éligibilité, ni du droit d'exercer une fonction publique ou juridictionnelle, ni de faire partie d'un organisme de gestion d'un service public."
+    },
+    {
+      "id": 9,
+      "question": "À quelle condition un étranger peut-il avoir un domicile à Madagascar au sens de la loi malgache ?",
+      "choix": [
+        "S'il satisfait aux obligations imposées par les lois relatives au séjour des étrangers",
+        "Il lui suffit de résider plus de trois jours sur le territoire",
+        "Aucune condition n'est exigée",
+        "Il doit obligatoirement être propriétaire d'un bien immobilier"
+      ],
+      "reponse": "S'il satisfait aux obligations imposées par les lois relatives au séjour des étrangers",
+      "indices": "Le domicile de l'étranger est conditionné par sa situation administrative.",
+      "explication": "L'article 21 conditionne le domicile de l'étranger à Madagascar au respect des obligations imposées par les lois relatives au séjour des étrangers sur le territoire."
+    },
+    {
+      "id": 10,
+      "question": "Quel est le critère de principe permettant à une société de jouir des droits reconnus aux Malgaches ?",
+      "choix": [
+        "Le critère du siège social établi à Madagascar",
+        "Le critère de la nationalité de son fondateur historique",
+        "Le critère du lieu de signature de ses statuts",
+        "Le critère de la langue utilisée dans ses contrats"
+      ],
+      "reponse": "Le critère du siège social établi à Madagascar",
+      "indices": "C'est le premier des deux critères retenus par l'ordonnance.",
+      "explication": "En principe, une société ne jouit des droits reconnus aux Malgaches que si son siège social est établi à Madagascar ; à défaut, elle ne jouit que des droits reconnus aux étrangers."
+    },
+    {
+      "id": 11,
+      "question": "Quel second critère peut écarter le critère du siège social pour déterminer le régime applicable à une société ?",
+      "choix": [
+        "Le critère du contrôle effectif de la société",
+        "Le critère de la devise utilisée dans sa comptabilité",
+        "Le critère du nombre de salariés employés",
+        "Le critère de la date de création de la société"
+      ],
+      "reponse": "Le critère du contrôle effectif de la société",
+      "indices": "Une société peut avoir son siège à Madagascar tout en étant en réalité contrôlée par des étrangers.",
+      "explication": "Le critère du siège social cède devant celui du contrôle effectif : une société dont la gestion est placée sous le contrôle d'étrangers, même si son siège est à Madagascar, ne jouit que des droits reconnus aux étrangers, et inversement."
+    },
+    {
+      "id": 12,
+      "question": "Selon l'ordonnance n°62-041, à partir de quel seuil de détention des droits de vote le contrôle d'une société est-il présumé, en l'absence d'autre associé détenant une fraction supérieure ?",
+      "choix": [
+        "Une fraction supérieure à 40 %",
+        "Une fraction supérieure à 10 %",
+        "Une fraction supérieure à 75 %",
+        "Une fraction égale à 100 %"
+      ],
+      "reponse": "Une fraction supérieure à 40 %",
+      "indices": "Ce seuil est plus bas que la majorité absolue, car il combine détention et absence d'opposant plus puissant.",
+      "explication": "Une personne est présumée exercer le contrôle d'une société lorsqu'elle dispose, directement ou indirectement, d'une fraction des droits de vote supérieure à 40 %, sans qu'aucun autre associé n'en détienne, directement ou indirectement, une fraction supérieure à la sienne."
+    },
+    {
+      "id": 13,
+      "question": "Que prévoit l'article 26 de l'ordonnance n°62-041 lorsque la loi étrangère désignée par la règle de conflit refuse de se reconnaître compétente ?",
+      "choix": [
+        "Il convient d'appliquer toute autre loi étrangère qui accepte cette compétence ou, à défaut, la loi malgache",
+        "Le litige devient automatiquement sans solution",
+        "La loi malgache s'applique immédiatement, sans recherche d'une autre loi étrangère compétente",
+        "Le juge doit obligatoirement surseoir à statuer"
+      ],
+      "reponse": "Il convient d'appliquer toute autre loi étrangère qui accepte cette compétence ou, à défaut, la loi malgache",
+      "indices": "Le mécanisme prévoit une recherche en cascade avant le retour à la loi malgache.",
+      "explication": "L'article 26 organise le mécanisme du renvoi : si la loi étrangère normalement applicable refuse sa compétence, il faut appliquer toute autre loi étrangère qui l'accepte ou, à défaut, la loi malgache."
+    },
+    {
+      "id": 14,
+      "question": "Comment l'exposé des motifs de l'ordonnance n°62-041 qualifie-t-il la situation qu'il s'agit d'éviter par le mécanisme du renvoi ?",
+      "choix": [
+        "Un « rapport de droit apatride »",
+        "Un « conflit positif de compétence »",
+        "Une « fraude à la loi »",
+        "Une « exception d'inexécution »"
+      ],
+      "reponse": "Un « rapport de droit apatride »",
+      "indices": "L'expression est empruntée à la doctrine internationaliste citée dans l'exposé des motifs.",
+      "explication": "L'exposé des motifs précise que si la loi étrangère désignée refuse sa compétence, on se trouverait en présence d'un « rapport de droit apatride », pour reprendre l'expression du professeur Niboyet, ce que le mécanisme du renvoi permet d'éviter."
+    },
+    {
+      "id": 15,
+      "question": "Quel principe sous-tend la solution retenue à défaut de toute loi étrangère acceptant sa compétence ?",
+      "choix": [
+        "Le principe de territorialité, qui fait prévaloir la loi malgache",
+        "Le principe de la loi la plus favorable au défendeur",
+        "Le principe de l'application automatique du droit coutumier",
+        "Le principe de la loi du for du tribunal le plus proche"
+      ],
+      "reponse": "Le principe de territorialité, qui fait prévaloir la loi malgache",
+      "indices": "C'est la loi du territoire sur lequel le litige est porté qui reprend la main.",
+      "explication": "L'exposé des motifs indique que la loi malgache redevient applicable conformément au grand principe de territorialité, lorsqu'aucune loi étrangère n'accepte la compétence qui lui est dévolue."
+    },
+    {
+      "id": 16,
+      "question": "Le mécanisme du renvoi prévu à l'article 26 s'applique-t-il uniquement à une matière déterminée du droit civil ?",
+      "choix": [
+        "Non, il détermine de façon générale le domaine respectif des lois malgaches et étrangères",
+        "Oui, uniquement aux successions",
+        "Oui, uniquement aux contrats",
+        "Oui, uniquement à l'état des personnes"
+      ],
+      "reponse": "Non, il détermine de façon générale le domaine respectif des lois malgaches et étrangères",
+      "indices": "L'article 26 ouvre le chapitre des conflits de lois avec une portée générale.",
+      "explication": "L'article 26 dispose, dans son premier alinéa, que les dispositions du chapitre sur les conflits de lois déterminent le domaine respectif des lois malgaches et étrangères, avant d'organiser le mécanisme du renvoi de façon générale."
+    },
+    {
+      "id": 17,
+      "question": "Que prévoit l'article 27 de l'ordonnance n°62-041 au sujet des lois de police et de sûreté ?",
+      "choix": [
+        "Elles obligent tous ceux qui habitent le territoire malgache",
+        "Elles ne s'appliquent qu'aux nationaux malgaches",
+        "Elles sont soumises au mécanisme du renvoi comme les autres lois",
+        "Elles ne s'appliquent qu'en cas d'accord exprès des parties"
+      ],
+      "reponse": "Elles obligent tous ceux qui habitent le territoire malgache",
+      "indices": "Ces lois échappent au jeu normal de la règle de conflit.",
+      "explication": "L'article 27 dispose que les lois de police et de sûreté obligent tous ceux qui habitent le territoire, qu'ils soient ou non de nationalité malgache."
+    },
+    {
+      "id": 18,
+      "question": "Une loi de police malgache peut-elle s'appliquer même si la règle de conflit désigne, en principe, une loi étrangère pour régir la situation ?",
+      "choix": [
+        "Oui, les lois de police s'appliquent indépendamment de la loi normalement désignée par la règle de conflit",
+        "Non, une loi étrangère valablement désignée prime toujours sur une loi de police malgache",
+        "Non, sauf accord du juge des référés",
+        "Oui, mais uniquement en matière pénale"
+      ],
+      "reponse": "Oui, les lois de police s'appliquent indépendamment de la loi normalement désignée par la règle de conflit",
+      "indices": "Les lois de police constituent un correctif qui s'impose par-dessus la règle de conflit ordinaire.",
+      "explication": "Les lois de police et de sûreté obligent toute personne habitant le territoire malgache, ce qui signifie qu'elles s'appliquent indépendamment de la loi étrangère qui serait normalement désignée par la règle de conflit applicable à la matière concernée."
+    },
+    {
+      "id": 19,
+      "question": "Quel principe général, posé au Titre Premier de l'ordonnance n°62-041, fonde la possibilité d'écarter une loi étrangère contraire à l'ordre public malgache ?",
+      "choix": [
+        "L'interdiction de déroger par convention particulière aux lois d'ordre public et aux bonnes mœurs",
+        "Le principe de non-rétroactivité de la loi civile",
+        "Le principe de la majorité civile fixée à vingt et un ans",
+        "Le principe selon lequel nul juge ne peut refuser de juger"
+      ],
+      "reponse": "L'interdiction de déroger par convention particulière aux lois d'ordre public et aux bonnes mœurs",
+      "indices": "Ce principe figure parmi les dispositions générales de droit interne, avant le chapitre sur les conflits de lois.",
+      "explication": "L'article 9 du Titre Premier dispose qu'on ne peut déroger par des conventions particulières aux lois qui intéressent l'ordre public et les bonnes mœurs ; ce principe général fonde, en droit international privé, la possibilité d'écarter une loi étrangère dont l'application heurterait l'ordre public malgache."
+    },
+    {
+      "id": 20,
+      "question": "Quelle loi régit, selon l'article 28 de l'ordonnance n°62-041, l'état et la capacité des personnes ?",
+      "choix": [
+        "Leur loi nationale",
+        "La loi du lieu de leur domicile, quelle que soit leur nationalité",
+        "Systématiquement la loi malgache",
+        "La loi du lieu de leur naissance"
+      ],
+      "reponse": "Leur loi nationale",
+      "indices": "Le critère retenu est celui de la nationalité, et non du domicile.",
+      "explication": "L'article 28 pose la règle fondamentale selon laquelle l'état et la capacité des personnes demeurent soumis à leur loi nationale."
+    },
+    {
+      "id": 21,
+      "question": "Un Malgache résidant en permanence à l'étranger reste-t-il soumis à la loi malgache pour son état et sa capacité ?",
+      "choix": [
+        "Oui, en application du principe de la loi nationale",
+        "Non, il est automatiquement soumis à la loi de son pays de résidence",
+        "Non, sauf s'il en fait expressément la demande",
+        "Oui, mais uniquement pendant les cinq premières années de résidence à l'étranger"
+      ],
+      "reponse": "Oui, en application du principe de la loi nationale",
+      "indices": "Le critère de rattachement retenu pour l'état et la capacité est la nationalité, non la résidence.",
+      "explication": "Conformément à l'article 28, l'état et la capacité des personnes sont soumis à leur loi nationale ; un Malgache demeure donc régi, sur ce point, par la loi malgache même s'il réside à l'étranger."
+    },
+    {
+      "id": 22,
+      "question": "Quelle loi régit l'état et la capacité d'une personne apatride domiciliée à Madagascar ?",
+      "choix": [
+        "La loi malgache",
+        "La loi de son dernier pays de nationalité connue",
+        "La loi du pays où elle est née",
+        "Aucune loi ne s'applique tant que sa nationalité n'est pas déterminée"
+      ],
+      "reponse": "La loi malgache",
+      "indices": "Cette exception comble l'absence de loi nationale propre à l'apatride.",
+      "explication": "L'article 28, alinéa 2, prévoit que les apatrides domiciliés à Madagascar sont, par exception au principe de la loi nationale, régis par la loi malgache pour leur état et leur capacité."
+    },
+    {
+      "id": 23,
+      "question": "Pourquoi le droit malgache prévoit-il une règle spéciale pour les apatrides domiciliés à Madagascar ?",
+      "choix": [
+        "Parce qu'un apatride, par définition, n'a pas de loi nationale à laquelle se rattacher",
+        "Parce que les apatrides sont interdits de séjour à Madagascar",
+        "Parce que les apatrides sont automatiquement naturalisés après un an de résidence",
+        "Parce que le droit malgache ignore la notion d'apatridie"
+      ],
+      "reponse": "Parce qu'un apatride, par définition, n'a pas de loi nationale à laquelle se rattacher",
+      "indices": "Le principe de l'article 28 repose sur la nationalité ; l'apatride en est dépourvu.",
+      "explication": "L'apatride ne possédant aucune nationalité, le critère de la loi nationale prévu par l'article 28 ne peut lui être appliqué : la loi malgache prend le relais lorsqu'il est domicilié à Madagascar, afin que sa situation ne reste pas sans loi applicable."
+    },
+    {
+      "id": 24,
+      "question": "Si un litige porte sur la capacité juridique d'un ressortissant étranger installé à Madagascar, quelle loi le juge malgache doit-il en principe consulter ?",
+      "choix": [
+        "La loi nationale de cet étranger",
+        "La loi malgache, automatiquement",
+        "La loi du lieu où l'acte litigieux a été passé",
+        "La loi du lieu où se trouve le bien concerné par l'acte"
+      ],
+      "reponse": "La loi nationale de cet étranger",
+      "indices": "Le principe posé par l'article 28 s'applique également aux étrangers installés sur le territoire malgache.",
+      "explication": "En application de l'article 28, l'étranger installé à Madagascar relève, pour son état et sa capacité, de sa propre loi nationale, et non de la loi malgache."
+    },
+    {
+      "id": 25,
+      "question": "L'article 28 de l'ordonnance n°62-041 traite-t-il des questions de mariage, de divorce ou de filiation ?",
+      "choix": [
+        "Non, ces questions sont traitées par les articles 6 à 11 de l'ordonnance n°60-171",
+        "Oui, il les traite intégralement",
+        "Oui, mais uniquement la question du divorce",
+        "Non, ces questions ne sont régies par aucun texte malgache"
+      ],
+      "reponse": "Non, ces questions sont traitées par les articles 6 à 11 de l'ordonnance n°60-171",
+      "indices": "L'exposé des motifs précise explicitement ce qui n'est pas couvert par l'article 28.",
+      "explication": "En dehors de l'article 28, relatif à l'état et à la capacité en général, aucune règle de l'ordonnance n°62-041 ne concerne le droit des personnes au sens du mariage, du divorce, de la séparation de corps ou de la filiation ; ces matières relèvent des articles 6 à 11 de l'ordonnance n°60-171."
+    },
+    {
+      "id": 26,
+      "question": "Quelle loi régit les biens en droit international privé malgache, selon l'article 29 de l'ordonnance n°62-041 ?",
+      "choix": [
+        "La loi du lieu où ils sont situés",
+        "La loi nationale de leur propriétaire",
+        "La loi du lieu où le titre de propriété a été établi",
+        "La loi du domicile de l'acquéreur"
+      ],
+      "reponse": "La loi du lieu où ils sont situés",
+      "indices": "C'est le principe de la lex rei sitae.",
+      "explication": "L'article 29 soumet les biens à la loi du lieu de leur situation, consacrant le principe de la lex rei sitae."
+    },
+    {
+      "id": 27,
+      "question": "Un immeuble situé à Madagascar et appartenant à un ressortissant étranger est-il soumis à la loi malgache ?",
+      "choix": [
+        "Oui, l'article 29 le précise expressément",
+        "Non, il reste soumis à la loi nationale de son propriétaire",
+        "Non, sauf si l'acte d'achat a été passé à Madagascar",
+        "Oui, mais seulement si le propriétaire réside à Madagascar"
+      ],
+      "reponse": "Oui, l'article 29 le précise expressément",
+      "indices": "La règle est posée sans exception tenant à la nationalité du propriétaire.",
+      "explication": "L'article 29 précise qu'en particulier, les immeubles situés à Madagascar, même ceux possédés par des étrangers, sont régis par la loi malgache."
+    },
+    {
+      "id": 28,
+      "question": "La règle de la lex rei sitae s'applique-t-elle exclusivement aux immeubles ?",
+      "choix": [
+        "Non, l'article 29 vise les biens en général, avant de préciser le cas particulier des immeubles",
+        "Oui, elle ne concerne que les immeubles",
+        "Non, elle ne concerne que les biens mobiliers",
+        "Oui, et uniquement les immeubles à usage d'habitation"
+      ],
+      "reponse": "Non, l'article 29 vise les biens en général, avant de préciser le cas particulier des immeubles",
+      "indices": "La formulation de l'article distingue le principe général et son application particulière.",
+      "explication": "L'article 29 énonce d'abord une règle générale - les biens relèvent de la loi du lieu de leur situation - avant de préciser, en particulier, que les immeubles sis à Madagascar y sont soumis même s'ils appartiennent à des étrangers."
+    },
+    {
+      "id": 29,
+      "question": "Quelle est la justification implicite de la règle soumettant les immeubles malgaches à la loi malgache, même détenus par des étrangers ?",
+      "choix": [
+        "Assurer l'application uniforme de la loi malgache sur l'ensemble du territoire en matière foncière",
+        "Empêcher tout investissement étranger à Madagascar",
+        "Permettre aux étrangers de choisir librement la loi applicable à leurs biens",
+        "Réserver cette règle aux seuls biens agricoles"
+      ],
+      "reponse": "Assurer l'application uniforme de la loi malgache sur l'ensemble du territoire en matière foncière",
+      "indices": "La règle traduit la souveraineté territoriale sur le foncier.",
+      "explication": "En soumettant systématiquement les immeubles situés sur le territoire malgache à la loi malgache, l'article 29 garantit une application uniforme et prévisible du droit foncier sur l'ensemble du territoire, sans égard à la nationalité du propriétaire."
+    },
+    {
+      "id": 30,
+      "question": "Quel principe régit les obligations contractuelles et quasi contractuelles selon l'article 30 de l'ordonnance n°62-041 ?",
+      "choix": [
+        "Le principe de l'autonomie de la volonté",
+        "Le principe de la loi du lieu de conclusion du contrat, sans exception",
+        "Le principe de la loi nationale du débiteur",
+        "Le principe de la loi du lieu d'exécution, à l'exclusion de toute autre"
+      ],
+      "reponse": "Le principe de l'autonomie de la volonté",
+      "indices": "La juridiction recherche la loi que les parties ont entendu choisir.",
+      "explication": "L'article 30 consacre, en matière d'obligations contractuelles et quasi contractuelles, le principe de l'autonomie de la volonté : la juridiction saisie recherche et applique la loi sous l'empire de laquelle les parties ont entendu se placer."
+    },
+    {
+      "id": 31,
+      "question": "Ce même article 30 applique-t-il également l'autonomie de la volonté aux régimes matrimoniaux ?",
+      "choix": [
+        "Oui, mais uniquement aux régimes matrimoniaux contractuels",
+        "Non, les régimes matrimoniaux ne sont jamais concernés par cet article",
+        "Oui, à tous les régimes matrimoniaux sans exception",
+        "Non, les régimes matrimoniaux relèvent exclusivement du Code pénal"
+      ],
+      "reponse": "Oui, mais uniquement aux régimes matrimoniaux contractuels",
+      "indices": "Distinguez le régime matrimonial issu d'un contrat de mariage du régime matrimonial légal applicable à défaut de contrat.",
+      "explication": "L'article 30 étend le principe de l'autonomie de la volonté aux régimes matrimoniaux contractuels ; le régime matrimonial légal, applicable à défaut de contrat de mariage, relève en revanche de la loi du statut du mari selon l'article 6 de l'ordonnance n°60-171."
+    },
+    {
+      "id": 32,
+      "question": "Quelle loi régit les obligations délictuelles et quasi délictuelles selon l'article 30, alinéa 2 ?",
+      "choix": [
+        "La loi du lieu du délit ou quasi-délit, seule applicable",
+        "La loi nationale de l'auteur du dommage",
+        "La loi choisie d'un commun accord par les parties au litige",
+        "La loi du domicile de la victime"
+      ],
+      "reponse": "La loi du lieu du délit ou quasi-délit, seule applicable",
+      "indices": "Contrairement à la matière contractuelle, aucune place n'est laissée à la volonté des parties ici.",
+      "explication": "En matière d'obligations délictuelles et quasi délictuelles, l'article 30 prévoit que la loi du lieu du délit ou quasi-délit est seule applicable, sans laisser de place à l'autonomie de la volonté."
+    },
+    {
+      "id": 33,
+      "question": "Pourquoi le droit malgache exclut-il, en matière délictuelle, toute possibilité pour les parties de choisir la loi applicable ?",
+      "choix": [
+        "Parce que les obligations délictuelles naissent indépendamment de la volonté des parties, à la différence des contrats",
+        "Parce que la loi du lieu du délit est toujours plus favorable à la victime",
+        "Parce que les délits ne relèvent jamais du droit civil",
+        "Parce que cette règle a été abrogée en 1998"
+      ],
+      "reponse": "Parce que les obligations délictuelles naissent indépendamment de la volonté des parties, à la différence des contrats",
+      "indices": "La distinction contrat/délit explique la différence de traitement.",
+      "explication": "À la différence du contrat, qui repose sur un accord de volontés, le délit ou quasi-délit naît d'un fait dommageable indépendant de toute volonté commune des parties ; il est donc logique que la loi applicable soit fixée objectivement par le lieu du délit, et non par un choix des parties."
+    },
+    {
+      "id": 34,
+      "question": "L'article 11 de l'ordonnance n°60-171, relatif aux contrats et obligations, fait-il double emploi avec l'article 30 de l'ordonnance n°62-041 ?",
+      "choix": [
+        "Non, il reprend et confirme le même principe d'autonomie de la volonté",
+        "Oui, il le contredit en imposant la loi du lieu de conclusion du contrat",
+        "Non, il porte sur une matière totalement différente",
+        "Oui, il l'abroge purement et simplement"
+      ],
+      "reponse": "Non, il reprend et confirme le même principe d'autonomie de la volonté",
+      "indices": "Les deux textes, l'un de 1960 et l'autre de 1962, convergent sur ce point.",
+      "explication": "L'article 11 de l'ordonnance n°60-171 dispose qu'en matière de contrats et d'obligations, la juridiction saisie recherche et applique la loi sous l'empire de laquelle les parties ont entendu se placer, ce qui reprend et confirme le principe de l'autonomie de la volonté déjà posé par l'article 30 de l'ordonnance n°62-041."
+    },
+    {
+      "id": 35,
+      "question": "Un contrat conclu entre une entreprise malgache et une entreprise étrangère, sans clause désignant expressément la loi applicable, échappe-t-il à toute règle de rattachement ?",
+      "choix": [
+        "Non, le juge doit rechercher la loi que les parties ont implicitement entendu choisir",
+        "Oui, le contrat est alors nul faute de loi applicable",
+        "Non, la loi malgache s'applique alors automatiquement, sans recherche de la volonté des parties",
+        "Oui, seul un nouvel accord exprès des parties peut combler ce vide"
+      ],
+      "reponse": "Non, le juge doit rechercher la loi que les parties ont implicitement entendu choisir",
+      "indices": "L'absence de clause expresse n'empêche pas la recherche d'une volonté implicite.",
+      "explication": "Le principe de l'autonomie de la volonté n'exige pas une désignation expresse : à défaut de clause de choix de loi, la juridiction saisie doit rechercher la loi sous l'empire de laquelle les parties ont, au regard des circonstances de l'acte, entendu se placer."
+    },
+    {
+      "id": 36,
+      "question": "Quelle loi régit les successions immobilières selon l'article 31 de l'ordonnance n°62-041 ?",
+      "choix": [
+        "La loi du lieu de situation des immeubles",
+        "La loi nationale du défunt, sans exception",
+        "La loi du domicile des héritiers",
+        "La loi du lieu où le défunt est décédé"
+      ],
+      "reponse": "La loi du lieu de situation des immeubles",
+      "indices": "Cette règle prolonge, pour les successions, le principe général applicable aux biens immobiliers.",
+      "explication": "L'article 31 soumet les successions immobilières à la loi du lieu de situation des immeubles qui en dépendent, en cohérence avec la règle générale de l'article 29 sur les biens."
+    },
+    {
+      "id": 37,
+      "question": "Quelle loi régit les successions de manière plus générale, selon l'article 9 de l'ordonnance n°60-171 ?",
+      "choix": [
+        "La loi du statut du défunt",
+        "La loi du lieu où la succession s'ouvre, sans autre précision",
+        "La loi du domicile du notaire chargé de la succession",
+        "La loi du dernier État de résidence du défunt"
+      ],
+      "reponse": "La loi du statut du défunt",
+      "indices": "Ce texte complète, pour les éléments non immobiliers, la règle spéciale de l'ordonnance de 1962.",
+      "explication": "L'article 9 de l'ordonnance n°60-171 dispose que les successions sont régies par la loi du statut du défunt, ce qui complète, en particulier pour les biens mobiliers, la règle spéciale de l'article 31 relative aux successions immobilières."
+    },
+    {
+      "id": 38,
+      "question": "Si un étranger domicilié à l'étranger décède en laissant un immeuble à Madagascar et des biens mobiliers, quelle est la conséquence possible sur la loi applicable à sa succession ?",
+      "choix": [
+        "L'immeuble malgache peut relever de la loi malgache tandis que les meubles peuvent relever de la loi nationale du défunt",
+        "L'ensemble de la succession relève nécessairement et uniquement de la loi malgache",
+        "L'ensemble de la succession relève nécessairement et uniquement de la loi nationale du défunt",
+        "La succession est nulle en l'absence de testament"
+      ],
+      "reponse": "L'immeuble malgache peut relever de la loi malgache tandis que les meubles peuvent relever de la loi nationale du défunt",
+      "indices": "Ce phénomène, appelé scission, résulte de la combinaison des articles 31 (immeubles) et 9 ordonnance 60-171 (statut du défunt).",
+      "explication": "La combinaison de la règle spéciale des successions immobilières (loi du lieu de situation de l'immeuble, article 31) et de la règle générale fondée sur la loi du statut du défunt (article 9 de l'ordonnance n°60-171) peut conduire à une scission de la succession entre la loi malgache, applicable à l'immeuble situé à Madagascar, et la loi nationale du défunt, applicable au reste du patrimoine."
+    },
+    {
+      "id": 39,
+      "question": "Quelle loi régit les donations selon l'article 32 de l'ordonnance n°62-041 ?",
+      "choix": [
+        "La loi du donateur",
+        "La loi du donataire",
+        "La loi du lieu où le bien donné est situé, dans tous les cas",
+        "La loi du lieu où l'acte de donation est enregistré"
+      ],
+      "reponse": "La loi du donateur",
+      "indices": "Le critère retenu est la personne qui transmet le bien, non celle qui le reçoit.",
+      "explication": "L'article 32 soumet les donations à la loi du donateur, c'est-à-dire à la loi qui régit le statut de la personne qui consent la libéralité."
+    },
+    {
+      "id": 40,
+      "question": "L'article 10 de l'ordonnance n°60-171 confirme-t-il la règle posée pour les donations par l'ordonnance n°62-041 ?",
+      "choix": [
+        "Oui, il soumet également les donations à la loi du statut du donateur",
+        "Non, il soumet les donations à la loi du donataire",
+        "Non, il abroge la règle de l'article 32",
+        "Oui, mais uniquement pour les donations entre époux"
+      ],
+      "reponse": "Oui, il soumet également les donations à la loi du statut du donateur",
+      "indices": "Les deux textes convergent, comme pour les contrats.",
+      "explication": "L'article 10 de l'ordonnance n°60-171 dispose que les donations relèvent de la loi du statut du donateur, ce qui confirme et reprend la solution déjà posée par l'article 32 de l'ordonnance n°62-041."
+    },
+    {
+      "id": 41,
+      "question": "Quelle règle l'article 33 de l'ordonnance n°62-041 consacre-t-il pour la validité formelle des actes juridiques ?",
+      "choix": [
+        "La règle locus regit actum, c'est-à-dire la loi du lieu de passation de l'acte",
+        "La loi nationale de chacune des parties à l'acte",
+        "La loi du lieu d'exécution de l'acte",
+        "La loi malgache, quelle que soit la nationalité des parties"
+      ],
+      "reponse": "La règle locus regit actum, c'est-à-dire la loi du lieu de passation de l'acte",
+      "indices": "L'expression latine désigne précisément cette règle traditionnelle de droit international privé.",
+      "explication": "L'article 33 dispose que tout acte juridique est valable lorsqu'il satisfait à la forme en vigueur au lieu de sa passation, consacrant ainsi la règle traditionnelle locus regit actum."
+    },
+    {
+      "id": 42,
+      "question": "Que prévoit l'article 34 de l'ordonnance n°62-041 au sujet des situations juridiques antérieurement acquises ?",
+      "choix": [
+        "Les règles de conflit de lois ne s'appliquent que sous réserve de ces situations",
+        "Toute situation juridique antérieure est automatiquement annulée",
+        "Les situations antérieures doivent être reconstituées selon la loi malgache actuelle",
+        "Cet article ne concerne que les successions"
+      ],
+      "reponse": "Les règles de conflit de lois ne s'appliquent que sous réserve de ces situations",
+      "indices": "Il s'agit d'une clause de sauvegarde protégeant la sécurité juridique.",
+      "explication": "L'article 34 précise que les dispositions du chapitre sur les conflits de lois ne s'appliquent que sous réserve des situations juridiques antérieurement acquises, ce qui protège la stabilité des situations valablement constituées avant l'entrée en jeu de la règle de conflit considérée."
+    },
+    {
+      "id": 43,
+      "question": "Pourquoi la réserve des droits acquis est-elle utile en droit international privé ?",
+      "choix": [
+        "Elle évite qu'un changement de règle de conflit ne remette rétroactivement en cause des situations valablement constituées",
+        "Elle permet d'annuler systématiquement les actes passés à l'étranger",
+        "Elle empêche toute reconnaissance d'actes étrangers à Madagascar",
+        "Elle ne concerne que les actes passés après 1962"
+      ],
+      "reponse": "Elle évite qu'un changement de règle de conflit ne remette rétroactivement en cause des situations valablement constituées",
+      "indices": "Pensez à la sécurité juridique des relations internationales déjà nouées.",
+      "explication": "La réserve des droits acquis garantit que les situations juridiques valablement constituées sous l'empire d'une loi (malgache ou étrangère) antérieurement compétente conservent leurs effets, ce qui assure la sécurité juridique des relations internationales déjà nouées."
+    },
+    {
+      "id": 44,
+      "question": "Un acte de mariage célébré à l'étranger, conforme aux formes en vigueur dans le pays de célébration, est-il en principe valable formellement au regard du droit malgache ?",
+      "choix": [
+        "Oui, en application de la règle locus regit actum",
+        "Non, seules les formes prévues par la loi malgache sont valables",
+        "Non, sauf accord exprès et préalable des autorités malgaches",
+        "Oui, mais uniquement si l'un des époux est de nationalité malgache"
+      ],
+      "reponse": "Oui, en application de la règle locus regit actum",
+      "indices": "L'article 33 ne distingue pas selon la nature de l'acte juridique concerné.",
+      "explication": "En application de la règle locus regit actum posée par l'article 33, tout acte juridique - y compris un acte de mariage - est formellement valable s'il satisfait à la forme en vigueur au lieu où il a été passé."
+    },
+    {
+      "id": 45,
+      "question": "Selon l'article 6 de l'ordonnance n°60-171, quelle loi régit en principe les droits et obligations des époux, à défaut de contrat de mariage ?",
+      "choix": [
+        "La loi qui régit le statut du mari",
+        "La loi du lieu de célébration du mariage",
+        "La loi qui régit le statut de l'épouse",
+        "La loi du domicile commun des époux"
+      ],
+      "reponse": "La loi qui régit le statut du mari",
+      "indices": "Cette règle, historiquement datée, retient le statut du mari comme critère de rattachement.",
+      "explication": "L'article 6 de l'ordonnance n°60-171 soumet à la loi qui régit le statut du mari la validité du mariage, le régime matrimonial en l'absence de contrat, les droits et obligations des époux, la puissance paternelle, la dissolution de l'union conjugale et ses conséquences, ainsi que la filiation légitime."
+    },
+    {
+      "id": 46,
+      "question": "Quelle exception est prévue par l'article 6 de l'ordonnance n°60-171 concernant les conditions pour contracter mariage ?",
+      "choix": [
+        "Les conditions requises pour la femme sont appréciées selon la loi qui régit son propre statut",
+        "Aucune exception n'est prévue, tout relève de la loi du statut du mari",
+        "Les conditions requises sont toujours appréciées selon la loi malgache",
+        "Les conditions requises sont appréciées selon la loi du lieu de naissance de l'épouse"
+      ],
+      "reponse": "Les conditions requises pour la femme sont appréciées selon la loi qui régit son propre statut",
+      "indices": "Il s'agit d'une exception ponctuelle au principe de la loi du statut du mari.",
+      "explication": "L'article 6 précise que, par exception, les conditions requises pour contracter mariage sont appréciées, en ce qui concerne la femme, selon la loi qui régit son propre statut, et non selon la loi du statut du mari."
+    },
+    {
+      "id": 47,
+      "question": "Quelle loi régit les actions en recherche de paternité ou de maternité naturelle selon l'article 7 de l'ordonnance n°60-171 ?",
+      "choix": [
+        "La loi qui régit le statut du père ou de la mère prétendus",
+        "La loi du lieu de naissance de l'enfant",
+        "La loi du statut de l'enfant lui-même",
+        "La loi malgache, quelle que soit la nationalité des parties"
+      ],
+      "reponse": "La loi qui régit le statut du père ou de la mère prétendus",
+      "indices": "C'est la loi de la personne dont la filiation est recherchée qui sert de critère.",
+      "explication": "L'article 7 dispose que les actions en recherche de paternité ou de maternité naturelle sont tranchées, lorsqu'elles sont admises, suivant la loi qui régit le statut du père ou de la mère prétendus."
+    },
+    {
+      "id": 48,
+      "question": "Quelle loi régit l'adoption selon l'article 8 de l'ordonnance n°60-171 ?",
+      "choix": [
+        "La loi du statut de l'adopté, sous réserve des conditions pour adopter appréciées selon la loi de l'adoptant",
+        "Uniquement la loi du statut de l'adoptant",
+        "La loi du lieu où la décision d'adoption est rendue",
+        "La loi malgache, sans considération du statut des parties"
+      ],
+      "reponse": "La loi du statut de l'adopté, sous réserve des conditions pour adopter appréciées selon la loi de l'adoptant",
+      "indices": "Deux lois différentes peuvent ainsi intervenir, l'une pour les effets, l'autre pour les conditions du côté de l'adoptant.",
+      "explication": "L'article 8 prévoit qu'en matière d'adoption, la loi du statut de l'adopté est seule applicable, mais que les conditions requises pour adopter sont appréciées selon la loi qui régit le statut de l'adoptant."
+    },
+    {
+      "id": 49,
+      "question": "La règle posée à l'article 6 de l'ordonnance n°60-171 (loi du statut du mari) s'applique-t-elle au régime matrimonial lorsque les époux ont conclu un contrat de mariage ?",
+      "choix": [
+        "Non, dans ce cas, c'est la loi choisie par les époux qui s'applique, en vertu de l'autonomie de la volonté",
+        "Oui, systématiquement, qu'il y ait ou non un contrat de mariage",
+        "Non, c'est alors la loi du statut de l'épouse qui s'applique exclusivement",
+        "Oui, mais seulement si le contrat de mariage a été conclu à Madagascar"
+      ],
+      "reponse": "Non, dans ce cas, c'est la loi choisie par les époux qui s'applique, en vertu de l'autonomie de la volonté",
+      "indices": "L'article 6 vise expressément le régime matrimonial « en l'absence de contrat de mariage ».",
+      "explication": "L'article 6 de l'ordonnance n°60-171 ne soumet à la loi du statut du mari que le régime matrimonial légal, c'est-à-dire applicable en l'absence de contrat de mariage ; lorsque les époux ont conclu un contrat, c'est la loi qu'ils ont choisie qui s'applique, conformément à l'article 30 de l'ordonnance n°62-041."
+    },
+    {
+      "id": 50,
+      "question": "Pourquoi convient-il, selon l'avertissement de ce module, de confronter la règle de la loi du statut du mari à des textes plus récents avant toute application contentieuse actuelle ?",
+      "choix": [
+        "Parce que le droit malgache de la famille a connu des réformes postérieures, notamment la loi n°2007-022 sur le mariage et les régimes matrimoniaux",
+        "Parce que cette règle a été expressément abrogée par le Code pénal de 1972",
+        "Parce qu'elle ne s'est jamais appliquée en pratique",
+        "Parce qu'elle ne concerne que les mariages célébrés avant l'indépendance"
+      ],
+      "reponse": "Parce que le droit malgache de la famille a connu des réformes postérieures, notamment la loi n°2007-022 sur le mariage et les régimes matrimoniaux",
+      "indices": "Le module invite à une vérification d'actualité du droit substantiel de la famille.",
+      "explication": "Le droit malgache de la famille a évolué depuis 1960, notamment avec la loi n°2007-022 du 20 août 2007 relative au mariage et aux régimes matrimoniaux ; il convient donc de vérifier l'articulation de la règle de conflit ancienne avec ce droit substantiel plus récent avant toute application contentieuse actuelle."
+    },
+    {
+      "id": 51,
+      "question": "Face à une situation comportant un élément d'extranéité, quelle est la première étape du raisonnement en droit international privé malgache ?",
+      "choix": [
+        "Qualifier la question posée afin d'identifier la règle de rattachement applicable",
+        "Appliquer systématiquement la loi malgache par défaut",
+        "Désigner immédiatement la loi nationale de la partie la plus diligente",
+        "Demander l'avis du Ministre de la Justice"
+      ],
+      "reponse": "Qualifier la question posée afin d'identifier la règle de rattachement applicable",
+      "indices": "Sans qualification préalable, il est impossible de savoir quelle règle de conflit appliquer.",
+      "explication": "Le raisonnement débute par la qualification de la question posée - état des personnes, biens, contrats, délits, successions, donations, forme d'un acte, ou droit de la famille - afin d'identifier la règle de rattachement pertinente parmi celles des ordonnances n°62-041 et n°60-171."
+    },
+    {
+      "id": 52,
+      "question": "Une fois la loi étrangère désignée par la règle de conflit, quelles vérifications complémentaires le praticien doit-il encore opérer ?",
+      "choix": [
+        "Vérifier le jeu éventuel du renvoi, des lois de police et de l'ordre public malgache",
+        "Aucune vérification supplémentaire n'est nécessaire",
+        "Vérifier uniquement la date de naissance des parties",
+        "Vérifier uniquement si un notaire est intervenu dans l'acte"
+      ],
+      "reponse": "Vérifier le jeu éventuel du renvoi, des lois de police et de l'ordre public malgache",
+      "indices": "Ces correctifs peuvent infléchir ou écarter la désignation initiale.",
+      "explication": "Après avoir désigné la loi étrangère compétente, il convient de vérifier si cette loi se reconnaît elle-même compétente (mécanisme du renvoi), si une loi de police malgache s'impose indépendamment d'elle, et si son application ne porte pas atteinte à l'ordre public malgache ou à des droits acquis."
+    },
+    {
+      "id": 53,
+      "question": "Un immeuble situé à Diego-Suarez appartenant à un ressortissant étranger fait l'objet d'une vente. Quelle loi régit en principe la validité de cette opération immobilière ?",
+      "choix": [
+        "La loi malgache, en application de la règle de la lex rei sitae",
+        "La loi nationale du vendeur étranger",
+        "La loi du lieu où le contrat de vente a été signé, même hors de Madagascar",
+        "La loi du pays où l'acquéreur a son domicile"
+      ],
+      "reponse": "La loi malgache, en application de la règle de la lex rei sitae",
+      "indices": "Pensez à la règle spéciale et impérative applicable aux immeubles malgaches.",
+      "explication": "L'immeuble étant situé à Madagascar, l'article 29 de l'ordonnance n°62-041 impose l'application de la loi malgache, même si le propriétaire est de nationalité étrangère."
+    },
+    {
+      "id": 54,
+      "question": "Un contrat de fourniture est conclu entre une société d'Antsiranana et un partenaire commercial étranger, sans clause de loi applicable, et un différend délictuel survient par ailleurs lors du transport de la marchandise. Quelles règles de rattachement s'appliquent respectivement à ces deux aspects ?",
+      "choix": [
+        "L'autonomie de la volonté pour le contrat, la loi du lieu du délit pour la responsabilité délictuelle",
+        "La loi malgache pour les deux aspects, sans distinction",
+        "La loi du lieu du délit pour les deux aspects",
+        "L'autonomie de la volonté pour les deux aspects"
+      ],
+      "reponse": "L'autonomie de la volonté pour le contrat, la loi du lieu du délit pour la responsabilité délictuelle",
+      "indices": "L'article 30 distingue nettement les deux régimes.",
+      "explication": "Conformément à l'article 30 de l'ordonnance n°62-041, le volet contractuel relève de la loi que les parties ont entendu choisir, fût-ce implicitement, tandis que la responsabilité délictuelle née à l'occasion du transport relève exclusivement de la loi du lieu où le fait dommageable s'est produit."
+    }
+  ],
+  "cas_pratiques": [
+    {
+      "titre": "Cas pratique 1 - Succession internationale et bien immobilier à Ramena",
+      "contexte": "Ce cas applique les règles de conflit de lois relatives aux biens, aux successions et au statut matrimonial des époux.",
+      "enonce": "M. José SILVA, ressortissant portugais domicilié à Lisbonne, avait épousé Mme RAZANAMALALA, de nationalité malgache, sans conclure de contrat de mariage. Durant leur union, le couple avait fait construire une villa à Ramena, dans la région d'Antsiranana, ainsi qu'ouvert un compte bancaire et acquis un véhicule, tous deux situés à Madagascar. M. SILVA décède à Lisbonne sans avoir rédigé de testament. Ses héritiers portugais (ses enfants d'un premier mariage) et son épouse malgache s'opposent sur la loi applicable à sa succession.",
+      "questions": [
+        "1. Quelle loi est applicable à la dévolution de la villa de Ramena ? Sur quel fondement légal précis ?",
+        "2. Le compte bancaire et le véhicule, biens mobiliers situés à Madagascar, sont-ils nécessairement soumis à la même loi que la villa ?",
+        "3. À défaut de contrat de mariage, quelle loi aurait régi le régime matrimonial et les droits et obligations des époux du vivant de M. SILVA ?"
+      ],
+      "corrige": "1. La villa étant un immeuble situé à Madagascar, elle relève de la loi malgache en application de l'article 29 de l'ordonnance n°62-041, qui soumet expressément les immeubles situés à Madagascar à la loi malgache même lorsqu'ils sont possédés par des étrangers ; cette solution est confirmée, pour le volet successoral, par l'article 31 du même texte, qui soumet les successions immobilières à la loi du lieu de situation des immeubles.\n\n2. Non, pas nécessairement. L'article 9 de l'ordonnance n°60-171, qui complète l'ordonnance de 1962, soumet les successions de façon générale à la loi du statut du défunt - en l'espèce la loi portugaise, loi nationale de M. SILVA. Le compte bancaire et le véhicule, biens mobiliers ne relevant pas de la règle spéciale des immeubles, suivraient ainsi en principe la loi nationale du défunt, ce qui peut conduire à une scission de la succession entre la loi malgache, applicable à la villa, et la loi portugaise, applicable au reste du patrimoine.\n\n3. En l'absence de contrat de mariage, l'article 6 de l'ordonnance n°60-171 soumet le régime matrimonial ainsi que les droits et obligations des époux à la loi qui régit le statut du mari, soit ici la loi portugaise. Seules les conditions requises pour contracter mariage auraient été appréciées, en ce qui concerne Mme RAZANAMALALA, selon la loi malgache régissant son propre statut."
+    },
+    {
+      "titre": "Cas pratique 2 - Contrat international, responsabilité délictuelle et mécanisme du renvoi",
+      "contexte": "Ce cas applique les règles de conflit de lois relatives aux contrats, aux délits et au mécanisme du renvoi.",
+      "enonce": "La société DIANA EXPORT, immatriculée à Antsiranana, conclut un contrat de fourniture d'épices avec la société SPICE TRADE Ltd, basée à Durban (Afrique du Sud). Les parties n'ont inséré dans le contrat aucune clause désignant expressément la loi applicable, mais le contrat a été négocié et signé à Antsiranana, libellé en ariary, et prévoit que le paiement et la livraison s'effectuent au port de Diego-Suarez. Lors du transport ultérieur d'un nouveau lot de marchandises vers Durban, un accident survient au large des côtes, endommageant la cargaison et heurtant l'embarcation d'un pêcheur tiers. Un litige naît également sur la capacité juridique du gérant de DIANA EXPORT à engager la société, ce gérant étant un ressortissant comorien installé à Madagascar.",
+      "questions": [
+        "1. En l'absence de clause expresse de loi applicable, comment le juge malgache déterminera-t-il la loi applicable au contrat de fourniture ?",
+        "2. Quelle loi régit la responsabilité délictuelle envers le pêcheur dont l'embarcation a été endommagée ?",
+        "3. Quelle loi régit la capacité du gérant comorien à engager la société DIANA EXPORT ?",
+        "4. Si la loi désignée pour apprécier cette capacité se déclarait elle-même incompétente, quelle solution le droit malgache prévoit-il ?"
+      ],
+      "corrige": "1. En application de l'article 30 de l'ordonnance n°62-041 (confirmé par l'article 11 de l'ordonnance n°60-171), le juge doit rechercher la loi sous l'empire de laquelle les parties ont entendu se placer, fût-ce implicitement. Les circonstances de l'espèce - négociation et signature à Antsiranana, paiement en ariary, exécution au port de Diego-Suarez - constituent des indices convergents permettant de retenir la loi malgache comme loi implicitement choisie par les parties.\n\n2. L'article 30, alinéa 2, soumet les obligations délictuelles et quasi délictuelles à la loi du lieu du délit, qui est seule applicable ; la loi applicable à la responsabilité envers le pêcheur sera donc déterminée par le lieu précis où l'abordage s'est produit, indépendamment de la loi retenue pour le contrat.\n\n3. La capacité d'une personne physique à engager une société relève de l'état et de la capacité des personnes au sens de l'article 28 de l'ordonnance n°62-041, qui soumet cette question à la loi nationale de l'intéressé : la capacité du gérant, ressortissant comorien, relève donc en principe de la loi comorienne, et non de la loi malgache, bien qu'il soit installé à Madagascar.\n\n4. Si la loi comorienne se déclarait incompétente pour régir la capacité de ce ressortissant, le mécanisme du renvoi de l'article 26 trouverait à s'appliquer : il conviendrait alors d'appliquer toute autre loi étrangère acceptant cette compétence ou, à défaut, la loi malgache elle-même, conformément au principe de territorialité rappelé par l'exposé des motifs de l'ordonnance."
+    }
+  ]
+    } 
