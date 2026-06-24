@@ -1,0 +1,517 @@
+{
+  "niveau": 3,
+  "niveau_label": "Avancé",
+  "module": 4,
+  "titre": "Le service public et la fonction publique",
+  "description": "Ce module explore les fondements juridiques du service public à Madagascar, les principes qui le gouvernent, les modes de gestion, et le statut des agents qui le font fonctionner : les fonctionnaires. Un droit administratif avancé, ancré dans la réalité institutionnelle malgache.",
+  "duree_estimee": "60 minutes",
+  "source_legale": "Loi n°2003-011 du 3 septembre 2003 portant Statut Général des Fonctionnaires (SGF) — Loi n°2014-020 du 27 septembre 2014 relative aux ressources des Collectivités Territoriales Décentralisées — Constitution de la IVème République de Madagascar (2010) — Ordonnance n°93-019 du 30 avril 1993 portant statut des agents non encadrés de l'État",
+
+  "lecon": {
+    "introduction": "Quand vous allez à l'hôpital public d'Antsiranana, que vous envoyez vos enfants à l'école publique, que la voirie communale répare la route devant chez vous, que le tribunal de Diego Suarez rend un jugement — vous bénéficiez d'un SERVICE PUBLIC. Et derrière chaque service public, il y a des hommes et des femmes liés à l'État par un statut particulier : les fonctionnaires. Ce module vous explique les règles juridiques qui organisent ces deux réalités fondamentales de la vie publique malgache.",
+
+    "parties": [
+      {
+        "id": "P1",
+        "titre": "Le service public : définition, critères et fondements constitutionnels",
+        "contenu": "QU'EST-CE QU'UN SERVICE PUBLIC ?\n\nLe service public est une activité d'intérêt général assurée ou contrôlée par une personne publique (État, collectivité territoriale décentralisée) en vue de satisfaire un besoin d'intérêt général que l'initiative privée ne peut ou ne veut pas prendre en charge de façon satisfaisante.\n\nCette définition contient trois éléments cumulatifs :\n1. Une ACTIVITÉ D'INTÉRÊT GÉNÉRAL : l'activité profite à l'ensemble de la collectivité, pas à des intérêts particuliers\n2. ASSURÉE OU CONTRÔLÉE par une personne publique : l'État ou une collectivité en est responsable, même s'il la délègue\n3. Soumise à un RÉGIME JURIDIQUE SPÉCIAL : le droit administratif, différent du droit privé\n\nFONDEMENTS CONSTITUTIONNELS À MADAGASCAR :\n\nLa Constitution malgache de 2010 consacre plusieurs services publics :\n• Art. 21 : droit à l'éducation — l'enseignement public est un service public\n• Art. 22 : droit à la santé — les soins de santé publics constituent un service public\n• Art. 26 : droit au travail — l'ANPE (Agence Nationale pour la Promotion de l'Emploi) est un service public\n• Art. 14 : la justice est rendue au nom du peuple malgache — juridictions = service public\n\nLE CRITÈRE ORGANIQUE vs LE CRITÈRE MATÉRIEL :\n\nDeux approches pour identifier un service public :\n\n• Critère ORGANIQUE (institutionnel) : c'est un service public parce qu'il est géré par une personne publique. Simple à appliquer mais insuffisant : certaines personnes privées gèrent des services publics.\n\n• Critère MATÉRIEL (fonctionnel) : c'est un service public parce que l'activité répond à un besoin collectif et est soumise à un régime d'intérêt général. Plus juste mais plus complexe.\n\nEn pratique, la jurisprudence administrative malgache combine les deux critères : on regarde à la fois QUI gère l'activité et COMMENT elle est organisée.",
+
+        "exemple_concret": "Trois situations à Diego Suarez :\n\n• L'hôpital Be d'Antsiranana → SERVICE PUBLIC ADMINISTRATIF géré directement par l'État (Ministère de la Santé). Critères réunis : intérêt général (soins pour tous), personne publique (État), régime administratif.\n\n• La JIRAMA (eau et électricité) → SERVICE PUBLIC INDUSTRIEL ET COMMERCIAL géré par un établissement public à caractère industriel. Elle applique des tarifs mais répond à un besoin collectif essentiel.\n\n• Une clinique privée à Antsiranana → PAS un service public au sens juridique, même si elle soigne des malades. Aucune délégation de service public ne lui a été accordée, et elle n'est pas contrôlée par l'État à ce titre."
+      },
+      {
+        "id": "P2",
+        "titre": "Les principes fondamentaux du service public : la trilogie de Rolland",
+        "contenu": "Tout service public, quel qu'il soit, est soumis à trois principes fondamentaux universellement reconnus, dégagés par le juriste français Louis Rolland et applicables en droit malgache :\n\n━━━ PRINCIPE 1 : LA CONTINUITÉ ━━━\n\nLe service public doit fonctionner de manière ininterrompue, sans rupture. Les usagers doivent pouvoir y accéder en permanence, ou selon un calendrier régulier et connu.\n\nConséquences pratiques :\n• Le droit de grève des fonctionnaires n'est pas absolu à Madagascar : un service minimum doit toujours être assuré pour les services essentiels (hôpitaux, sécurité publique, eau, électricité)\n• Un service public ne peut pas simplement «fermer» sans autorisation légale\n• La continuité justifie les prérogatives de puissance publique (réquisition de personnels)\n\nEn droit malgache, le principe de continuité est notamment affirmé dans la loi n°2003-011 (SGF) pour les fonctionnaires assurant des missions essentielles.\n\n━━━ PRINCIPE 2 : LA MUTABILITÉ (ou adaptabilité) ━━━\n\nLe service public doit s'adapter en permanence aux besoins de la collectivité, aux évolutions technologiques et aux contraintes budgétaires. L'Administration peut modifier l'organisation d'un service public sans que les usagers ou les agents puissent s'y opposer au nom de droits acquis.\n\nConséquences pratiques :\n• Un fonctionnaire n'a pas de droit acquis au maintien de son poste si l'organisation du service change\n• L'État peut supprimer un service public devenu inutile ou le transformer\n• Un concessionnaire ne peut pas s'opposer à la modification des conditions du service\n\nExemple : la transformation de la direction des douanes malgaches par intégration du système informatique SYDONIA — c'est la mutabilité en action.\n\n━━━ PRINCIPE 3 : L'ÉGALITÉ ━━━\n\nTous les usagers placés dans une situation identique doivent être traités de façon identique par le service public. L'égalité d'accès est un droit fondamental.\n\nConséquences pratiques :\n• Pas de discrimination dans l'accès aux services publics : un hôpital public doit soigner tous les patients sans distinction d'origine, de région ou de religion\n• Les tarifs du service public s'appliquent identiquement (sauf différenciation légitime selon les revenus — ex : tarifs sociaux)\n• L'égal accès aux emplois publics : tout citoyen malgache ayant les qualifications requises peut candidater à un poste de fonctionnaire\n\n━━━ LES PRINCIPES COMPLÉMENTAIRES ━━━\n\nLa doctrine moderne ajoute deux principes :\n\n• LA NEUTRALITÉ : le service public doit être impartial et ne pas favoriser certains usagers pour des motifs politiques, religieux ou ethniques. Un fonctionnaire ne peut pas afficher ses convictions personnelles dans l'exercice de ses fonctions.\n\n• LA LAÏCITÉ (neutralité religieuse) : les services publics malgaches sont neutres vis-à-vis des religions, conformément à l'article 2 de la Constitution qui établit le caractère laïc de l'État.",
+
+        "exemple_concret": "Application des trois principes au CHU d'Antsiranana :\n\n• CONTINUITÉ : le service des urgences doit fonctionner 24h/24, 7j/7. En cas de grève du personnel infirmier, un service minimum doit être maintenu.\n\n• MUTABILITÉ : si le Ministère de la Santé décide de centraliser certains services spécialisés à Antananarivo, le CHU d'Antsiranana doit s'adapter, même si les personnels ou les patients préfèrent l'organisation actuelle.\n\n• ÉGALITÉ : un patient de la région SAVA doit avoir le même accès aux soins qu'un patient d'Antananarivo. Les tarifs du service public hospitalier s'appliquent sans discrimination géographique ou sociale."
+      },
+      {
+        "id": "P3",
+        "titre": "Les modes de gestion du service public",
+        "contenu": "L'État et les collectivités peuvent gérer les services publics de plusieurs façons. Le choix du mode de gestion est une décision politique et administrative majeure.\n\n━━━ 1. LA RÉGIE DIRECTE ━━━\n\nL'État ou la collectivité gère le service public lui-même, avec ses propres agents, ses propres moyens financiers et matériels.\n\nCaractéristiques :\n• Contrôle total par la personne publique\n• Agents = fonctionnaires ou agents publics\n• Financement = budget de l'État ou de la collectivité\n• Responsabilité = de la personne publique\n\nExemples à Madagascar : les services de l'état civil tenus par les communes, les tribunaux, les écoles publiques, les forces armées.\n\nAvantages : contrôle maximal, pas de profit privé. Inconvénient : rigidité, coût élevé pour l'État.\n\n━━━ 2. L'ÉTABLISSEMENT PUBLIC ━━━\n\nPersonne morale de droit public, dotée de l'autonomie administrative et financière, créée pour gérer un service public spécialisé.\n\nCaractéristiques :\n• Personnalité morale propre (peut ester en justice, contracter)\n• Budget autonome (mais sous tutelle de l'État)\n• Agents peuvent être fonctionnaires ou contractuels\n• Soumis au droit administratif\n\nExemples malgaches :\n• CNAPS (Caisse Nationale de Prévoyance Sociale) — établissement public\n• Universités publiques (Université de Diego Suarez / DEGS)\n• BNGRC (Bureau National de Gestion des Risques et des Catastrophes)\n• JIRAMA (eau et électricité) — EPIC (Établissement Public Industriel et Commercial)\n\n━━━ 3. LA DÉLÉGATION DE SERVICE PUBLIC (DSP) ━━━\n\nLa personne publique confie la gestion d'un service public à une personne privée ou publique, qui l'exploite à ses risques et périls en échange d'une rémunération liée aux résultats.\n\nFormes principales :\n\na) LA CONCESSION : le concessionnaire (privé) gère le service, investit, et se rémunère sur les redevances perçues auprès des usagers. L'État conserve le contrôle et peut reprendre le service à tout moment.\nExemple : concession de routes à péage.\n\nb) L'AFFERMAGE : le fermier gère le service sans investir (l'État a déjà investi), et se rémunère sur les recettes après paiement d'un redevance à l'État.\n\nc) LA RÉGIE INTÉRESSÉE : l'entreprise gère pour le compte de la collectivité et reçoit une rémunération liée aux résultats, mais la collectivité assume les risques financiers.\n\n━━━ 4. LES SOCIÉTÉS D'ÉCONOMIE MIXTE (SEM) ━━━\n\nSociétés où coexistent des capitaux publics (État, collectivités) et des capitaux privés. L'État est actionnaire mais pas seul maître à bord.\n\nAvantage : associe l'efficacité du privé et le contrôle du public.\nExemple malgache : certaines entreprises publiques partiellement privatisées dans les années 1990-2000 à Madagascar.",
+
+        "exemple_concret": "La gestion de l'eau à Antsiranana :\n\n• JIRAMA gère la distribution d'eau → ÉTABLISSEMENT PUBLIC INDUSTRIEL ET COMMERCIAL (EPIC). Gestion autonome mais sous tutelle de l'État.\n\n• Si la commune d'Antsiranana gérait elle-même la fontaine publique du quartier → RÉGIE DIRECTE.\n\n• Si la commune confiait la gestion du réseau d'eau à une entreprise privée contre redevance → CONCESSION (forme de DSP).\n\nChaque mode répond à des logiques différentes d'efficacité, de contrôle et de financement."
+      },
+      {
+        "id": "P4",
+        "titre": "La fonction publique malgache : statut et organisation",
+        "contenu": "La FONCTION PUBLIQUE est l'ensemble des agents qui travaillent pour les personnes publiques malgaches. Elle est régie principalement par la LOI N°2003-011 DU 3 SEPTEMBRE 2003 portant Statut Général des Fonctionnaires (SGF).\n\nQUI EST FONCTIONNAIRE À MADAGASCAR ? (art. 1-5 SGF)\n\nEst fonctionnaire «toute personne nommée dans un emploi permanent, titularisée dans un grade de la hiérarchie administrative et relevant d'une administration publique de l'État ou d'une collectivité territoriale décentralisée».\n\nTROIS CONDITIONS CUMULATIVES :\n1. Nomination dans un EMPLOI PERMANENT (pas un contrat temporaire)\n2. TITULARISATION dans un grade de la hiérarchie\n3. Relevant d'une ADMINISTRATION PUBLIQUE (État ou CTD)\n\nQUI N'EST PAS FONCTIONNAIRE ?\n• Les agents contractuels de l'État (ACE) : liés par un contrat de droit privé ou public\n• Les agents non encadrés (régis par l'Ordonnance n°93-019)\n• Les personnels des établissements publics industriels et commerciaux (EPIC)\n• Les élus (parlementaires, maires) : ce sont des mandataires\n\nLES CORPS DE FONCTIONNAIRES :\n\nLes fonctionnaires malgaches sont regroupés en CORPS selon leur spécialité et leur niveau hiérarchique :\n\n• CORPS A : niveau supérieur (cadres supérieurs, ingénieurs, médecins, magistrats, enseignants-chercheurs). Recrutement sur concours avec diplôme de niveau bac+3 minimum.\n\n• CORPS B : niveau intermédiaire (techniciens supérieurs, officiers subalternes, infirmiers cadres). Recrutement avec diplôme de niveau bac+2.\n\n• CORPS C : niveau d'exécution (agents de service, dactylos, techniciens). Recrutement avec BEPC ou baccalauréat.\n\n• CORPS D : agents de manœuvre, de service et d'entretien. Recrutement sans diplôme particulier requis.\n\nCHAQUE CORPS est divisé en GRADES, et chaque grade en ÉCHELONS. L'avancement dans les échelons est automatique (ancienneté). L'avancement en grade est soumis à des conditions (note, ancienneté, examen professionnel).",
+
+        "exemple_concret": "Dr. RAKOTO est médecin et vient d'être recruté au CHU d'Antsiranana par voie de concours. Il est nommé par arrêté ministériel, puis mis en stage probatoire pendant un an. Au terme de son stage, il est TITULARISÉ dans le grade de médecin 2ème classe, 1er échelon, du corps médical (Corps A). Il devient alors FONCTIONNAIRE à part entière. Avant titularisation, il était «stagiaire» — pas encore fonctionnaire au sens strict."
+      },
+      {
+        "id": "P5",
+        "titre": "Les droits et obligations des fonctionnaires malgaches",
+        "contenu": "Le fonctionnaire n'est pas un salarié ordinaire. Sa relation avec l'État est statutaire — elle est fixée unilatéralement par la loi, pas par un contrat négocié. Cela implique des droits spécifiques mais aussi des obligations particulièrement strictes.\n\n━━━ LES DROITS DES FONCTIONNAIRES (art. 59-84 SGF) ━━━\n\n1. DROIT À LA RÉMUNÉRATION : tout fonctionnaire a droit à une rémunération composée du traitement de base (selon le grade et l'échelon), d'indemnités et de primes. Nul ne peut travailler sans rémunération.\n\n2. DROIT AU CONGÉ : congé annuel (30 jours ouvrables par an), congé de maladie, congé de maternité/paternité, congé d'études.\n\n3. DROIT À LA FORMATION : l'État doit assurer la formation continue de ses agents pour améliorer leurs compétences.\n\n4. DROIT À LA PROTECTION (art. 73 SGF) : l'État a une obligation de protection envers ses fonctionnaires contre les menaces, violences, voies de fait, injures dont ils peuvent être victimes dans l'exercice de leurs fonctions. Réparation à la charge de l'État.\n\n5. DROIT D'ACCÈS AU DOSSIER : le fonctionnaire a le droit de consulter son dossier administratif personnel avant toute sanction disciplinaire.\n\n6. DROIT SYNDICAL : les fonctionnaires malgaches peuvent librement constituer des organisations syndicales, y adhérer et y exercer des mandats.\n\n7. DROIT DE GRÈVE : reconnu mais encadré. Certains fonctionnaires sont soumis à des restrictions (militaires, policiers, magistrats). Pour les autres, un préavis est obligatoire.\n\n━━━ LES OBLIGATIONS DES FONCTIONNAIRES (art. 85-107 SGF) ━━━\n\n1. OBLIGATION DE SERVICE : le fonctionnaire doit assurer personnellement le service pour lequel il a été recruté. Il ne peut pas déléguer ses fonctions sans autorisation.\n\n2. OBLIGATION D'OBÉISSANCE HIÉRARCHIQUE : le fonctionnaire doit obéir aux instructions de ses supérieurs hiérarchiques, sauf si l'ordre est manifestement illégal et de nature à compromettre gravement un intérêt public.\n\n3. OBLIGATION DE RÉSERVE : le fonctionnaire doit, dans l'expression de ses opinions personnelles (politique, syndicale, etc.), faire preuve de mesure et de retenue, en particulier dans ses fonctions. La liberté d'expression est reconnue mais limitée.\n\n4. OBLIGATION DE DISCRÉTION PROFESSIONNELLE : le fonctionnaire ne peut pas divulguer les informations dont il a connaissance dans l'exercice de ses fonctions. Le secret professionnel s'impose.\n\n5. OBLIGATION DE NEUTRALITÉ : dans l'exercice de ses fonctions, le fonctionnaire doit traiter tous les usagers avec impartialité, sans distinction politique, ethnique, religieuse.\n\n6. OBLIGATION DE DÉSINTÉRESSEMENT : interdiction de tirer un profit personnel de sa position. La corruption active ou passive est un délit pénal et une faute disciplinaire grave.\n\n7. INTERDICTION DU CUMUL D'EMPLOIS (art. 95 SGF) : le fonctionnaire ne peut pas cumuler son emploi public avec un emploi privé salarié. Des exceptions existent (activités accessoires, enseignement, expertise ponctuelle) sous conditions d'autorisation.",
+
+        "exemple_concret": "Monsieur FENO, fonctionnaire de la mairie d'Antsiranana, reçoit d'un entrepreneur une «enveloppe» pour accélérer le traitement d'un dossier de permis de construire. Il commet :\n\n1. UNE FAUTE DISCIPLINAIRE grave au sens du SGF (violation de l'obligation de désintéressement → sanction disciplinaire pouvant aller jusqu'à la révocation)\n\n2. UN DÉLIT PÉNAL de corruption passive (art. 177 et suivants du Code pénal malgache — peine d'emprisonnement et amende)\n\n3. Une violation du PRINCIPE DE NEUTRALITÉ et d'égalité de traitement des usagers\n\nLes deux procédures (disciplinaire et pénale) sont indépendantes et peuvent être menées simultanément."
+      },
+      {
+        "id": "P6",
+        "titre": "La carrière du fonctionnaire : de l'entrée à la sortie",
+        "contenu": "LA CARRIÈRE est la vie professionnelle du fonctionnaire, de son recrutement à la fin de ses fonctions.\n\n━━━ L'ENTRÉE DANS LA FONCTION PUBLIQUE ━━━\n\n1. LE CONCOURS (voie normale, art. 27 SGF) :\nL'accès à la fonction publique malgache se fait en principe par concours. C'est le garant de l'égal accès aux emplois publics, principe constitutionnel. Le concours peut être :\n• Sur TITRES : examen du dossier académique\n• Sur ÉPREUVES : tests écrits et oraux\n• Sur TITRES ET ÉPREUVES : combinaison\n\n2. CONDITIONS GÉNÉRALES D'ACCÈS (art. 16 SGF) :\n• Nationalité malgache\n• Jouissance des droits civiques (pas de condamnation pénale privative de droits)\n• Position régulière vis-à-vis du service militaire\n• Aptitude physique certifiée par un médecin agréé\n• Remplir les conditions d'âge (variables selon les corps)\n\n3. LE STAGE PROBATOIRE :\nTout nouveau recruté est d'abord STAGIAIRE pendant 1 an. À l'issue, il est soit titularisé (devient fonctionnaire), soit licencié. Le stage permet d'évaluer ses aptitudes réelles.\n\n━━━ L'AVANCEMENT ━━━\n\nDEUX TYPES d'avancement :\n\n• L'AVANCEMENT D'ÉCHELON (art. 40-43 SGF) : automatique, basé sur l'ancienneté. Chaque année de service validée fait avancer d'un échelon dans le grade. Donne lieu à une augmentation de traitement.\n\n• L'AVANCEMENT DE GRADE (art. 44-48 SGF) : accès à un grade supérieur. Soumis à des conditions : ancienneté minimale dans le grade, note professionnelle, parfois examen professionnel ou inscription au tableau d'avancement.\n\n━━━ LES POSITIONS DU FONCTIONNAIRE (art. 54-58 SGF) ━━━\n\nLe fonctionnaire peut se trouver dans différentes positions administratives :\n\n1. ACTIVITÉ : position normale — le fonctionnaire exerce ses fonctions et perçoit sa rémunération.\n\n2. DÉTACHEMENT : le fonctionnaire est placé hors de son corps d'origine pour exercer des fonctions dans un autre emploi public ou auprès d'une organisation internationale. Il conserve ses droits dans son corps d'origine.\n\n3. DISPONIBILITÉ : le fonctionnaire est placé hors de son administration sans rémunération pour raisons personnelles (convenances personnelles, suivi d'un conjoint, création d'entreprise). Il garde son droit à réintégration.\n\n4. HORS CADRE : placé dans une position analogue au détachement mais pour des emplois qui ne permettent pas de conserver les droits dans le corps d'origine.\n\n━━━ LA FIN DES FONCTIONS ━━━\n\n• LA RETRAITE : à l'âge limite fixé par la loi (variable selon les corps — généralement 60 ans pour les civils, avec possibilité de prolongation).\n\n• LA DÉMISSION : le fonctionnaire peut démissionner sous réserve d'un préavis et d'acceptation par l'autorité compétente. Une démission non acceptée n'est pas opposable.\n\n• LA RÉVOCATION : sanction disciplinaire maximale. Le fonctionnaire perd définitivement son emploi et ses droits à pension si elle est accompagnée de la perte de ces droits. Prononcée après procédure disciplinaire contradictoire.\n\n• LE LICENCIEMENT : fin de fonctions pour motif non disciplinaire (insuffisance professionnelle, suppression d'emploi, inaptitude physique définitive).\n\n• LE DÉCÈS.",
+
+        "exemple_concret": "Parcours type d'un enseignant-chercheur à l'Université de Diego Suarez :\n\n1. CONCOURS d'entrée dans le corps des enseignants du supérieur (Corps A)\n2. STAGE d'un an → TITULARISATION comme assistant d'enseignement, 1er échelon\n3. Avancement automatique d'échelon chaque année → augmentation de salaire progressive\n4. Après 4 ans et note satisfaisante → inscription au tableau d'avancement en grade → Maître-assistant\n5. DÉTACHEMENT 2 ans auprès de l'UNESCO Nairobi → conserve ses droits à l'université\n6. Retour à Diego Suarez → réintégration dans son corps\n7. À 60 ans → RETRAITE avec pension calculée sur les années de service"
+      },
+      {
+        "id": "P7",
+        "titre": "La responsabilité disciplinaire et le régime des sanctions",
+        "contenu": "Quand un fonctionnaire manque à ses obligations, il est soumis à un régime de responsabilité disciplinaire spécifique, distinct de la responsabilité pénale et civile.\n\nLA FAUTE DISCIPLINAIRE :\nTout manquement aux obligations statutaires (désobéissance, absence injustifiée, corruption, manquement à la neutralité, violation du secret professionnel) constitue une faute disciplinaire susceptible de sanction.\n\nLES SANCTIONS DISCIPLINAIRES (art. 108-130 SGF) :\nElles sont réparties en QUATRE GROUPES du moins grave au plus grave :\n\nGROUPE 1 (sanctions légères) :\n• L'AVERTISSEMENT\n• LE BLÂME\nCes sanctions n'entraînent pas de conséquences sur la carrière au-delà d'une mention dans le dossier. Effacées après 3 ans sans récidive.\n\nGROUPE 2 (sanctions intermédiaires) :\n• L'ABAISSEMENT D'ÉCHELON : perte d'un ou plusieurs échelons acquis\n• LE RETARD À L'AVANCEMENT : interdiction temporaire d'avancement de grade\n\nGROUPE 3 (sanctions graves) :\n• L'EXCLUSION TEMPORAIRE DES FONCTIONS : sans traitement, pour une durée déterminée\n• LE DÉPLACEMENT D'OFFICE : mutation dans un autre poste ou une autre région sans le consentement du fonctionnaire\n\nGROUPE 4 (sanctions très graves) :\n• LA RÉTROGRADATION : passage dans un grade inférieur avec traitement correspondant\n• LA RÉVOCATION SANS SUPPRESSION DES DROITS À PENSION : perte de l'emploi mais conservation du droit à retraite\n• LA RÉVOCATION AVEC SUPPRESSION DES DROITS À PENSION : sanction ultime — perte de l'emploi ET de tous droits à pension. Réservée aux fautes les plus graves.\n\nLA PROCÉDURE DISCIPLINAIRE (art. 115-122 SGF) :\nLe fonctionnaire ne peut être sanctionné qu'après :\n1. Communication de son dossier (droit à la défense)\n2. Audition ou possibilité de présenter des observations écrites\n3. Saisine du CONSEIL DE DISCIPLINE (pour les sanctions des groupes 2, 3 et 4)\n4. Avis du Conseil de discipline (consultatif mais important)\n5. Décision de l'autorité compétente\n\nLE CONSEIL DE DISCIPLINE :\nOrgane paritaire comprenant des représentants de l'Administration et des représentants élus des fonctionnaires. Il donne un avis sur les sanctions des groupes 2 à 4. L'autorité administrative n'est pas liée par cet avis mais doit le recueillir.\n\nLES RECOURS :\nLe fonctionnaire sanctionné peut :\n• Former un RECOURS GRACIEUX auprès de l'autorité qui a prononcé la sanction\n• Former un RECOURS HIÉRARCHIQUE auprès du supérieur de cette autorité\n• Saisir le TRIBUNAL ADMINISTRATIF pour excès de pouvoir si la sanction est illégale",
+
+        "exemple_concret": "Mme VOLASOA, fonctionnaire de la préfecture d'Antsiranana, s'absente injustifiée pendant 15 jours sans en informer sa hiérarchie.\n\nProcédure :\n1. Son supérieur lui notifie les faits et l'invite à s'expliquer par écrit dans les 8 jours\n2. Ses explications sont insuffisantes\n3. Le dossier est transmis au Conseil de discipline\n4. Le Conseil rend un avis : exclusion temporaire de 1 mois\n5. Le préfet prononce la sanction : exclusion temporaire 1 mois sans traitement (Groupe 3)\n\nMme VOLASOA peut former un recours gracieux auprès du préfet ou saisir le tribunal administratif si elle conteste la légalité de la procédure."
+      }
+    ],
+
+    "resume": "Le service public est une activité d'intérêt général assurée ou contrôlée par une personne publique malgache, régie par des principes fondamentaux : continuité, mutabilité, égalité, neutralité. Il peut être géré en régie directe, par établissement public, par délégation (concession, affermage) ou société d'économie mixte. La fonction publique, régie par la loi n°2003-011, désigne les agents titularisés dans un grade de la hiérarchie administrative. Leurs droits (rémunération, protection, congés, syndicats) sont équilibrés par des obligations strictes (service, obéissance, réserve, neutralité, discrétion). La carrière va du concours d'entrée à la retraite, avec avancement par échelons et grades. Tout manquement peut déclencher une procédure disciplinaire allant de l'avertissement à la révocation avec suppression des droits à pension.",
+
+    "points_cles": [
+      "Service public = activité d'intérêt général + personne publique responsable + régime juridique spécial",
+      "3 principes fondamentaux (Rolland) : continuité, mutabilité, égalité",
+      "Principes complémentaires : neutralité, laïcité",
+      "4 modes de gestion : régie directe, établissement public, délégation de service public, SEM",
+      "Loi n°2003-011 du 3 septembre 2003 : Statut Général des Fonctionnaires (SGF)",
+      "Fonctionnaire = nommé dans emploi permanent + titularisé dans un grade + relevant d'une administration publique",
+      "4 corps : A (supérieur), B (intermédiaire), C (exécution), D (manœuvre/service)",
+      "Obligation de réserve, neutralité, discrétion, désintéressement, obéissance hiérarchique",
+      "Droit syndical et droit de grève reconnus mais encadrés",
+      "4 positions : activité, détachement, disponibilité, hors cadre",
+      "4 groupes de sanctions disciplinaires : avertissement/blâme → révocation avec suppression droits à pension",
+      "Procédure disciplinaire contradictoire obligatoire : dossier communiqué + Conseil de discipline saisi"
+    ]
+  },
+
+  "quiz": {
+    "instructions": "50 questions pour tester votre maîtrise du module. Niveau avancé — lisez attentivement chaque option.",
+    "questions": [
+      {
+        "id": 1,
+        "question": "Quels sont les trois éléments constitutifs d'un service public en droit administratif malgache ?",
+        "options": ["Un profit, une entreprise privée, une autorisation de l'État", "Une activité d'intérêt général, assurée ou contrôlée par une personne publique, soumise à un régime juridique spécial", "Un monopole d'État, une tarification réglementée, un agent public", "Un budget public, une prestation gratuite, une création légale"],
+        "reponse_correcte": 1,
+        "explication": "Le service public se définit par trois éléments cumulatifs : (1) une activité d'intérêt général servant la collectivité, (2) assurée ou contrôlée par une personne publique (État ou CTD) qui en assume la responsabilité, (3) soumise à un régime juridique dérogatoire du droit commun — le droit administratif."
+      },
+      {
+        "id": 2,
+        "question": "Quelle disposition de la Constitution malgache de 2010 fonde le service public de l'éducation ?",
+        "options": ["Art. 14 — la justice", "Art. 21 — le droit à l'éducation", "Art. 26 — le droit au travail", "Art. 22 — le droit à la santé"],
+        "reponse_correcte": 1,
+        "explication": "L'article 21 de la Constitution malgache de 2010 consacre le droit à l'éducation et fonde le service public de l'enseignement. L'article 22 fonde le service public de santé, l'article 14 fonde le service public de la justice, l'article 26 le droit au travail (ANPE)."
+      },
+      {
+        "id": 3,
+        "question": "Le critère matériel (fonctionnel) d'identification d'un service public se base sur :",
+        "options": ["L'identité de la personne gestionnaire", "La nature de l'activité : répond-elle à un besoin collectif sous régime d'intérêt général ?", "Le montant du budget alloué", "Le statut juridique de l'organisme gestionnaire"],
+        "reponse_correcte": 1,
+        "explication": "Le critère matériel analyse la NATURE de l'activité : est-elle orientée vers l'intérêt général ? Est-elle soumise à des contraintes de service public ? Ce critère permet d'identifier des services publics gérés par des personnes privées, ce que le critère organique seul ne permet pas."
+      },
+      {
+        "id": 4,
+        "question": "Le principe de CONTINUITÉ du service public a pour conséquence que :",
+        "options": ["Le fonctionnaire peut grever librement sans aucune restriction", "Un service minimum doit être maintenu pour les services essentiels même en cas de grève", "Le service public ne peut jamais être modifié", "Les usagers ont un droit absolu à la gratuité"],
+        "reponse_correcte": 1,
+        "explication": "La continuité impose un fonctionnement ininterrompu. Pour les services essentiels (hôpitaux, sécurité, eau, électricité), cela se traduit par l'obligation d'un service minimum même en cas de grève. Ce principe justifie également la possibilité de réquisition des personnels indispensables."
+      },
+      {
+        "id": 5,
+        "question": "Le principe de MUTABILITÉ signifie que :",
+        "options": ["Les usagers peuvent exiger que le service soit toujours identique", "L'Administration peut modifier l'organisation du service sans que les usagers ou agents puissent s'y opposer au nom de droits acquis", "Les fonctionnaires ont un droit acquis au maintien de leur poste exact", "Le service public ne peut être supprimé qu'avec l'accord des usagers"],
+        "reponse_correcte": 1,
+        "explication": "La mutabilité (adaptabilité) permet à l'Administration de faire évoluer le service public selon les besoins collectifs et les contraintes budgétaires, sans que les bénéficiaires puissent invoquer des droits acquis à une certaine organisation. Un fonctionnaire ne peut pas s'opposer à la réorganisation de son service."
+      },
+      {
+        "id": 6,
+        "question": "Le principe d'ÉGALITÉ du service public implique qu'un hôpital public malgache :",
+        "options": ["Peut refuser des soins aux patients sans couverture médicale", "Doit traiter identiquement tous les usagers dans une situation identique, sans discrimination", "Peut prioriser les patients selon leur région d'origine", "Peut appliquer des tarifs différents selon la religion des patients"],
+        "reponse_correcte": 1,
+        "explication": "Le principe d'égalité impose un traitement identique à tous les usagers placés dans des situations identiques. Un hôpital public ne peut discriminer selon l'origine, la religion, l'ethnie ou la région. Des différenciations légitimes existent (tarifs selon revenus) mais doivent être fondées sur des critères objectifs."
+      },
+      {
+        "id": 7,
+        "question": "Le principe de NEUTRALITÉ du service public signifie :",
+        "options": ["Le service public est neutre vis-à-vis des impôts", "Le fonctionnaire ne peut pas afficher ses convictions personnelles dans l'exercice de ses fonctions et doit traiter impartialement tous les usagers", "Le service public ne peut pas prendre position politique dans ses communications", "Les agents publics ne peuvent adhérer à aucun syndicat"],
+        "reponse_correcte": 1,
+        "explication": "La neutralité interdit au fonctionnaire d'avantager ou de défavoriser des usagers pour des motifs politiques, religieux ou ethniques dans l'exercice de ses fonctions. Il doit laisser ses convictions personnelles en dehors du service. Cela ne lui interdit pas d'avoir des opinions — seulement de les exprimer dans le cadre du service."
+      },
+      {
+        "id": 8,
+        "question": "La RÉGIE DIRECTE comme mode de gestion du service public signifie que :",
+        "options": ["L'État confie le service à une entreprise privée", "L'État ou la collectivité gère le service avec ses propres agents, moyens et budget, sans intermédiaire", "Une société d'économie mixte gère le service", "Un établissement public autonome gère le service"],
+        "reponse_correcte": 1,
+        "explication": "La régie directe est le mode de gestion où la personne publique assume elle-même, directement, la gestion du service public : ses propres agents (fonctionnaires), ses propres finances (budget public), ses propres moyens matériels. C'est le mode de contrôle maximum mais le plus rigide."
+      },
+      {
+        "id": 9,
+        "question": "Un ÉTABLISSEMENT PUBLIC se distingue de la régie directe principalement par :",
+        "options": ["L'absence de contrôle de l'État", "Sa personnalité morale propre et son autonomie administrative et financière, tout en restant sous tutelle de l'État", "Le fait qu'il peut réaliser des bénéfices distribuables", "Le fait que ses agents sont tous des salariés de droit privé"],
+        "reponse_correcte": 1,
+        "explication": "L'établissement public dispose d'une personnalité morale distincte de celle de l'État, d'un budget et d'une organisation propres (autonomie). Il peut ester en justice, contracter en son nom. Mais il reste soumis à la tutelle de l'État ou de la collectivité qui le contrôle."
+      },
+      {
+        "id": 10,
+        "question": "La JIRAMA (eau et électricité) est un exemple de :",
+        "options": ["Régie directe de l'État", "Concession à une entreprise privée", "Établissement Public Industriel et Commercial (EPIC)", "Société d'économie mixte"],
+        "reponse_correcte": 2,
+        "explication": "La JIRAMA est un Établissement Public Industriel et Commercial (EPIC) : elle gère un service public (eau et électricité) de façon autonome avec des pratiques commerciales (tarification), mais reste sous tutelle de l'État malgache. C'est la forme hybride entre gestion publique et logique commerciale."
+      },
+      {
+        "id": 11,
+        "question": "Dans une CONCESSION de service public, qui assume le risque d'exploitation ?",
+        "options": ["L'État concédant", "Le concessionnaire privé (à ses risques et périls)", "Les usagers collectivement", "Le Parlement qui a autorisé la concession"],
+        "reponse_correcte": 1,
+        "explication": "La concession est une délégation de service public où le concessionnaire gère à ses propres risques et périls, se rémunérant sur les redevances des usagers. Si le service est déficitaire, c'est le concessionnaire qui perd — pas l'État. En contrepartie, il réalise les investissements nécessaires."
+      },
+      {
+        "id": 12,
+        "question": "L'AFFERMAGE se distingue de la CONCESSION en ce que :",
+        "options": ["Le fermier investit dans les infrastructures, pas le concédant", "L'État (affermant) a déjà réalisé les investissements ; le fermier gère et reverse une redevance à l'État", "Le fermier est toujours un établissement public", "L'affermage est réservé aux services de santé"],
+        "reponse_correcte": 1,
+        "explication": "Dans l'affermage, les infrastructures appartiennent à la collectivité publique qui les a financées. Le fermier n'investit pas — il gère et exploite le service, reverse une redevance au concédant, et se rémunère sur la différence. C'est une distinction essentielle avec la concession où le concessionnaire investit."
+      },
+      {
+        "id": 13,
+        "question": "Le texte fondamental régissant le statut des fonctionnaires malgaches est :",
+        "options": ["L'Ordonnance n°93-019 du 30 avril 1993", "La loi n°2003-011 du 3 septembre 2003 portant Statut Général des Fonctionnaires", "La loi n°2014-020 du 27 septembre 2014", "La Constitution de 2010 uniquement"],
+        "reponse_correcte": 1,
+        "explication": "La loi n°2003-011 du 3 septembre 2003 est le Statut Général des Fonctionnaires (SGF) de Madagascar, texte de référence organisant le statut, les droits, les obligations, la carrière et la discipline des fonctionnaires de l'État et des collectivités territoriales décentralisées."
+      },
+      {
+        "id": 14,
+        "question": "Les trois conditions pour être fonctionnaire au sens de la loi n°2003-011 sont :",
+        "options": ["Avoir un diplôme, être malgache et avoir passé un entretien", "Être nommé dans un emploi permanent, titularisé dans un grade, et relever d'une administration publique", "Avoir un contrat signé, travailler pour l'État, et percevoir un salaire", "Être majeur, malgache, et travailler pour l'État depuis plus de 5 ans"],
+        "reponse_correcte": 1,
+        "explication": "L'article 1 du SGF définit le fonctionnaire par trois conditions cumulatives : nomination dans un EMPLOI PERMANENT (pas précaire), TITULARISATION dans un grade de la hiérarchie, et rattachement à une ADMINISTRATION PUBLIQUE de l'État ou d'une CTD. Ces trois conditions doivent être simultanément réunies."
+      },
+      {
+        "id": 15,
+        "question": "Un agent contractuel de l'État (ACE) est-il fonctionnaire au sens du SGF ?",
+        "options": ["Oui, s'il travaille depuis plus de 3 ans", "Non, l'ACE est lié par un contrat et non par une nomination statutaire", "Oui, s'il est recruté par voie de concours", "Non, sauf s'il est titulaire d'un diplôme supérieur"],
+        "reponse_correcte": 1,
+        "explication": "L'agent contractuel de l'État (ACE) n'est pas fonctionnaire : il est lié à l'État par un contrat (de droit public ou privé), pas par une nomination statutaire. Il n'est pas titularisé dans un grade. Il relève d'un régime juridique différent du SGF — notamment l'Ordonnance n°93-019 pour les agents non encadrés."
+      },
+      {
+        "id": 16,
+        "question": "Le Corps A de la fonction publique malgache comprend :",
+        "options": ["Les agents de manœuvre et d'entretien", "Les agents d'exécution avec BEPC", "Les cadres supérieurs, ingénieurs, médecins, magistrats — recrutés avec un niveau bac+3 minimum", "Les techniciens supérieurs avec bac+2"],
+        "reponse_correcte": 2,
+        "explication": "Le Corps A est le niveau supérieur de la hiérarchie : cadres supérieurs, ingénieurs d'État, médecins, magistrats, enseignants-chercheurs. Le recrutement exige un diplôme de niveau bac+3 minimum. Le Corps B est le niveau intermédiaire (bac+2), le Corps C le niveau d'exécution, le Corps D les agents sans diplôme particulier."
+      },
+      {
+        "id": 17,
+        "question": "L'avancement d'échelon (art. 40-43 SGF) est :",
+        "options": ["Soumis à un examen professionnel obligatoire", "Automatique, basé sur l'ancienneté, avec augmentation de traitement à chaque échelon", "Décidé discrétionnairement par le supérieur hiérarchique", "Conditionné exclusivement à la note annuelle"],
+        "reponse_correcte": 1,
+        "explication": "L'avancement d'échelon est automatique : chaque année de service validée fait progresser le fonctionnaire d'un échelon dans son grade, avec une augmentation de traitement correspondante. Il ne nécessite pas d'examen ni de décision discrétionnaire — c'est un droit acquis par l'ancienneté."
+      },
+      {
+        "id": 18,
+        "question": "L'avancement de grade (art. 44-48 SGF) est :",
+        "options": ["Automatique après 5 ans dans le même grade", "Soumis à des conditions : ancienneté, note professionnelle, parfois inscription au tableau d'avancement ou examen professionnel", "Décidé uniquement par le Président de la République", "Impossible sans changement de corps"],
+        "reponse_correcte": 1,
+        "explication": "Contrairement à l'avancement d'échelon, l'avancement de grade n'est pas automatique. Il requiert des conditions cumulatives : ancienneté minimale dans le grade actuel, note professionnelle satisfaisante, et souvent l'inscription au tableau annuel d'avancement ou la réussite d'un examen professionnel."
+      },
+      {
+        "id": 19,
+        "question": "Le fonctionnaire en position de DÉTACHEMENT :",
+        "options": ["Perd tous ses droits dans son corps d'origine", "Est placé hors de son corps pour exercer ailleurs, mais conserve ses droits à l'avancement et à la retraite dans son corps d'origine", "Ne peut jamais être réintégré dans son administration d'origine", "Perçoit deux rémunérations simultanément"],
+        "reponse_correcte": 1,
+        "explication": "Le détachement place le fonctionnaire hors de son administration mais il conserve ses droits dans son corps d'origine : ses années de détachement comptent pour l'avancement, il cotise pour la retraite, et il a le droit de réintégrer son corps à l'issue du détachement."
+      },
+      {
+        "id": 20,
+        "question": "La DISPONIBILITÉ se distingue du détachement principalement parce que :",
+        "options": ["La disponibilité est imposée par l'employeur", "Le fonctionnaire en disponibilité n'est plus rémunéré par l'État et ses droits à l'avancement sont suspendus, mais il conserve son droit à réintégration", "La disponibilité est réservée aux fonctionnaires du Corps A", "Le fonctionnaire en disponibilité peut cumuler avec tout emploi sans restriction"],
+        "reponse_correcte": 1,
+        "explication": "La disponibilité est accordée sur demande du fonctionnaire pour des raisons personnelles. Pendant cette période, il ne perçoit plus de traitement, ses droits à l'avancement sont suspendus. Mais il conserve son droit à réintégration dans son corps d'origine, sous conditions."
+      },
+      {
+        "id": 21,
+        "question": "L'obligation d'OBÉISSANCE HIÉRARCHIQUE a-t-elle des limites ?",
+        "options": ["Non, le fonctionnaire doit obéir à tous les ordres sans exception", "Oui, le fonctionnaire peut refuser un ordre manifestement illégal et de nature à compromettre gravement un intérêt public", "Non, sauf pour les ordres contraires à la religion", "Oui, le fonctionnaire peut refuser tout ordre qui ne lui convient pas"],
+        "reponse_correcte": 1,
+        "explication": "L'obéissance hiérarchique est une obligation, mais elle a une limite : l'ordre manifestement illégal qui compromettrait gravement un intérêt public. Un fonctionnaire ne peut pas invoquer l'obéissance pour couvrir un acte délictueux ou illégal. C'est le principe de responsabilité personnelle qui prévaut dans ce cas."
+      },
+      {
+        "id": 22,
+        "question": "L'obligation de RÉSERVE signifie que le fonctionnaire :",
+        "options": ["N'a aucun droit d'expression politique hors service", "Doit faire preuve de mesure dans l'expression de ses opinions personnelles, surtout dans ses fonctions, sans perdre sa liberté d'expression en dehors", "Doit s'abstenir de toute activité publique", "Ne peut jamais communiquer avec la presse"],
+        "reponse_correcte": 1,
+        "explication": "L'obligation de réserve est une limite à la liberté d'expression du fonctionnaire, pas une suppression. Dans et hors du service, il doit s'exprimer avec modération sur les affaires publiques. La réserve est plus stricte pendant les heures de service et proportionnelle au rang hiérarchique."
+      },
+      {
+        "id": 23,
+        "question": "L'INTERDICTION DU CUMUL D'EMPLOIS (art. 95 SGF) interdit au fonctionnaire :",
+        "options": ["D'exercer toute activité en dehors du service public", "De cumuler son emploi public avec un emploi privé salarié, sauf exceptions autorisées", "De posséder des actions d'entreprises privées", "D'avoir un deuxième logement"],
+        "reponse_correcte": 1,
+        "explication": "L'article 95 du SGF interdit le cumul d'emplois public et privé salarié. Des exceptions sont autorisées sous conditions : activités accessoires (enseignement, expertise ponctuelle, activités artistiques, consultation), à condition d'obtenir l'autorisation de l'autorité hiérarchique et que cela ne nuise pas au service."
+      },
+      {
+        "id": 24,
+        "question": "La PROTECTION DU FONCTIONNAIRE prévue à l'article 73 du SGF signifie que :",
+        "options": ["Le fonctionnaire est protégé contre les sanctions disciplinaires injustes uniquement", "L'État est tenu de protéger le fonctionnaire contre les menaces et violences subies dans l'exercice de ses fonctions et d'en assurer la réparation", "Le fonctionnaire ne peut être arrêté sans autorisation de son supérieur", "L'État garantit l'emploi à vie du fonctionnaire quoi qu'il arrive"],
+        "reponse_correcte": 1,
+        "explication": "L'article 73 du SGF consacre l'obligation de protection de l'État envers ses fonctionnaires victimes de violences, menaces, voies de fait, injures dans le cadre de leur mission. L'État prend en charge la réparation et peut engager des poursuites contre l'auteur des actes. C'est une protection spécifique du statut public."
+      },
+      {
+        "id": 25,
+        "question": "Le droit syndical des fonctionnaires malgaches leur permet :",
+        "options": ["De constituer des syndicats uniquement au niveau national", "De constituer librement des organisations syndicales, d'y adhérer et d'y exercer des mandats", "De faire grève mais pas de constituer de syndicats", "D'adhérer aux syndicats uniquement avec l'accord de leur supérieur"],
+        "reponse_correcte": 1,
+        "explication": "Les fonctionnaires malgaches bénéficient du droit syndical : liberté de constituer des organisations syndicales, d'y adhérer, d'y exercer des mandats de représentation. Ce droit est encadré par des dispositions spécifiques mais son principe est fermement reconnu par le SGF."
+      },
+      {
+        "id": 26,
+        "question": "Les conditions générales d'accès à la fonction publique malgache (art. 16 SGF) comprennent :",
+        "options": ["La nationalité malgache, la jouissance des droits civiques, l'aptitude physique, et la position régulière vis-à-vis du service militaire", "Uniquement la nationalité malgache et un diplôme", "La nationalité malgache, un diplôme bac+4 minimum, et 25 ans d'âge maximum", "Uniquement réussir le concours — aucune autre condition"],
+        "reponse_correcte": 0,
+        "explication": "L'article 16 du SGF fixe les conditions générales : nationalité malgache, jouissance des droits civiques (pas de condamnation privative de droits), position régulière vis-à-vis du service militaire obligatoire, et aptitude physique certifiée par un médecin agréé. S'y ajoutent des conditions spécifiques à chaque corps (âge, diplôme)."
+      },
+      {
+        "id": 27,
+        "question": "Le STAGE PROBATOIRE pour les nouveaux fonctionnaires dure en principe :",
+        "options": ["3 mois", "6 mois", "1 an", "2 ans"],
+        "reponse_correcte": 2,
+        "explication": "Le nouveau recruté est stagiaire pendant 1 an. À l'issue de cette période, son travail est évalué : s'il donne satisfaction, il est TITULARISÉ et devient fonctionnaire à part entière. Dans le cas contraire, il peut être licencié sans avoir jamais acquis le statut de fonctionnaire."
+      },
+      {
+        "id": 28,
+        "question": "Le fonctionnaire peut-il démissionner librement à tout moment ?",
+        "options": ["Oui, comme tout salarié, sans condition", "Non, la démission est soumise à un préavis et doit être acceptée par l'autorité compétente — une démission non acceptée n'est pas opposable", "Oui, mais il perd tous ses droits à pension", "Non, il doit rester jusqu'à la retraite obligatoire"],
+        "reponse_correcte": 1,
+        "explication": "La démission du fonctionnaire n'est pas libre comme pour un salarié de droit privé. Elle doit être formulée dans les formes requises, respecter un préavis, et surtout être ACCEPTÉE par l'autorité compétente. Une démission non acceptée ne met pas fin aux obligations du fonctionnaire."
+      },
+      {
+        "id": 29,
+        "question": "Quelles sont les sanctions du GROUPE 1 (les plus légères) prévues par le SGF ?",
+        "options": ["L'exclusion temporaire et le déplacement d'office", "L'avertissement et le blâme", "La rétrogradation et la révocation", "L'abaissement d'échelon et le retard à l'avancement"],
+        "reponse_correcte": 1,
+        "explication": "Le Groupe 1 comprend les deux sanctions les plus légères : l'avertissement et le blâme. Elles laissent une trace dans le dossier mais n'affectent pas directement la carrière (avancement, traitement). Elles sont effacées après 3 ans sans récidive. Elles ne nécessitent pas la saisine du Conseil de discipline."
+      },
+      {
+        "id": 30,
+        "question": "La sanction disciplinaire la plus grave en droit de la fonction publique malgache est :",
+        "options": ["L'exclusion temporaire de 3 mois", "La révocation avec suppression des droits à pension", "Le déplacement d'office", "La rétrogradation de deux grades"],
+        "reponse_correcte": 1,
+        "explication": "La révocation avec suppression des droits à pension est la sanction ultime (Groupe 4). Elle entraîne la fin définitive des fonctions ET la perte de tous les droits à retraite. C'est la mort civique professionnelle du fonctionnaire, réservée aux fautes les plus graves (corruption grave, crimes, trahison)."
+      },
+      {
+        "id": 31,
+        "question": "Le CONSEIL DE DISCIPLINE est obligatoirement consulté pour :",
+        "options": ["Toutes les sanctions sans exception", "Uniquement pour les sanctions des groupes 2, 3 et 4 (au-delà du simple avertissement/blâme)", "Uniquement pour la révocation", "Jamais — son avis est facultatif dans tous les cas"],
+        "reponse_correcte": 1,
+        "explication": "Le Conseil de discipline n'est saisi que pour les sanctions des groupes 2 à 4 (abaissement d'échelon, retard à l'avancement, exclusion temporaire, déplacement d'office, rétrogradation, révocation). Pour le simple avertissement ou blâme (groupe 1), l'autorité peut statuer directement."
+      },
+      {
+        "id": 32,
+        "question": "L'autorité administrative est-elle liée par l'avis du Conseil de discipline ?",
+        "options": ["Oui, l'avis s'impose à elle", "Non, l'avis est consultatif — l'autorité peut prononcer une sanction différente mais doit recueillir l'avis", "Oui, pour les sanctions du groupe 4 seulement", "Non, elle peut ignorer le Conseil et statuer directement dans tous les cas"],
+        "reponse_correcte": 1,
+        "explication": "L'avis du Conseil de discipline est CONSULTATIF : l'autorité administrative qui prononce la sanction doit le recueillir, mais n'est pas tenue de le suivre. Elle peut donc prononcer une sanction plus lourde ou plus légère que ce que le Conseil a recommandé — mais si elle s'en écarte, elle devra le justifier en cas de recours."
+      },
+      {
+        "id": 33,
+        "question": "La procédure disciplinaire garantit au fonctionnaire :",
+        "options": ["Le droit à être jugé par un tribunal pénal avant toute sanction", "Le droit de consulter son dossier, d'être entendu ou de présenter des observations, et d'avoir l'avis du Conseil de discipline pour les sanctions graves", "Le droit de choisir la sanction appliquée", "Le droit à un avocat obligatoire à tous les stades"],
+        "reponse_correcte": 1,
+        "explication": "La procédure disciplinaire est contradictoire : communication du dossier (pour préparer sa défense), droit d'être entendu ou de présenter des observations écrites, et saisine du Conseil de discipline pour les sanctions graves. C'est le respect des droits de la défense appliqué à la sphère disciplinaire."
+      },
+      {
+        "id": 34,
+        "question": "Un fonctionnaire sanctionné peut former un recours devant :",
+        "options": ["Uniquement le Conseil constitutionnel", "Le tribunal administratif pour excès de pouvoir, en plus des recours gracieux et hiérarchiques", "Uniquement son supérieur hiérarchique direct", "La Cour pénale uniquement"],
+        "reponse_correcte": 1,
+        "explication": "Le fonctionnaire dispose de plusieurs voies de recours : recours gracieux (auprès de l'autorité qui a décidé), recours hiérarchique (auprès du supérieur), et RECOURS CONTENTIEUX devant le tribunal administratif pour excès de pouvoir si la sanction est illégale (vice de procédure, erreur de droit, disproportion manifeste)."
+      },
+      {
+        "id": 35,
+        "question": "L'OBLIGATION DE DISCRÉTION PROFESSIONNELLE interdit au fonctionnaire :",
+        "options": ["De parler à ses collègues de son travail", "De divulguer à des personnes extérieures les informations confidentielles dont il a connaissance dans l'exercice de ses fonctions", "De communiquer avec les usagers", "D'avoir un compte sur les réseaux sociaux"],
+        "reponse_correcte": 1,
+        "explication": "L'obligation de discrétion professionnelle (parfois appelée secret professionnel) interdit au fonctionnaire de divulguer des informations confidentielles acquises dans le cadre de ses fonctions à des personnes non habilitées à les recevoir. C'est différent de la réserve : la discrétion porte sur les informations, la réserve sur les opinions."
+      },
+      {
+        "id": 36,
+        "question": "La NEUTRALITÉ du fonctionnaire dans l'exercice de ses fonctions lui interdit notamment :",
+        "options": ["D'avoir des opinions politiques personnelles", "De favoritisme fondé sur des motifs politiques, ethniques ou religieux dans le traitement des usagers", "D'afficher tout signe vestimentaire personnel", "De voter aux élections"],
+        "reponse_correcte": 1,
+        "explication": "La neutralité dans le service n'interdit pas au fonctionnaire d'avoir des opinions personnelles — c'est un droit citoyen. Elle lui interdit en revanche de les traduire en actes discriminatoires dans l'exercice de ses fonctions : favoritisme politique, discrimination ethnique, traitement différencié selon la religion."
+      },
+      {
+        "id": 37,
+        "question": "La SOCIÉTÉ D'ÉCONOMIE MIXTE (SEM) se caractérise par :",
+        "options": ["Un capital entièrement public", "Un capital entièrement privé sous supervision de l'État", "Un capital mixte associant capitaux publics et capitaux privés", "Une gestion uniquement par des fonctionnaires"],
+        "reponse_correcte": 2,
+        "explication": "La SEM associe des capitaux publics (État, collectivités) et des capitaux privés dans une même société. L'État est actionnaire mais partage le contrôle et le risque avec les investisseurs privés. Ce mode vise à combiner le contrôle public et l'efficacité de gestion privée."
+      },
+      {
+        "id": 38,
+        "question": "La LAÏCITÉ de l'État malgache (art. 2 Constitution 2010) implique pour les services publics :",
+        "options": ["L'interdiction de toute activité religieuse sur le territoire", "La neutralité des services publics vis-à-vis de toutes les religions — ni soutien ni discrimination envers aucune confession", "L'obligation pour les fonctionnaires de n'appartenir à aucune religion", "L'interdiction des jours fériés religieux"],
+        "reponse_correcte": 1,
+        "explication": "L'article 2 de la Constitution de la IVème République de Madagascar affirme le caractère laïc de l'État. Pour les services publics, cela implique une neutralité absolue : ni promotion ni discrimination d'aucune religion. Le fonctionnaire ne peut pas imposer ses convictions religieuses dans le service."
+      },
+      {
+        "id": 39,
+        "question": "Un service public peut-il être géré par une personne PRIVÉE ?",
+        "options": ["Non, le service public est toujours géré directement par l'État", "Oui, par voie de délégation de service public (concession, affermage, régie intéressée)", "Non, sauf exception constitutionnelle", "Oui, mais uniquement pour les services sociaux"],
+        "reponse_correcte": 1,
+        "explication": "Un service public peut parfaitement être géré par une personne privée (entreprise, association) — mais à condition que la personne publique délègue expressément cette gestion et conserve un droit de contrôle et de reprise. C'est la délégation de service public (DSP), sous ses différentes formes."
+      },
+      {
+        "id": 40,
+        "question": "L'Ordonnance n°93-019 du 30 avril 1993 régit :",
+        "options": ["Les fonctionnaires du corps A", "Le statut des agents non encadrés de l'État", "Les établissements publics industriels et commerciaux", "Les sociétés d'économie mixte"],
+        "reponse_correcte": 1,
+        "explication": "L'Ordonnance n°93-019 du 30 avril 1993 organise le statut des agents non encadrés de l'État (ANE) — des agents de l'État qui ne sont pas des fonctionnaires au sens du SGF, ni des contractuels classiques. Ils ont un statut intermédiaire spécifique."
+      },
+      {
+        "id": 41,
+        "question": "Quelle est la principale différence entre la responsabilité DISCIPLINAIRE et la responsabilité PÉNALE d'un fonctionnaire ?",
+        "options": ["Elles sont identiques et ne peuvent être engagées ensemble", "La responsabilité disciplinaire protège le service public (fautes professionnelles), la pénale sanctionne les infractions à la loi. Elles sont indépendantes et cumulables", "La responsabilité pénale s'applique uniquement aux fonctionnaires de haut rang", "La responsabilité disciplinaire est plus sévère que la pénale"],
+        "reponse_correcte": 1,
+        "explication": "Les deux responsabilités sont distinctes et cumulables : un fonctionnaire corrompu peut faire l'objet d'une procédure disciplinaire (révocation) ET de poursuites pénales (emprisonnement, amende) simultanément. La faute disciplinaire est le manquement aux obligations statutaires ; l'infraction pénale est la violation du Code pénal."
+      },
+      {
+        "id": 42,
+        "question": "Le RECRUTEMENT DIRECT (sans concours) est-il possible dans la fonction publique malgache ?",
+        "options": ["Oui, pour tous les emplois publics", "Non, le concours est obligatoire pour tous les emplois", "Oui, des exceptions existent mais le concours reste la voie normale garantissant l'égal accès aux emplois publics", "Oui, pour les emplois politiques uniquement"],
+        "reponse_correcte": 2,
+        "explication": "Le concours est la voie normale et principielle d'accès à la fonction publique, garantissant l'égalité constitutionnelle d'accès aux emplois publics. Des exceptions existent (recrutement sur titres pour certains corps spécialisés, nominations politiques pour certains postes), mais elles sont limitatives et dérogatoires."
+      },
+      {
+        "id": 43,
+        "question": "Le DÉPLACEMENT D'OFFICE comme sanction disciplinaire signifie :",
+        "options": ["Le licenciement du fonctionnaire", "La mutation forcée dans un autre poste ou une autre région sans le consentement du fonctionnaire", "Le retrait temporaire du dossier du fonctionnaire", "La suppression d'une prime mensuelle"],
+        "reponse_correcte": 1,
+        "explication": "Le déplacement d'office est une sanction du Groupe 3 : le fonctionnaire est muté dans un autre poste ou une autre localité contre sa volonté. C'est une sanction qui utilise le principe de mutabilité (le service peut muter un agent) comme instrument disciplinaire."
+      },
+      {
+        "id": 44,
+        "question": "La loi n°2014-020 du 27 septembre 2014 concerne :",
+        "options": ["Le statut général des fonctionnaires", "Les ressources des Collectivités Territoriales Décentralisées (CTD)", "Le régime des établissements publics industriels", "La création des zones franches économiques"],
+        "reponse_correcte": 1,
+        "explication": "La loi n°2014-020 du 27 septembre 2014 relative aux ressources des Collectivités Territoriales Décentralisées (communes, districts, régions) organise leurs finances et leurs capacités à gérer les services publics locaux — notamment les recettes fiscales locales (IFT, IFPB) et les dotations de l'État."
+      },
+      {
+        "id": 45,
+        "question": "La Région DIANA (dont le chef-lieu est Antsiranana) relève de quelle catégorie de personne publique ?",
+        "options": ["Une personne publique nationale (État central)", "Une Collectivité Territoriale Décentralisée (CTD)", "Un établissement public national", "Une société d'économie mixte"],
+        "reponse_correcte": 1,
+        "explication": "La Région DIANA, comme toutes les régions malgaches, est une Collectivité Territoriale Décentralisée (CTD). Elle dispose d'une personnalité morale, d'un budget propre et d'organes élus. Elle peut gérer des services publics locaux (voirie régionale, développement économique, etc.)."
+      },
+      {
+        "id": 46,
+        "question": "Un fonctionnaire qui refuse d'exécuter un ordre manifestement illégal :",
+        "options": ["Commet une faute disciplinaire pour désobéissance hiérarchique", "Exerce un droit et ne peut pas être sanctionné pour cela", "Doit d'abord exécuter puis contester", "Doit démissionner avant de refuser"],
+        "reponse_correcte": 1,
+        "explication": "Le fonctionnaire a non seulement le droit mais le devoir de refuser un ordre manifestement illégal qui compromettrait gravement un intérêt public. Ce refus ne constitue pas une faute disciplinaire. Au contraire, l'exécution d'un tel ordre pourrait engager sa propre responsabilité pénale et disciplinaire."
+      },
+      {
+        "id": 47,
+        "question": "La RÉGIE INTÉRESSÉE se distingue de la concession parce que :",
+        "options": ["Le délégataire investit dans le service", "La collectivité assume les risques financiers tandis que l'entreprise est rémunérée selon ses résultats de gestion", "Le délégataire reçoit une redevance fixe quel que soit le résultat", "La collectivité n'a aucun droit de contrôle"],
+        "reponse_correcte": 1,
+        "explication": "Dans la régie intéressée, c'est la collectivité qui supporte les risques financiers (à la différence de la concession). L'entreprise gestionnaire est rémunérée selon ses résultats de gestion (à la différence de l'affermage où la rémunération vient des redevances usagers). C'est une gestion déléguée avec maintien du risque public."
+      },
+      {
+        "id": 48,
+        "question": "Le droit au CONGÉ ANNUEL d'un fonctionnaire malgache est de :",
+        "options": ["15 jours ouvrables par an", "20 jours ouvrables par an", "30 jours ouvrables par an", "45 jours ouvrables par an"],
+        "reponse_correcte": 2,
+        "explication": "Le Statut Général des Fonctionnaires prévoit 30 jours ouvrables de congé annuel. Ce congé est un droit que l'administration ne peut pas supprimer, même si elle peut en organiser les modalités de prise selon les nécessités du service."
+      },
+      {
+        "id": 49,
+        "question": "La RÉTROGRADATION comme sanction disciplinaire (Groupe 4) entraîne :",
+        "options": ["La perte de l'emploi", "Le passage dans un grade inférieur avec le traitement correspondant à ce grade inférieur", "La suppression des droits à pension", "L'exclusion temporaire sans traitement"],
+        "reponse_correcte": 1,
+        "explication": "La rétrogradation est une sanction grave du Groupe 4 : le fonctionnaire est placé dans un grade inférieur à celui qu'il occupait, avec la rémunération correspondant à ce grade inférieur. Il conserve son emploi mais voit sa position hiérarchique et son traitement diminuer. C'est une sanction moins grave que la révocation mais très significative."
+      },
+      {
+        "id": 50,
+        "question": "Quel est le fondement constitutionnel de l'égal accès aux emplois publics à Madagascar ?",
+        "options": ["Uniquement le Statut Général des Fonctionnaires", "La Constitution de la IVème République de Madagascar (2010) qui garantit l'égalité des droits de tous les citoyens malgaches", "Un décret présidentiel annuel", "La loi de finances"],
+        "reponse_correcte": 1,
+        "explication": "L'égal accès aux emplois publics est un principe constitutionnel fondé sur les dispositions de la Constitution de 2010 sur l'égalité des citoyens. Il implique que tout citoyen malgache remplissant les conditions légales peut candidater à un emploi public, et que le concours est le garant principal de cette égalité."
+      }
+    ]
+  },
+
+  "cas_pratiques": [
+    {
+      "id": "CP1",
+      "titre": "La grève au CHU d'Antsiranana et le principe de continuité",
+      "contexte": "Le personnel infirmier du Centre Hospitalier Universitaire (CHU) d'Antsiranana déclenche une grève illimitée pour revendiquer une revalorisation salariale. 80% des infirmiers cessent le travail. Le service des urgences se retrouve avec seulement 2 infirmiers pour 60 patients habituels.\n\nLe directeur du CHU décide de réquisitionner 15 infirmiers grévistes pour assurer un service minimum aux urgences. Trois infirmiers refusent d'obtempérer à la réquisition.\n\nLe lendemain, le chef de service des urgences, fonctionnaire de Corps A, publie sur les réseaux sociaux un message soutenant vigoureusement la grève et appelant les patients à boycotter le CHU tant que leurs revendications ne sont pas satisfaites.",
+      "questions": [
+        {
+          "numero": 1,
+          "question": "Le directeur du CHU pouvait-il légalement réquisitionner les infirmiers grévistes ?",
+          "reponse_attendue": "OUI. La réquisition des fonctionnaires grévistes pour assurer un service minimum est justifiée par le PRINCIPE DE CONTINUITÉ DU SERVICE PUBLIC.\n\nLe CHU d'Antsiranana est un service public hospitalier. La continuité des soins d'urgence est un impératif absolu — une interruption peut avoir des conséquences mortelles pour les patients.\n\nFONDEMENT JURIDIQUE :\n• Le principe de continuité du service public (trilogie de Rolland) impose le maintien d'un service minimum pour les services essentiels\n• Le SGF (loi n°2003-011) encadre le droit de grève des fonctionnaires : pour certains services essentiels, le droit de grève est limité par l'obligation de service minimum\n• La réquisition est une prérogative de puissance publique disponible pour garantir la continuité des services essentiels\n\nLIMITES : la réquisition doit être proportionnée — réquisitionner les 80% grévistes irait trop loin. Réquisitionner 15 infirmiers sur l'effectif total pour maintenir le service des urgences apparaît proportionné et légalement fondé."
+        },
+        {
+          "numero": 2,
+          "question": "Les 3 infirmiers qui refusent la réquisition commettent-ils une faute ?",
+          "reponse_attendue": "OUI, ET UNE FAUTE GRAVE.\n\nEn refusant d'obtempérer à la réquisition légalement ordonnée par une autorité compétente, les 3 infirmiers violent :\n\n1. L'OBLIGATION D'OBÉISSANCE HIÉRARCHIQUE (SGF) : la réquisition émane du directeur du CHU, autorité compétente. L'ordre n'est pas manifestement illégal — au contraire, il est fondé sur le principe de continuité.\n\n2. L'OBLIGATION DE SERVICE : malgré la grève, la réquisition leur impose de rejoindre le service. C'est précisément l'outil légal pour dépasser le droit de grève dans les services essentiels.\n\n3. LE PRINCIPE DE CONTINUITÉ : leur refus met en danger des vies humaines.\n\nCONSÉQUENCES :\n• FAUTE DISCIPLINAIRE : désobéissance à un ordre légal → procédure disciplinaire → sanction pouvant aller du blâme à l'exclusion temporaire selon les circonstances\n• RESPONSABILITÉ PÉNALE ÉVENTUELLE : si un patient décède ou est gravement lésé du fait du service réduit causé par leur refus, leur responsabilité pénale pourrait être engagée\nLe refus d'exécuter un ordre illégal est un droit. Mais cet ordre est légal — donc le refus est fautif."
+        },
+        {
+          "numero": 3,
+          "question": "Le message publié sur les réseaux sociaux par le chef de service constitue-t-il une violation de ses obligations ?",
+          "reponse_attendue": "OUI, POTENTIELLEMENT — et la situation est nuancée.\n\nDEUX OBLIGATIONS SONT EN CAUSE :\n\n1. L'OBLIGATION DE RÉSERVE : le chef de service (Corps A) doit faire preuve de mesure dans l'expression de ses opinions professionnelles. En tant que cadre supérieur dans une position hiérarchique élevée, son obligation de réserve est plus stricte que celle d'un agent d'exécution.\n\nPublier un message appelant les patients à BOYCOTTER son propre établissement dépasse manifestement les limites de la réserve :\n• Il s'exprime en tant que chef de service, pas comme simple citoyen\n• Il utilise sa position pour nuire à son propre service public\n• Il compromet le fonctionnement du CHU et la santé des patients\n\n2. L'OBLIGATION DE NEUTRALITÉ ET DE LOYAUTÉ envers l'institution : en appelant au boycott du CHU, il travaille contre les intérêts du service public qu'il est chargé de gérer.\n\nLIMITE : soutenir la grève ou partager les revendications salariales en termes modérés, en dehors de ses fonctions, relève de la liberté d'expression. C'est l'appel au boycott qui franchit la ligne.\n\nSANCTION PROBABLE : procédure disciplinaire → avertissement à exclusion temporaire selon les circonstances, la gravité et les conséquences concrètes du message."
+        },
+        {
+          "numero": 4,
+          "question": "La grève est-elle légale dans les services publics hospitaliers à Madagascar ?",
+          "reponse_attendue": "LE DROIT DE GRÈVE EST RECONNU mais encadré.\n\nPRINCIPE : les fonctionnaires malgaches ont le droit de grève, reconnu par le SGF. Le préavis est obligatoire — la grève ne peut pas être déclenchée sans préavis permettant à l'administration de prendre les dispositions nécessaires.\n\nENCАDREMENT DANS LES SERVICES ESSENTIELS :\n• Pour les hôpitaux, le droit de grève est limité par l'impératif de continuité des soins\n• Un service minimum DOIT être maintenu aux urgences, en réanimation, et pour les soins vitaux\n• C'est la loi qui détermine le niveau de service minimum requis\n\nCONCLUSION :\n• La grève du personnel infirmier non réquisitionné EST LÉGALE si le préavis a été respecté\n• Le service minimum imposé par réquisition est LÉGAL et s'impose même aux grévistes\n• Une grève totale sans aucun service minimum aux urgences serait ILLÉGALE car violant le principe de continuité\n\nLe droit de grève et la continuité du service sont deux droits en tension permanente que la loi tente d'équilibrer."
+        }
+      ],
+      "lecon_tiree": "Ce cas illustre la tension permanente entre le droit de grève des fonctionnaires et le principe de continuité du service public. Dans les services essentiels comme les hôpitaux, la continuité prime sur le droit de grève par voie de réquisition légale. Il illustre aussi les limites de l'obligation de réserve : un fonctionnaire peut soutenir une grève, mais ne peut pas travailler activement contre son propre service public."
+    },
+    {
+      "id": "CP2",
+      "titre": "La procédure disciplinaire d'un fonctionnaire corrompu à Antsiranana",
+      "contexte": "Monsieur RABE est agent de guichet au Bureau des Impôts d'Antsiranana, fonctionnaire Corps C depuis 8 ans. Son chef de service reçoit plusieurs plaintes d'usagers : M. RABE exigerait des «frais de dossier» informels pour traiter en priorité les demandes de NIF (Numéro d'Identification Fiscale), allant de 50.000 à 200.000 Ar par dossier.\n\nUne enquête interne confirme les faits : sur 4 mois, M. RABE aurait perçu irrégulièrement environ 2.500.000 Ar de la part de 30 contribuables.\n\nM. RABE est convoqué par son chef de service, reconnaît partiellement les faits en prétextant «c'est la pratique habituelle dans tous les services».",
+      "questions": [
+        {
+          "numero": 1,
+          "question": "Quelles obligations M. RABE a-t-il violées selon le SGF ?",
+          "reponse_attendue": "M. RABE a violé PLUSIEURS obligations fondamentales du SGF :\n\n1. L'OBLIGATION DE DÉSINTÉRESSEMENT (art. 95 SGF et suivants) : interdiction absolue de tirer un profit personnel de sa position. Percevoir des «frais» non réglementaires est exactement ce que cette obligation prohibe.\n\n2. L'OBLIGATION DE NEUTRALITÉ : en traitant en priorité les dossiers de ceux qui payaient, M. RABE a violé l'égalité de traitement des usagers — principe fondamental du service public.\n\n3. L'OBLIGATION DE SERVICE : il a subordonné l'exercice de ses fonctions officielles à des paiements illicites.\n\n4. LE PRINCIPE D'ÉGALITÉ du service public : les usagers qui ne pouvaient pas payer étaient défavorisés.\n\nREMARQUE : l'argument «c'est la pratique habituelle» est sans valeur juridique. La coutume administrative illégale ne peut pas justifier la violation des obligations statutaires. Ce serait admettre que la corruption peut devenir légale par l'usage — ce que le droit rejette catégoriquement."
+        },
+        {
+          "numero": 2,
+          "question": "Quelle procédure disciplinaire doit être suivie et quelle sanction risque M. RABE ?",
+          "reponse_attendue": "PROCÉDURE DISCIPLINAIRE (art. 115-122 SGF) :\n\nÉTAPE 1 : COMMUNICATION DU DOSSIER\nM. RABE doit recevoir communication de l'intégralité de son dossier disciplinaire (rapport d'enquête, témoignages, preuves). Il dispose d'un délai pour préparer sa défense.\n\nÉTAPE 2 : AUDITION / OBSERVATIONS\nM. RABE doit être entendu ou invité à présenter ses observations écrites. Son droit à la défense est constitutionnellement garanti.\n\nÉTAPE 3 : SAISINE DU CONSEIL DE DISCIPLINE\nLa gravité des faits (corruption répétée sur 4 mois, 2,5 millions d'ariary) implique une sanction d'au moins le Groupe 3 ou 4, nécessitant obligatoirement la saisine du Conseil de discipline (organe paritaire — représentants administration + représentants élus des fonctionnaires).\n\nÉTAPE 4 : AVIS DU CONSEIL DE DISCIPLINE\nLe Conseil rend son avis motivé. Vu la gravité, il recommandera probablement une sanction sévère.\n\nÉTAPE 5 : DÉCISION DE L'AUTORITÉ COMPÉTENTE\nLe directeur (ou le ministre) prononce la sanction.\n\nSANCTION PROBABLE :\nLa corruption répétée et délibérée de 4 mois sur 2,5 millions Ar est une faute TRÈS GRAVE. La sanction probable : RÉVOCATION (Groupe 4), avec possible suppression des droits à pension selon les circonstances aggravantes.\n\nPLUSIEURS SANCTIONS PEUVENT ÊTRE ÉCARTÉES : les sanctions légères (avertissement, blâme) sont clairement inadaptées à la gravité des faits."
+        },
+        {
+          "numero": 3,
+          "question": "M. RABE peut-il également faire l'objet de poursuites pénales ?",
+          "reponse_attendue": "OUI, ET C'EST INDÉPENDANT DE LA PROCÉDURE DISCIPLINAIRE.\n\nLes faits constituent le délit de CORRUPTION PASSIVE d'un agent public (art. 177 et suivants du Code pénal malgache) :\n• M. RABE est fonctionnaire (agent public)\n• Il a sollicité et accepté des sommes d'argent\n• En échange de l'accomplissement d'actes relevant de sa fonction\n• De façon répétée et délibérée\n\nCONSÉQUENCES PÉNALES POTENTIELLES :\n• Peine d'emprisonnement (variable selon le Code pénal malgache et les circonstances)\n• Amende\n• Interdiction d'exercer des fonctions publiques\n• Remboursement des sommes indûment perçues\n\nPARTICIPATION DES VICTIMES : les 30 contribuables qui ont payé peuvent se constituer parties civiles et réclamer le remboursement des sommes versées + dommages-intérêts.\n\nINDÉPENDANCE DES PROCÉDURES : la sanction disciplinaire et la condamnation pénale sont INDÉPENDANTES et CUMULABLES. M. RABE peut être révoqué (discipline) ET condamné à de la prison (pénal) pour les mêmes faits — le principe non bis in idem ne s'applique pas entre les deux ordres."
+        },
+        {
+          "numero": 4,
+          "question": "M. RABE peut-il contester la sanction disciplinaire qui lui sera infligée ?",
+          "reponse_attendue": "OUI. M. RABE dispose de PLUSIEURS voies de recours :\n\n1. RECOURS GRACIEUX : saisir l'autorité qui a prononcé la sanction pour lui demander de la rapporter ou de la réduire. Délai limité. Chances de succès faibles vu la gravité des faits prouvés.\n\n2. RECOURS HIÉRARCHIQUE : saisir le supérieur de l'autorité qui a décidé (ex : si c'est le directeur qui a décidé, saisir le ministre de tutelle).\n\n3. RECOURS CONTENTIEUX devant le TRIBUNAL ADMINISTRATIF pour excès de pouvoir :\nM. RABE peut contester :\n• La RÉGULARITÉ DE LA PROCÉDURE : a-t-il bien reçu son dossier ? A-t-il pu s'exprimer ? Le Conseil de discipline a-t-il été régulièrement saisi et composé ?\n• L'EXACTITUDE MATÉRIELLE DES FAITS : les faits sont-ils prouvés ?\n• LA QUALIFICATION DES FAITS : les faits constituent-ils bien la faute reprochée ?\n• LA PROPORTIONNALITÉ : la sanction est-elle disproportionnée par rapport aux faits ?\n\nCHANCES DE SUCCÈS :\nSi la procédure a été régulièrement suivie et les faits clairement établis, le tribunal administratif a peu de chances d'annuler la révocation. Il pourrait éventuellement moduler si M. RABE prouve des vices de procédure — mais sur le fond, les faits sont graves et démontrés."
+        }
+      ],
+      "lecon_tiree": "Ce cas illustre la convergence de la responsabilité disciplinaire et pénale dans les cas de corruption de fonctionnaires. Il montre aussi comment les principes fondamentaux du service public (égalité, neutralité, désintéressement) sont directement traduits en obligations statutaires dont la violation est sanctionnée. La corruption dans le service public est doublement sanctionnée : elle trahit à la fois l'usager et l'institution. La procédure disciplinaire, bien que contraignante, garantit les droits de la défense même pour les fautes les plus graves."
+    }
+  ],
+
+  "references_legales": [
+    { "texte": "Constitution IVème République Madagascar (2010), art. 2", "sujet": "Laïcité de l'État" },
+    { "texte": "Constitution (2010), art. 14, 21, 22, 26", "sujet": "Fondements constitutionnels des services publics" },
+    { "texte": "Loi n°2003-011 du 3 septembre 2003 — SGF, art. 1-5", "sujet": "Définition et conditions du fonctionnaire" },
+    { "texte": "SGF art. 16", "sujet": "Conditions générales d'accès à la fonction publique" },
+    { "texte": "SGF art. 27", "sujet": "Recrutement par concours — voie normale d'accès" },
+    { "texte": "SGF art. 40-48", "sujet": "Avancement d'échelon (automatique) et de grade (conditionné)" },
+    { "texte": "SGF art. 54-58", "sujet": "Les quatre positions administratives du fonctionnaire" },
+    { "texte": "SGF art. 59-84", "sujet": "Droits des fonctionnaires : rémunération, congés, protection, syndicats" },
+    { "texte": "SGF art. 73", "sujet": "Obligation de protection de l'État envers ses fonctionnaires" },
+    { "texte": "SGF art. 85-107", "sujet": "Obligations des fonctionnaires : service, obéissance, réserve, discrétion, neutralité, désintéressement" },
+    { "texte": "SGF art. 95", "sujet": "Interdiction du cumul d'emplois" },
+    { "texte": "SGF art. 108-130", "sujet": "Sanctions disciplinaires — 4 groupes" },
+    { "texte": "SGF art. 115-122", "sujet": "Procédure disciplinaire — droits de la défense — Conseil de discipline" },
+    { "texte": "Ordonnance n°93-019 du 30 avril 1993", "sujet": "Statut des agents non encadrés de l'État (ANE)" },
+    { "texte": "Loi n°2014-020 du 27 septembre 2014", "sujet": "Ressources des Collectivités Territoriales Décentralisées" },
+    { "texte": "Principes de Rolland (doctrine)", "sujet": "Continuité, mutabilité, égalité du service public" }
+  ]
+}
+ 
