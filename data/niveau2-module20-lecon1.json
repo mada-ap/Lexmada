@@ -1,0 +1,512 @@
+{
+  "niveau": 2,
+  "niveau_label": "Intermédiaire",
+  "module": 20,
+  "titre": "Le droit fiscal — principes généraux",
+  "description": "Ce module pose les fondements du droit fiscal malgache : à quoi sert l'impôt, qui le paie, comment il est calculé, quels sont les grands impôts en vigueur à Madagascar, et quels droits et obligations lient le contribuable à l'Administration fiscale.",
+  "duree_estimee": "55 minutes",
+  "source_legale": "Code des Impôts (CDI) Madagascar issu de la loi n°99-032 — mis à jour par la Loi de Finances pour 2025 (loi n°2024-025) et la Loi de Finances pour 2026 (loi n°2025-021) / Code des Procédures Fiscales (CPF) introduit par la LFI 2023",
+
+  "lecon": {
+    "introduction": "Chaque fois que vous achetez un kilo de riz au marché d'Antsiranana, une fraction du prix que vous payez ira dans les caisses de l'État sous forme de taxe. Chaque salarié de Diego Suarez voit une partie de son salaire prélevée automatiquement. Chaque commerçant du marché central doit déclarer ses revenus. Tout cela, c'est le droit fiscal. Il organise la façon dont l'État collecte les ressources pour financer les routes, les hôpitaux, les écoles. Ce module vous explique comment ce système fonctionne à Madagascar, de A à Z.",
+
+    "parties": [
+      {
+        "id": "P1",
+        "titre": "Qu'est-ce que le droit fiscal et à quoi sert l'impôt ?",
+        "contenu": "Le DROIT FISCAL est l'ensemble des règles juridiques qui définissent les impôts, taxes et prélèvements obligatoires : qui les doit, sur quelle base, à quel taux, comment les payer, et quels recours existent en cas de litige.\n\nÀ Madagascar, le droit fiscal repose sur deux textes fondamentaux depuis la réforme de 2023 :\n• Le CODE DES IMPÔTS (CDI) : définit les impôts, leurs assiettes, leurs taux et leurs règles de fond\n• Le CODE DES PROCÉDURES FISCALES (CPF) : définit les règles de contrôle, de recouvrement et de contentieux\n\nLES FONCTIONS DE L'IMPÔT\n\nL'impôt n'est pas une punition. Il remplit plusieurs fonctions essentielles :\n\n1. FONCTION BUDGÉTAIRE (financière) : c'est la fonction première. L'impôt finance les dépenses de l'État : fonctionnaires, armée, justice, santé publique, routes, écoles. Sans impôt, pas d'État.\n\n2. FONCTION ÉCONOMIQUE : l'impôt peut encourager ou décourager certains comportements économiques. Exemple : une exonération fiscale pour les entreprises franches à Madagascar attire les investisseurs étrangers. Un droit d'accise élevé sur l'alcool décourage sa consommation.\n\n3. FONCTION SOCIALE (redistributive) : l'impôt progressif — où les riches paient plus que les pauvres — réduit les inégalités. Les recettes fiscales financent des services utilisés par tous : soins aux indigents, écoles publiques gratuites.\n\nLES PRINCIPES FONDAMENTAUX DE L'IMPÔT\n\nQuatre principes gouvernent tout système fiscal légitime :\n\n• LÉGALITÉ : aucun impôt ne peut exister sans être créé par la loi. À Madagascar, c'est la Constitution et les lois de finances qui instituent les impôts. Nul ne peut se voir imposer un prélèvement non prévu par un texte légal.\n\n• ÉGALITÉ : tous les contribuables dans une situation identique sont imposés de façon identique. C'est le principe d'égalité devant les charges publiques, issu de la Constitution malgache.\n\n• ANNUALITÉ : les impôts sont en principe établis et recouvrés chaque année. Les lois de finances sont votées annuellement pour ajuster les taux et règles si nécessaire.\n\n• NÉCESSITÉ : «Pour l'entretien de la force publique et pour les dépenses d'administration, une contribution commune est indispensable» — ce principe, universel, justifie le caractère obligatoire de l'impôt.",
+
+        "exemple_concret": "Antsiranana bénéficie d'une nouvelle route nationale. Qui l'a financée ? Les recettes fiscales collectées par la DGI (Direction Générale des Impôts) auprès des contribuables de toute Madagascar. L'impôt payé par un commerçant de Diego Suarez finance des infrastructures qui profitent à l'ensemble de la population — c'est le principe de solidarité fiscale nationale."
+      },
+      {
+        "id": "P2",
+        "titre": "Les notions clés : assiette, taux, liquidation, recouvrement",
+        "contenu": "Pour comprendre n'importe quel impôt, il faut maîtriser quatre notions techniques indispensables.\n\n━━━ 1. L'ASSIETTE DE L'IMPÔT ━━━\n\nC'est la BASE sur laquelle l'impôt est calculé. C'est la réponse à la question : «sur quoi calcule-t-on l'impôt ?»\n\nExemples concrets :\n• Pour l'IR (Impôt sur le Revenu) : l'assiette = les revenus nets perçus dans l'année\n• Pour la TVA : l'assiette = le prix de vente hors taxes\n• Pour l'Impôt Synthétique : l'assiette = le chiffre d'affaires brut réalisé\n• Pour l'IFPB (Impôt Foncier sur la Propriété Bâtie) : l'assiette = la valeur locative du bien immobilier\n\n━━━ 2. LE TAUX D'IMPOSITION ━━━\n\nC'est le pourcentage appliqué à l'assiette pour calculer le montant de l'impôt dû. Il peut être :\n\n• PROPORTIONNEL (flat tax) : le même taux s'applique quelle que soit la base. Exemple : TVA à 20% quel que soit le montant de la transaction. L'IR à 20% pour les personnes morales.\n\n• PROGRESSIF : le taux augmente par tranches au fur et à mesure que la base augmente. C'est le système de l'IRSA (Impôt sur les Revenus Salariaux et Assimilés) : les premiers ariary sont peu taxés, les revenus élevés le sont davantage.\n\n━━━ 3. LA LIQUIDATION ━━━\n\nC'est l'opération par laquelle on CALCULE le montant exact de l'impôt à payer, en appliquant le taux à l'assiette, et en tenant compte des déductions, crédits d'impôt et exonérations éventuels.\n\nAssiette × Taux = Impôt brut → Impôt brut − Déductions = Impôt net à payer\n\n━━━ 4. LE RECOUVREMENT ━━━\n\nC'est l'opération par laquelle l'Administration collecte effectivement l'impôt. Il peut se faire de trois façons :\n\n• RECOUVREMENT PAR VOIE DE RÔLE : l'Administration émet un rôle (liste des contribuables avec les montants dus) et le contribuable paie sur cette base.\n\n• RETENUE À LA SOURCE : l'impôt est prélevé directement par un tiers avant versement au contribuable. Exemple : l'IRSA est retenu sur le salaire par l'employeur qui le verse à la DGI.\n\n• PAIEMENT SPONTANÉ : le contribuable calcule lui-même son impôt, dépose sa déclaration et paie. Exemple : la TVA et l'Impôt Synthétique.",
+
+        "exemple_concret": "Rasoa est salariée à Antsiranana. Son salaire brut mensuel est de 800.000 Ar.\n1. ASSIETTE : on déduit les cotisations CNaPS et OSIE → base imposable = environ 740.000 Ar\n2. TAUX : on applique le barème progressif de l'IRSA (tranches de 0% à 25% selon LFI 2026)\n3. LIQUIDATION : calcul de l'IRSA mensuel selon les tranches\n4. RECOUVREMENT : l'employeur retient l'IRSA à la source et le verse à la DGI au plus tard le 15 du mois suivant\nRasoa ne fait rien — l'impôt est automatiquement prélevé. C'est la retenue à la source."
+      },
+      {
+        "id": "P3",
+        "titre": "La classification des impôts à Madagascar",
+        "contenu": "Le système fiscal malgache organise les impôts selon plusieurs critères. Comprendre ces classifications permet de s'orienter dans le Code des Impôts.\n\n━━━ IMPÔTS DIRECTS / IMPÔTS INDIRECTS ━━━\n\n• IMPÔTS DIRECTS : frappent directement une personne ou ses biens, de façon nominative et permanente. Le contribuable connaît son impôt et le paie en son nom. Exemples :\n  — Impôt sur les Revenus (IR)\n  — Impôt sur les Revenus Salariaux et Assimilés (IRSA)\n  — Impôt Foncier sur le Terrain (IFT)\n  — Impôt Foncier sur la Propriété Bâtie (IFPB)\n  — Impôt Synthétique (IS)\n\n• IMPÔTS INDIRECTS : frappent des actes, des opérations ou des transactions. Ils sont souvent répercutés sur d'autres personnes (le consommateur final). Exemples :\n  — Taxe sur la Valeur Ajoutée (TVA) : 20%\n  — Droits d'Accises (DA) : sur l'alcool, tabac, carburant\n  — Droits de Douane : à l'importation\n  — Taxe sur les Transactions (TST)\n\n━━━ IMPÔTS NATIONAUX / IMPÔTS LOCAUX ━━━\n\n• IMPÔTS NATIONAUX : perçus au profit du budget de l'État central. Exemples : IR, TVA, Impôt Synthétique, IRSA.\n\n• IMPÔTS LOCAUX : perçus au profit des communes et collectivités décentralisées de Madagascar. Exemples : IFT (Impôt Foncier sur les Terrains), IFPB (Impôt Foncier sur la Propriété Bâtie). Ces impôts financent les services de voirie, les marchés communaux, l'éclairage public.\n\n━━━ IMPÔTS RÉELS / IMPÔTS PERSONNELS ━━━\n\n• IMPÔTS RÉELS : calculés sur la valeur d'un bien ou d'une opération, sans tenir compte de la situation personnelle du contribuable. Exemples : IFT, TVA.\n\n• IMPÔTS PERSONNELS : tiennent compte de la situation personnelle du contribuable (charges de famille, situation matrimoniale, santé financière). Exemple : l'IRSA qui prévoit des abattements selon le nombre d'enfants.",
+
+        "exemple_concret": "Hery achète un téléphone à 500.000 Ar dans une boutique d'Antsiranana :\n• Il paie la TVA (impôt indirect) incluse dans le prix : 500.000 Ar = prix HT + 20% TVA. Le vendeur collecte la TVA et la reverse à la DGI.\n\nHery possède aussi une maison à Diego Suarez :\n• Il paie l'IFPB (impôt direct réel) à la commune — calculé sur la valeur locative de sa maison.\n\nHery est salarié :\n• Son employeur prélève l'IRSA (impôt direct personnel) sur son salaire et le verse à la DGI.\n\nUn même contribuable peut payer plusieurs impôts de nature différente simultanément."
+      },
+      {
+        "id": "P4",
+        "titre": "Les trois régimes d'imposition des entreprises à Madagascar",
+        "contenu": "C'est l'un des aspects les plus pratiques du droit fiscal malgache. Toute entreprise ou personne exerçant une activité à Madagascar relève d'un des trois régimes d'imposition, déterminé principalement par son chiffre d'affaires annuel.\n\n━━━ RÉGIME 1 : L'IMPÔT SYNTHÉTIQUE (IS) ━━━\n\nPour qui ? Personnes physiques ou morales dont le chiffre d'affaires annuel est INFÉRIEUR à 200.000.000 Ar (200 millions d'ariary).\n\nPrincipe : un impôt unique et simplifié qui remplace tous les autres impôts professionnels. «Synthétique» car il synthétise en un seul paiement l'ensemble de la charge fiscale de la petite entreprise.\n\nBase de calcul : le chiffre d'affaires annuel (CA brut, sans déduction de charges).\nTaux : fixé par le Code des Impôts — minimum d'imposition de 3.000 Ar.\nDéclaration : au plus tard le 31 mars de l'année suivante.\nNOTE : toute entreprise nouvellement créée est automatiquement soumise à ce régime (CPF, art. I-17).\n\nATTENTION : l'ISI (Impôt Synthétique Intermittent) a été SUPPRIMÉ par la LFI 2026.\n\n━━━ RÉGIME 2 : IR SANS TVA ━━━\n\nPour qui ? Entreprises dont le CA est compris entre 200.000.000 Ar et 400.000.000 Ar.\n\nPrincipe : l'entreprise tient une comptabilité, déclare ses bénéfices réels et paie l'Impôt sur les Revenus (IR), mais n'est pas assujettie à la TVA.\n\nTaux IR personnes physiques : barème progressif ou taux global sur option.\nTaux IR personnes morales : 20% du bénéfice net (art. 01.01.14 CDI).\n\nCe régime convient aux entreprises de taille intermédiaire qui veulent tenir une vraie comptabilité sans la lourdeur de la TVA.\n\n━━━ RÉGIME 3 : IR AVEC TVA ━━━\n\nPour qui ? Entreprises dont le CA est SUPÉRIEUR ou ÉGAL à 400.000.000 Ar (400 millions d'ariary), ou qui optent volontairement pour ce régime.\n\nPrincipe : la grande entreprise paie l'IR sur ses bénéfices ET collecte la TVA sur ses ventes, qu'elle reverse à l'État.\n\nTaux IR personnes morales : 20% (art. 01.01.14 CDI).\nTVA : 20% sur le CA (taux général).\nDéclaration TVA : mensuelle, au plus tard le 15 du mois suivant.\n\nCe régime implique une comptabilité complète et rigoureuse.\n\n━━━ LES TAUX ACTUELS IR / IRSA (LFI 2026) ━━━\n\nPour les personnes physiques (IRSA — barème progressif depuis LFI 2026) :\n• Tranche 1 : de 0 à 350.000 Ar/mois → 0%\n• Tranche 2 : de 350.001 à 400.000 Ar/mois → 5%\n• Tranche 3 : de 400.001 à 500.000 Ar/mois → 10%\n• Tranche 4 : de 500.001 à 600.000 Ar/mois → 15%\n• Tranche 5 : de 600.001 à 4.000.000 Ar/mois → 20%\n• Tranche 6 : au-delà de 4.000.000 Ar/mois → 25% (NOUVEAU — LFI 2026)",
+
+        "exemple_concret": "Comment choisir son régime ?\n\nFanja vend des épices au marché d'Antsiranana, CA annuel : 50 millions d'Ar → IMPÔT SYNTHÉTIQUE\n\nHery a un cabinet de conseil, CA annuel : 280 millions d'Ar → IR SANS TVA\n\nLa société DIANA TRADING, CA annuel : 800 millions d'Ar → IR AVEC TVA\n\nChaque régime a ses obligations déclaratives et ses contraintes. Le bon classement est fondamental pour être en règle avec la DGI."
+      },
+      {
+        "id": "P5",
+        "titre": "Les principaux impôts malgaches en détail",
+        "contenu": "Le Code des Impôts malgache contient de nombreux impôts. Voici les plus importants à connaître.\n\n━━━ LA TVA (Taxe sur la Valeur Ajoutée) ━━━\n\nC'est l'impôt le plus «visible» pour le consommateur. Elle frappe la VALEUR AJOUTÉE à chaque stade de production et de commercialisation.\n\nTaux général : 20% (art. 06.01.01 CDI).\nSeuil d'assujettissement obligatoire : CA ≥ 400.000.000 Ar.\nPaiement : mensuel, au plus tard le 15 du mois suivant (art. 06.01.16 CDI).\n\nMécanisme de la TVA DÉDUCTIBLE : l'entreprise assujettie ne paie pas la TVA sur toute sa vente. Elle déduit la TVA qu'elle a elle-même payée sur ses achats (TVA en amont) et ne reverse à l'État que la différence.\nTVA à payer = TVA collectée (sur ventes) − TVA déductible (sur achats)\n\n━━━ L'IRSA (Impôt sur les Revenus Salariaux et Assimilés) ━━━\n\nImpôt prélevé à la SOURCE sur les salaires, primes, avantages en nature de tous les salariés.\nBase : salaire brut − cotisations CNaPS − cotisations OSIE.\nBarème progressif : 0% à 25% selon les tranches (LFI 2026 — nouvelle tranche à 25% au-delà de 4 millions Ar/mois).\nQui paie ? L'employeur prélève et reverse. Le salarié ne fait rien.\nEchéance : au plus tard le 15 du mois suivant.\n\n━━━ L'IRCM (Impôt sur les Revenus des Capitaux Mobiliers) ━━━\n\nImpôt annuel sur les revenus des actifs mobiliers : intérêts de dépôts bancaires, dividendes, produits d'obligations.\nLFI 2026 : l'IRCM payé a désormais un caractère libératoire de l'IR et de l'IS (mais pas l'inverse).\n\n━━━ L'IMP (Impôt sur les Marchés Publics) ━━━\n\nTout titulaire d'un marché public à Madagascar est soumis à un acompte de 5 pour mille (0,5%) du montant du marché lors de l'enregistrement du contrat. Cet impôt spécifique concerne donc les entreprises qui travaillent avec l'État ou les collectivités.\n\n━━━ L'IFT ET L'IFPB (Impôts Fonciers) ━━━\n\nImpôts LOCAUX perçus par les communes.\n• IFT (Impôt Foncier sur les Terrains) : 1% de la valeur marchande du terrain nu.\n• IFPB (Impôt Foncier sur la Propriété Bâtie) : entre 5% et 10% de la valeur locative annuelle du bâtiment. Pour les biens résidentiels : 1/3 de leur valeur.\n\n━━━ LES DROITS D'ACCISES (DA) ━━━\n\nImpôts indirects frappant des produits spécifiques considérés comme non essentiels ou dangereux : alcools, tabacs, produits pétroliers, véhicules de luxe. Le taux varie selon le produit.\n\n━━━ LES DROITS D'ENREGISTREMENT ━━━\n\nFrappent certains actes juridiques : contrats de vente immobilière, mutations, contrats de société, baux, etc. Ils sont dus lors de la formalité d'enregistrement de l'acte.",
+
+        "exemple_concret": "La société DIANA SERVICES vend une prestation à 10.000.000 Ar HT. Elle est assujettie à la TVA à 20%.\n\n• Elle facture à son client : 10.000.000 + 20% TVA = 12.000.000 Ar TTC\n• Elle a acheté des fournitures à 2.000.000 Ar HT avec TVA = 2.400.000 Ar TTC\n• TVA collectée : 2.000.000 Ar\n• TVA déductible : 400.000 Ar\n• TVA à reverser à la DGI = 2.000.000 − 400.000 = 1.600.000 Ar\n\nLa TVA ne coûte rien à DIANA SERVICES : elle la collecte pour l'État. C'est le client final qui supporte la charge réelle."
+      },
+      {
+        "id": "P6",
+        "titre": "Les obligations du contribuable et les droits de l'Administration fiscale",
+        "contenu": "La relation entre le contribuable et la DGI (Direction Générale des Impôts) est encadrée par des droits et obligations réciproques.\n\n━━━ LES OBLIGATIONS DU CONTRIBUABLE ━━━\n\n1. L'IMMATRICULATION (NIF) : toute personne physique ou morale exerçant une activité à Madagascar doit obtenir un Numéro d'Identification Fiscale (NIF) auprès de la DGI. C'est l'identifiant fiscal unique. L'adresse exacte doit être communiquée lors de la création (CPF art. I-17).\n\n2. LA TENUE DE COMPTABILITÉ : les contribuables soumis à l'IR (avec ou sans TVA) doivent tenir une comptabilité régulière conforme aux normes SYSCOHADA (système comptable en vigueur à Madagascar).\n\n3. LA DÉCLARATION : tout contribuable doit déposer ses déclarations dans les délais légaux, même en l'absence d'activité ou de revenus (déclaration néant). Les échéances principales :\n• IS (Impôt Synthétique) : 31 mars de l'année suivante\n• IR (personnes morales) : dans les 3 mois de la clôture\n• IRSA : le 15 du mois suivant\n• TVA : le 15 du mois suivant\n\n4. LE PAIEMENT : le paiement doit intervenir au moment du dépôt de la déclaration. Tout retard génère des pénalités.\n\n━━━ LES DROITS DE L'ADMINISTRATION FISCALE (DGI/CPF) ━━━\n\n1. DROIT DE CONTRÔLE : la DGI peut contrôler les déclarations et la comptabilité des contribuables. Deux types principaux :\n• Le contrôle sur pièces (au bureau de la DGI, sur les documents fournis)\n• La vérification de comptabilité (sur place, dans les locaux du contribuable)\n\n2. DROIT DE REPRISE : la DGI peut corriger les déclarations erronées et émettre un redressement fiscal dans le délai de prescription (généralement 3 ans à partir de l'année de déclaration).\n\n3. DROIT DE COMMUNICATION : la DGI peut exiger des tiers (banques, clients, fournisseurs) des informations sur les opérations d'un contribuable.\n\n━━━ LES DROITS DU CONTRIBUABLE ━━━\n\nLe contribuable n'est pas sans défense :\n• Droit à l'INFORMATION : la DGI doit informer le contribuable de la nature et du montant de tout redressement envisagé.\n• Droit de RÉPONSE : le contribuable dispose d'un délai pour répondre aux propositions de rectification.\n• RECOURS GRACIEUX : le contribuable peut solliciter une remise ou modération de sa dette fiscale auprès du chef de centre fiscal.\n• RECOURS CONTENTIEUX : si le litige persiste, le contribuable peut saisir le tribunal administratif. Madagascar a aussi développé des mécanismes de MAAC (Mécanisme d'Accord Amiable entre Contribuables) qui entrent en vigueur le 1er janvier 2026 pour régler les litiges hors tribunal.",
+
+        "exemple_concret": "Voahangy tient une boutique à Antsiranana. Elle n'a pas déclaré ses revenus pendant 2 ans. La DGI effectue une vérification de comptabilité. Elle reconstitue son chiffre d'affaires et propose un redressement de 3.000.000 Ar d'impôts non payés + pénalités de retard.\n\nVoahangy a le droit :\n1. De recevoir la proposition de rectification par écrit\n2. De répondre et fournir ses justificatifs dans le délai imparti\n3. De saisir le chef de centre fiscal pour un recours gracieux si elle conteste\n4. De saisir le tribunal administratif en dernier recours\n\nIgnorer un avis de redressement = acceptation tacite et exécution forcée sur ses biens."
+      },
+      {
+        "id": "P7",
+        "titre": "Les sanctions fiscales et les mécanismes d'évitement légal",
+        "contenu": "LE DROIT FISCAL SANCTION : ce qui arrive quand on ne paie pas\n\nLe Code des Procédures Fiscales prévoit des sanctions graduées :\n\n• MAJORATION DE DROITS : en cas de déclaration tardive, un pourcentage s'ajoute automatiquement au montant dû.\n• INTÉRÊTS DE RETARD : calculés sur le montant non payé, par mois de retard.\n• PÉNALITÉS POUR MAUVAISE FOI : si la DGI prouve que le contribuable a dissimulé sciemment ses revenus, les pénalités sont majorées significativement.\n• SANCTIONS PÉNALES : la fraude fiscale délibérée peut entraîner des poursuites pénales en plus des pénalités civiles.\n\nDISTINGUER ÉVASION FISCALE, OPTIMISATION ET FRAUDE\n\nCes trois notions sont fondamentales :\n\n• L'OPTIMISATION FISCALE : utiliser légalement les dispositions du Code des Impôts pour réduire sa charge fiscale. C'est légal et courant. Exemple : choisir le régime fiscal le plus favorable, déduire toutes les charges autorisées.\n\n• L'ÉVASION FISCALE : déplacer ses revenus ou actifs hors de Madagascar pour éviter l'impôt malgache. C'est illégal mais difficile à prouver. Madagascar a signé des conventions fiscales internationales (dont une avec le Canada en 2016) pour lutter contre l'évasion.\n\n• LA FRAUDE FISCALE : dissimuler des revenus, falsifier des documents, présenter de fausses factures. C'est un délit pénal.\n\nLES PRIX DE TRANSFERT (art. 01.01.20 CDI) :\nQuestion spécifique aux groupes multinationaux. Si une entreprise malgache fait des transactions avec une entreprise liée à l'étranger à des prix artificiellement bas (pour transférer les bénéfices hors de Madagascar), la DGI peut les redresser sur la base des prix du marché (prix de pleine concurrence).\n\nLE FONDS DE GARANTIE FISCAL :\nLes contribuables qui ont un litige avec la DGI peuvent, sous conditions, obtenir un sursis de paiement pendant la procédure contentieuse — à condition de constituer des garanties suffisantes.",
+
+        "exemple_concret": "Trois commerçants d'Antsiranana :\n\n• ALPHA : il déclare 300 millions d'Ar de CA mais en réalité il en a réalisé 500 millions. Il ne paie l'impôt que sur 300 millions. C'est de la FRAUDE FISCALE — délit pénal.\n\n• BÊTA : il sait qu'avec 390 millions de CA, il reste sous le seuil TVA (400 millions). Il structure son activité pour rester en dessous. C'est de l'OPTIMISATION FISCALE — légale.\n\n• GAMMA : il transfère ses bénéfices à une société-écran aux Îles Maurice à des prix trafiqués. C'est de l'ÉVASION FISCALE — illégale, visée par les conventions fiscales internationales signées par Madagascar."
+      }
+    ],
+
+    "resume": "Le droit fiscal malgache repose sur le Code des Impôts (CDI) et le Code des Procédures Fiscales (CPF), régulièrement mis à jour par les lois de finances annuelles. Quatre principes gouvernent tout impôt : légalité, égalité, annualité, nécessité. Pour calculer un impôt, il faut identifier l'assiette (la base), le taux, puis procéder à la liquidation et au recouvrement. Les entreprises relèvent de trois régimes selon leur CA : Impôt Synthétique (CA < 200M Ar), IR sans TVA (200M à 400M Ar), IR avec TVA (CA ≥ 400M Ar). Les principaux impôts sont la TVA (20%), l'IRSA (barème progressif jusqu'à 25% depuis LFI 2026), l'IR (20% pour les personnes morales), et les impôts locaux (IFT, IFPB). Le contribuable a des obligations (NIF, déclaration, paiement) et des droits (information, réponse, recours).",
+
+    "points_cles": [
+      "Deux textes fondamentaux : Code des Impôts (CDI) + Code des Procédures Fiscales (CPF) depuis 2023",
+      "4 principes : légalité, égalité, annualité, nécessité",
+      "4 notions techniques : assiette, taux, liquidation, recouvrement",
+      "3 régimes entreprises : IS (CA < 200M), IR sans TVA (200-400M), IR avec TVA (≥ 400M)",
+      "TVA : taux général 20% — seuil obligatoire CA ≥ 400M Ar — déclaration mensuelle le 15",
+      "IRSA : barème progressif 0% à 25% depuis LFI 2026 (nouvelle tranche au-delà de 4M Ar/mois)",
+      "IR personnes morales : taux fixe de 20% du bénéfice net (art. 01.01.14 CDI)",
+      "IS (Impôt Synthétique) : déclaration au 31 mars — ISI supprimé par LFI 2026",
+      "IFT : impôt local — 1% de la valeur marchande du terrain",
+      "IFPB : impôt local — 5% à 10% de la valeur locative",
+      "Droits contribuable : NIF obligatoire, déclaration dans les délais, recours gracieux et contentieux",
+      "Fraude ≠ optimisation ≠ évasion : seule la fraude est pénalement réprimée"
+    ]
+  },
+
+  "quiz": {
+    "instructions": "50 questions pour tester votre maîtrise du module. Une seule bonne réponse par question.",
+    "questions": [
+      {
+        "id": 1,
+        "question": "Depuis la réforme de 2023, le droit fiscal malgache repose sur :",
+        "options": ["Un seul Code Général des Impôts", "Le Code des Impôts (CDI) et le Code des Procédures Fiscales (CPF)", "Le Code des Obligations et le Code des Impôts", "La loi de finances et le décret d'application annuel"],
+        "reponse_correcte": 1,
+        "explication": "La LFI 2023 a scindé l'ancien Code Général des Impôts en deux textes distincts : le Code des Impôts (CDI) pour les règles de fond (assiettes, taux, exonérations) et le Code des Procédures Fiscales (CPF) pour les règles de contrôle, recouvrement et contentieux."
+      },
+      {
+        "id": 2,
+        "question": "Lequel de ces principes fiscaux fondamentaux signifie qu'aucun impôt ne peut exister sans être créé par un texte de loi ?",
+        "options": ["Le principe d'égalité", "Le principe d'annualité", "Le principe de légalité", "Le principe de nécessité"],
+        "reponse_correcte": 2,
+        "explication": "Le principe de légalité impose que tout impôt soit créé et défini par la loi. À Madagascar, c'est la Constitution et les lois de finances qui instituent les impôts. Nul ne peut être imposé par voie réglementaire seule."
+      },
+      {
+        "id": 3,
+        "question": "La fonction redistributive de l'impôt consiste à :",
+        "options": ["Financer uniquement les dépenses militaires", "Réduire les inégalités en faisant contribuer davantage les plus aisés pour financer des services accessibles à tous", "Imposer les mêmes montants à tous les citoyens", "Redistribuer les impôts entre les régions de Madagascar"],
+        "reponse_correcte": 1,
+        "explication": "La fonction redistributive (ou sociale) de l'impôt vise à réduire les inégalités économiques. L'impôt progressif fait davantage contribuer les hauts revenus. Les recettes financent des services publics accessibles à tous : santé, éducation, aide sociale."
+      },
+      {
+        "id": 4,
+        "question": "L'assiette d'un impôt, c'est :",
+        "options": ["Le taux appliqué à l'impôt", "La base sur laquelle est calculé l'impôt", "Le montant final à payer", "La date limite de paiement de l'impôt"],
+        "reponse_correcte": 1,
+        "explication": "L'assiette est la BASE de calcul de l'impôt — ce sur quoi on applique le taux. Pour la TVA, c'est le prix HT. Pour l'IRSA, c'est le salaire brut moins les cotisations. Pour l'IS (Impôt Synthétique), c'est le chiffre d'affaires brut."
+      },
+      {
+        "id": 5,
+        "question": "Un taux d'imposition PROGRESSIF signifie :",
+        "options": ["Que le taux diminue quand les revenus augmentent", "Que le taux augmente par tranches au fur et à mesure que la base imposable augmente", "Que le même taux s'applique à tous", "Que le taux est fixé annuellement par décret"],
+        "reponse_correcte": 1,
+        "explication": "Un taux progressif augmente par tranches : les premiers ariary sont peu taxés, les derniers le sont davantage. C'est le principe du barème de l'IRSA à Madagascar : 0% pour les revenus faibles jusqu'à 25% pour les revenus dépassant 4 millions Ar/mois depuis la LFI 2026."
+      },
+      {
+        "id": 6,
+        "question": "La retenue à la source est un mode de recouvrement où :",
+        "options": ["Le contribuable paie directement à la DGI", "L'impôt est prélevé par un tiers (employeur, banque) avant versement au contribuable et reversé à la DGI", "Le contribuable paye après réception d'un rôle", "La DGI saisit les biens du contribuable"],
+        "reponse_correcte": 1,
+        "explication": "Dans la retenue à la source, un tiers prélève l'impôt avant que le contribuable ne reçoive ses revenus. L'IRSA à Madagascar fonctionne ainsi : l'employeur calcule, retient et reverse l'impôt à la DGI. Le salarié reçoit son net — l'impôt est déjà payé."
+      },
+      {
+        "id": 7,
+        "question": "La liquidation de l'impôt consiste à :",
+        "options": ["Fermer une entreprise pour éviter l'impôt", "Calculer le montant exact de l'impôt en appliquant le taux à l'assiette, après déductions", "Payer l'impôt en retard", "Contester un redressement fiscal"],
+        "reponse_correcte": 1,
+        "explication": "La liquidation est l'opération de CALCUL : Assiette × Taux = Impôt brut. Puis on déduit les crédits d'impôt et exonérations pour obtenir l'impôt net à payer. C'est une étape technique qui précède le paiement (recouvrement)."
+      },
+      {
+        "id": 8,
+        "question": "L'impôt direct, c'est un impôt qui :",
+        "options": ["Est toujours plus élevé que l'impôt indirect", "Frappe directement une personne ou ses biens de façon nominative et permanente", "N'est perçu qu'une seule fois dans l'année", "Est uniquement perçu par les communes"],
+        "reponse_correcte": 1,
+        "explication": "Un impôt direct frappe nominativement une personne identifiée : le contribuable connaît son impôt et le paie en son nom. Exemples : IRSA, IR, IFT, IFPB. L'impôt indirect frappe des actes ou transactions — souvent répercuté sur le client final (TVA)."
+      },
+      {
+        "id": 9,
+        "question": "La TVA et les droits d'accises sont des exemples :",
+        "options": ["D'impôts directs", "D'impôts locaux", "D'impôts indirects", "D'impôts sur le revenu"],
+        "reponse_correcte": 2,
+        "explication": "La TVA et les droits d'accises sont des impôts indirects : ils frappent des actes (la vente, la consommation) plutôt que des personnes. Ils sont collectés par le vendeur ou le producteur et répercutés sur le consommateur final."
+      },
+      {
+        "id": 10,
+        "question": "L'IFT et l'IFPB sont des impôts :",
+        "options": ["Nationaux, perçus par la DGI", "Locaux, perçus au profit des communes et collectivités", "Fédéraux, perçus par l'État central et les régions", "Temporaires, créés pour des projets spécifiques"],
+        "reponse_correcte": 1,
+        "explication": "L'Impôt Foncier sur le Terrain (IFT) et l'Impôt Foncier sur la Propriété Bâtie (IFPB) sont des impôts locaux. Leurs recettes vont aux communes, qui les utilisent pour financer les services communaux : voirie, marchés, éclairage, état civil."
+      },
+      {
+        "id": 11,
+        "question": "L'Impôt Synthétique (IS) s'applique aux entreprises dont le chiffre d'affaires annuel est :",
+        "options": ["Supérieur à 400 millions d'ariary", "Inférieur à 200 millions d'ariary", "Compris entre 200 et 400 millions d'ariary", "Supérieur à 1 milliard d'ariary"],
+        "reponse_correcte": 1,
+        "explication": "L'Impôt Synthétique (IS) est le régime des petites entreprises. Il s'applique aux contribuables dont le CA annuel est INFÉRIEUR à 200.000.000 Ariary (200 millions). C'est un impôt simplifié qui remplace tous les autres impôts professionnels."
+      },
+      {
+        "id": 12,
+        "question": "Une toute nouvelle entreprise créée à Antsiranana est soumise automatiquement à :",
+        "options": ["La TVA à 20% dès le premier mois", "L'Impôt Synthétique (art. I-17 CPF)", "L'IR avec TVA quel que soit son CA", "Aucun impôt pendant les 3 premières années"],
+        "reponse_correcte": 1,
+        "explication": "L'article I-17 du Code des Procédures Fiscales précise : «Toute entreprise nouvellement créée est soumise au régime de l'impôt synthétique.» Ce n'est qu'après que son CA excède le seuil de 200 millions Ar qu'elle bascule vers un autre régime."
+      },
+      {
+        "id": 13,
+        "question": "L'ISI (Impôt Synthétique Intermittent) a-t-il encore cours à Madagascar en 2026 ?",
+        "options": ["Oui, il s'applique toujours aux activités saisonnières", "Non, il a été supprimé par la Loi de Finances pour 2026", "Oui, mais uniquement pour les artisans", "Non, il a été remplacé par la TST"],
+        "reponse_correcte": 1,
+        "explication": "La Loi de Finances pour 2026 (loi n°2025-021) a supprimé l'ISI (Impôt Synthétique Intermittent). Les contribuables concernés basculent vers le régime standard de l'Impôt Synthétique ou un autre régime selon leur chiffre d'affaires."
+      },
+      {
+        "id": 14,
+        "question": "Le régime IR sans TVA s'applique aux entreprises dont le CA est :",
+        "options": ["Inférieur à 200 millions d'ariary", "Compris entre 200 et 400 millions d'ariary", "Supérieur à 400 millions d'ariary", "Exactement égal à 400 millions d'ariary"],
+        "reponse_correcte": 1,
+        "explication": "Le régime IR sans TVA s'applique pour un CA annuel compris entre 200.000.000 et 400.000.000 Ar. L'entreprise paie l'Impôt sur les Revenus sur ses bénéfices réels mais n'est pas assujettie à la TVA — simplifiant ses obligations déclaratives."
+      },
+      {
+        "id": 15,
+        "question": "L'assujettissement obligatoire à la TVA à Madagascar s'applique dès que le CA annuel atteint :",
+        "options": ["200.000.000 Ar", "300.000.000 Ar", "400.000.000 Ar", "1.000.000.000 Ar"],
+        "reponse_correcte": 2,
+        "explication": "Le seuil d'assujettissement obligatoire à la TVA est un CA annuel supérieur ou égal à 400.000.000 Ariary (400 millions). En dessous, l'assujettissement peut être optionnel. Le taux général de TVA est de 20%."
+      },
+      {
+        "id": 16,
+        "question": "Quel est le taux général de la TVA à Madagascar ?",
+        "options": ["10%", "15%", "20%", "25%"],
+        "reponse_correcte": 2,
+        "explication": "Le taux général de TVA à Madagascar est de 20% (art. 06.01.01 du Code des Impôts). Il s'applique à la grande majorité des ventes de biens et prestations de services. Certaines opérations bénéficient d'un taux réduit ou d'une exonération."
+      },
+      {
+        "id": 17,
+        "question": "La TVA est déclarée et payée :",
+        "options": ["Une fois par an, le 31 mars", "Chaque mois, au plus tard le 15 du mois suivant (art. 06.01.16 CDI)", "Chaque trimestre", "En fin d'exercice avec la déclaration IR"],
+        "reponse_correcte": 1,
+        "explication": "L'article 06.01.16 du Code des Impôts impose une déclaration et un paiement mensuels de la TVA : «au plus tard le 15 du mois suivant». Même en l'absence de TVA à payer (TVA nulle), la déclaration doit être déposée."
+      },
+      {
+        "id": 18,
+        "question": "Le mécanisme de TVA déductible fonctionne ainsi :",
+        "options": ["L'entreprise paie la TVA sur tout son chiffre d'affaires", "L'entreprise reverse uniquement la différence entre la TVA collectée sur ses ventes et la TVA payée sur ses achats", "L'État rembourse systématiquement la TVA aux entreprises", "L'entreprise ne paie pas de TVA si ses achats dépassent ses ventes"],
+        "reponse_correcte": 1,
+        "explication": "La TVA est un impôt sur la VALEUR AJOUTÉE, pas sur le CA total. L'entreprise déduit la TVA payée en amont (achats) de la TVA collectée en aval (ventes). Elle ne reverse à l'État que la différence. Si la TVA déductible > TVA collectée, il y a un crédit de TVA."
+      },
+      {
+        "id": 19,
+        "question": "L'IRSA s'applique à :",
+        "options": ["Uniquement les dirigeants de sociétés", "Tous les revenus d'activité des entreprises", "Les revenus salariaux et assimilés de tous les salariés", "Uniquement les expatriés travaillant à Madagascar"],
+        "reponse_correcte": 2,
+        "explication": "L'IRSA (Impôt sur les Revenus Salariaux et Assimilés) s'applique aux salaires, primes, avantages en nature et revenus assimilés de TOUS les salariés, malgaches comme expatriés, travaillant à Madagascar. L'employeur le prélève et reverse à la DGI."
+      },
+      {
+        "id": 20,
+        "question": "Quel nouveau taux l'IRSA a-t-il introduit par la LFI 2026 pour les hauts revenus ?",
+        "options": ["22% pour les revenus au-delà de 3 millions Ar/mois", "25% pour les revenus au-delà de 4 millions Ar/mois", "30% pour les revenus au-delà de 5 millions Ar/mois", "28% pour les revenus au-delà de 3,5 millions Ar/mois"],
+        "reponse_correcte": 1,
+        "explication": "La Loi de Finances pour 2026 (loi n°2025-021) a introduit une nouvelle tranche d'IRSA à 25% pour les revenus mensuels dépassant 4.000.000 Ar. Cette mesure a été adoptée suivant les recommandations du FMI pour renforcer la progressivité du barème."
+      },
+      {
+        "id": 21,
+        "question": "Au premier euro d'IRSA, quel est le taux applicable sur la première tranche de revenus ?",
+        "options": ["5%", "10%", "0% — la première tranche est exonérée (jusqu'à 350.000 Ar/mois)", "3%"],
+        "reponse_correcte": 2,
+        "explication": "Le barème IRSA prévoit une première tranche exonérée : de 0 à 350.000 Ar/mois → 0%. C'est un abattement à la base qui exonère les très bas revenus et respecte le principe d'imposition selon les capacités contributives."
+      },
+      {
+        "id": 22,
+        "question": "Quel est le taux de l'IR pour les personnes morales (sociétés) à Madagascar ?",
+        "options": ["15%", "20% (art. 01.01.14 CDI)", "25%", "30%"],
+        "reponse_correcte": 1,
+        "explication": "L'article 01.01.14 du Code des Impôts fixe le taux de l'Impôt sur les Revenus des personnes morales à 20% du bénéfice net. C'est un taux proportionnel (flat tax) : toutes les sociétés assujetties paient 20%, quel que soit le montant de leur bénéfice."
+      },
+      {
+        "id": 23,
+        "question": "L'Impôt Synthétique est déclaré et payé au plus tard le :",
+        "options": ["15 janvier de l'année suivante", "31 mars de l'année suivante (art. I-17 CPF)", "30 juin de l'année suivante", "31 décembre de l'année en cours"],
+        "reponse_correcte": 1,
+        "explication": "L'article I-17 du Code des Procédures Fiscales impose que l'Impôt Synthétique soit «déclaré et payé auprès du Service des impôts territorialement compétent au plus tard le 31 mars de l'année qui suit celle de la réalisation du chiffre d'affaires»."
+      },
+      {
+        "id": 24,
+        "question": "Le taux de l'IFT (Impôt Foncier sur les Terrains) est de :",
+        "options": ["5% de la valeur locative", "1% de la valeur marchande du terrain", "10% de la valeur marchande", "2% du prix d'acquisition"],
+        "reponse_correcte": 1,
+        "explication": "L'IFT est calculé au taux de 1% de la valeur marchande du terrain nu. C'est un impôt local perçu au profit de la commune. La valeur marchande est déterminée par référence aux transactions similaires dans la zone."
+      },
+      {
+        "id": 25,
+        "question": "Les droits d'accises (DA) frappent :",
+        "options": ["Tous les produits importés", "Des produits spécifiques considérés comme non essentiels ou dangereux : alcools, tabacs, carburants, etc.", "Uniquement les produits de luxe importés", "Les actes juridiques enregistrés"],
+        "reponse_correcte": 1,
+        "explication": "Les droits d'accises sont des taxes spécifiques frappant certains produits ciblés : alcools, tabacs, produits pétroliers, parfois véhicules de luxe. Ils servent à la fois à collecter des recettes et à décourager la consommation de produits jugés socialement coûteux."
+      },
+      {
+        "id": 26,
+        "question": "Les droits d'enregistrement frappent :",
+        "options": ["L'immatriculation des véhicules uniquement", "Certains actes juridiques : ventes immobilières, baux, contrats de société, mutations, etc.", "L'enregistrement des marques commerciales", "Les déclarations fiscales annuelles"],
+        "reponse_correcte": 1,
+        "explication": "Les droits d'enregistrement sont perçus lors de la formalité d'enregistrement de certains actes juridiques : contrats de vente immobilière, mutations de propriété, contrats de société, certains baux. Ils rémunèrent aussi l'authenticité légale de l'acte."
+      },
+      {
+        "id": 27,
+        "question": "Qu'est-ce que le NIF (Numéro d'Identification Fiscale) ?",
+        "options": ["Le numéro de compte bancaire du contribuable", "L'identifiant fiscal unique attribué par la DGI à toute personne exerçant une activité à Madagascar", "Le numéro de registre du commerce", "Le code de la recette des impôts compétente"],
+        "reponse_correcte": 1,
+        "explication": "Le NIF est l'identifiant fiscal unique de chaque contribuable à Madagascar. Il est attribué par la Direction Générale des Impôts (DGI) lors de l'immatriculation. Il est obligatoire pour toutes les démarches fiscales : déclarations, paiements, factures."
+      },
+      {
+        "id": 28,
+        "question": "Un contribuable qui n'a réalisé aucune activité ni recette dans l'année doit-il quand même déposer une déclaration fiscale ?",
+        "options": ["Non, l'absence d'activité dispense de déclaration", "Oui, il doit déposer une déclaration néant dans les délais légaux", "Seulement si la DGI le lui demande expressément", "Non, uniquement les entreprises actives déclarent"],
+        "reponse_correcte": 1,
+        "explication": "L'obligation de déclaration est indépendante du résultat. Un contribuable sans activité ou recette doit déposer une «déclaration néant» dans les délais légaux. Ne pas le faire constitue un manquement aux obligations déclaratives et peut entraîner des pénalités."
+      },
+      {
+        "id": 29,
+        "question": "Quel est le délai de déclaration de l'IRSA (retenu sur les salaires) ?",
+        "options": ["Le 31 mars de l'année suivante", "Au plus tard le 15 du mois suivant celui du paiement des salaires", "Au plus tard le 31 décembre de l'année en cours", "Dans les 30 jours suivant la clôture de l'exercice"],
+        "reponse_correcte": 1,
+        "explication": "L'IRSA retenu sur les salaires du mois M doit être déclaré et versé à la DGI au plus tard le 15 du mois M+1. C'est la même échéance que la TVA mensuelle — ce qui simplifie la gestion pour les entreprises assujetties aux deux impôts."
+      },
+      {
+        "id": 30,
+        "question": "Quel est le taux de l'acompte perçu sur les marchés publics (IMP) lors de l'enregistrement du contrat ?",
+        "options": ["2% du montant du marché", "5 pour mille (0,5%) du montant total du marché", "1% du montant du marché", "10 pour mille (1%) du montant"],
+        "reponse_correcte": 1,
+        "explication": "Pour les titulaires de marchés publics, un acompte de 5 pour mille (soit 0,5%) est perçu sur le montant total du marché lors de l'enregistrement du contrat. C'est l'IMP (Impôt sur les Marchés Publics), spécifique aux prestataires de l'État et des collectivités."
+      },
+      {
+        "id": 31,
+        "question": "Qu'est-ce que le droit de contrôle de la DGI ?",
+        "options": ["Le droit de fixer arbitrairement les impôts", "Le droit de vérifier les déclarations et la comptabilité des contribuables par contrôle sur pièces ou vérification sur place", "Le droit de percevoir les impôts avant leur échéance", "Le droit de modifier les taux d'imposition"],
+        "reponse_correcte": 1,
+        "explication": "Le droit de contrôle permet à la DGI de s'assurer que les contribuables ont correctement déclaré et payé leurs impôts. Il se manifeste sous deux formes : le contrôle sur pièces (au bureau) ou la vérification de comptabilité (chez le contribuable, sur place)."
+      },
+      {
+        "id": 32,
+        "question": "Quel est le délai de prescription général du droit de reprise de la DGI ?",
+        "options": ["1 an", "Imprescriptible", "Généralement 3 ans à partir de l'année de la déclaration", "10 ans en cas de fraude"],
+        "reponse_correcte": 2,
+        "explication": "La DGI dispose généralement d'un délai de prescription de 3 ans pour exercer son droit de reprise et corriger des déclarations insuffisantes. Ce délai peut être prolongé en cas de fraude avérée ou de manœuvres dilatoires du contribuable."
+      },
+      {
+        "id": 33,
+        "question": "Face à un redressement fiscal, un contribuable dispose d'un droit de :",
+        "options": ["Refus absolu sans justification", "Réponse : il peut contester et fournir ses justificatifs dans le délai accordé", "Recours uniquement après avoir intégralement payé", "Blocage de la procédure pendant 2 ans"],
+        "reponse_correcte": 1,
+        "explication": "Le contribuable a le droit de répondre à toute proposition de rectification. La DGI doit lui notifier par écrit le redressement envisagé, et le contribuable dispose d'un délai légal pour fournir ses explications et justificatifs. Ce droit au contradictoire est fondamental."
+      },
+      {
+        "id": 34,
+        "question": "Qu'est-ce qu'un recours gracieux en matière fiscale ?",
+        "options": ["Un recours devant le tribunal administratif", "Une demande de remise ou modération de la dette fiscale adressée au chef de centre fiscal", "Une procédure d'arbitrage international", "Un accord avec la DGI pour payer en 10 ans"],
+        "reponse_correcte": 1,
+        "explication": "Le recours gracieux est une démarche amiable : le contribuable sollicite auprès du responsable de l'Administration fiscale une remise totale ou partielle des pénalités ou de l'impôt lui-même. C'est une première étape avant le recours contentieux judiciaire."
+      },
+      {
+        "id": 35,
+        "question": "La différence entre optimisation fiscale et fraude fiscale est :",
+        "options": ["Il n'y a aucune différence légale", "L'optimisation utilise légalement les textes pour réduire l'impôt ; la fraude les viole par des manœuvres illégales (faux, dissimulation)", "L'optimisation est autorisée uniquement pour les grandes entreprises", "La fraude est légale si le montant est inférieur à 1 million d'ariary"],
+        "reponse_correcte": 1,
+        "explication": "L'optimisation fiscale est l'utilisation légale et légitime des dispositions du Code des Impôts pour minimiser sa charge fiscale. La fraude fiscale implique des manœuvres illégales (dissimulation de revenus, fausses factures, faux en écriture) et constitue un délit pénal."
+      },
+      {
+        "id": 36,
+        "question": "L'évasion fiscale à Madagascar est combattue notamment par :",
+        "options": ["L'interdiction absolue de toute activité internationale", "Des conventions fiscales internationales (dont une avec le Canada en 2016) et des règles sur les prix de transfert (art. 01.01.20 CDI)", "La fermeture des frontières fiscales", "L'interdiction des investissements étrangers"],
+        "reponse_correcte": 1,
+        "explication": "Madagascar a signé des conventions fiscales internationales — dont une avec le Canada en 2016 — pour éviter la double imposition et prévenir l'évasion fiscale. L'article 01.01.20 du CDI encadre les prix de transfert pour empêcher les groupes multinationaux de transférer artificiellement leurs bénéfices hors de Madagascar."
+      },
+      {
+        "id": 37,
+        "question": "Le MAAC (Mécanisme d'Accord Amiable entre Contribuables) est entré en vigueur à Madagascar le :",
+        "options": ["1er janvier 2025", "1er janvier 2026", "1er juillet 2025", "1er mars 2024"],
+        "reponse_correcte": 1,
+        "explication": "Le MAAC prendra effet à Madagascar le 1er janvier 2026 selon les informations du Code des Procédures Fiscales. Il permet de régler les litiges fiscaux — notamment en matière de prix de transfert et de double imposition — par voie de négociation amiable plutôt que par procédure judiciaire."
+      },
+      {
+        "id": 38,
+        "question": "Un salarié d'Antsiranana touche 1.200.000 Ar brut par mois. Son IRSA est calculé sur :",
+        "options": ["La totalité de 1.200.000 Ar", "Le salaire brut après déduction des cotisations CNaPS et OSIE", "Le salaire net qu'il reçoit réellement", "Un montant forfaitaire fixé par la DGI"],
+        "reponse_correcte": 1,
+        "explication": "La base de calcul de l'IRSA s'obtient en déduisant du salaire brut les cotisations salariales CNaPS (retraite) et OSIE (santé). Ce net fiscal — inférieur au brut — est ensuite soumis au barème progressif par tranches. Le résultat est l'IRSA mensuel dû."
+      },
+      {
+        "id": 39,
+        "question": "L'IRCM (Impôt sur les Revenus des Capitaux Mobiliers) frappe notamment :",
+        "options": ["Les revenus fonciers des propriétaires", "Les intérêts de dépôts bancaires, dividendes et produits d'obligations", "Les revenus des marchés publics", "Les gains en capital sur les ventes de terrain"],
+        "reponse_correcte": 1,
+        "explication": "L'IRCM est un impôt annuel sur les revenus tirés de placements financiers : intérêts de comptes bancaires, dividendes distribués par des sociétés, produits d'obligations et emprunts. Depuis la LFI 2026, l'IRCM payé a un caractère libératoire vis-à-vis de l'IR et de l'IS."
+      },
+      {
+        "id": 40,
+        "question": "L'acompte provisionnel de 2% prélevé à l'importation concerne :",
+        "options": ["Tous les importateurs sans exception", "Les contribuables immatriculés effectuant des opérations d'importation et/ou d'exportation, pendant leurs 7 premiers exercices", "Uniquement les importateurs de produits alimentaires", "Les sociétés étrangères importatrices seulement"],
+        "reponse_correcte": 1,
+        "explication": "Le Code des Impôts prévoit un acompte provisionnel de 2% appliqué sur la valeur en douane des biens importés et/ou exportés, pour les contribuables immatriculés pendant leurs 7 premiers exercices. Certains en sont exemptés (régimes préférentiels, matières premières pour immobilisations)."
+      },
+      {
+        "id": 41,
+        "question": "Les impôts sur les revenus des Entreprises Franches à Madagascar sont-ils soumis au régime général ?",
+        "options": ["Oui, exactement comme les autres entreprises", "Non, les Entreprises Franches bénéficient d'un régime fiscal spécifique et dérogatoire, avec notamment des exonérations d'IR pendant 10 ans", "Non, elles ne paient jamais d'impôt", "Oui, mais avec un taux réduit de 10%"],
+        "reponse_correcte": 1,
+        "explication": "Le CDI prévoit un régime spécifique pour les Zones et Entreprises Franches. Elles bénéficient notamment d'exonérations d'IR pendant les 10 premières années d'activité, et leurs actes enregistrés sont enregistrés gratuitement. Ce régime dérogatoire attire les investisseurs étrangers."
+      },
+      {
+        "id": 42,
+        "question": "Peut-on opter volontairement pour l'assujettissement à la TVA même si le CA est inférieur à 400 millions d'ariary ?",
+        "options": ["Non, l'assujettissement est strictement obligatoire au-dessus du seuil", "Oui, l'option volontaire est possible dans les conditions prévues par le CDI", "Non, seul l'Impôt Synthétique est possible en dessous du seuil", "Oui, mais uniquement pour les sociétés anonymes"],
+        "reponse_correcte": 1,
+        "explication": "Le Code des Impôts permet l'option volontaire pour la TVA même en dessous du seuil de 400 millions Ar. Cela peut être intéressant pour une entreprise qui vend à d'autres entreprises assujetties : ses clients pourront déduire la TVA, rendant son offre plus compétitive."
+      },
+      {
+        "id": 43,
+        "question": "L'IFPB (Impôt Foncier sur la Propriété Bâtie) est calculé à quel taux ?",
+        "options": ["1% de la valeur marchande du bâtiment", "Entre 5% et 10% de la valeur locative annuelle", "20% du loyer perçu", "Un montant forfaitaire fixé par la commune"],
+        "reponse_correcte": 1,
+        "explication": "L'IFPB est calculé sur la valeur locative annuelle de l'immeuble, à un taux compris entre 5% et 10% selon la commune. Pour les biens résidentiels, la valeur locative est souvent estimée à 1/3 de la valeur marchande du bien."
+      },
+      {
+        "id": 44,
+        "question": "En cas de crédit de TVA (TVA déductible supérieure à TVA collectée), que se passe-t-il ?",
+        "options": ["L'entreprise est sanctionnée pour avoir déduit trop de TVA", "L'entreprise peut reporter ce crédit sur les mois suivants ou demander son remboursement sous conditions", "Le crédit est automatiquement perdu en fin d'exercice", "L'entreprise doit payer quand même la différence"],
+        "reponse_correcte": 1,
+        "explication": "Si la TVA déductible (en amont) dépasse la TVA collectée (en aval), il se forme un crédit de TVA. L'entreprise peut le reporter sur les déclarations suivantes. Un remboursement est possible sous conditions strictes définies par le CDI (art. 06.01.23 et 06.01.24)."
+      },
+      {
+        "id": 45,
+        "question": "Qu'est-ce que le prix de transfert en droit fiscal malgache (art. 01.01.20 CDI) ?",
+        "options": ["Le prix auquel une entreprise vend ses marchandises", "Le mécanisme par lequel des entreprises liées dans des pays différents fixent leurs prix de transactions internes pour minimiser l'impôt global", "Le transfert du dossier fiscal entre deux centres d'impôts", "Le prix de cession d'un fonds de commerce"],
+        "reponse_correcte": 1,
+        "explication": "Les prix de transfert concernent les transactions entre entreprises d'un même groupe international. Si une entreprise malgache facture ses services à une filiale étrangère à un prix artificiel pour réduire les bénéfices taxables à Madagascar, la DGI peut redresser sur la base des prix du marché (prix de pleine concurrence)."
+      },
+      {
+        "id": 46,
+        "question": "La comptabilité requise pour les entreprises soumises à l'IR (avec ou sans TVA) doit être conforme à :",
+        "options": ["Les normes IFRS uniquement", "Le système comptable SYSCOHADA en vigueur à Madagascar", "Les normes américaines US GAAP", "Un simple cahier de recettes-dépenses"],
+        "reponse_correcte": 1,
+        "explication": "Madagascar, comme la plupart des pays d'Afrique francophone, utilise le système comptable SYSCOHADA (Système Comptable OHADA). Les entreprises soumises à l'IR doivent tenir leurs livres et produire leurs états financiers conformément à ce référentiel."
+      },
+      {
+        "id": 47,
+        "question": "Pour les associations à but non lucratif exerçant des activités lucratives, la LFI 2026 prévoit :",
+        "options": ["Une exonération totale d'impôt", "Un taux de 20% applicable aux activités lucratives", "Un taux réduit de 10%", "L'application de l'Impôt Synthétique uniquement"],
+        "reponse_correcte": 1,
+        "explication": "La Loi de Finances pour 2026 a clarifié le régime fiscal des associations à but non lucratif et assimilés : un taux de 20% s'applique à ceux qui exercent des activités lucratives. La date de dépôt de leurs états financiers et rapport d'activité est fixée à la fin du deuxième mois suivant la date de clôture."
+      },
+      {
+        "id": 48,
+        "question": "Le principe d'annualité de l'impôt signifie que :",
+        "options": ["L'impôt ne peut être modifié que tous les 10 ans", "Les impôts sont établis et recouvrés sur une base annuelle, et les lois de finances sont votées chaque année pour les ajuster", "Le contribuable ne paie qu'une fois par an quoi qu'il arrive", "L'impôt est suspendu après 1 an si non recouvré"],
+        "reponse_correcte": 1,
+        "explication": "Le principe d'annualité signifie que les impôts sont en principe établis et perçus sur une période annuelle. Les lois de finances votées chaque année à l'Assemblée nationale permettent d'adapter les taux, seuils et règles aux réalités économiques de l'année."
+      },
+      {
+        "id": 49,
+        "question": "Une société malgache transfère artificiellement ses bénéfices vers une filiale aux Îles Maurice à travers des prix de transactions gonflés. Elle commet :",
+        "options": ["Une optimisation fiscale légale", "De l'évasion fiscale, combattue par les conventions fiscales internationales et l'article 01.01.20 du CDI", "Une fraude pénalement réprimée uniquement si le montant dépasse 10 millions Ar", "Un acte légal car les Îles Maurice est un pays étranger souverain"],
+        "reponse_correcte": 1,
+        "explication": "C'est de l'évasion fiscale : le déplacement artificiel de bénéfices vers un pays à fiscalité privilégiée pour éviter l'impôt malgache. L'article 01.01.20 du CDI donne à la DGI le droit de redresser ces transactions sur la base des prix de pleine concurrence. Les conventions fiscales internationales permettent l'échange d'informations entre administrations."
+      },
+      {
+        "id": 50,
+        "question": "Parmi ces affirmations, laquelle résume le mieux le droit fiscal malgache actuel ?",
+        "options": ["Un seul code, un seul impôt, pas de contrôle", "Un système à deux codes (CDI + CPF), trois régimes d'imposition selon le CA, des impôts directs et indirects, une DGI qui contrôle et sanctionne, et des droits reconnus au contribuable", "Un système uniquement basé sur la TVA sans impôt sur le revenu", "Un système informel laissé à la discrétion des communes"],
+        "reponse_correcte": 1,
+        "explication": "Le droit fiscal malgache actuel repose sur deux textes (CDI + CPF depuis 2023), trois régimes d'imposition pour les entreprises (IS, IR sans TVA, IR avec TVA), une classification entre impôts directs et indirects, nationaux et locaux, une DGI dotée de pouvoirs de contrôle et de sanction, et des garanties procédurales reconnues aux contribuables (droit de réponse, recours gracieux et contentieux)."
+      }
+    ]
+  },
+
+  "cas_pratiques": [
+    {
+      "id": "CP1",
+      "titre": "Le commerçant qui ne sait pas dans quel régime il est",
+      "contexte": "Monsieur RAKOTOARISOA exploite une boutique de fournitures scolaires à Antsiranana depuis 3 ans. Il n'a jamais fait de déclaration fiscale car il pensait que «les petits commerces ne paient pas d'impôt». Voici sa situation :\n\n• Année 1 : CA = 80.000.000 Ar\n• Année 2 : CA = 150.000.000 Ar\n• Année 3 : CA = 230.000.000 Ar\n\nIl a deux employés payés respectivement 400.000 Ar et 600.000 Ar brut par mois. Il possède le local commercial (valeur locative annuelle estimée à 4.800.000 Ar). La DGI effectue un contrôle et lui réclame un rappel d'impôts sur 3 ans.",
+      "questions": [
+        {
+          "numero": 1,
+          "question": "Sous quel régime fiscal relevait M. RAKOTOARISOA pour chacune des 3 années ?",
+          "reponse_attendue": "Année 1 (CA = 80.000.000 Ar) : CA < 200.000.000 Ar → IMPÔT SYNTHÉTIQUE. Il calcule et déclare l'IS au plus tard le 31 mars de l'année 2.\n\nAnnée 2 (CA = 150.000.000 Ar) : CA < 200.000.000 Ar → IMPÔT SYNTHÉTIQUE. Même régime. Déclaration au 31 mars de l'année 3.\n\nAnnée 3 (CA = 230.000.000 Ar) : CA entre 200.000.000 et 400.000.000 Ar → IR SANS TVA. Il doit tenir une comptabilité et déclarer ses bénéfices réels. Taux : 20% du bénéfice net pour une personne morale, ou barème selon sa forme juridique s'il est personne physique.\n\nATTENTION : Si M. RAKOTOARISOA est une personne physique en année 3, son IR sera calculé selon le barème progressif de l'IR personnes physiques, non le taux fixe de 20%."
+        },
+        {
+          "numero": 2,
+          "question": "Quels impôts supplémentaires devait-il payer indépendamment de son régime d'imposition des bénéfices ?",
+          "reponse_attendue": "Indépendamment du régime IR/IS, M. RAKOTOARISOA devait payer :\n\n1. L'IRSA sur les salaires de ses deux employés :\n• Employé 1 (400.000 Ar brut) : tranche entre 350.001 et 400.000 Ar → taux 5% → IRSA mensuel à calculer sur la tranche\n• Employé 2 (600.000 Ar brut) : atteint la tranche à 15% puis 20% selon le barème LFI 2026\n→ L'IRSA devait être retenu chaque mois et reversé à la DGI avant le 15 du mois suivant\n\n2. L'IFPB sur son local commercial (s'il en est propriétaire) :\n• Valeur locative annuelle = 4.800.000 Ar\n• IFPB = entre 5% et 10% = entre 240.000 et 480.000 Ar/an\n→ Impôt local dû à la commune d'Antsiranana\n\nIl a donc plusieurs années de non-paiement d'IRSA et d'IFPB en plus des impôts sur ses bénéfices."
+        },
+        {
+          "numero": 3,
+          "question": "Quelles sanctions la DGI peut-elle lui infliger pour 3 ans de non-déclaration ?",
+          "reponse_attendue": "La DGI peut appliquer plusieurs catégories de sanctions :\n\n1. RAPPEL D'IMPÔTS : elle reconstituera le CA et les bénéfices de M. RAKOTOARISOA sur 3 ans (en utilisant son droit de reprise) et calculera les impôts théoriques dus.\n\n2. MAJORATIONS DE DROITS pour déclaration non déposée : un pourcentage s'ajoute automatiquement aux droits reconstitués.\n\n3. INTÉRÊTS DE RETARD : calculés par mois de retard sur les montants non payés.\n\n4. PÉNALITÉS POUR MANQUEMENT AUX OBLIGATIONS DÉCLARATIVES : la non-déclaration de l'IRSA de ses employés (impôt collecté qu'il était obligé de retenir et reverser) est particulièrement grave.\n\n5. Si la DGI établit une mauvaise foi délibérée (dissimulation consciente), les pénalités sont majorées et des poursuites pénales pour fraude fiscale peuvent être engagées.\n\nM. RAKOTOARISOA dispose du droit de répondre aux propositions de rectification et peut solliciter un recours gracieux auprès du chef de centre fiscal."
+        },
+        {
+          "numero": 4,
+          "question": "Quelle démarche M. RAKOTOARISOA aurait-il dû effectuer dès la création de sa boutique ?",
+          "reponse_attendue": "Dès la création, M. RAKOTOARISOA aurait dû :\n\n1. S'IMMATRICULER à la DGI pour obtenir son NIF (Numéro d'Identification Fiscale) — obligation légale pour tout commerçant.\n\n2. Communiquer son adresse exacte à la DGI (CPF, art. I-17).\n\n3. Se faire classer dans le régime de l'IMPÔT SYNTHÉTIQUE automatiquement (régime par défaut pour toute nouvelle entreprise).\n\n4. DÉCLARER et PAYER l'Impôt Synthétique au 31 mars de chaque année sur son CA de l'année précédente.\n\n5. Retenir et REVERSER l'IRSA de ses employés chaque mois avant le 15.\n\n6. PAYER l'IFPB à la commune s'il est propriétaire de son local.\n\n7. En année 3 (CA > 200M Ar) : TENIR UNE COMPTABILITÉ et basculer vers le régime IR sans TVA, avec dépôt des états financiers et déclaration de bénéfices.\n\nIl est conseillé de consulter un conseiller fiscal ou expert-comptable dès la création d'une entreprise pour éviter ce type de situation."
+        }
+      ],
+      "lecon_tiree": "L'ignorance fiscale est coûteuse. À Madagascar comme partout, les obligations fiscales s'imposent dès le premier ariary de CA, que le commerçant en soit conscient ou non. La DGI a un droit de reprise sur 3 ans : un commerçant qui ne déclare pas pend des risques financiers considérables. Connaître son régime fiscal dès le départ permet de prévoir sa trésorerie, d'éviter les pénalités, et de gérer son entreprise sereinement."
+    },
+    {
+      "id": "CP2",
+      "titre": "L'entreprise de Diego Suarez face à la TVA",
+      "contexte": "La SARL DIANA SERVICES, basée à Antsiranana, réalise des prestations de consulting pour des entreprises locales et nationales. Pour l'année écoulée, son CA est de 620.000.000 Ar. Elle est donc assujettie à la TVA à 20%.\n\nEn octobre, elle a :\n• Facturé des prestations pour 15.000.000 Ar HT à ses clients\n• Acheté du matériel informatique pour 3.000.000 Ar HT (avec TVA)\n• Payé des loyers de bureau pour 2.000.000 Ar HT (avec TVA)\n• Réglé une facture d'électricité de 500.000 Ar TTC\n\nElle doit préparer sa déclaration de TVA d'octobre.",
+      "questions": [
+        {
+          "numero": 1,
+          "question": "DIANA SERVICES relève-t-elle du bon régime ? Quelles sont ses obligations fiscales générales ?",
+          "reponse_attendue": "OUI. Avec un CA de 620.000.000 Ar, DIANA SERVICES dépasse largement le seuil d'assujettissement obligatoire à la TVA (400.000.000 Ar). Elle relève du régime IR AVEC TVA :\n\n• IR sur ses bénéfices : 20% du bénéfice net (personne morale — art. 01.01.14 CDI)\n• TVA : 20% sur ses ventes, déclaration mensuelle au plus tard le 15 de chaque mois\n• IRSA : retenue mensuelle sur les salaires de ses employés\n• Comptabilité SYSCOHADA complète\n• Dépôt des états financiers annuels auprès de la DGI\n• NIF obligatoirement mentionné sur toutes les factures"
+        },
+        {
+          "numero": 2,
+          "question": "Calculez la TVA à reverser à la DGI pour le mois d'octobre.",
+          "reponse_attendue": "ÉTAPE 1 : TVA COLLECTÉE (sur les ventes)\n• Prestations facturées HT = 15.000.000 Ar\n• TVA collectée = 15.000.000 × 20% = 3.000.000 Ar\n\nÉTAPE 2 : TVA DÉDUCTIBLE (sur les achats)\n• Matériel informatique HT = 3.000.000 Ar → TVA = 3.000.000 × 20% = 600.000 Ar\n• Loyers HT = 2.000.000 Ar → TVA = 2.000.000 × 20% = 400.000 Ar\n• Électricité TTC = 500.000 Ar → HT = 500.000/1,20 = 416.667 Ar → TVA = 83.333 Ar\n• TOTAL TVA DÉDUCTIBLE = 600.000 + 400.000 + 83.333 = 1.083.333 Ar\n\nÉTAPE 3 : TVA À REVERSER À LA DGI\n• TVA à payer = TVA collectée − TVA déductible\n• TVA à payer = 3.000.000 − 1.083.333 = 1.916.667 Ar\n\nCe montant doit être déclaré et payé à la DGI au plus tard le 15 novembre."
+        },
+        {
+          "numero": 3,
+          "question": "Si DIANA SERVICES oublie de reverser la TVA d'octobre, quelles sont les conséquences ?",
+          "reponse_attendue": "En cas de non-reversement de la TVA à l'échéance du 15 novembre :\n\n1. MAJORATIONS AUTOMATIQUES : un pourcentage de majoration s'applique sur le montant de TVA dû, même sans relance de la DGI. La TVA est un impôt collecté au nom de l'État — c'est de l'argent qui ne lui appartient pas : les conséquences du retard sont immédiates.\n\n2. INTÉRÊTS DE RETARD : calculés par mois de retard sur les 1.916.667 Ar dus.\n\n3. CONTRÔLE FISCAL : les retards répétés de TVA déclenchent souvent une vérification de comptabilité par la DGI, qui peut s'étendre à l'ensemble des impôts de l'entreprise.\n\n4. RESPONSABILITÉ DU GÉRANT : dans une SARL, le gérant peut être personnellement responsable du non-paiement de la TVA collectée, car il s'agit d'impôts collectés pour le compte de l'État (impôts tiers).\n\nRègle pratique : il vaut mieux déposer une déclaration TVA même sans pouvoir payer, et négocier un délai de paiement, plutôt que de ne rien faire. La déclaration stoppe les pénalités de retard déclaratif."
+        },
+        {
+          "numero": 4,
+          "question": "Un client de DIANA SERVICES est lui aussi assujetti à la TVA. Quel avantage la TVA a-t-elle pour lui dans la relation commerciale ?",
+          "reponse_attendue": "Pour un client lui-même assujetti à la TVA, la TVA facturée par DIANA SERVICES est NEUTRE financièrement. Voici pourquoi :\n\nLe client paie 15.000.000 + 3.000.000 TVA = 18.000.000 Ar TTC à DIANA SERVICES.\n\nMais il inscrit la TVA de 3.000.000 Ar comme TVA DÉDUCTIBLE dans sa propre déclaration mensuelle. Il la récupère donc intégralement sur sa prochaine déclaration TVA.\n\nCoût réel de la prestation pour le client assujetti : 15.000.000 Ar HT seulement.\n\nEn revanche, si ce client n'est PAS assujetti à la TVA (par exemple : une association, un particulier, ou une petite entreprise sous le seuil), il ne peut pas récupérer la TVA. Son coût réel est de 18.000.000 Ar TTC. C'est lui qui supporte définitivement la charge de la TVA — c'est le CONSOMMATEUR FINAL.\n\nC'est toute la logique de la TVA : elle est neutre pour les entreprises assujetties (qui la collectent et la déduisent), et elle est supportée in fine par le consommateur final."
+        }
+      ],
+      "lecon_tiree": "Ce cas pratique illustre concrètement le mécanisme de la TVA déductible et son calcul mensuel. La TVA est l'impôt qui touche le plus grand nombre d'entreprises malgaches au-dessus du seuil. Savoir calculer sa TVA à reverser, comprendre la déductibilité, et respecter les échéances mensuelles du 15 sont des compétences essentielles pour tout gestionnaire d'entreprise dans la région DIANA."
+    }
+  ],
+
+  "references_legales": [
+    { "texte": "CDI art. 01.01.14", "sujet": "Taux IR personnes morales : 20%" },
+    { "texte": "CDI art. 01.01.20", "sujet": "Prix de transfert — règles anti-évasion fiscale" },
+    { "texte": "CDI art. 01.01.45", "sujet": "Impôt sur les marchés publics (IMP)" },
+    { "texte": "CDI art. 06.01.01", "sujet": "TVA — taux général 20%" },
+    { "texte": "CDI art. 06.01.13", "sujet": "Lieu d'imposition à la TVA" },
+    { "texte": "CDI art. 06.01.14", "sujet": "Paiement TVA — importations et opérations internes" },
+    { "texte": "CDI art. 06.01.16", "sujet": "Déclaration TVA mensuelle — échéance le 15 du mois suivant" },
+    { "texte": "CDI art. 06.01.23-24", "sujet": "Crédit de TVA — report et remboursement" },
+    { "texte": "CPF art. I-17", "sujet": "Impôt Synthétique — échéance 31 mars / régime par défaut nouvelles entreprises" },
+    { "texte": "LFI 2026 (loi n°2025-021)", "sujet": "Nouvelle tranche IRSA à 25% au-delà de 4M Ar/mois / suppression ISI / taux 20% associations lucratives" },
+    { "texte": "LFI 2025 (loi n°2024-025)", "sujet": "Intégration des dispositions fiscales dispersées dans le CDI" },
+    { "texte": "Convention fiscale Canada-Madagascar du 24 novembre 2016", "sujet": "Lutte contre la double imposition et l'évasion fiscale" }
+  ]
+}
