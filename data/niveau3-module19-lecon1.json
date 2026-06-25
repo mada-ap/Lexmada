@@ -1,0 +1,892 @@
+{
+  "titre": "La rédaction des actes juridiques",
+  "module": "Module 19 — La rédaction des actes juridiques",
+  "niveau": "Avancé",
+  "contenu": [
+    {
+      "titre": "Qu'est-ce qu'un acte juridique et pourquoi le rédiger ?",
+      "texte": "Un acte juridique est une manifestation de volonté destinée à produire des effets de droit — créer, modifier, transmettre ou éteindre des droits et des obligations. La rédaction d'un acte juridique est l'opération qui consiste à mettre cette manifestation de volonté en forme écrite, de façon claire, précise et techniquement correcte. Pourquoi rédiger un acte ? D'abord pour la preuve : un acte écrit permet de prouver l'existence et le contenu d'un engagement en cas de litige. C'est la fonction probatoire de l'écrit. Ensuite pour la sécurité juridique : un acte bien rédigé évite les malentendus, les ambiguïtés et les litiges futurs. Un contrat flou est une source de conflits. Enfin pour la validité dans certains cas : certains actes ne sont valables que s'ils sont rédigés dans une forme précise — ce sont les actes solennels. Un testament doit être écrit de la main du testateur. Une donation doit être passée devant notaire. Mais il est crucial de comprendre que la rédaction d'un acte juridique n'est pas réservée aux seuls juristes professionnels. Tout citoyen peut rédiger un contrat, une reconnaissance de dette, un bail, une mise en demeure. La liberté de rédiger des actes juridiques est le prolongement naturel de la liberté contractuelle. Ce qui est réservé aux professionnels du droit, c'est autre chose — et la distinction est fondamentale.",
+      "definition": "Acte juridique rédigé : manifestation de volonté mise en forme écrite pour en assurer la preuve, la clarté et parfois la validité. La rédaction d'actes juridiques courants (contrats, reconnaissances de dette, baux) n'est pas réservée aux professionnels du droit — tout citoyen peut le faire."
+    },
+    {
+      "titre": "Ce que tout citoyen peut faire : rédiger des actes courants",
+      "texte": "La liberté de rédiger des actes juridiques est un droit fondamental découlant de la liberté contractuelle. Un particulier peut parfaitement rédiger lui-même un contrat de vente de meuble, un contrat de prêt entre amis, un bail de maison, une reconnaissance de dette, une lettre de mise en demeure, un procès-verbal d'assemblée générale d'association, un règlement intérieur d'entreprise, ou même des statuts de société dans certains cas. Aucune loi n'interdit à un citoyen de rédiger ces actes. Un entrepreneur peut rédiger ses propres contrats commerciaux. Un propriétaire peut rédiger son propre contrat de bail. Une association peut rédiger ses propres statuts. La seule exigence est que l'acte soit conforme au droit — qu'il respecte les règles légales applicables. L'incompétence dans la rédaction peut coûter cher : un acte mal rédigé peut être nul, inopposable ou mal compris. C'est pourquoi il est souvent judicieux de faire appel à un professionnel — mais c'est un choix, pas une obligation légale. Un juriste — même sans être avocat ou notaire — peut rédiger des actes pour le compte d'autrui dans certaines conditions. La frontière légale se situe ailleurs : dans la représentation en justice et dans le monopole de l'acte authentique.",
+      "definition": "Liberté de rédaction des actes : tout citoyen peut rédiger des actes juridiques courants (contrats, baux, reconnaissances de dette, statuts d'association, mises en demeure). Aucune obligation légale de faire appel à un professionnel pour ces actes, sauf exigence de forme solennelle (notaire). La qualité de la rédaction est une autre question.",
+      "exemple": "Rabe rédige lui-même le contrat de location de son appartement à Antsiranana. Vonjy rédige lui-même ses statuts de SARL. Lanto rédige une reconnaissance de dette pour un prêt consenti à un ami. Ces actes sont parfaitement licites sans intervention d'un avocat ou d'un notaire — à condition qu'ils respectent le droit applicable."
+    },
+    {
+      "titre": "Ce qui est réservé aux professionnels : le monopole de la plaidoirie et de la représentation",
+      "texte": "Si la rédaction d'actes est libre, la représentation en justice est en revanche réservée à des professionnels habilités. En droit français et dans les systèmes qui s'en inspirent dont le droit malgache, seul l'avocat peut représenter une partie devant les juridictions pour lesquelles la représentation est obligatoire et plaider en son nom. Plaider signifie défendre oralement les intérêts d'une partie devant un tribunal, soutenir ses arguments, répliquer aux arguments adverses. Cette prérogative — le droit de plaider pour autrui — est le monopole de l'avocat inscrit au barreau. Un juriste, même brillant, même docteur en droit, même professeur d'université, ne peut pas plaider à la place d'une partie dont il n'est pas l'avocat. Devant certaines juridictions, la représentation par avocat est même obligatoire : la partie ne peut pas comparaître seule. Devant d'autres, elle est possible en personne. Mais dès que quelqu'un souhaite être représenté et défendu par un tiers professionnel, ce tiers doit être avocat. Cette règle protège les justiciables : l'avocat est soumis à des règles déontologiques strictes, à une formation professionnelle, à une discipline ordinale et à une responsabilité civile et pénale spécifique.",
+      "definition": "Monopole de la plaidoirie : seul l'avocat inscrit au barreau peut plaider pour autrui (représenter et défendre oralement une partie devant les tribunaux). Ce monopole ne s'étend pas à la rédaction d'actes, qui reste libre. Devant certaines juridictions, la représentation par avocat est obligatoire.",
+      "exemple": "Solofo est docteur en droit et conseille juridiquement des entreprises. Il peut rédiger leurs contrats, leurs actes, leurs courriers juridiques. Mais il ne peut pas représenter une entreprise cliente devant le tribunal de commerce et plaider à sa place — sauf s'il est lui-même inscrit au barreau. S'il le fait, il exerce illégalement la profession d'avocat."
+    },
+    {
+      "titre": "Le monopole notarial : l'acte authentique",
+      "texte": "Le notaire bénéficie d'un monopole distinct : celui de l'acte authentique. L'acte authentique est l'acte reçu par un officier public (le notaire, mais aussi le greffier ou l'officier d'état civil selon les cas) dans les formes légales. Il bénéficie d'une force probante supérieure à tout autre écrit : il fait foi jusqu'à inscription de faux. Certains actes doivent obligatoirement être passés en forme authentique pour être valables — c'est une exigence de validité et non seulement de preuve. La vente d'immeuble, la donation, le contrat de mariage, l'hypothèque conventionnelle doivent être reçus par un notaire. Un contrat de vente d'immeuble rédigé sous seing privé, même parfaitement rédigé, est nul pour défaut de forme. Nul autre qu'un notaire (ou un officier public compétent) ne peut recevoir ces actes. En revanche, pour tous les actes qui ne sont pas solennels — et c'est la grande majorité des contrats — le notaire n'est pas obligatoire. Recourir à un notaire pour un contrat de vente de voiture ou un bail d'appartement est possible mais facultatif. L'acte passé devant notaire aura simplement une force probante supérieure.",
+      "definition": "Monopole notarial : seul le notaire (officier public) peut recevoir les actes authentiques. Obligatoire pour certains actes à peine de nullité : vente d'immeuble, donation, contrat de mariage, hypothèque conventionnelle. Pour les autres actes, le recours au notaire est facultatif.",
+      "exemple": "Tiana et Nivo signent devant notaire un acte de vente d'immeuble : acte authentique obligatoire, l'acte fait foi jusqu'à inscription de faux. Hery rédige lui-même un contrat de vente de sa voiture : acte sous seing privé valable car la vente de meuble n'exige pas de forme solennelle."
+    },
+    {
+      "titre": "Les juristes non-avocats : ce qu'ils peuvent faire",
+      "texte": "Il existe de nombreux professionnels du droit qui ne sont ni avocats ni notaires mais qui exercent des activités juridiques légitimes. Les juristes d'entreprise (ou juristes internes) travaillent au sein d'une entreprise et assurent le conseil juridique interne, rédigent les contrats, gèrent les contentieux en orientant vers des avocats. Ils ne représentent pas l'entreprise devant les tribunaux mais font tout le travail en amont. Les conseils juridiques indépendants — dans les pays qui admettent cette profession — peuvent rédiger des actes, donner des consultations juridiques, rédiger des contrats pour le compte de clients. Mais ils ne peuvent pas plaider. Les greffiers de tribunaux sont des officiers ministériels qui jouent un rôle dans la procédure judiciaire. Les huissiers de justice instrumentent des actes (significations, constats, saisies) et constituent des actes authentiques dans leur domaine de compétence. À Madagascar, les avocats de la région d'Antsiranana sont inscrits au Barreau d'Antsiranana. Seuls eux peuvent plaider devant les juridictions d'Antsiranana. Un juriste diplômé qui n'est pas avocat peut rédiger des actes, conseiller, mais pas représenter en justice.",
+      "definition": "Juriste non-avocat : peut légalement rédiger des actes, donner des consultations, conseiller des clients. Ne peut pas représenter une partie en justice ni plaider pour elle. Juriste d'entreprise : conseiller interne qui rédige et gère sans représentation judiciaire. Huissier : actes de signification et de constat (actes authentiques dans son domaine).",
+      "exemple": "Fram est avocate inscrite au Barreau d'Antsiranana. Elle peut plaider devant le Tribunal d'Antsiranana. Un juriste diplômé non-inscrit au barreau peut rédiger les mêmes contrats qu'elle mais ne peut pas la remplacer à l'audience pour plaider."
+    },
+    {
+      "titre": "Les principes fondamentaux de rédaction des actes juridiques",
+      "texte": "Qu'il soit rédigé par un particulier, un juriste ou un avocat, un acte juridique doit respecter certains principes fondamentaux de rédaction. La clarté : l'acte doit être compréhensible par ses destinataires. Les termes techniques sont utiles mais doivent être définis quand ils peuvent prêter à confusion. Les phrases longues et alambiquées génèrent des litiges. La précision : l'acte doit identifier sans ambiguïté les parties (nom complet, qualité, adresse), l'objet (nature précise de la prestation, caractéristiques du bien), le prix (montant exact, modalités de paiement), et les délais (dates précises, pas de formules vagues comme 'dès que possible'). La complétude : l'acte doit prévoir ce qui peut se passer — les parties doivent envisager les hypothèses d'inexécution, de litige, de force majeure, de résiliation. Un acte incomplet laisse des zones d'ombre qui seront comblées par le juge selon son interprétation. La légalité : l'acte ne peut pas contenir de clauses contraires à la loi, à l'ordre public ou aux bonnes mœurs. Une clause illicite est nulle et peut entraîner la nullité de l'ensemble. La cohérence : les différentes clauses de l'acte ne doivent pas se contredire. Les incohérences internes sont sources de litiges d'interprétation.",
+      "definition": "Principes de rédaction : clarté (compréhensible par tous), précision (identification exacte des parties, objet, prix, délais), complétude (prévision des hypothèses futures), légalité (conformité au droit) et cohérence (absence de contradictions internes). Ces principes valent pour tout rédacteur, professionnel ou non.",
+      "exemple": "Un contrat qui dit 'le vendeur livrera la marchandise rapidement' est imprécis et source de litiges. Un contrat qui dit 'le vendeur livrera 500 kg de riz blanc à l'adresse de l'acheteur au plus tard le 15 du mois suivant la signature, sous peine de pénalité de 1% par jour de retard' est précis et complet."
+    },
+    {
+      "titre": "La structure d'un contrat : les clauses essentielles",
+      "texte": "Tout contrat bien rédigé suit une structure logique. L'en-tête identifie les parties avec précision : nom complet, qualité (personne physique ou morale), adresse, numéro d'identification si applicable. Pour une société, préciser sa forme juridique, son numéro d'immatriculation, son représentant légal. Les considérants ou recitals exposent le contexte et les motivations des parties — utiles pour l'interprétation en cas de litige. L'objet définit précisément ce à quoi chaque partie s'engage. C'est la clause la plus importante : elle doit être déterminée ou déterminable. Le prix et les modalités de paiement : montant exact, devise, échéances, mode de paiement, pénalités de retard. La durée et les conditions de renouvellement ou de résiliation : date de début, date de fin, clause de résiliation anticipée, préavis. Les garanties : caution, hypothèque, gage, assurance. Les clauses de responsabilité et de limitation de responsabilité : qui répond de quoi, dans quelle limite. La clause de force majeure : événements imprévisibles et irrésistibles libérant les parties de leur obligation. La clause de confidentialité si nécessaire. La clause de juridiction et de droit applicable : quel tribunal en cas de litige, quel droit applicable. Les signatures avec date et lieu.",
+      "definition": "Structure d'un contrat : en-tête (identification précise des parties), considérants (contexte), objet (engagement précis), prix et paiement, durée et résiliation, garanties, responsabilité, force majeure, confidentialité, clause de juridiction, signatures datées.",
+      "exemple": "Un contrat de prestation de services entre deux entreprises malgaches doit préciser : qui (SARL X, représentée par M. Y, RCCM n°...) s'engage à fournir quoi (audit comptable annuel selon les normes SYSCOHADA) pour combien (5 000 000 Ar HT) payable comment (50% à la signature, 50% à la livraison du rapport), dans quel délai (rapport remis au plus tard le 31 mars), avec quelle responsabilité en cas de retard."
+    },
+    {
+      "titre": "La rédaction des actes unilatéraux : testament, reconnaissance de dette, mise en demeure",
+      "texte": "Certains actes juridiques importants sont unilatéraux — ils émanent d'une seule volonté. Le testament olographe est l'acte par excellence du citoyen ordinaire : il doit être entièrement écrit de la main du testateur, signé et daté. Aucun témoin, aucun notaire n'est requis pour sa validité. Il permet à toute personne de disposer de ses biens après sa mort. La reconnaissance de dette est un acte par lequel le débiteur reconnaît devoir une somme à son créancier. Elle doit être manuscrite, signée, datée, et mentionner la somme en chiffres ET en lettres. Sans cette mention, elle ne vaut pas acte sous seing privé parfait. La mise en demeure est un acte par lequel on somme formellement une personne d'exécuter son obligation. Elle doit être envoyée par lettre recommandée avec accusé de réception pour être prouvée. Elle doit préciser l'obligation non exécutée, le délai accordé pour s'exécuter, et les conséquences en cas de non-exécution. La mise en demeure est souvent un préalable obligatoire avant d'engager une action en justice ou de réclamer des intérêts moratoires. La procuration est l'acte par lequel une personne (le mandant) donne pouvoir à une autre (le mandataire) d'agir en son nom.",
+      "definition": "Actes unilatéraux courants : testament olographe (manuscrit, signé, daté — aucun notaire requis), reconnaissance de dette (manuscrite, somme en chiffres ET lettres, signée, datée), mise en demeure (lettre recommandée, obligation précisée, délai fixé, conséquences énoncées), procuration (pouvoir donné à un mandataire).",
+      "exemple": "Vonjy rédige une reconnaissance de dette de main propre : 'Je soussigné Vonjy Rakoto, demeurant à Antsiranana, reconnais devoir à Rabe Rakotondrabe la somme de deux cent mille ariary (200 000 Ar) à titre de prêt consenti le [date], remboursable au plus tard le [date]. Fait à Antsiranana le [date]. Signature.' Cet acte est valable sans avocat ni notaire."
+    },
+    {
+      "titre": "La rédaction des conclusions judiciaires",
+      "texte": "Les conclusions sont les actes de procédure par lesquels les parties exposent leurs prétentions et leurs moyens devant le tribunal. Elles constituent le cœur du débat judiciaire : le juge ne statue que sur ce qui est demandé dans les conclusions. En principe, devant les juridictions où la représentation par avocat est obligatoire, les conclusions sont rédigées et signées par l'avocat. Un particulier ne peut pas déposer des conclusions comme un professionnel dans ces juridictions — ou peut le faire mais risque d'être mal entendu. Devant les juridictions où la représentation est facultative, le justiciable peut rédiger lui-même ses conclusions. La structure des conclusions judiciaires suit un modèle précis. Le rappel des faits : exposé objectif et chronologique. La discussion juridique : analyse des textes applicables et de la jurisprudence pertinente. Les moyens de droit : arguments juridiques précis à l'appui des prétentions. Le dispositif (le 'par ces motifs') : liste précise et exhaustive de ce que l'on demande au tribunal. Il faut demander tout ce qu'on souhaite obtenir dans le dispositif — ce qui n'est pas demandé ne sera pas accordé. La rédaction de conclusions de qualité est un art que les avocats travaillent durant toute leur carrière.",
+      "definition": "Conclusions judiciaires : actes de procédure exposant les prétentions et moyens des parties. Structure : faits, discussion juridique, moyens de droit, dispositif (liste précise des demandes). Le juge ne statue que sur ce qui est demandé dans le dispositif. Rédigées par l'avocat quand la représentation est obligatoire.",
+      "exemple": "Dans le dispositif des conclusions, l'avocat écrit : 'Par ces motifs, il est respectueusement demandé au Tribunal de : — Condamner la société X à payer à M. Rabe la somme de 5 000 000 Ar à titre de dommages-intérêts ; — Ordonner la résolution du contrat ; — Condamner la société X aux dépens.' Si l'avocat oublie de demander les dépens dans le dispositif, le tribunal ne les accordera pas."
+    },
+    {
+      "titre": "La rédaction des actes de procédure : requête, assignation, plainte",
+      "texte": "Les actes de procédure sont les actes par lesquels on saisit une juridiction ou on notifie un acte à une partie adverse. La requête est l'acte par lequel on saisit unilatéralement une juridiction pour lui soumettre un problème. En matière de juridiction gracieuse (pas de partie adverse), la requête est le mode normal de saisine. Elle doit identifier précisément le requérant, exposer les faits, indiquer le droit applicable, et formuler une demande précise. La requête au tribunal du travail d'Antsiranana, par exemple, est l'acte par lequel un salarié ou un employeur saisit la juridiction en matière de litige de travail. Elle peut être rédigée par le justiciable lui-même. L'assignation est l'acte par lequel le demandeur convoque le défendeur à comparaître devant la juridiction. Elle est instrumentée par un huissier de justice. La plainte pénale est l'acte par lequel la victime d'une infraction informe le procureur de la République et demande l'ouverture de poursuites. Elle peut être rédigée par la victime elle-même ou par son avocat. Elle doit décrire précisément les faits, identifier les auteurs si connus, qualifier pénalement les faits (quel crime ou délit), et indiquer les préjudices subis.",
+      "definition": "Actes de procédure : requête (saisine unilatérale d'une juridiction — peut être rédigée par le justiciable), assignation (convocation du défendeur par huissier), plainte pénale (dénonciation d'une infraction au procureur — peut être rédigée par la victime). Ces actes ne nécessitent pas nécessairement un avocat.",
+      "exemple": "Un salarié licencié abusivement peut rédiger lui-même sa requête au tribunal du travail d'Antsiranana, exposant les faits de son licenciement, citant les articles du Code du travail violés, et demandant le paiement de ses indemnités. Il n'a pas besoin d'un avocat pour saisir cette juridiction — mais avoir un avocat peut améliorer sa défense."
+    },
+    {
+      "titre": "La rédaction des actes constitutifs de sociétés et d'associations",
+      "texte": "La création d'une société ou d'une association nécessite la rédaction de statuts — l'acte fondateur qui définit l'identité, l'objet et le fonctionnement de la structure. Les statuts d'une association peuvent être rédigés par les fondateurs eux-mêmes sans aucun professionnel. Ils doivent mentionner le nom, l'objet, le siège social, les conditions d'admission et d'exclusion des membres, l'organisation (organes de direction, assemblée générale), les ressources, et les règles de dissolution. Les statuts d'une société (SARL, SA, etc.) peuvent également être rédigés par les associés fondateurs. Mais ils doivent respecter des règles légales précises : capital social minimal, répartition des parts, désignation du gérant, objet social conforme à la loi, clauses obligatoires selon le type de société. Une erreur dans les statuts peut rendre la société nulle ou créer des difficultés ultérieures. Pour les sociétés commerciales importantes, il est vivement conseillé de faire appel à un juriste ou un notaire. À Madagascar, l'enregistrement d'une société passe par l'EDBM (Economic Development Board of Madagascar) ou par le tribunal de commerce. Les statuts doivent être déposés et enregistrés.",
+      "definition": "Statuts : acte fondateur d'une société ou d'une association. Peuvent être rédigés par les fondateurs eux-mêmes. Doivent respecter les prescriptions légales selon le type de structure. Pour les sociétés commerciales, les exigences légales sont précises et les erreurs coûteuses. Dépôt et enregistrement obligatoires.",
+      "exemple": "Les fondateurs de l'association CDI Diego rédigent eux-mêmes leurs statuts, conformément à la loi n° 96-030. Ils n'ont pas besoin d'un notaire ni d'un avocat pour ce faire. En revanche, pour créer une SA avec appel public à l'épargne, les exigences légales sont telles qu'un accompagnement par un juriste spécialisé est prudent."
+    },
+    {
+      "titre": "La rédaction des actes en matière de droit du travail",
+      "texte": "En droit du travail, de nombreux actes juridiques doivent être rédigés par les employeurs et les salariés. Le contrat de travail peut être rédigé par l'employeur lui-même — aucune obligation de faire appel à un avocat. Mais il doit respecter les dispositions impératives du Code du travail malgache : mentions obligatoires, durée, rémunération, essai professionnel, période d'essai. Un contrat de travail qui contrevient au Code du travail est nul dans ses dispositions illicites, le droit commun s'appliquant à la place. La lettre de licenciement est un acte individuel de rupture qui doit être motivée, notifiée par lettre recommandée après une procédure disciplinaire. Les conclusions devant le tribunal du travail sont souvent rédigées par les parties elles-mêmes ou leurs syndicats, sans obligation d'avocat. L'accord de rupture conventionnelle, le règlement intérieur de l'entreprise, les procès-verbaux de réunion des délégués du personnel : tous ces actes peuvent être rédigés sans avocat. La maîtrise du Code du travail est ici déterminante. À Madagascar, les règles du Code du travail (Loi n° 2003-044) s'imposent à tout acte de droit du travail.",
+      "definition": "Actes de droit du travail : contrat de travail, lettre de licenciement, accord de rupture, règlement intérieur, PV de délégués du personnel — peuvent être rédigés par l'employeur ou le salarié sans avocat. Mais doivent respecter impérativement le Code du travail. Les clauses contraires au Code sont nulles de plein droit.",
+      "exemple": "Un employeur d'Antsiranana rédige lui-même son contrat de travail type. Il insère une clause prévoyant que le salarié renonce à tout recours judiciaire en cas de licenciement. Cette clause est nulle car contraire à l'ordre public du travail. L'absence d'avocat ne change pas ce résultat : la clause illicite sera écartée."
+    },
+    {
+      "titre": "Les pièges de la rédaction : clauses abusives, nullités et ambiguïtés",
+      "texte": "La rédaction d'actes juridiques comporte des pièges classiques que tout rédacteur — professionnel ou non — doit connaître. Les clauses abusives sont des clauses qui créent un déséquilibre significatif entre les droits et obligations des parties au détriment de la partie la plus faible. En droit de la consommation, elles sont réputées non écrites. En droit des affaires, certaines pratiques sont illicites (clauses de déséquilibre significatif). Les clauses contraires à l'ordre public sont nulles — elles ne peuvent pas valablement figurer dans un acte même si les parties les acceptent. Une clause de non-concurrence excessive, une clause d'exonération totale de responsabilité pour dol, une clause prévoyant une rémunération inférieure au SMIG : toutes nulles. Les ambiguïtés sont sources de litiges d'interprétation. En cas d'ambiguïté, le juge interprète le contrat selon l'intention des parties (interprétation subjective) ou selon ce qu'aurait voulu une personne raisonnable (interprétation objective). L'interprétation peut conduire à un résultat différent de ce que les parties voulaient. Les contradictions internes : deux clauses d'un même acte qui se contredisent posent un problème d'interprétation. Les omissions : ne pas prévoir une hypothèse important peut être fatal — par exemple, ne pas stipuler le sort du contrat en cas de décès d'une partie.",
+      "definition": "Pièges classiques de rédaction : clauses abusives (déséquilibre au détriment d'une partie — réputées non écrites), clauses contraires à l'ordre public (nulles), ambiguïtés (source de litiges d'interprétation), contradictions internes (clauses incompatibles), omissions (hypothèses non prévues). La qualité de la rédaction prévient ces risques.",
+      "exemple": "Un contrat commercial contient une clause stipulant que 'tout litige sera tranché définitivement par le directeur de la société X'. Cette clause est nulle car elle prive l'autre partie de son droit fondamental d'accès au juge. Le tribunal écartera cette clause et se déclarera compétent."
+    },
+    {
+      "titre": "La rédaction des actes judiciaires malgaches : spécificités",
+      "texte": "À Madagascar, la pratique de la rédaction des actes judiciaires présente des spécificités liées au système juridique malgache, hérité du droit civil français mais adapté aux réalités locales. Le droit malgache admet le multilinguisme dans les actes : les actes peuvent être rédigés en malgache ou en français, mais les actes officiels destinés aux juridictions doivent être dans la langue de la procédure. Le formulaire de requête au Tribunal du travail d'Antsiranana est un acte que tout justiciable peut rédiger lui-même. La requête devant le Tribunal de première instance peut également être déposée par le justiciable en personne dans certaines matières. La lettre de mise en demeure est un acte courant que tout justiciable peut rédiger. Les actes de procédure notariée (vente d'immeuble, donation) sont du monopole du notaire. Les actes de l'état civil (naissance, mariage, décès) sont reçus par les officiers d'état civil. En matière pénale, la plainte peut être déposée directement par la victime auprès du parquet ou de la gendarmerie, sans avocat. L'avocat malgache inscrit au Barreau peut plaider devant toutes les juridictions de Madagascar, mais il est usuellement rattaché à un barreau régional.",
+      "definition": "Particularités malgaches : multilinguisme admis (malgache et français), monopole notarial pour les actes solennels, officiers d'état civil pour les actes d'état civil. Les justiciables peuvent saisir directement certaines juridictions sans avocat. Le Barreau d'Antsiranana regroupe les avocats habilités à plaider dans la région DIANA.",
+      "exemple": "Un travailleur d'Antsiranana licencié abusivement dépose directement sa requête au greffe du tribunal du travail, rédigée en français ou en malgache. Il n'est pas obligé d'avoir un avocat pour cette première étape. En revanche, si le litige est porté devant la Cour d'appel, la présence d'un avocat devient souvent décisive."
+    }
+  ],
+  "quiz": [
+    {
+      "question": "Tout citoyen peut-il rédiger lui-même un contrat de bail ou une reconnaissance de dette ?",
+      "choix": [
+        "Non, seul un avocat est habilité à rédiger des actes juridiques",
+        "Oui, la rédaction d'actes juridiques courants est libre — aucune loi ne l'interdit à un particulier",
+        "Oui, mais seulement pour les actes de moins de 1 500 euros",
+        "Non, il faut au minimum un juriste diplômé"
+      ],
+      "reponse": 1,
+      "indices": [
+        "La liberté de rédaction est le prolongement de la liberté contractuelle.",
+        "L'obligation de faire appel à un professionnel n'existe que pour les actes solennels.",
+        "Un particulier peut rédiger son bail, son contrat de prêt, sa reconnaissance de dette."
+      ],
+      "explication": "Oui. La rédaction d'actes juridiques courants est libre. Aucune loi n'interdit à un citoyen de rédiger lui-même un contrat de bail, une reconnaissance de dette, un contrat de vente de meuble, une mise en demeure ou des statuts d'association. La seule exception concerne les actes solennels qui doivent être reçus par un officier public (notaire). La qualité de la rédaction est une autre question — mais l'acte est valable."
+    },
+    {
+      "question": "Qu'est-ce qui est réservé exclusivement à l'avocat inscrit au barreau ?",
+      "choix": [
+        "La rédaction de tous les actes juridiques",
+        "La représentation en justice et la plaidoirie pour le compte d'autrui devant les tribunaux",
+        "La consultation juridique payante",
+        "La rédaction des contrats commerciaux"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Ce n'est pas la rédaction mais la représentation qui est réservée.",
+        "Plaider pour autrui = défendre oralement devant un tribunal.",
+        "Un docteur en droit non-avocat ne peut pas plaider pour un client."
+      ],
+      "explication": "Le monopole de l'avocat porte sur la représentation en justice et la plaidoirie pour le compte d'autrui. Seul l'avocat inscrit au barreau peut défendre oralement une partie devant un tribunal, répliquer aux arguments adverses, représenter un client aux audiences. Ce monopole ne s'étend pas à la rédaction d'actes — qui reste libre — ni à la consultation juridique dans de nombreux systèmes."
+    },
+    {
+      "question": "Un docteur en droit, professeur d'université, non inscrit au barreau, peut-il plaider à la place de son client devant le tribunal ?",
+      "choix": [
+        "Oui, ses qualifications académiques lui donnent ce droit",
+        "Non, seul l'avocat inscrit au barreau peut représenter et plaider pour une partie devant les tribunaux",
+        "Oui, s'il a l'accord du client et du tribunal",
+        "Oui, devant les juridictions du premier degré mais pas en appel"
+      ],
+      "reponse": 1,
+      "indices": [
+        "La qualification académique et le titre d'avocat sont deux choses différentes.",
+        "L'inscription au barreau est la condition pour exercer la profession d'avocat.",
+        "S'il plaide sans être inscrit, il exerce illégalement la profession."
+      ],
+      "explication": "Non. La représentation en justice et la plaidoirie pour autrui sont le monopole de l'avocat inscrit au barreau — pas du juriste académique, même brillant. Un professeur de droit non inscrit au barreau qui plaiderait pour un client exercerait illégalement la profession d'avocat. Il peut en revanche rédiger des actes, donner des consultations, rédiger des contrats — mais pas représenter une partie en audience."
+    },
+    {
+      "question": "Qu'est-ce que le monopole notarial ?",
+      "choix": [
+        "Le droit exclusif du notaire de rédiger tous les contrats en France et à Madagascar",
+        "Le droit exclusif du notaire de recevoir les actes authentiques, obligatoires pour certains actes à peine de nullité (vente d'immeuble, donation, hypothèque)",
+        "Le droit exclusif du notaire de conseil juridique pour les particuliers",
+        "Le droit exclusif du notaire de représenter les parties devant les juridictions civiles"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Le monopole porte sur les actes authentiques.",
+        "Seuls certains actes exigent le notaire à peine de nullité.",
+        "Pour les autres actes, le notaire est facultatif."
+      ],
+      "explication": "Le monopole notarial porte sur les actes authentiques : seul le notaire (officier public) peut les recevoir. Ce monopole s'applique aux actes pour lesquels la loi exige la forme authentique à peine de nullité : vente d'immeuble, donation, contrat de mariage, hypothèque conventionnelle. Pour tous les autres actes, le notaire n'est pas obligatoire. Faire appel à lui est possible et confère une force probante supérieure, mais c'est un choix."
+    },
+    {
+      "question": "Un contrat de vente d'immeuble rédigé entre deux particuliers sans notaire est-il valable ?",
+      "choix": [
+        "Oui, si les deux parties sont d'accord",
+        "Non, la vente d'immeuble est un acte solennel exigeant un acte notarié à peine de nullité absolue",
+        "Oui, mais il n'est opposable aux tiers qu'après enregistrement",
+        "Cela dépend de la valeur de l'immeuble"
+      ],
+      "reponse": 1,
+      "indices": [
+        "La vente d'immeuble est un contrat solennel.",
+        "La forme authentique est exigée à peine de nullité, pas seulement pour la preuve.",
+        "Même si les deux parties sont d'accord, l'absence de notaire rend l'acte nul."
+      ],
+      "explication": "Non. La vente d'immeuble est un contrat solennel : la forme authentique (acte notarié) est exigée à peine de nullité absolue, pas seulement pour la preuve. Même si les deux parties sont parfaitement d'accord, même si l'acte est parfaitement rédigé, l'absence d'acte notarié rend la vente nulle. Cette exigence de forme protège la sécurité des transactions immobilières."
+    },
+    {
+      "question": "Quels sont les cinq principes fondamentaux de la rédaction des actes juridiques ?",
+      "choix": [
+        "Brièveté, confidentialité, bilingualité, formalité, solennité",
+        "Clarté, précision, complétude, légalité et cohérence",
+        "Originalité, autorité, opposabilité, publicité, force exécutoire",
+        "Consensus, égalité, réciprocité, gratuité, liberté"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Ces principes valent pour tout rédacteur, professionnel ou non.",
+        "Un acte précis évite les litiges futurs.",
+        "Un acte légal ne peut pas contenir de clauses contraires à l'ordre public."
+      ],
+      "explication": "Les cinq principes fondamentaux de rédaction sont : la clarté (compréhensible par tous), la précision (identification exacte des parties, objet, prix, délais), la complétude (prévision des hypothèses futures, y compris l'inexécution), la légalité (conformité au droit, absence de clauses contraires à l'ordre public) et la cohérence (absence de contradictions internes entre les clauses)."
+    },
+    {
+      "question": "Qu'est-ce que le dispositif dans des conclusions judiciaires ?",
+      "choix": [
+        "La partie des conclusions qui expose les faits de l'affaire",
+        "La liste précise et exhaustive de ce que le demandeur demande au tribunal — ce que le juge doit accorder",
+        "La partie juridique citant les textes applicables",
+        "La signature de l'avocat en bas de page"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Le juge ne statue que sur ce qui est demandé dans le dispositif.",
+        "Ce qui n'est pas demandé ne sera pas accordé même si le juge y a droit.",
+        "Il commence par 'Par ces motifs, il est demandé au tribunal de...'"
+      ],
+      "explication": "Le dispositif est la partie finale des conclusions qui liste précisément et exhaustivement ce que la partie demande au tribunal. C'est la partie la plus importante : le juge ne statue que sur ce qui est demandé dans le dispositif. Si l'avocat oublie de demander les intérêts ou les dépens dans le dispositif, le tribunal ne les accordera pas même s'ils sont dus. Tout ce qu'on veut obtenir doit figurer dans le dispositif."
+    },
+    {
+      "question": "Pour être valable, une reconnaissance de dette doit contenir obligatoirement :",
+      "choix": [
+        "La signature du créancier et du débiteur, deux témoins, et une date",
+        "La signature du débiteur, la mention de la somme en chiffres ET en lettres, et la date",
+        "Un tampon de notaire et la signature des deux parties",
+        "Uniquement la signature du débiteur"
+      ],
+      "reponse": 1,
+      "indices": [
+        "C'est un engagement unilatéral de payer une somme.",
+        "La double mention en chiffres et en lettres protège contre la falsification.",
+        "La signature du créancier n'est pas requise — c'est le débiteur qui s'engage."
+      ],
+      "explication": "Pour valoir acte sous seing privé parfait, une reconnaissance de dette doit contenir la signature du débiteur (pas du créancier), la mention manuscrite de la somme en chiffres ET en lettres (la double mention protège contre la falsification et attire l'attention du débiteur sur l'étendue de son engagement), et la date. En cas de discordance entre les deux mentions, c'est la somme en lettres qui prévaut."
+    },
+    {
+      "question": "Vrai ou faux : le testament olographe doit être signé devant deux témoins.",
+      "choix": [
+        "Vrai",
+        "Faux"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Le testament olographe est l'acte le plus libre qui soit.",
+        "Olographe vient du grec : écrit entièrement de sa propre main.",
+        "Aucun témoin, aucun notaire n'est requis pour sa validité."
+      ],
+      "explication": "Faux. Le testament olographe doit être entièrement écrit de la main du testateur, signé et daté. Aucun témoin et aucun notaire ne sont requis pour sa validité. C'est l'acte le plus accessible : tout citoyen sachant écrire peut tester sans aucune aide extérieure. En revanche, s'il est imprimé (même partiellement), il est nul — il doit être intégralement manuscrit."
+    },
+    {
+      "question": "Pourquoi la mise en demeure doit-elle être envoyée par lettre recommandée ?",
+      "choix": [
+        "Pour respecter une formalité de politesse entre les parties",
+        "Pour pouvoir prouver sa date d'envoi et sa réception en cas de litige — ce qui est souvent un préalable nécessaire à l'action en justice",
+        "Parce que la loi interdit d'envoyer une mise en demeure par email",
+        "Pour que l'avocat puisse la signer"
+      ],
+      "reponse": 1,
+      "indices": [
+        "La mise en demeure sert à prouver qu'on a sommé le débiteur.",
+        "Sans preuve d'envoi et de réception, on ne peut pas prouver qu'on a mis en demeure.",
+        "C'est souvent un préalable obligatoire avant une action en justice."
+      ],
+      "explication": "La mise en demeure doit être envoyée par lettre recommandée avec accusé de réception pour constituer une preuve certaine de sa date d'envoi et de sa réception par le destinataire. Sans cette preuve, le débiteur peut prétendre ne jamais l'avoir reçue. De plus, la mise en demeure est souvent un préalable juridique obligatoire avant d'engager une action en justice ou de réclamer des intérêts moratoires."
+    },
+    {
+      "question": "Un salarié peut-il rédiger lui-même sa requête devant le tribunal du travail ?",
+      "choix": [
+        "Non, seul un avocat peut saisir le tribunal du travail",
+        "Oui, le justiciable peut saisir le tribunal du travail directement par requête qu'il rédige lui-même",
+        "Oui, mais seulement pour les litiges inférieurs à un certain montant",
+        "Non, le syndicat doit obligatoirement l'accompagner"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Le tribunal du travail est une juridiction accessible au justiciable ordinaire.",
+        "La représentation par avocat n'est pas toujours obligatoire en première instance.",
+        "Le salarié peut déposer directement sa requête au greffe."
+      ],
+      "explication": "Oui. Le salarié peut rédiger et déposer lui-même sa requête devant le tribunal du travail. La représentation par avocat n'est pas obligatoire devant cette juridiction. Le justiciable peut exposer lui-même les faits de son licenciement, citer les articles du Code du travail violés et formuler ses demandes. Faire appel à un avocat est possible et souvent conseillé, mais ce n'est pas une obligation légale."
+    },
+    {
+      "question": "Qu'est-ce qu'une clause contraire à l'ordre public dans un contrat ?",
+      "choix": [
+        "Une clause mal rédigée ou incompréhensible",
+        "Une clause qui contrevient aux règles impératives de la loi ou aux principes fondamentaux de la société, nulle de plein droit",
+        "Une clause qui désavantage économiquement l'une des parties",
+        "Une clause insérée sans l'accord de l'une des parties"
+      ],
+      "reponse": 1,
+      "indices": [
+        "L'ordre public est l'ensemble des règles impératives auxquelles on ne peut pas déroger.",
+        "Une telle clause est nulle même si les deux parties l'ont acceptée librement.",
+        "Exemples : exonérer totalement sa responsabilité pour dol, déroger au SMIG."
+      ],
+      "explication": "Une clause contraire à l'ordre public est une clause qui contrevient aux règles impératives de la loi ou aux principes fondamentaux de l'ordre social et juridique. Elle est nulle de plein droit, même si les deux parties l'ont librement acceptée. La liberté contractuelle s'arrête à l'ordre public : on ne peut pas tout stipuler dans un contrat. Examples : clause d'exonération totale pour dol ou faute lourde, salaire inférieur au SMIG, clause privant l'autre partie de tout recours judiciaire."
+    },
+    {
+      "question": "Vrai ou faux : un juriste d'entreprise (juriste interne) peut représenter son entreprise devant le tribunal de commerce.",
+      "choix": [
+        "Vrai",
+        "Faux"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Le juriste d'entreprise n'est pas avocat.",
+        "La représentation en justice est réservée aux avocats.",
+        "Le juriste interne fait le travail en amont mais passe la main à l'avocat pour le prétoire."
+      ],
+      "explication": "Faux en général. Le juriste d'entreprise n'est pas avocat et ne peut pas représenter son entreprise devant les tribunaux où la représentation est obligatoire. Il peut rédiger les contrats, gérer les litiges, préparer les dossiers — mais pour plaider, il faut confier le dossier à un avocat inscrit au barreau. Certaines exceptions existent dans des procédures spécifiques ou des juridictions particulières, mais le principe est l'exclusivité de la plaidoirie aux avocats."
+    },
+    {
+      "question": "Quelles sont les mentions obligatoires dans les statuts d'une association selon la loi malgache n° 96-030 ?",
+      "choix": [
+        "Uniquement le nom et l'adresse du président",
+        "Nom, objet, siège social, conditions d'adhésion et d'exclusion, organisation (organes et assemblée générale), ressources et dissolution",
+        "Seulement le nom, l'objet et les noms des fondateurs",
+        "Le capital social, le nombre d'associés et la durée"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Les statuts sont l'acte fondateur de l'association.",
+        "Ils doivent permettre de savoir comment fonctionne l'association.",
+        "La loi malgache sur les associations fixe les mentions minimales."
+      ],
+      "explication": "Selon la loi malgache n° 96-030 sur les associations, les statuts doivent contenir : le nom et le siège de l'association, l'objet (but de l'association), les conditions d'admission et d'exclusion des membres, l'organisation interne (organes de direction, assemblée générale, quorum, vote), les ressources (cotisations, dons, subventions), et les règles de dissolution. Ces mentions permettent à l'association de fonctionner de façon régulière et d'être reconnue par les autorités."
+    },
+    {
+      "question": "Pourquoi les ambiguïtés dans la rédaction d'un contrat sont-elles dangereuses ?",
+      "choix": [
+        "Parce qu'elles rendent le contrat automatiquement nul",
+        "Parce que le juge devra interpréter le contrat et son interprétation peut diverger de ce que les parties voulaient",
+        "Parce qu'elles permettent à l'une des parties de se retirer du contrat",
+        "Parce qu'elles empêchent le contrat d'être enregistré"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Le juge interprète les clauses ambiguës selon son appréciation.",
+        "L'interprétation peut différer de l'intention réelle des parties.",
+        "Un contrat ambigu est une source de litige."
+      ],
+      "explication": "Les ambiguïtés sont dangereuses parce qu'en cas de litige, le juge devra interpréter les clauses ambiguës selon l'intention des parties ou selon ce qu'une personne raisonnable aurait compris. Cette interprétation peut diverger de ce que les parties voulaient vraiment. Un contrat clair et précis évite cette incertitude : les parties savent exactement à quoi elles s'engagent et le juge n'a pas à combler les lacunes."
+    },
+    {
+      "question": "Un employeur peut-il insérer dans un contrat de travail une clause stipulant que le salarié renonce à tout recours judiciaire ?",
+      "choix": [
+        "Oui, si le salarié l'accepte librement",
+        "Non, cette clause est contraire à l'ordre public du travail et nulle de plein droit",
+        "Oui, mais seulement pour les cadres supérieurs",
+        "Oui, si le salarié reçoit une contrepartie financière"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Le droit d'accès au juge est un droit fondamental.",
+        "L'ordre public du travail protège le salarié contre les renonciations à ses droits.",
+        "Le Code du travail est d'ordre public : on ne peut pas y déroger défavorablement."
+      ],
+      "explication": "Non. Le droit d'accès au juge est un droit fondamental garanti par la Constitution. Une clause prévoyant que le salarié renonce à tout recours judiciaire est nulle de plein droit, contraire à l'ordre public du travail. Le Code du travail est largement d'ordre public : ses dispositions protectrices du salarié ne peuvent pas être écartées par des clauses contractuelles moins favorables. La clause sera réputée non écrite et le salarié conservera tous ses droits."
+    },
+    {
+      "question": "Vrai ou faux : en matière pénale, une victime peut déposer plainte directement sans avocat.",
+      "choix": [
+        "Vrai",
+        "Faux"
+      ],
+      "reponse": 0,
+      "indices": [
+        "La plainte pénale est accessible à tout citoyen.",
+        "Elle peut être déposée auprès du parquet ou de la gendarmerie.",
+        "L'avocat n'est pas obligatoire pour déposer plainte."
+      ],
+      "explication": "Vrai. En matière pénale, la victime d'une infraction peut déposer plainte directement auprès du procureur de la République, du tribunal, ou de la gendarmerie, sans l'assistance d'un avocat. La plainte peut être rédigée par la victime elle-même. L'avocat n'est pas obligatoire à ce stade. En revanche, pour se constituer partie civile et réclamer des dommages-intérêts dans le cadre d'un procès pénal, l'assistance d'un avocat devient souvent nécessaire."
+    },
+    {
+      "question": "Qu'est-ce que la formalité du double dans un contrat synallagmatique sous seing privé ?",
+      "choix": [
+        "L'obligation de faire vérifier le contrat par deux avocats",
+        "L'obligation de rédiger autant d'exemplaires originaux qu'il y a de parties ayant un intérêt distinct",
+        "L'obligation de faire deux signatures par chaque partie",
+        "L'obligation de déposer un exemplaire au greffe du tribunal"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Un contrat synallagmatique oblige les deux parties.",
+        "Chaque partie doit avoir son exemplaire original pour se protéger.",
+        "Si une seule a l'original, elle peut le modifier."
+      ],
+      "explication": "La formalité du double exige que tout acte sous seing privé constatant un contrat synallagmatique soit rédigé en autant d'exemplaires originaux qu'il y a de parties ayant un intérêt distinct. En pratique, souvent deux exemplaires. Cette règle permet à chaque partie de détenir un original identique, empêchant toute modification unilatérale frauduleuse. Si un seul exemplaire existe et qu'une partie le modifie, l'autre n'a aucun moyen de le prouver."
+    },
+    {
+      "question": "La rédaction des statuts d'une SARL peut-elle être faite par les associés fondateurs eux-mêmes sans notaire ?",
+      "choix": [
+        "Non, les statuts de société doivent obligatoirement être rédigés par un notaire",
+        "Oui, les associés peuvent rédiger eux-mêmes les statuts de leur SARL, sous réserve de respecter les prescriptions légales",
+        "Oui, mais seulement si la SARL a moins de 5 associés",
+        "Non, il faut au minimum un avocat spécialisé"
+      ],
+      "reponse": 1,
+      "indices": [
+        "La SARL est une société commerciale dont les statuts peuvent être sous seing privé.",
+        "Le notaire n'est pas obligatoire pour les statuts de SARL en général.",
+        "Les associés doivent respecter les exigences légales sur le contenu des statuts."
+      ],
+      "explication": "Oui. Les associés fondateurs d'une SARL peuvent rédiger eux-mêmes leurs statuts sans notaire ni avocat, sous forme d'acte sous seing privé. Ils doivent cependant respecter les prescriptions légales : mentions obligatoires, capital social minimal, désignation du gérant, objet social, répartition des parts. Une rédaction bâclée peut créer des difficultés ultérieures, d'où l'utilité de se faire accompagner — mais ce n'est pas une obligation légale."
+    },
+    {
+      "question": "Vrai ou faux : un contrat peut être modifié unilatéralement par l'une des parties après sa signature.",
+      "choix": [
+        "Vrai",
+        "Faux"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Le contrat est la loi des parties.",
+        "La force obligatoire du contrat interdit les modifications unilatérales.",
+        "Toute modification exige l'accord des deux parties (avenant)."
+      ],
+      "explication": "Faux. Un contrat valablement formé a force obligatoire : il ne peut être modifié que par accord mutuel des parties, formalisé dans un avenant. Toute modification unilatérale constitue une inexécution du contrat. Si une partie modifie unilatéralement les conditions du contrat, l'autre peut en demander l'exécution telle que convenue initialement, ou la résolution du contrat avec dommages-intérêts."
+    },
+    {
+      "question": "Qu'est-ce qu'un avenant à un contrat ?",
+      "choix": [
+        "Un nouveau contrat remplaçant totalement l'ancien",
+        "Un acte modifiant ou complétant un contrat existant par accord mutuel des parties",
+        "Un acte unilatéral par lequel une partie notifie sa volonté de modifier le contrat",
+        "Une clause suspensive insérée dans le contrat initial"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Il modifie un contrat existant sans le remplacer entièrement.",
+        "Il requiert l'accord des deux parties.",
+        "Il doit respecter les mêmes formes que le contrat initial s'il est solennel."
+      ],
+      "explication": "Un avenant est un acte modifiant ou complétant un contrat existant par accord mutuel des deux parties. Il ne remplace pas entièrement le contrat — il en modifie certaines clauses ou en ajoute de nouvelles. L'avenant doit lui-même respecter les formes requises pour le contrat qu'il modifie. Si le contrat était notarié, l'avenant doit l'être aussi. Il est signé par toutes les parties au contrat original."
+    },
+    {
+      "question": "Dans un contrat de prestation de services, pourquoi est-il essentiel de définir précisément l'objet de la prestation ?",
+      "choix": [
+        "Pour que le contrat dépasse le seuil de 1 500 euros et soit valable",
+        "Parce que l'objet détermine les obligations de chaque partie — sans précision, chacun peut avoir une interprétation différente de ce qui est dû",
+        "Pour satisfaire aux exigences de forme solennelle",
+        "Pour permettre à l'avocat de mieux défendre son client"
+      ],
+      "reponse": 1,
+      "indices": [
+        "L'objet mal défini est la première source de litige en matière de prestation.",
+        "Chaque partie peut avoir une interprétation différente de 'conseil juridique' ou 'mission de formation'.",
+        "Une définition précise évite les disputes sur l'étendue des obligations."
+      ],
+      "explication": "La précision de l'objet est fondamentale parce qu'il détermine ce que chaque partie doit faire. Un objet flou ('conseiller la société') laisse chaque partie libre d'interpréter différemment l'étendue des obligations. Cela génère des litiges : l'une pense avoir droit à des services illimités, l'autre pense avoir fourni ce qui était dû. Un objet précis ('rédiger 10 contrats commerciaux par mois selon les spécifications jointes en annexe') élimine cette ambiguïté."
+    },
+    {
+      "question": "Vrai ou faux : en droit malgache, les actes juridiques peuvent être rédigés indifféremment en malgache ou en français.",
+      "choix": [
+        "Vrai",
+        "Faux"
+      ],
+      "reponse": 0,
+      "indices": [
+        "Madagascar est un pays bilingue.",
+        "Les deux langues sont officielles.",
+        "Les actes destinés aux juridictions suivent la langue de la procédure."
+      ],
+      "explication": "Vrai dans l'ensemble. Madagascar étant un pays bilingue (malgache et français), les actes juridiques peuvent être rédigés dans l'une ou l'autre langue. Pour les actes officiels destinés aux juridictions, la langue de la procédure doit être respectée. Dans la pratique, de nombreux actes juridiques malgaches sont rédigés en français, notamment les contrats commerciaux et les actes notariés, bien que le malgache soit également utilisé."
+    },
+    {
+      "question": "Qu'est-ce que la clause de juridiction dans un contrat et pourquoi est-elle importante ?",
+      "choix": [
+        "La clause qui désigne quel avocat représentera les parties en cas de litige",
+        "La clause qui désigne le tribunal compétent et le droit applicable en cas de litige entre les parties",
+        "La clause qui détermine si le contrat est soumis à l'arbitrage obligatoire",
+        "La clause qui fixe les délais de prescription des actions contractuelles"
+      ],
+      "reponse": 1,
+      "indices": [
+        "En cas de litige, les parties peuvent s'opposer sur le tribunal compétent.",
+        "Prévoir à l'avance le tribunal évite ce conflit.",
+        "En droit international, le choix du droit applicable est crucial."
+      ],
+      "explication": "La clause de juridiction (ou clause d'élection de for) désigne à l'avance le tribunal qui sera compétent en cas de litige entre les parties, et éventuellement le droit applicable. Elle est importante pour éviter les conflits de compétence : sans elle, chaque partie peut vouloir saisir le tribunal de son choix. Elle est particulièrement cruciale dans les contrats internationaux où plusieurs pays et plusieurs droits pourraient être applicables."
+    },
+    {
+      "question": "Récapitulatif : parmi ces actes, lesquels nécessitent obligatoirement l'intervention d'un notaire ? (1) Vente d'immeuble, (2) Contrat de bail d'appartement, (3) Donation d'immeuble, (4) Reconnaissance de dette, (5) Contrat de mariage.",
+      "choix": [
+        "Tous les cinq nécessitent un notaire",
+        "(1), (3) et (5) : vente d'immeuble, donation et contrat de mariage sont des actes solennels exigeant un acte notarié à peine de nullité",
+        "Seulement (1) la vente d'immeuble",
+        "(1), (2), (3) et (5) : tous sauf la reconnaissance de dette"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Les actes solennels sont ceux pour lesquels la loi exige la forme authentique à peine de nullité.",
+        "Le bail et la reconnaissance de dette ne sont pas des actes solennels.",
+        "Vente d'immeuble, donation, contrat de mariage : actes solennels."
+      ],
+      "explication": "Nécessitent obligatoirement un acte notarié à peine de nullité : (1) la vente d'immeuble (acte solennel), (3) la donation (acte solennel), (5) le contrat de mariage (acte solennel). Ne nécessitent pas de notaire : (2) le contrat de bail d'appartement (acte consensuel — un bail sous seing privé est valable) et (4) la reconnaissance de dette (acte sous seing privé suffisant, avec mentions obligatoires en chiffres et lettres)."
+    },
+    {
+      "question": "Vrai ou faux : les conclusions judiciaires peuvent être déposées directement par un justiciable sans avocat devant toutes les juridictions.",
+      "choix": [
+        "Vrai",
+        "Faux"
+      ],
+      "reponse": 1,
+      "indices": [
+        "La représentation par avocat est obligatoire devant certaines juridictions.",
+        "Devant d'autres, elle est facultative.",
+        "Devant le tribunal du travail, le justiciable peut plaider seul."
+      ],
+      "explication": "Faux. Devant certaines juridictions, la représentation par avocat est obligatoire : le justiciable ne peut pas y comparaître seul et ne peut pas y déposer lui-même des conclusions. Devant d'autres (comme le tribunal du travail dans de nombreux systèmes), la représentation est facultative et le justiciable peut déposer ses propres conclusions. La règle varie selon la juridiction et le pays."
+    },
+    {
+      "question": "Qu'est-ce que la force obligatoire du contrat et quelle est son implication pratique pour la rédaction ?",
+      "choix": [
+        "Le contrat peut être modifié par le juge si les circonstances changent",
+        "Le contrat est la loi des parties : il s'impose à elles avec la même force qu'une loi — d'où l'importance capitale de rédiger avec soin ce qu'on signe",
+        "Le contrat n'est obligatoire que pendant sa durée expressément prévue",
+        "Le contrat est obligatoire seulement si chaque partie a été assistée d'un avocat"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Le contrat est la loi des parties.",
+        "Les parties doivent exécuter ce qu'elles ont signé.",
+        "Une mauvaise rédaction peut obliger une partie à quelque chose qu'elle ne voulait pas."
+      ],
+      "explication": "La force obligatoire du contrat signifie que le contrat valablement formé s'impose à ses parties avec la même force qu'une loi — elles doivent exécuter ce à quoi elles se sont engagées. Cette règle a une implication pratique majeure pour la rédaction : ce qui est écrit dans le contrat sera appliqué, même si ce n'était pas l'intention réelle des parties. Une clause mal rédigée peut obliger une partie à quelque chose qu'elle ne voulait pas. D'où l'importance cruciale de rédiger avec précision et de relire attentivement avant de signer."
+    },
+    {
+      "question": "Vrai ou faux : un huissier de justice peut instrumenter des actes authentiques dans son domaine de compétence.",
+      "choix": [
+        "Vrai",
+        "Faux"
+      ],
+      "reponse": 0,
+      "indices": [
+        "L'huissier est un officier ministériel.",
+        "Il établit des constats, signifie des actes, procède à des saisies.",
+        "Ces actes ont la force authentique dans son domaine."
+      ],
+      "explication": "Vrai. L'huissier de justice est un officier ministériel qui dispose d'une compétence propre pour instrumenter certains actes authentiques dans son domaine : les procès-verbaux de constat (constater un état des lieux, une infraction, une situation de fait), les significations d'actes de procédure, les commandements et saisies. Ces actes, dressés par l'huissier, font foi jusqu'à inscription de faux dans leur domaine de compétence."
+    },
+    {
+      "question": "Qu'est-ce que la clause de force majeure dans un contrat et pourquoi est-il important de la rédiger avec précision ?",
+      "choix": [
+        "Une clause permettant à l'une des parties de se désengager librement",
+        "Une clause définissant les événements imprévisibles et irrésistibles qui libèrent une partie de son obligation d'exécuter, sans engager sa responsabilité",
+        "Une clause imposant des pénalités maximales en cas d'inexécution",
+        "Une clause permettant au juge de modifier les termes du contrat"
+      ],
+      "reponse": 1,
+      "indices": [
+        "La force majeure libère une partie de sa responsabilité pour inexécution.",
+        "Sa définition dans le contrat détermine ce qui compte comme force majeure.",
+        "Une définition trop large peut permettre à une partie d'invoquer la force majeure pour tout."
+      ],
+      "explication": "La clause de force majeure définit les événements imprévisibles, irrésistibles et extérieurs aux parties qui les libèrent de leur obligation d'exécuter le contrat sans engager leur responsabilité. Il est important de la rédiger avec précision pour éviter les abus : une clause trop large permet à une partie d'invoquer la force majeure pour des événements qu'elle aurait pu prévoir ou éviter. Une clause bien rédigée liste les types d'événements couverts (pandémie, guerre, catastrophe naturelle) et les obligations qui en découlent (notification, délai de remise en état)."
+    },
+    {
+      "question": "Pourquoi est-il essentiel de mentionner la qualité et les pouvoirs des signataires dans les actes passés au nom d'une société ?",
+      "choix": [
+        "Pour des raisons purement esthétiques et de présentation",
+        "Pour prouver que la personne qui signe était habilitée à engager la société — sans quoi la société peut contester être liée par l'acte",
+        "Parce que la loi impose toujours cette mention à peine de nullité",
+        "Pour permettre à l'administration fiscale de contrôler la société"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Une société agit par ses représentants légaux.",
+        "Le gérant ou le directeur général ont des pouvoirs définis par les statuts.",
+        "Si le signataire n'était pas habilité, la société peut nier être engagée."
+      ],
+      "explication": "Il est crucial de mentionner la qualité et les pouvoirs du signataire dans tout acte conclu au nom d'une société. Une société est une personne morale qui n'agit que par ses représentants légaux. Si le signataire n'était pas habilité à engager la société (parce qu'il n'est pas le représentant légal ou parce que l'acte dépasse ses pouvoirs), la société peut contester être liée par l'acte. La mention 'M. X, gérant de la SARL Y, agissant en vertu de ses pouvoirs statutaires' prouve l'habilitation."
+    },
+    {
+      "question": "Vrai ou faux : une clause pénale dans un contrat peut être modérée par le juge si elle est manifestement excessive.",
+      "choix": [
+        "Vrai",
+        "Faux"
+      ],
+      "reponse": 0,
+      "indices": [
+        "La clause pénale est la clause fixant à l'avance les pénalités en cas d'inexécution.",
+        "Le juge peut la réduire ou l'augmenter si elle est manifestement disproportionnée.",
+        "C'est une exception au principe de force obligatoire du contrat."
+      ],
+      "explication": "Vrai. La clause pénale est la clause par laquelle les parties fixent à l'avance le montant des dommages-intérêts en cas d'inexécution. En principe, elle est obligatoire (force obligatoire du contrat). Mais le juge dispose du pouvoir de la modérer si elle est manifestement excessive, ou de l'augmenter si elle est manifestement dérisoire. C'est une exception légale au principe de force obligatoire, justifiée par l'équité."
+    },
+    {
+      "question": "Récapitulatif final : un entrepreneur malgache souhaite protéger ses intérêts dans plusieurs situations. Pour chacune, dites si un avocat est obligatoire : (1) rédiger son contrat de prestation de services, (2) plaider devant le tribunal de commerce, (3) déposer une plainte pénale, (4) créer les statuts de sa SARL.",
+      "choix": [
+        "Avocat obligatoire pour les quatre situations",
+        "(1) libre (pas d'obligation), (2) avocat obligatoire ou fortement conseillé, (3) libre (pas d'obligation), (4) libre (pas d'obligation)",
+        "Avocat facultatif pour toutes les situations",
+        "(1) notaire obligatoire, (2) avocat obligatoire, (3) et (4) libres"
+      ],
+      "reponse": 1,
+      "indices": [
+        "La rédaction d'actes est libre pour tout citoyen.",
+        "La plaidoirie devant les tribunaux est réservée aux avocats.",
+        "Déposer plainte et créer des statuts sont des actes accessibles sans avocat."
+      ],
+      "explication": "(1) Rédiger son contrat de prestation : LIBRE — tout citoyen peut le faire, aucune obligation d'avocat. (2) Plaider devant le tribunal de commerce : AVOCAT obligatoire ou fortement conseillé — la représentation en justice est réservée aux avocats. Devant certaines juridictions commerciales, la représentation est obligatoire ; devant d'autres, elle est facultative mais la plaidoirie professionnelle est décisive. (3) Déposer une plainte pénale : LIBRE — la victime peut déposer plainte sans avocat directement auprès du parquet ou de la gendarmerie. (4) Créer les statuts de sa SARL : LIBRE — les associés fondateurs peuvent rédiger eux-mêmes leurs statuts, sous réserve de respecter les prescriptions légales."
+    },
+    {
+      "question": "Vrai ou faux : un particulier peut rédiger lui-même son testament sans aucune assistance.",
+      "choix": [
+        "Vrai",
+        "Faux"
+      ],
+      "reponse": 0,
+      "indices": [
+        "Le testament olographe est entièrement manuscrit.",
+        "Aucun témoin ni notaire requis.",
+        "Il doit être signé et daté."
+      ],
+      "explication": "Vrai. Le testament olographe est l'acte le plus accessible : il doit être entièrement écrit de la main du testateur, signé et daté. Aucun témoin et aucun notaire ne sont requis pour sa validité. Tout citoyen sachant écrire peut tester sans aucune aide. Attention : s'il est tapé à l'ordinateur même partiellement, il est nul."
+    },
+    {
+      "question": "Pourquoi l'identification précise des parties est-elle la première clause essentielle d'un contrat ?",
+      "choix": [
+        "Pour des raisons de politesse",
+        "Pour éviter tout doute sur qui s'engage et garantir l'opposabilité de l'acte à la bonne personne",
+        "Parce que la loi l'impose sous peine de nullité pour tous les contrats",
+        "Pour faciliter le travail de l'avocat en cas de litige"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Un contrat lie des personnes précises.",
+        "Sans identification claire, on ne sait pas qui doit exécuter.",
+        "Pour une société, il faut préciser son représentant légal."
+      ],
+      "explication": "L'identification précise des parties est fondamentale car un contrat lie des personnes déterminées. Sans identification claire, on ne sait pas qui doit exécuter ni contre qui agir en cas d'inexécution. Pour une personne morale, il faut préciser le représentant légal et ses pouvoirs. Une mauvaise identification peut rendre l'acte inopposable à la vraie partie concernée."
+    },
+    {
+      "question": "Vrai ou faux : la clause pénale fixe à l'avance le montant des dommages-intérêts en cas d'inexécution.",
+      "choix": [
+        "Vrai",
+        "Faux"
+      ],
+      "reponse": 0,
+      "indices": [
+        "Elle évite d'avoir à prouver le préjudice réel.",
+        "Le juge peut la modérer si elle est excessive.",
+        "Elle sécurise les parties sur les conséquences de l'inexécution."
+      ],
+      "explication": "Vrai. La clause pénale est la stipulation par laquelle les parties fixent à l'avance le montant des dommages-intérêts dus en cas d'inexécution. Elle présente l'avantage d'éviter d'avoir à prouver le préjudice réel. Le juge peut néanmoins la modérer si elle est manifestement excessive ou l'augmenter si elle est dérisoire."
+    },
+    {
+      "question": "Un contrat peut-il être rédigé en plusieurs langues ?",
+      "choix": [
+        "Non, un contrat doit toujours être en français à Madagascar",
+        "Oui, un contrat peut être bilingue ou multilingue, mais en cas de discordance entre les versions, une clause doit désigner la version faisant foi",
+        "Oui, mais chaque version doit être certifiée par un traducteur assermenté",
+        "Non, cela créerait trop d'ambiguïtés juridiques"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Le multilinguisme est courant dans les contrats internationaux.",
+        "En cas de divergence entre versions, quelle version prévaut ?",
+        "Il faut le préciser expressément dans le contrat."
+      ],
+      "explication": "Oui. Un contrat peut être rédigé en plusieurs langues. Mais en cas de discordance entre les versions linguistiques, il est indispensable que le contrat désigne expressément la version faisant foi. Sans cette précision, un juge devra trancher quelle version prévaut, avec le risque d'un résultat imprévu. La clause de langue fait foi est une précaution indispensable dans tout contrat bilingue."
+    },
+    {
+      "question": "Qu'est-ce qu'un acte sous seing privé ?",
+      "choix": [
+        "Un acte secret que les parties gardent confidentiel",
+        "Un acte écrit rédigé et signé par les parties elles-mêmes, sans officier public",
+        "Un acte signé par une seule partie",
+        "Un acte dont la signature est tenue secrète"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Il s'oppose à l'acte authentique reçu par un officier public.",
+        "C'est la forme ordinaire des contrats écrits entre particuliers.",
+        "Il a une force probante inférieure à l'acte authentique."
+      ],
+      "explication": "Un acte sous seing privé est un écrit rédigé et signé par les parties elles-mêmes, sans l'intervention d'un officier public (notaire, greffier). C'est la forme ordinaire des contrats entre particuliers et entreprises. Il a une force probante inférieure à l'acte authentique : il peut être contesté, tandis que l'acte authentique fait foi jusqu'à inscription de faux."
+    },
+    {
+      "question": "Vrai ou faux : une procuration peut être rédigée par le mandant lui-même sans avocat ni notaire.",
+      "choix": [
+        "Vrai",
+        "Faux"
+      ],
+      "reponse": 0,
+      "indices": [
+        "La procuration est un acte unilatéral courant.",
+        "Elle donne pouvoir à une personne d'agir au nom d'une autre.",
+        "Pour certains actes solennels, la procuration elle-même doit être authentique."
+      ],
+      "explication": "Vrai en général. Une procuration ordinaire peut être rédigée par le mandant lui-même, sous forme d'acte sous seing privé. Elle doit préciser l'identité du mandataire, les actes pour lesquels le pouvoir est donné et sa durée. Attention : si la procuration sert à accomplir un acte solennel (comme vendre un immeuble), la procuration elle-même doit être notariée."
+    },
+    {
+      "question": "Pourquoi est-il important de prévoir une clause de résiliation dans un contrat à durée indéterminée ?",
+      "choix": [
+        "Pour permettre aux parties de sortir du contrat sans avoir à en donner les raisons",
+        "Pour définir les conditions et le préavis dans lesquels une partie peut mettre fin au contrat, évitant ainsi une rupture brutale génératrice de responsabilité",
+        "Pour satisfaire à une exigence légale imposée pour tous les contrats",
+        "Pour permettre au juge de résilier le contrat d'office en cas de litige"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Sans clause de résiliation, rompre un CDI est dangereux.",
+        "La rupture brutale sans préavis engage la responsabilité.",
+        "La clause définit les conditions d'une sortie régulière."
+      ],
+      "explication": "La clause de résiliation dans un contrat à durée indéterminée est essentielle car elle définit les conditions dans lesquelles chaque partie peut y mettre fin : préavis (délai de prévenance), formes requises (lettre recommandée), motifs éventuels. Sans elle, une rupture brutale peut être qualifiée de rupture abusive engageant la responsabilité de la partie qui y met fin. La clause offre un cadre prévisible pour la sortie du contrat."
+    },
+    {
+      "question": "Qu'est-ce qu'un contrat d'adhésion et quelles précautions faut-il prendre lors de sa signature ?",
+      "choix": [
+        "Un contrat signé dans une grande cérémonie officielle",
+        "Un contrat prérédigé unilatéralement par une partie et que l'autre ne peut qu'accepter ou refuser sans négocier",
+        "Un contrat signé par plusieurs parties simultanément",
+        "Un contrat qui s'exécute automatiquement sans nécessiter d'acte d'exécution"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Conditions générales de vente, contrats d'assurance, contrats bancaires en sont des exemples.",
+        "L'adhérent ne peut pas négocier les clauses.",
+        "Les clauses abusives y sont fréquentes."
+      ],
+      "explication": "Un contrat d'adhésion est un contrat prérédigé unilatéralement par une partie (souvent professionnelle) et que l'autre partie ne peut qu'accepter ou refuser en bloc, sans possibilité de négocier. Les conditions générales de vente, les contrats d'assurance, les contrats bancaires sont des exemples classiques. Précautions : lire attentivement toutes les clauses (même les petites), identifier les clauses potentiellement abusives, vérifier que les clauses essentielles ont bien été communiquées avant signature."
+    },
+    {
+      "question": "Vrai ou faux : un contrat peut prévoir que des litiges soient résolus par arbitrage plutôt que par les tribunaux.",
+      "choix": [
+        "Vrai",
+        "Faux"
+      ],
+      "reponse": 0,
+      "indices": [
+        "C'est la clause compromissoire.",
+        "L'arbitrage est un mode alternatif de résolution des litiges.",
+        "Il est souvent utilisé dans les contrats commerciaux internationaux."
+      ],
+      "explication": "Vrai. La clause compromissoire (ou clause d'arbitrage) est la stipulation par laquelle les parties conviennent de soumettre leurs futurs litiges à l'arbitrage plutôt qu'aux tribunaux étatiques. C'est une pratique courante dans les contrats commerciaux, notamment internationaux. L'arbitre est choisi par les parties pour sa compétence et rend une sentence arbitrale ayant force obligatoire."
+    },
+    {
+      "question": "Qu'est-ce que l'interprétation contra proferentem ?",
+      "choix": [
+        "L'interprétation d'un contrat en faveur du débiteur",
+        "La règle selon laquelle une clause ambiguë dans un contrat d'adhésion est interprétée contre celui qui l'a rédigée",
+        "L'interprétation d'un contrat selon les usages professionnels",
+        "La règle interdisant de prouver contre un écrit"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Contra proferentem = contre celui qui propose.",
+        "Elle s'applique aux clauses ambiguës des contrats d'adhésion.",
+        "Elle dissuade le rédacteur d'insérer des clauses ambiguës."
+      ],
+      "explication": "La règle contra proferentem signifie qu'en cas d'ambiguïté dans une clause d'un contrat d'adhésion, la clause s'interprète contre celui qui l'a rédigée. Cette règle protège l'adhérent qui n'a pas pu négocier : si la clause est floue, c'est au rédacteur d'en supporter les conséquences. Elle incite le rédacteur professionnel à rédiger des clauses claires et précises."
+    },
+    {
+      "question": "Vrai ou faux : une clause de confidentialité dans un contrat commercial oblige les parties à ne pas divulguer les informations échangées même après la fin du contrat.",
+      "choix": [
+        "Vrai",
+        "Faux"
+      ],
+      "reponse": 0,
+      "indices": [
+        "La clause de confidentialité peut dépasser la durée du contrat.",
+        "Sa durée et son étendue doivent être précisées.",
+        "Elle protège les secrets d'affaires échangés pendant l'exécution."
+      ],
+      "explication": "Vrai, si la clause le prévoit expressément. Une clause de confidentialité bien rédigée précise sa durée (souvent plusieurs années après la fin du contrat) et son étendue (quelles informations sont confidentielles). Sans précision de durée, l'obligation peut s'éteindre avec le contrat. Il est donc essentiel de stipuler expressément que l'obligation survit à la fin du contrat et pour combien de temps."
+    },
+    {
+      "question": "Pourquoi les actes de droit du travail doivent-ils respecter le Code du travail même si les parties ont librement négocié des dispositions différentes ?",
+      "choix": [
+        "Parce que le Code du travail est plus récent que le Code civil",
+        "Parce que le droit du travail est largement d'ordre public : ses dispositions protectrices du salarié ne peuvent pas être écartées par des clauses moins favorables",
+        "Parce que l'État contrôle tous les contrats de travail avant leur signature",
+        "Parce que les syndicats ont le droit de veto sur les clauses contractuelles"
+      ],
+      "reponse": 1,
+      "indices": [
+        "L'ordre public du travail protège le salarié, partie faible.",
+        "Les clauses moins favorables que la loi sont nulles.",
+        "En revanche, les clauses plus favorables sont valables."
+      ],
+      "explication": "Le droit du travail est largement d'ordre public car il vise à protéger le salarié, partie présumée faible dans la relation de travail. Ses dispositions minimales ne peuvent pas être écartées par des clauses contractuelles moins favorables au salarié. En revanche, des clauses plus favorables que la loi sont valables. C'est le principe de faveur : la loi fixe un plancher, le contrat peut aller au-delà mais pas en deçà."
+    },
+    {
+      "question": "Vrai ou faux : un contrat signé sous la contrainte est nul même si son contenu est équitable.",
+      "choix": [
+        "Vrai",
+        "Faux"
+      ],
+      "reponse": 0,
+      "indices": [
+        "La violence est un vice du consentement.",
+        "Elle s'attaque à la liberté du consentement, pas au contenu.",
+        "Même équitable dans son contenu, un contrat signé sous contrainte est annulable."
+      ],
+      "explication": "Vrai. La violence est un vice du consentement qui rend le contrat annulable, quelle que soit la qualité ou l'équité de son contenu. Ce qui est vicié, c'est la liberté du consentement — la partie n'a pas librement choisi de s'engager. Même si les termes du contrat sont objectivement équilibrés, l'absence de liberté dans le consentement suffit à fonder l'annulation."
+    },
+    {
+      "question": "Récapitulatif : quels éléments doit contenir une mise en demeure efficace ?",
+      "choix": [
+        "Uniquement la somme réclamée et la signature",
+        "L'identification précise des parties, l'obligation non exécutée, un délai précis pour s'exécuter, les conséquences en cas de non-exécution, envoi en recommandé avec AR",
+        "Seulement la date et la demande générale de paiement",
+        "Le tampon d'un avocat et deux témoins"
+      ],
+      "reponse": 1,
+      "indices": [
+        "La mise en demeure doit être précise pour produire ses effets.",
+        "Elle doit prouver que le débiteur a été formellement sommé.",
+        "Ses effets juridiques (intérêts, mise en demeure préalable) dépendent de sa qualité."
+      ],
+      "explication": "Une mise en demeure efficace doit contenir : l'identification précise des deux parties (expéditeur et destinataire), le rappel précis de l'obligation non exécutée (quel engagement, issu de quel acte, depuis quelle date), un délai précis accordé pour s'exécuter (pas 'rapidement' mais 'dans les 15 jours'), les conséquences en cas de non-exécution dans ce délai (action en justice, pénalités, résolution du contrat). Elle doit être envoyée par lettre recommandée avec accusé de réception pour prouver sa date et sa réception."
+    },
+    {
+      "question": "Vrai ou faux : en matière contractuelle, ce qui n'est pas écrit dans le contrat ne peut jamais être invoqué.",
+      "choix": [
+        "Vrai",
+        "Faux"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Le juge peut combler les lacunes du contrat.",
+        "La loi supplétive s'applique aux points non prévus.",
+        "Les usages professionnels peuvent aussi combler les lacunes."
+      ],
+      "explication": "Faux. Ce qui n'est pas écrit dans le contrat peut être comblé par la loi supplétive (les règles légales qui s'appliquent en l'absence de stipulation contraire), par les usages professionnels, ou par l'interprétation du juge selon l'intention des parties. En revanche, pour les matières d'ordre public, la loi s'impose même contre les stipulations contractuelles. La complétude de la rédaction évite que le juge comble les lacunes selon son appréciation."
+    },
+    {
+      "question": "Vrai ou faux : un acte juridique électronique (contrat signé par email ou plateforme numérique) peut avoir la même valeur qu'un acte papier.",
+      "choix": [
+        "Vrai",
+        "Faux"
+      ],
+      "reponse": 0,
+      "indices": [
+        "La loi reconnaît la valeur de l'écrit électronique.",
+        "Conditions : identification de l'auteur et intégrité garantie.",
+        "La signature électronique peut valoir signature manuscrite."
+      ],
+      "explication": "Vrai. L'écrit électronique a la même force probante que l'écrit papier à condition que l'identité de son auteur puisse être vérifiée et que son intégrité soit garantie. La signature électronique, utilisant un procédé fiable d'identification, peut valoir signature manuscrite. Les contrats conclus par email ou via des plateformes de signature électronique certifiées sont juridiquement valables dans la plupart des systèmes, dont le droit malgache qui s'aligne sur ces standards."
+    },
+    {
+      "question": "Qu'est-ce que la condition suspensive dans un contrat et quel est son effet ?",
+      "choix": [
+        "Une condition qui suspend l'exécution du contrat jusqu'au paiement",
+        "Un événement futur et incertain dont dépend la naissance des obligations — si la condition ne se réalise pas, le contrat est censé n'avoir jamais existé",
+        "Une clause permettant de suspendre temporairement le contrat",
+        "Une condition posée par l'administration pour autoriser l'exécution du contrat"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Exemple classique : vente d'immeuble sous condition d'obtention du prêt.",
+        "Si le prêt n'est pas obtenu, la vente n'a pas lieu.",
+        "La condition doit être future et incertaine."
+      ],
+      "explication": "La condition suspensive est un événement futur et incertain dont dépend la naissance des obligations contractuelles. Tant que la condition ne s'est pas réalisée, le contrat existe mais les obligations ne sont pas encore nées. Si la condition ne se réalise pas, le contrat est résolu rétroactivement — censé n'avoir jamais existé. Exemple classique : la vente d'un immeuble sous condition d'obtention d'un prêt bancaire. Si l'acheteur n'obtient pas son prêt, la vente n'a pas lieu et il récupère ses acomptes."
+    },
+    {
+      "question": "Vrai ou faux : seul un avocat peut rédiger des statuts de société à Madagascar.",
+      "choix": [
+        "Vrai",
+        "Faux"
+      ],
+      "reponse": 1,
+      "indices": [
+        "La rédaction des statuts est libre comme tout acte juridique.",
+        "Les associés fondateurs peuvent les rédiger eux-mêmes.",
+        "La loi malgache n'impose pas d'avocat pour les statuts de SARL."
+      ],
+      "explication": "Faux. La rédaction des statuts de société n'est pas réservée aux avocats. Les associés fondateurs peuvent parfaitement rédiger eux-mêmes leurs statuts, sous seing privé, à condition de respecter les prescriptions légales du droit malgache des sociétés. Faire appel à un avocat ou à un juriste spécialisé est conseillé pour les sociétés complexes, mais c'est un choix et non une obligation légale."
+    }
+  ],
+  "exercices": [
+    {
+      "question": "CAS PRATIQUE 1 : Solofo est diplômé d'un Master 2 en droit des affaires. Il n'est pas avocat. Son ami Rabe l'appelle : il a un litige avec son employeur qui l'a licencié sans motif réel et sérieux et souhaite l'aide de Solofo. Rabe lui demande : (1) de rédiger sa requête devant le tribunal du travail, (2) de le représenter à l'audience et de plaider pour lui, (3) de lui expliquer ses droits, (4) de rédiger une lettre de mise en demeure à l'employeur. Analysez ce que Solofo peut légalement faire et ce qu'il ne peut pas faire.",
+      "choix": [
+        "Solofo ne peut rien faire car il n'est pas avocat",
+        "Solofo peut faire (1), (3) et (4) mais pas (2) : rédiger des actes et conseiller sont libres, mais représenter et plaider pour autrui est le monopole de l'avocat inscrit au barreau",
+        "Solofo peut tout faire car il a un Master 2 en droit",
+        "Solofo peut seulement (3) expliquer les droits — tout le reste est réservé aux avocats"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Le monopole de l'avocat porte sur la représentation en justice et la plaidoirie.",
+        "La rédaction d'actes juridiques est libre.",
+        "Donner des conseils juridiques peut être libre selon les systèmes."
+      ],
+      "explication": "Analyse détaillée de ce que Solofo peut et ne peut pas faire. Ce que Solofo peut faire légalement. (1) Rédiger la requête devant le tribunal du travail : OUI. La rédaction d'actes de procédure est libre. Aucune loi n'interdit à un non-avocat de rédiger une requête. Solofo peut rédiger la requête exposant les faits du licenciement abusif, citant les articles du Code du travail malgache violés, et formulant les demandes. Rabe pourra ensuite déposer cette requête au greffe du tribunal du travail d'Antsiranana. (3) Expliquer les droits de Rabe : OUI. La consultation juridique — expliquer à quelqu'un ses droits, le conseiller sur la conduite à tenir — est une activité qui n'est pas réservée exclusivement aux avocats dans la plupart des systèmes. Solofo peut expliquer à Rabe ses droits en matière de licenciement abusif, les indemnités auxquelles il a droit (indemnité de licenciement, dommages-intérêts, préavis), la procédure à suivre. (4) Rédiger la mise en demeure : OUI. La rédaction d'une lettre de mise en demeure est un acte juridique courant que tout citoyen peut accomplir. Solofo peut rédiger une mise en demeure formelle à l'employeur, lui demandant de régulariser la situation sous peine de saisine du tribunal. Il suffira à Rabe de la signer et de l'envoyer en recommandé. Ce que Solofo ne peut PAS faire légalement. (2) Représenter Rabe à l'audience et plaider pour lui : NON. La représentation en justice et la plaidoirie pour le compte d'autrui sont le monopole de l'avocat inscrit au barreau. Si Solofo se présente à l'audience pour plaider à la place de Rabe, il exerce illégalement la profession d'avocat — ce qui est un délit. Rabe doit soit comparaître seul (ce qui est possible devant le tribunal du travail), soit se faire représenter par un avocat inscrit au barreau d'Antsiranana. Conseil pratique. Solofo peut apporter une aide précieuse à Rabe dans la préparation de son dossier — rédaction des actes, analyse juridique, préparation des arguments — mais il doit s'arrêter aux portes du prétoire. Si l'affaire est complexe ou si les enjeux sont importants, il est conseillé que Rabe contacte un avocat inscrit au Barreau d'Antsiranana pour la représenter à l'audience."
+    },
+    {
+      "question": "CAS PRATIQUE 2 : Hery est propriétaire d'un local commercial à Diego-Suarez. Il souhaite le louer à Nivo pour l'exploitation d'une épicerie. Hery rédige lui-même le contrat de bail. Le contrat contient les clauses suivantes : (A) 'Le loyer sera payé dès que possible chaque mois' ; (B) 'Le bailleur ne sera responsable d'aucun dommage subi par le locataire, quelle qu'en soit la cause, y compris en cas de dol du bailleur' ; (C) 'En cas de litige, le bailleur aura le dernier mot' ; (D) 'Le locataire devra quitter les lieux dans les 24 heures si le bailleur le demande, sans indemnité ni préavis'. Analysez la validité juridique de chaque clause et corrigez le contrat.",
+      "choix": [
+        "Toutes les clauses sont valables car les parties les ont librement acceptées",
+        "Clauses A, B, C et D sont toutes problématiques : A est imprécise (litige d'interprétation), B est nulle (exonération pour dol impossible), C est nulle (supprime le droit au juge), D est nulle (contraire aux règles impératives du bail commercial)",
+        "Seule la clause C est nulle ; les autres sont valables",
+        "Le contrat entier est nul car rédigé sans avocat"
+      ],
+      "reponse": 1,
+      "indices": [
+        "La liberté contractuelle s'arrête à l'ordre public.",
+        "Certaines clauses sont nulles même acceptées librement.",
+        "Le droit au juge et les garanties minimales du locataire sont protégés."
+      ],
+      "explication": "Analyse clause par clause. Clause A — 'Le loyer sera payé dès que possible chaque mois'. Problème : imprécision totale sur la date de paiement. 'Dès que possible' ne détermine pas d'échéance précise — c'est un terme potestatif qui laisse au débiteur la faculté de fixer lui-même l'exécution. En cas de litige, chacun interprétera différemment. Correction : 'Le loyer de [montant] ariary sera payé au plus tard le 5 de chaque mois, par virement sur le compte n° [...]'. Clause B — 'Le bailleur ne sera responsable d'aucun dommage y compris en cas de dol du bailleur'. Problème : l'exonération de responsabilité pour dol est nulle d'ordre public. On ne peut jamais s'exonérer de sa propre tromperie intentionnelle. C'est un principe d'ordre public reconnu dans tous les systèmes de droit civil. La clause est nulle de plein droit. Correction : supprimer toute référence au dol. Une clause d'exonération limitée aux dommages indirects est admissible mais pas l'exonération totale pour dol. Clause C — 'En cas de litige, le bailleur aura le dernier mot'. Problème : cette clause supprime le droit fondamental du locataire d'accès au juge. Le droit à un recours juridictionnel est garanti par la Constitution et les conventions internationales. Une clause contractuelle ne peut pas y déroger. Elle est nulle de plein droit. Correction : 'En cas de litige, les parties tenteront d'abord une résolution amiable dans un délai de 30 jours. À défaut, tout litige sera porté devant le tribunal de commerce d'Antsiranana.' Clause D — 'Le locataire devra quitter les lieux dans les 24 heures si le bailleur le demande, sans indemnité ni préavis'. Problème majeur : en matière de bail commercial, des règles impératives protègent le locataire. Le préavis est obligatoire (souvent 3 mois minimum), une indemnité d'éviction peut être due. Les règles du droit du bail commercial sont d'ordre public en leur grande majorité. Cette clause, contraire aux dispositions impératives du Code civil et du droit commercial malgache, est nulle. Correction : 'Le bailleur pourra mettre fin au bail en respectant un préavis de [durée légale] et en versant, le cas échéant, les indemnités prévues par la loi.' Conclusion générale. Ce contrat, bien que rédigé sans avocat (ce qui est légal), contient plusieurs clauses nulles car contraires à l'ordre public. Un contrat rédigé par un particulier n'est pas invalide en soi — mais la qualité de la rédaction détermine sa solidité juridique. Les clauses nulles seront écartées par le juge et remplacées par le droit commun, ce qui peut aboutir à un résultat très différent de ce que Hery voulait."
+    }
+  ]
+    }
