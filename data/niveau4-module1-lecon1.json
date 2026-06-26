@@ -1,0 +1,243 @@
+{
+  "titre": "Rédiger une requête civile — modèles et structure",
+  "module": 1,
+  "niveau": "Professionnel",
+
+  "presentation": "La requête civile est une voie de recours extraordinaire contre les jugements et arrêts rendus en dernier ressort, c'est-à-dire les décisions qui ne sont plus susceptibles d'appel ni d'opposition. Elle ne permet pas de rejuger une affaire parce qu'on est mécontent du résultat : elle ne peut être utilisée que dans des cas limitativement énumérés par la loi, lorsque la décision a été rendue à la suite d'une erreur ou d'une irrégularité grave. Ce module explique ce qu'est la requête civile, dans quels cas elle est ouverte, et comment la rédiger — avec quatre modèles réels, du plus simple au plus complexe.",
+
+  "contenu": [
+    {
+      "titre": "Qu'est-ce qu'une requête civile ?",
+      "texte": "La requête civile est une voie de recours extraordinaire, ouverte aux parties à un litige contre les jugements ou arrêts rendus en dernier ressort. Elle consiste à demander au tribunal ou à la cour qui a déjà statué de rétracter sa propre décision, en matière civile, sociale ou commerciale, lorsque cette décision a été entachée d'une erreur ou d'une irrégularité limitativement prévue par la loi. Elle se distingue ainsi nettement de l'appel : l'appel permet à une juridiction supérieure de rejuger une affaire sur le fond, alors que la requête civile s'adresse à la même juridiction qui a rendu la décision contestée, et seulement pour des motifs exceptionnels.",
+      "definition": "Rétractation : annulation d'une décision de justice par la juridiction qui l'a rendue, la décision étant privée d'effet et les parties remises dans la situation où elles se trouvaient avant son prononcé."
+    },
+    {
+      "titre": "Quelles décisions peuvent être attaquées ?",
+      "texte": "Seuls les jugements et arrêts rendus en dernier ressort peuvent faire l'objet d'une requête civile, c'est-à-dire les décisions qui ne peuvent plus être contestées par les voies de recours ordinaires (appel, opposition). La matière concernée peut être civile, sociale ou commerciale."
+    },
+    {
+      "titre": "Les cinq cas d'ouverture (article 422 du Code de Procédure Civile)",
+      "texte": "L'article 422 du Code de Procédure Civile malgache énumère limitativement les cas dans lesquels la requête civile est recevable : 1° si des formes prescrites à peine de nullité ont été violées avant ou lors du jugement (par exemple, une décision déclarée rendue contradictoirement contre une personne qui n'a jamais été convoquée ni assignée et qui n'a pas comparu) ; 2° s'il y a dol personnel d'une partie, c'est-à-dire une fraude ou un silence volontairement gardé pour tromper le juge et orienter sa décision ; 3° si des pièces ayant fondé la décision ont été reconnues fausses après le prononcé de celle-ci ; 4° si une partie a volontairement retenu une pièce décisive qui aurait pu conduire le juge à statuer autrement ; 5° s'il existe une contrariété entre deux décisions rendues entre les mêmes parties sur les mêmes moyens, ou des dispositions contradictoires au sein d'une même décision. Ces cinq cas sont les seuls qui ouvrent la voie à la requête civile : aucun autre motif, même sérieux, ne permet de l'utiliser.",
+      "definition": "Dol personnel : fraude commise par une partie au procès, ou silence volontairement gardé, dans le but de tromper le juge et de l'amener à statuer dans un sens déterminé."
+    },
+    {
+      "titre": "Les décisions exclues de la requête civile",
+      "texte": "Certaines décisions ne peuvent jamais faire l'objet d'une requête civile : les ordonnances de référé, les arrêts de la Cour Suprême, les jugements encore susceptibles d'appel, les jugements ou arrêts rendus par défaut (donc susceptibles d'opposition), et les jugements déjà rendus sur une précédente requête civile. Avant de rédiger une requête civile, il faut donc toujours vérifier que la décision attaquée entre bien dans le champ de ce recours."
+    },
+    {
+      "titre": "Le délai pour agir",
+      "texte": "Le délai pour introduire une requête civile est de deux mois à compter de la notification ou de la signification de la décision attaquée. Toutefois, lorsque le motif invoqué est le faux, le dol, ou la découverte de pièces nouvelles, ce délai de deux mois ne commence à courir qu'à partir du jour où le faux, le dol ou les pièces ont été reconnus ou découverts. Ce point est essentiel à vérifier et à justifier dans la requête elle-même.",
+      "definition": "Signification : acte par lequel une décision de justice est officiellement portée à la connaissance d'une partie, généralement par voie d'huissier, ce qui fait courir les délais de recours."
+    },
+    {
+      "titre": "La juridiction compétente et la forme de l'acte",
+      "texte": "La requête civile est portée devant la même juridiction — le même Tribunal ou la même Cour — qui a rendu la décision attaquée ; on ne s'adresse jamais à une juridiction différente ou supérieure. Sur la forme, elle est introduite selon les règles applicables aux actes introductifs d'instance, c'est-à-dire par voie de requête ou d'assignation."
+    },
+    {
+      "titre": "Les effets de la requête civile",
+      "texte": "La requête civile n'a pas d'effet suspensif : son dépôt ne suspend pas l'exécution de la décision attaquée, et elle ne peut pas justifier un refus d'exécuter cette décision. Si la requête civile est admise, la décision attaquée est rétractée et les parties sont remises dans l'état où elles se trouvaient avant cette décision. Conformément à l'article 431 du Code de Procédure Civile, les jugements rendus sur requête civile ne sont eux-mêmes pas susceptibles d'appel."
+    },
+    {
+      "titre": "Pourquoi l'assistance d'un avocat est vivement recommandée",
+      "texte": "La requête civile est une procédure exceptionnelle, aux conditions strictement encadrées et interprétées étroitement par les juridictions. Une requête mal fondée — un motif qui ne correspond pas exactement à l'un des cinq cas de l'article 422, ou un délai mal calculé — est rejetée sans examen du fond. C'est pourquoi, dans les cas les plus délicats, le recours aux services d'un avocat est fortement conseillé."
+    }
+  ],
+
+  "modeles_actes": [
+    {
+      "id": 1,
+      "variante": "avocat",
+      "complexite": "simple",
+      "fondement_legal": "Article 422, 2° du Code de Procédure Civile (dol personnel)",
+      "contexte": "M. RABENJA Solo avait obtenu un jugement condamnant Mme RAZAFY Tiana à lui payer le solde d'un prêt, en dissimulant volontairement un reçu prouvant un remboursement partiel déjà effectué. Ce reçu n'a été découvert par Mme RAZAFY que plusieurs mois après le jugement, remis par un ancien employé de M. RABENJA.",
+      "document": {
+        "entete_cabinet": {
+          "nom_cabinet": "Cabinet d'Avocats RAKOTONIRINA & Associés",
+          "avocat": "Me Andry RAKOTONIRINA",
+          "qualite": "Avocat au Barreau de Madagascar",
+          "adresse": "Immeuble Anosy Business Center, 3ᵉ étage, Antananarivo 101, Madagascar",
+          "telephone": "+261 34 12 345 67",
+          "standard": "+261 20 22 456 78",
+          "email": "contact@rakotonirina-avocats.mg",
+          "site": "www.rakotonirina-avocats.mg"
+        },
+        "lieu_date": "Antananarivo, le 20 avril 2026",
+        "destinataire": "À Monsieur le Président du Tribunal de Première Instance d'Antananarivo",
+        "titre_acte": "REQUÊTE CIVILE EN RÉTRACTATION DE JUGEMENT (Article 422, 2° du Code de Procédure Civile)",
+        "demandeur": { "nom": "RAZAFY Tiana", "conseil": "Ayant pour conseil Maître Andry RAKOTONIRINA, Avocat au Barreau de Madagascar," },
+        "defendeur": { "nom": "RABENJA Solo", "conseil": "Non représenté à ce jour," },
+        "decision_attaquee": "Jugement civil n° 0341/2025 rendu le 14 octobre 2025 par le Tribunal de Première Instance d'Antananarivo",
+        "formule_introductive": "A l'honneur de vous exposer respectueusement ce qui suit :",
+        "expose_faits": "Par jugement n° 0341/2025 du 14 octobre 2025, le Tribunal de Première Instance d'Antananarivo a condamné Madame RAZAFY Tiana à payer à Monsieur RABENJA Solo la somme de 12 000 000 Ariary au titre du solde d'un prêt consenti le 5 janvier 2024.\n\nLe 2 mars 2026, Madame RAZAFY a été mise en possession, par l'intermédiaire de Monsieur Lova RAKOTOZAFY, ancien employé de Monsieur RABENJA, d'un reçu daté du 18 juillet 2024 établissant qu'elle avait déjà remboursé la somme de 5 000 000 Ariary sur ce prêt.\n\nIl est apparu que Monsieur RABENJA avait sciemment dissimulé ce reçu lors de la procédure ayant abouti au jugement du 14 octobre 2025, induisant ainsi le Tribunal en erreur sur le montant réellement dû.",
+        "moyens_droit": "Attendu qu'aux termes de l'article 422, 2° du Code de Procédure Civile, la requête civile est ouverte s'il y a dol personnel d'une partie, c'est-à-dire une fraude ou un silence volontairement gardé en vue de tromper le juge ;\n\nAttendu que la dissimulation délibérée, par Monsieur RABENJA, du reçu du 18 juillet 2024 constitue un dol personnel ayant directement déterminé le sens du jugement du 14 octobre 2025 ;\n\nAttendu que la présente requête est introduite dans le délai de deux mois suivant la découverte du dol, celui-ci n'ayant été révélé à Madame RAZAFY que le 2 mars 2026, soit moins de deux mois avant le dépôt de la présente requête.",
+        "dispositif": {
+          "items": [
+            "Déclarer la présente requête civile recevable et bien fondée ;",
+            "Rétracter le jugement n° 0341/2025 rendu le 14 octobre 2025 par le Tribunal de Première Instance d'Antananarivo ;",
+            "Statuer à nouveau sur le fond du litige en tenant compte du remboursement partiel de 5 000 000 Ariary déjà effectué ;",
+            "Condamner Monsieur RABENJA Solo aux entiers dépens de la présente instance."
+          ]
+        },
+        "pieces_jointes": [
+          "Copie du jugement n° 0341/2025 du 14 octobre 2025",
+          "Copie du reçu daté du 18 juillet 2024",
+          "Attestation de Monsieur Lova RAKOTOZAFY datée du 2 mars 2026"
+        ],
+        "signature": { "nom": "Me Andry RAKOTONIRINA", "qualite": "Avocat au Barreau de Madagascar, Conseil de la requérante" }
+      }
+    },
+
+    {
+      "id": 2,
+      "variante": "particulier",
+      "complexite": "simple",
+      "fondement_legal": "Article 422, 3° du Code de Procédure Civile (pièce reconnue fausse après le jugement)",
+      "contexte": "M. TSIRY Fanomezantsoa a perdu un litige commercial sur la base d'un bon de commande dont la signature a ensuite été reconnue fausse par une expertise graphologique réalisée après le jugement.",
+      "document": {
+        "coordonnees_expediteur": "TSIRY Fanomezantsoa\nLot III A 27, Tsaralalàna, Antananarivo 101\nTéléphone : +261 33 45 678 90",
+        "lieu_date": "Antananarivo, le 9 mai 2026",
+        "destinataire": "À Monsieur le Président du Tribunal de Première Instance d'Antananarivo",
+        "objet": "Requête civile en rétractation de jugement pour pièce reconnue fausse (article 422, 3° du Code de Procédure Civile)",
+        "formule_appel": "Monsieur le Président,",
+        "formule_introductive": "J'ai l'honneur de vous exposer les faits suivants :",
+        "decision_attaquee": "Jugement commercial n° 0156/2025 rendu le 11 août 2025 par le Tribunal de Première Instance d'Antananarivo",
+        "expose_faits": "Par jugement n° 0156/2025 du 11 août 2025, j'ai été condamné à payer à la société VATOMANDRY Distribution la somme de 6 800 000 Ariary, sur le fondement d'un bon de commande daté du 2 février 2025 portant ma signature.\n\nJ'ai toujours contesté avoir signé ce document. Le 20 mars 2026, à ma demande, un expert en écriture agréé près le Tribunal de Première Instance d'Antananarivo a rendu un rapport concluant que la signature apposée sur ce bon de commande n'était pas la mienne.\n\nCe rapport établit que la pièce ayant fondé ma condamnation est une pièce fausse.",
+        "formule_demande": "C'est pourquoi je vous demande de bien vouloir rétracter le jugement n° 0156/2025 du 11 août 2025 et de statuer à nouveau sur le litige qui m'opposait à la société VATOMANDRY Distribution, en écartant le bon de commande du 2 février 2025 reconnu faux.",
+        "formule_politesse": "Je vous prie d'agréer, Monsieur le Président, l'expression de ma considération distinguée.",
+        "pieces_jointes": [
+          "Copie du jugement n° 0156/2025 du 11 août 2025",
+          "Rapport d'expertise graphologique du 20 mars 2026"
+        ],
+        "signature": { "nom": "TSIRY Fanomezantsoa" }
+      }
+    },
+
+    {
+      "id": 3,
+      "variante": "avocat",
+      "complexite": "complexe",
+      "fondement_legal": "Article 422, 5° du Code de Procédure Civile (contrariété de décisions)",
+      "contexte": "Deux jugements contradictoires ont été rendus entre les mêmes parties au sujet d'un même contrat de bail commercial : le premier valide le contrat et condamne M. BEZAZA Naina à en exécuter les obligations, le second, rendu plus tard dans une instance connexe, déclare ce même contrat nul. M. BEZAZA souhaite faire rétracter le premier jugement, qui le condamne, au profit du second, qui annule le contrat.",
+      "document": {
+        "entete_cabinet": {
+          "nom_cabinet": "Cabinet d'Avocats RAKOTONIRINA & Associés",
+          "avocat": "Me Hanitra RAKOTONIRINA",
+          "qualite": "Avocate au Barreau de Madagascar",
+          "adresse": "Immeuble Anosy Business Center, 3ᵉ étage, Antananarivo 101, Madagascar",
+          "telephone": "+261 34 12 345 68",
+          "standard": "+261 20 22 456 78",
+          "email": "h.rakotonirina@rakotonirina-avocats.mg",
+          "site": "www.rakotonirina-avocats.mg"
+        },
+        "lieu_date": "Antananarivo, le 18 février 2026",
+        "destinataire": "À Monsieur le Président du Tribunal de Première Instance d'Antananarivo",
+        "titre_acte": "REQUÊTE CIVILE EN RÉTRACTATION DE JUGEMENT (Article 422, 5° du Code de Procédure Civile)",
+        "demandeur": { "nom": "BEZAZA Naina", "conseil": "Ayant pour conseil Maître Hanitra RAKOTONIRINA, Avocate au Barreau de Madagascar," },
+        "defendeur": { "nom": "Société TILA SARL, représentée par son gérant en exercice", "conseil": "Non représentée à ce jour," },
+        "decision_attaquee": "Jugement civil n° 0118/2025 rendu le 5 mai 2025 par le Tribunal de Première Instance d'Antananarivo",
+        "formule_introductive": "A l'honneur de vous exposer respectueusement ce qui suit :",
+        "expose_faits": "Par jugement n° 0118/2025 du 5 mai 2025, le Tribunal de Première Instance d'Antananarivo a validé le contrat de bail commercial conclu le 3 juin 2023 entre Monsieur BEZAZA Naina et la société TILA SARL, et a condamné Monsieur BEZAZA à en poursuivre l'exécution ainsi qu'à payer un arriéré de 9 400 000 Ariary.\n\nDans une instance distincte, opposant les mêmes parties au sujet d'une clause connexe du même contrat, le Tribunal de Première Instance d'Antananarivo a rendu, le 9 décembre 2025, un second jugement n° 0289/2025 déclarant ce même contrat de bail nul pour vice de consentement, et déboutant la société TILA SARL de toutes ses demandes fondées sur ce contrat.\n\nCes deux jugements, rendus entre les mêmes parties et portant sur le même contrat, sont directement contradictoires : le premier valide le contrat et en ordonne l'exécution, le second l'annule.",
+        "moyens_droit": "Attendu qu'aux termes de l'article 422, 5° du Code de Procédure Civile, la requête civile est ouverte s'il y a contrariété de deux décisions rendues entre les mêmes parties et sur les mêmes moyens ;\n\nAttendu que le jugement n° 0118/2025 du 5 mai 2025 et le jugement n° 0289/2025 du 9 décembre 2025 ont été rendus entre Monsieur BEZAZA Naina et la société TILA SARL, et portent tous deux sur la validité du même contrat de bail commercial du 3 juin 2023 ;\n\nAttendu que cette contradiction ne peut être levée que par la rétractation de l'un des deux jugements, en l'occurrence le jugement n° 0118/2025 qui condamne Monsieur BEZAZA sur le fondement d'un contrat par ailleurs déclaré nul.",
+        "dispositif": {
+          "items": [
+            "Déclarer la présente requête civile recevable et bien fondée ;",
+            "Rétracter le jugement n° 0118/2025 rendu le 5 mai 2025 par le Tribunal de Première Instance d'Antananarivo ;",
+            "Dire que ce jugement est privé de tout effet et que Monsieur BEZAZA Naina est remis dans l'état où il se trouvait avant son prononcé ;",
+            "Condamner la société TILA SARL aux entiers dépens de la présente instance."
+          ]
+        },
+        "pieces_jointes": [
+          "Copie du jugement n° 0118/2025 du 5 mai 2025",
+          "Copie du jugement n° 0289/2025 du 9 décembre 2025",
+          "Copie du contrat de bail commercial du 3 juin 2023"
+        ],
+        "signature": { "nom": "Me Hanitra RAKOTONIRINA", "qualite": "Avocate au Barreau de Madagascar, Conseil du requérant" }
+      }
+    },
+
+    {
+      "id": 4,
+      "variante": "particulier",
+      "complexite": "complexe",
+      "fondement_legal": "Article 422, 4° du Code de Procédure Civile (rétention volontaire d'une pièce décisive)",
+      "contexte": "Mme VOLA Hortense a perdu un litige de bornage face à son voisin, qui détenait depuis longtemps un procès-verbal de bornage notarié contredisant sa version, mais qui l'a délibérément gardé sans le produire au procès. Ce document n'a été révélé que plus tard, par l'intermédiaire du notaire ayant établi l'acte.",
+      "document": {
+        "coordonnees_expediteur": "VOLA Hortense\nLot IVB 9, Ambohipo, Antananarivo 101\nTéléphone : +261 32 56 789 01",
+        "lieu_date": "Antananarivo, le 30 mars 2026",
+        "destinataire": "À Monsieur le Président du Tribunal de Première Instance d'Antananarivo",
+        "objet": "Requête civile en rétractation de jugement pour rétention volontaire d'une pièce décisive (article 422, 4° du Code de Procédure Civile)",
+        "formule_appel": "Monsieur le Président,",
+        "formule_introductive": "J'ai l'honneur de vous exposer les faits suivants :",
+        "decision_attaquee": "Jugement civil n° 0204/2025 rendu le 17 septembre 2025 par le Tribunal de Première Instance d'Antananarivo",
+        "expose_faits": "Par jugement n° 0204/2025 du 17 septembre 2025, le Tribunal de Première Instance d'Antananarivo a tranché en faveur de Monsieur RAKOTO Jean Baptiste, mon voisin, dans le litige de bornage qui nous opposait, en fixant la limite séparative de nos terrains selon la version qu'il avait présentée.\n\nLe 14 février 2026, le notaire ayant établi en 2019 le procès-verbal de bornage initial de nos deux parcelles m'a remis une copie de cet acte, que Monsieur RAKOTO détenait depuis le début du litige sans jamais le produire devant le Tribunal.\n\nCe procès-verbal, établi contradictoirement entre les précédents propriétaires des deux parcelles, fixe une limite différente de celle retenue par le jugement, et aurait été de nature à conduire le Tribunal à statuer autrement s'il en avait eu connaissance.",
+        "formule_demande": "C'est pourquoi je vous demande de bien vouloir rétracter le jugement n° 0204/2025 du 17 septembre 2025 et de statuer à nouveau sur le litige de bornage qui m'oppose à Monsieur RAKOTO Jean Baptiste, en tenant compte du procès-verbal de bornage du 19 avril 2019 qui m'a été remis le 14 février 2026.",
+        "formule_politesse": "Je vous prie d'agréer, Monsieur le Président, l'expression de ma considération distinguée.",
+        "pieces_jointes": [
+          "Copie du jugement n° 0204/2025 du 17 septembre 2025",
+          "Copie du procès-verbal de bornage du 19 avril 2019",
+          "Attestation de remise délivrée par le notaire le 14 février 2026"
+        ],
+        "signature": { "nom": "VOLA Hortense" }
+      }
+    }
+  ],
+
+  "cas_pratiques": [
+    {
+      "id": 1,
+      "scenario": "Monsieur RAZAFINDRA a été condamné par un jugement du Tribunal de Première Instance de Fianarantsoa, rendu en dernier ressort le 3 novembre 2025. Ce jugement précise qu'il a été rendu contradictoirement à son encontre. Or, Monsieur RAZAFINDRA n'a jamais reçu aucune convocation ni assignation, et n'a jamais comparu à aucune audience dans ce dossier. Il l'apprend en recevant la signification du jugement, le 20 janvier 2026.",
+      "question": "Quel recours Monsieur RAZAFINDRA peut-il exercer, et sur quel fondement ?",
+      "choix": [
+        "Il peut former une requête civile sur le fondement de l'article 422, 1° du Code de Procédure Civile, pour violation des formes prescrites à peine de nullité, puisque le jugement a été déclaré rendu contradictoirement alors qu'il n'a jamais été convoqué, assigné, ni n'a comparu.",
+        "Il doit faire appel du jugement devant la Cour d'appel compétente, puisqu'il n'a pas pu se défendre lors du procès.",
+        "Il doit former opposition devant le même tribunal, puisque le jugement a été rendu en son absence.",
+        "Il ne dispose d'aucun recours, le jugement rendu en dernier ressort étant définitif quelles que soient les conditions de son prononcé."
+      ],
+      "reponse": "Il peut former une requête civile sur le fondement de l'article 422, 1° du Code de Procédure Civile, pour violation des formes prescrites à peine de nullité, puisque le jugement a été déclaré rendu contradictoirement alors qu'il n'a jamais été convoqué, assigné, ni n'a comparu.",
+      "indices": "Le jugement est qualifié de « rendu en dernier ressort » : l'appel n'est donc pas ouvert. Il faut chercher, parmi les cinq cas de l'article 422, celui qui correspond à une irrégularité de forme touchant la convocation des parties.",
+      "explication": "Le jugement étant rendu en dernier ressort, il n'est plus susceptible d'appel ; quant à l'opposition, elle ne s'applique qu'aux jugements rendus par défaut alors que celui-ci est, en apparence, contradictoire. Le seul recours possible est la requête civile, fondée sur l'article 422, 1°, qui vise précisément le cas où des formes prescrites à peine de nullité — ici, la convocation ou l'assignation de la partie — ont été violées avant ou lors du jugement."
+    },
+    {
+      "id": 2,
+      "scenario": "Dans une procédure de succession, Madame ANDRIANTSOA a obtenu un jugement la reconnaissant seule héritière des biens de son père, le 12 juin 2025. Ce jugement est devenu définitif. Le 5 avril 2026, son demi-frère découvre qu'un testament olographe, rédigé par leur père et désignant les deux enfants comme héritiers à parts égales, existait depuis le début de la procédure, et que Madame ANDRIANTSOA en avait connaissance mais avait sciemment affirmé devant le juge qu'aucun testament n'existait.",
+      "question": "Le demi-frère peut-il agir contre ce jugement, et sur quel fondement ?",
+      "choix": [
+        "Il peut former une requête civile sur le fondement de l'article 422, 2° du Code de Procédure Civile, pour dol personnel, le délai de deux mois courant à partir de la découverte du dol le 5 avril 2026.",
+        "Il peut former une requête civile, mais le délai de deux mois est déjà expiré puisqu'il court depuis le jugement du 12 juin 2025.",
+        "Il doit nécessairement engager une nouvelle action en partage successoral, la requête civile n'étant pas ouverte en matière de succession.",
+        "Il peut former une opposition au jugement, puisque de nouveaux éléments sont apparus après son prononcé."
+      ],
+      "reponse": "Il peut former une requête civile sur le fondement de l'article 422, 2° du Code de Procédure Civile, pour dol personnel, le délai de deux mois courant à partir de la découverte du dol le 5 avril 2026.",
+      "indices": "Le fait que Madame ANDRIANTSOA ait sciemment caché l'existence du testament en affirmant le contraire devant le juge correspond exactement à la définition du dol personnel. Pensez à la règle particulière sur le point de départ du délai en cas de dol.",
+      "explication": "Le mensonge délibéré de Madame ANDRIANTSOA devant le juge, destiné à faire croire à l'absence de testament, constitue un dol personnel au sens de l'article 422, 2°. Le délai de deux mois ne court pas, dans ce cas, à partir du jugement, mais à partir du jour où le dol a été découvert — ici le 5 avril 2026. La requête civile reste donc ouverte si elle est déposée dans les deux mois suivant cette date. Une nouvelle action en partage n'est pas le bon outil puisque le jugement de 2025 reste en vigueur tant qu'il n'est pas rétracté."
+    },
+    {
+      "id": 3,
+      "scenario": "La société MIRANA Import a été condamnée à payer une dette commerciale sur la base d'une facture impayée datée du 10 janvier 2025, jugement rendu le 2 juillet 2025. En janvier 2026, dans le cadre d'une enquête pénale totalement distincte visant son ancien cocontractant pour faux en écriture commerciale, il est révélé que cette même facture avait été falsifiée par ce dernier — le procès-verbal de l'enquête établissant la fausseté du document est notifié à MIRANA Import le 10 février 2026. La société dépose sa requête civile le 28 mars 2026.",
+      "question": "La requête civile de la société MIRANA Import est-elle recevable ?",
+      "choix": [
+        "Oui : la pièce ayant fondé le jugement a été reconnue fausse après son prononcé (article 422, 3°), et la requête est déposée moins de deux mois après la notification du procès-verbal établissant la fausseté, le 10 février 2026.",
+        "Non, car la fausseté de la facture a été révélée dans une procédure pénale distincte, ce qui ne peut pas être invoqué dans une requête civile.",
+        "Non, car le délai de deux mois doit être calculé à partir du jugement du 2 juillet 2025, qui est donc expiré depuis longtemps.",
+        "Oui, mais seulement si la société engage en parallèle une plainte pénale contre son ancien cocontractant."
+      ],
+      "reponse": "Oui : la pièce ayant fondé le jugement a été reconnue fausse après son prononcé (article 422, 3°), et la requête est déposée moins de deux mois après la notification du procès-verbal établissant la fausseté, le 10 février 2026.",
+      "indices": "Vérifiez deux choses séparément : le motif correspond-il à l'un des cinq cas de l'article 422 ? Et le délai a-t-il été respecté, en tenant compte de la règle spéciale applicable lorsque le motif est la découverte d'un faux ?",
+      "explication": "La facture falsifiée ayant servi de fondement au jugement du 2 juillet 2025 a été reconnue fausse postérieurement à celui-ci : c'est exactement le cas prévu par l'article 422, 3°. L'origine de cette découverte — ici une enquête pénale distincte — est sans incidence sur la recevabilité de la requête civile, seul comptant le fait que la fausseté ait été reconnue après coup. Le délai de deux mois court, non du jugement, mais du jour où le faux a été reconnu, c'est-à-dire le 10 février 2026 ; la requête déposée le 28 mars 2026 respecte donc ce délai."
+    },
+    {
+      "id": 4,
+      "scenario": "Monsieur RABEMANANJARA a été condamné par un jugement du Tribunal de Première Instance de Toamasina rendu le 14 janvier 2026. Ce jugement, qui ne précise pas avoir été rendu en dernier ressort, ouvre expressément un délai d'appel d'un mois à compter de sa notification. Convaincu d'avoir été victime d'une erreur du juge dans l'appréciation des preuves, Monsieur RABEMANANJARA souhaite déposer une requête civile dès qu'il aura réuni de nouveaux témoignages.",
+      "question": "Le projet de Monsieur RABEMANANJARA est-il fondé ?",
+      "choix": [
+        "Non : le jugement étant susceptible d'appel, la requête civile n'est pas ouverte contre lui ; c'est l'appel, et non la requête civile, qui constitue la voie de recours appropriée dans le délai imparti.",
+        "Oui, dès lors qu'il dispose de nouveaux témoignages, la découverte de pièces nouvelles ouvrant toujours la voie de la requête civile.",
+        "Oui, car une simple erreur d'appréciation des preuves par le juge correspond au cas de dol personnel prévu par l'article 422, 2°.",
+        "Non, car la requête civile ne peut jamais être utilisée contre un jugement du Tribunal de Première Instance, seulement contre les arrêts de la Cour d'appel."
+      ],
+      "reponse": "Non : le jugement étant susceptible d'appel, la requête civile n'est pas ouverte contre lui ; c'est l'appel, et non la requête civile, qui constitue la voie de recours appropriée dans le délai imparti.",
+      "indices": "La requête civile ne vise que les décisions rendues en dernier ressort. Que faut-il vérifier avant toute chose, avant même de chercher un motif parmi les cinq cas de l'article 422 ?",
+      "explication": "La requête civile est exclue contre tout jugement encore susceptible d'appel — c'est précisément le cas ici, le jugement ouvrant lui-même un délai d'appel d'un mois. Une simple erreur d'appréciation des preuves, même réelle, n'entre dans aucun des cinq cas limitativement énumérés par l'article 422 : ce n'est ni un vice de forme, ni un dol, ni une pièce fausse, ni une rétention de pièce, ni une contrariété de décisions — ce n'est qu'un désaccord sur le jugement, qui relève de l'appel. Ce cas rappelle qu'il faut toujours vérifier en premier lieu la nature de la décision (dernier ressort ou non) avant même de chercher un fondement à la requête civile."
+    }
+  ]
+}
