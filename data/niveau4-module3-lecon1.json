@@ -1,0 +1,373 @@
+{
+  "titre": "Rédiger un contrat de vente — clauses essentielles",
+  "module": 3,
+  "niveau": "Professionnel",
+
+  "presentation": "Le contrat de vente est l'acte juridique le plus courant dans la vie quotidienne et dans les affaires : il transfère la propriété d'un bien d'un vendeur à un acheteur en échange d'un prix. Pourtant, rares sont ceux qui savent qu'un contrat mal rédigé — ou simplement verbal — peut être source de conflits graves, parfois irréparables. Ce module explique ce qu'est un contrat, les conditions qui le rendent valable ou nul, les clauses qui doivent impérativement y figurer, les contrats illicites, et pourquoi il est indispensable de tout mettre par écrit — même entre proches. Quatre modèles réels sont proposés, du plus simple au plus complexe.",
+
+  "contenu": [
+    {
+      "titre": "Qu'est-ce qu'un contrat ?",
+      "texte": "Un contrat est un accord de volontés entre deux ou plusieurs personnes, destiné à créer, modifier ou éteindre des obligations juridiques. À Madagascar, le droit des contrats est principalement régi par le Code Civil malgache, qui s'inspire largement du Code Civil français de 1804. Le contrat de vente en particulier est défini comme la convention par laquelle une partie — le vendeur — s'oblige à livrer une chose, et l'autre — l'acheteur — s'oblige à en payer le prix. Dès lors que les deux parties se sont mises d'accord sur la chose et sur le prix, le contrat est en principe formé, même verbalement. Mais la forme écrite reste indispensable en pratique : elle seule permet de prouver l'existence et le contenu de l'accord en cas de litige.",
+      "definition": "Convention : accord de volontés entre deux ou plusieurs personnes produisant des effets juridiques, c'est-à-dire créant des droits et des obligations que les parties sont tenues de respecter."
+    },
+    {
+      "titre": "Les conditions de validité d'un contrat",
+      "texte": "Pour être valable, tout contrat doit réunir quatre conditions cumulatives. Premièrement, le consentement des parties : chacune doit avoir accepté librement et en connaissance de cause ; un consentement arraché par la force, la tromperie ou l'erreur est vicié. Deuxièmement, la capacité juridique : chaque partie doit être juridiquement capable de contracter ; les mineurs non émancipés et les majeurs sous tutelle ne peuvent en principe pas contracter seuls. Troisièmement, un objet certain : le bien vendu doit être déterminé ou déterminable ; on ne peut pas vendre « quelque chose » sans précision. Quatrièmement, une cause licite : le but poursuivi par les parties doit être légal et conforme à l'ordre public et aux bonnes mœurs. Si l'une de ces conditions fait défaut, le contrat est nul."
+    },
+    {
+      "titre": "Les vices du consentement qui rendent le contrat invalide",
+      "texte": "Même si les parties ont signé, le contrat peut être annulé si le consentement de l'une d'elles a été vicié. Trois vices du consentement sont reconnus par le droit : l'erreur, le dol et la violence. L'erreur est une fausse représentation de la réalité : elle n'entraîne la nullité que si elle porte sur la substance même de la chose vendue — par exemple, acheter un terrain en croyant qu'il est constructible alors qu'il ne l'est pas. Le dol est une manœuvre frauduleuse : le vendeur dissimule délibérément un défaut grave, ou fait de fausses déclarations pour pousser l'acheteur à contracter. La violence est la contrainte exercée sur une partie pour l'amener à signer — qu'elle soit physique ou morale. Dans tous ces cas, la partie lésée peut demander au tribunal l'annulation du contrat dans un délai de cinq ans à compter de la découverte du vice.",
+      "definition": "Vice du consentement : défaut affectant la liberté ou la lucidité d'une partie au moment de la conclusion du contrat, de nature à en entraîner la nullité relative à la demande de la partie lésée."
+    },
+    {
+      "titre": "Les contrats illicites : ce qu'on ne peut pas vendre",
+      "texte": "Certains contrats sont nuls de plein droit parce qu'ils portent sur des choses hors du commerce juridique ou contraires à la loi. Il est ainsi interdit de vendre : des stupéfiants ou substances classées comme telles ; des armes sans autorisation légale ; des organes humains ; des terrains du domaine public de l'État ; des biens volés ou d'origine frauduleuse ; la nationalité, un titre de propriété falsifié, ou une décision de justice. Il est également illicite de vendre un même bien à deux acheteurs différents, ou de vendre un bien dont on n'est pas propriétaire sans en avoir le droit. Tout contrat ayant un objet ou une cause illicite est frappé de nullité absolue, c'est-à-dire qu'il est réputé n'avoir jamais existé et que ni l'acheteur ni le vendeur ne peuvent en réclamer l'exécution.",
+      "definition": "Nullité absolue : sanction frappant un contrat dont l'objet ou la cause est illicite, contraire à l'ordre public ou aux bonnes mœurs ; elle peut être invoquée par toute personne intéressée, y compris le juge d'office, et ne peut pas être couverte par la volonté des parties."
+    },
+    {
+      "titre": "Pourquoi toujours rédiger un contrat écrit — même entre membres de la famille",
+      "texte": "Beaucoup de personnes pensent qu'entre proches, la parole suffit. C'est une erreur grave. Le décès de l'une des parties, un désaccord sur le prix convenu, un oubli de bonne foi, ou simplement la mauvaise foi d'un héritier peuvent transformer un accord verbal en litige inextricable que personne ne peut trancher, faute de preuve. Le droit malgache prévoit d'ailleurs qu'au-dessus d'un certain montant, la preuve d'un acte juridique ne peut pas être rapportée par témoins : seul un écrit fait foi. Un contrat rédigé, daté, signé et si possible légalisé protège les deux parties également — il n'est pas un instrument de méfiance, mais un outil de clarté et de paix. Dans les familles, il permet en outre d'éviter que le litige ne surgisse après le décès, entre des héritiers qui n'étaient pas parties à l'accord verbal initial.",
+      "definition": "Preuve préconstituée : écrit établi au moment de l'acte juridique, avant tout litige, et qui servira à prouver l'existence et le contenu de cet acte devant un tribunal si cela devenait nécessaire."
+    },
+    {
+      "titre": "Les clauses essentielles d'un contrat de vente",
+      "texte": "Un contrat de vente bien rédigé doit comporter au minimum les éléments suivants : l'identité complète des parties (nom, prénom, adresse, numéro de carte d'identité) ; la désignation précise du bien vendu (description, référence, état, numéro de série si applicable) ; le prix de vente, exprimé en chiffres et en lettres ; les modalités de paiement (comptant, échelonné, avec ou sans acompte) ; la date et le lieu de livraison ou de remise du bien ; les garanties éventuelles (garantie contre les vices cachés, garantie d'éviction) ; la date de transfert de propriété ; les pénalités en cas de défaillance d'une partie ; la clause de règlement amiable des différends, et éventuellement la clause attributive de juridiction. Plus le contrat est précis, moins il laisse de place à l'interprétation — et donc au conflit."
+    },
+    {
+      "titre": "Conseils pratiques pour sécuriser un contrat de vente",
+      "texte": "Plusieurs précautions simples permettent de renforcer la sécurité juridique d'un contrat : faire rédiger ou relire le contrat par un avocat ou un notaire pour les montants importants ; légaliser les signatures auprès des autorités compétentes (fokontany, mairie, notaire) ; conserver au moins deux exemplaires originaux, un pour chaque partie ; ne jamais remettre le bien avant d'avoir reçu le prix, ou vice versa, sauf à prévoir une clause expresse de transfert différé ; en cas de paiement échelonné, mentionner chaque versement dans un reçu signé ; pour les biens immobiliers, toujours passer par un notaire, l'acte authentique étant la seule forme opposable aux tiers et nécessaire pour l'inscription foncière à Madagascar."
+    }
+  ],
+
+  "modeles_actes": [
+    {
+      "id": 1,
+      "variante": "entre deux personnes",
+      "complexite": "simple",
+      "objet": "Vente d'un téléphone portable d'occasion",
+      "contexte": "Monsieur RAKOTO Jean vend son téléphone portable d'occasion à Madame RASOA Marie pour la somme de 400 000 Ariary, payée comptant au moment de la remise.",
+      "document": {
+        "titre_acte": "CONTRAT DE VENTE DE BIEN MEUBLE D'OCCASION",
+        "lieu_date": "Antananarivo, le 15 juin 2026",
+        "parties": {
+          "vendeur": {
+            "nom": "RAKOTO Jean",
+            "adresse": "Lot II B 45, Ankadifotsy, Antananarivo 101",
+            "cin": "101 234 567 890",
+            "qualite": "ci-après dénommé « le Vendeur »"
+          },
+          "acheteur": {
+            "nom": "RASOA Marie",
+            "adresse": "Lot IV A 12, Mahamasina, Antananarivo 101",
+            "cin": "101 987 654 321",
+            "qualite": "ci-après dénommée « l'Acheteur »"
+          }
+        },
+        "articles": [
+          {
+            "titre": "Article 1 — Objet",
+            "texte": "Le Vendeur cède et vend à l'Acheteur, qui accepte, le bien meuble suivant : un téléphone portable de marque Samsung, modèle Galaxy A32, de couleur bleue, numéro IMEI 358 123 456 789 012, en état de fonctionnement."
+          },
+          {
+            "titre": "Article 2 — Prix",
+            "texte": "La vente est consentie et acceptée pour le prix de quatre cent mille ariary (400 000 Ariary), payé intégralement par l'Acheteur au Vendeur ce jour, en espèces, dont le Vendeur reconnaît avoir reçu le montant."
+          },
+          {
+            "titre": "Article 3 — Transfert de propriété et remise du bien",
+            "texte": "La propriété du bien est transférée à l'Acheteur à compter de la signature du présent contrat et du paiement intégral du prix. Le bien est remis en main propre à l'Acheteur ce même jour."
+          },
+          {
+            "titre": "Article 4 — État du bien",
+            "texte": "L'Acheteur déclare avoir examiné le bien avant la vente et l'accepter en l'état. La vente est faite sans garantie de vice caché, le bien étant vendu d'occasion et le prix fixé en conséquence."
+          },
+          {
+            "titre": "Article 5 — Règlement des litiges",
+            "texte": "En cas de litige relatif au présent contrat, les parties s'engagent à rechercher un règlement amiable avant toute saisine d'une juridiction. À défaut d'accord, le Tribunal de Première Instance d'Antananarivo sera seul compétent."
+          }
+        ],
+        "mentions_finales": "Fait en deux exemplaires originaux, dont un remis à chaque partie.",
+        "signatures": [
+          { "qualite": "Le Vendeur", "nom": "RAKOTO Jean" },
+          { "qualite": "L'Acheteur", "nom": "RASOA Marie" }
+        ]
+      }
+    },
+
+    {
+      "id": 2,
+      "variante": "entre quatre personnes",
+      "complexite": "intermédiaire",
+      "objet": "Vente d'un véhicule automobile avec deux vendeurs et deux acheteurs",
+      "contexte": "M. ANDRIANA Paul et Mme ANDRIANA Cécile, époux copropriétaires d'un véhicule, le vendent conjointement à M. RAVONJY Hery et Mme RAVONJY Lanto, époux souhaitant l'acquérir ensemble. Le prix est de 18 000 000 Ariary, payé par acompte puis solde.",
+      "document": {
+        "titre_acte": "CONTRAT DE VENTE DE VÉHICULE AUTOMOBILE",
+        "lieu_date": "Antananarivo, le 15 juin 2026",
+        "parties": {
+          "vendeurs": [
+            {
+              "nom": "ANDRIANA Paul",
+              "adresse": "Lot III C 8, Ambohijatovo, Antananarivo 101",
+              "cin": "101 111 222 333"
+            },
+            {
+              "nom": "ANDRIANA Cécile",
+              "adresse": "Lot III C 8, Ambohijatovo, Antananarivo 101",
+              "cin": "101 444 555 666"
+            }
+          ],
+          "acheteurs": [
+            {
+              "nom": "RAVONJY Hery",
+              "adresse": "Lot I A 3, Faravohitra, Antananarivo 101",
+              "cin": "101 777 888 999"
+            },
+            {
+              "nom": "RAVONJY Lanto",
+              "adresse": "Lot I A 3, Faravohitra, Antananarivo 101",
+              "cin": "101 000 112 233"
+            }
+          ],
+          "designation_collective": "Les Vendeurs d'une part, et les Acheteurs d'autre part."
+        },
+        "articles": [
+          {
+            "titre": "Article 1 — Objet",
+            "texte": "Les Vendeurs cèdent et vendent aux Acheteurs, qui acceptent conjointement et solidairement, le véhicule automobile suivant : marque Toyota, modèle Hilux, année de fabrication 2018, couleur blanche, immatriculation 4519 TA, numéro de châssis MR0EX32G500123456, compteur kilométrique à 87 000 km au jour de la signature."
+          },
+          {
+            "titre": "Article 2 — Prix et modalités de paiement",
+            "texte": "La vente est consentie et acceptée pour le prix de dix-huit millions d'ariary (18 000 000 Ariary), payé selon les modalités suivantes : un acompte de huit millions d'ariary (8 000 000 Ariary) versé ce jour par les Acheteurs aux Vendeurs, dont ceux-ci reconnaissent réception ; le solde de dix millions d'ariary (10 000 000 Ariary) sera versé au plus tard le 30 juillet 2026, date à laquelle interviendra la remise définitive du véhicule et de ses documents."
+          },
+          {
+            "titre": "Article 3 — Transfert de propriété",
+            "texte": "La propriété du véhicule est transférée aux Acheteurs au jour du paiement intégral du prix et de la remise de la carte grise dûment endossée. Les risques liés au véhicule sont supportés par les Acheteurs à compter de ce transfert."
+          },
+          {
+            "titre": "Article 4 — Documents remis",
+            "texte": "Les Vendeurs s'engagent à remettre aux Acheteurs, au jour du paiement du solde, les documents suivants : la carte grise originale du véhicule, le carnet d'entretien, et deux clés du véhicule. Les Vendeurs garantissent que le véhicule est libre de tout gage, nantissement ou opposition au jour de la signature."
+          },
+          {
+            "titre": "Article 5 — Garanties",
+            "texte": "Les Vendeurs garantissent être les seuls et uniques propriétaires du véhicule, que celui-ci n'est pas volé, et qu'il n'est grevé d'aucune charge. Le véhicule est vendu en l'état, les Acheteurs déclarant l'avoir examiné et essayé avant la signature et en avoir accepté l'état général."
+          },
+          {
+            "titre": "Article 6 — Pénalité de retard",
+            "texte": "En cas de non-paiement du solde à la date prévue du 30 juillet 2026, une pénalité de deux cent mille ariary (200 000 Ariary) par semaine de retard sera due par les Acheteurs aux Vendeurs. Passé un délai de trente jours sans paiement, les Vendeurs pourront résilier le présent contrat de plein droit après mise en demeure restée sans effet, et l'acompte versé restera acquis à titre de dédommagement forfaitaire."
+          },
+          {
+            "titre": "Article 7 — Règlement des litiges",
+            "texte": "En cas de litige relatif au présent contrat, les parties conviennent de recourir en priorité à un règlement amiable. À défaut d'accord dans un délai de trente jours, le Tribunal de Première Instance d'Antananarivo sera seul compétent."
+          }
+        ],
+        "mentions_finales": "Fait en deux exemplaires originaux, dont un remis à chaque partie.",
+        "signatures": [
+          { "qualite": "Le Vendeur", "nom": "ANDRIANA Paul" },
+          { "qualite": "La Vendeuse", "nom": "ANDRIANA Cécile" },
+          { "qualite": "L'Acheteur", "nom": "RAVONJY Hery" },
+          { "qualite": "L'Acheteuse", "nom": "RAVONJY Lanto" }
+        ]
+      }
+    },
+
+    {
+      "id": 3,
+      "variante": "entre six personnes",
+      "complexite": "complexe",
+      "objet": "Vente d'un fonds de commerce entre trois vendeurs et trois acheteurs",
+      "contexte": "Trois associés — M. RAKOTOARISOA Fidy, Mme RATSIMBAZAFY Noro et M. RAVELO Haja — cèdent conjointement leur fonds de commerce (épicerie et articles ménagers) à trois repreneurs — Mme RAHARISON Vola, M. RAFARALAHY Tsiry et Mme ANDRIAMASY Rina — pour un prix global de 45 000 000 Ariary, incluant le stock, le matériel et la clientèle.",
+      "document": {
+        "titre_acte": "CONTRAT DE CESSION DE FONDS DE COMMERCE",
+        "lieu_date": "Antananarivo, le 15 juin 2026",
+        "parties": {
+          "cédants": [
+            { "nom": "RAKOTOARISOA Fidy", "adresse": "Lot II D 14, Isotry, Antananarivo 101", "cin": "101 321 654 987" },
+            { "nom": "RATSIMBAZAFY Noro", "adresse": "Lot V B 2, Andavamamba, Antananarivo 101", "cin": "101 654 321 789" },
+            { "nom": "RAVELO Haja", "adresse": "Lot I C 9, Ankadimbahoaka, Antananarivo 101", "cin": "101 789 012 345" }
+          ],
+          "cessionnaires": [
+            { "nom": "RAHARISON Vola", "adresse": "Lot III A 22, Tsaralalàna, Antananarivo 101", "cin": "101 012 345 678" },
+            { "nom": "RAFARALAHY Tsiry", "adresse": "Lot II E 7, Behoririka, Antananarivo 101", "cin": "101 345 678 901" },
+            { "nom": "ANDRIAMASY Rina", "adresse": "Lot IV C 31, Analakely, Antananarivo 101", "cin": "101 678 901 234" }
+          ]
+        },
+        "articles": [
+          {
+            "titre": "Article 1 — Objet de la cession",
+            "texte": "Les Cédants cèdent et transfèrent aux Cessionnaires, qui acceptent conjointement et solidairement, le fonds de commerce exploité sous l'enseigne « Épicerie FANANTENANA », situé Lot IB 5, Marché Andravoahangy, Antananarivo 101. Cette cession comprend : l'ensemble du stock de marchandises inventorié contradictoirement le 10 juin 2026 (annexe 1), le matériel et mobilier figurant à l'inventaire contradictoire du même jour (annexe 2), le droit au bail commercial du local d'exploitation, la clientèle et l'achalandage, les contrats fournisseurs cessibles, et l'enseigne."
+          },
+          {
+            "titre": "Article 2 — Prix global et ventilation",
+            "texte": "La cession est consentie et acceptée pour le prix global de quarante-cinq millions d'ariary (45 000 000 Ariary), ventilé comme suit : stock de marchandises : 15 000 000 Ariary ; matériel et mobilier : 8 000 000 Ariary ; droit au bail et clientèle : 22 000 000 Ariary."
+          },
+          {
+            "titre": "Article 3 — Modalités de paiement",
+            "texte": "Le prix est payé selon les modalités suivantes : un premier versement de vingt millions d'ariary (20 000 000 Ariary) ce jour, à la signature, dont les Cédants reconnaissent réception ; un deuxième versement de quinze millions d'ariary (15 000 000 Ariary) au plus tard le 1er août 2026 ; le solde de dix millions d'ariary (10 000 000 Ariary) au plus tard le 1er octobre 2026. Les Cessionnaires sont solidairement tenus du paiement de l'intégralité du prix."
+          },
+          {
+            "titre": "Article 4 — Transfert de propriété et prise de possession",
+            "texte": "La propriété du fonds de commerce est transférée aux Cessionnaires au jour du paiement intégral du prix. Toutefois, afin de permettre la continuité de l'exploitation, les Cessionnaires prendront possession des lieux et de l'exploitation dès le 1er juillet 2026, sous réserve du paiement du premier versement ce jour. Durant la période allant du 1er juillet 2026 au paiement intégral, les Cessionnaires exploitent le fonds à leurs risques et périls."
+          },
+          {
+            "titre": "Article 5 — Garanties des Cédants",
+            "texte": "Les Cédants garantissent solidairement : être les seuls propriétaires du fonds de commerce ; l'exactitude des inventaires annexés ; l'absence de dettes sociales, fiscales ou fournisseurs non déclarées antérieures à la cession ; l'absence de procédures judiciaires en cours relatives au fonds ; et le droit au bail tel que décrit, sans congé ni résiliation en cours."
+          },
+          {
+            "titre": "Article 6 — Clause de non-concurrence",
+            "texte": "Les Cédants s'engagent, pendant une durée de deux ans à compter de la prise de possession effective par les Cessionnaires, à ne pas ouvrir, exploiter ou participer directement ou indirectement à un commerce concurrent de même nature dans un rayon de cinq kilomètres autour du local cédé."
+          },
+          {
+            "titre": "Article 7 — Pénalités",
+            "texte": "Tout retard dans le paiement des versements prévus à l'article 3 sera sanctionné par des pénalités de retard d'un demi pour cent (0,5%) du montant dû par semaine de retard. En cas de non-paiement d'un versement dans un délai de quarante-cinq jours au-delà de l'échéance, les Cédants pourront demander la résolution du contrat en justice, les versements déjà effectués restant acquis à titre d'indemnité forfaitaire."
+          },
+          {
+            "titre": "Article 8 — Règlement des litiges",
+            "texte": "En cas de litige relatif au présent contrat, les parties conviennent de tenter un règlement amiable dans un délai de trente jours suivant la notification du litige par lettre recommandée. À défaut d'accord, le Tribunal de Commerce d'Antananarivo sera seul compétent."
+          }
+        ],
+        "annexes": [
+          "Annexe 1 : Inventaire contradictoire du stock de marchandises du 10 juin 2026",
+          "Annexe 2 : Inventaire contradictoire du matériel et mobilier du 10 juin 2026",
+          "Annexe 3 : Copie du bail commercial en cours"
+        ],
+        "mentions_finales": "Fait en deux exemplaires originaux, dont un remis à chaque groupe de parties.",
+        "signatures": [
+          { "qualite": "Cédant", "nom": "RAKOTOARISOA Fidy" },
+          { "qualite": "Cédante", "nom": "RATSIMBAZAFY Noro" },
+          { "qualite": "Cédant", "nom": "RAVELO Haja" },
+          { "qualite": "Cessionnaire", "nom": "RAHARISON Vola" },
+          { "qualite": "Cessionnaire", "nom": "RAFARALAHY Tsiry" },
+          { "qualite": "Cessionnaire", "nom": "ANDRIAMASY Rina" }
+        ]
+      }
+    },
+
+    {
+      "id": 4,
+      "variante": "entre deux personnes — famille",
+      "complexite": "intermédiaire",
+      "objet": "Vente d'un terrain entre membres d'une même famille",
+      "contexte": "Madame RAKOTOBE Elise vend à son neveu, Monsieur RAKOTOBE Feno, un terrain non bâti qu'elle possède à Antsiranana, pour le prix de 12 000 000 Ariary. Ce modèle illustre pourquoi il est essentiel de formaliser même les transactions familiales, et intègre une mention expresse à cet effet.",
+      "document": {
+        "titre_acte": "CONTRAT DE VENTE DE TERRAIN NON BÂTI ENTRE MEMBRES D'UNE MÊME FAMILLE",
+        "lieu_date": "Antsiranana, le 15 juin 2026",
+        "note_liminaire": "Les parties, bien que liées par des liens familiaux, ont choisi de formaliser le présent accord par écrit afin de protéger leurs droits respectifs, de prévenir tout litige ultérieur — notamment lors de successions — et de permettre l'enregistrement de la transaction auprès des autorités compétentes. La rédaction d'un contrat écrit n'est pas un acte de méfiance ; c'est un acte de responsabilité et de respect mutuel.",
+        "parties": {
+          "vendeur": {
+            "nom": "RAKOTOBE Elise",
+            "adresse": "Lot 47, Rue Colbert, Antsiranana 201",
+            "cin": "201 456 789 012",
+            "lien_familial": "tante de l'Acheteur",
+            "qualite": "ci-après dénommée « la Vendeuse »"
+          },
+          "acheteur": {
+            "nom": "RAKOTOBE Feno",
+            "adresse": "Lot 12, Quartier Aranta, Antsiranana 201",
+            "cin": "201 123 456 789",
+            "lien_familial": "neveu de la Vendeuse",
+            "qualite": "ci-après dénommé « l'Acheteur »"
+          }
+        },
+        "articles": [
+          {
+            "titre": "Article 1 — Objet",
+            "texte": "La Vendeuse cède et vend à l'Acheteur, qui accepte, le terrain non bâti dont elle est propriétaire, situé à Antsiranana, Quartier Tanambao I, d'une superficie de 600 mètres carrés, référencé au plan cadastral sous le numéro 2014-ATS-0047, dont les limites et tenants-aboutissants sont précisément décrits à l'annexe 1 du présent contrat."
+          },
+          {
+            "titre": "Article 2 — Prix et paiement",
+            "texte": "La vente est consentie pour le prix de douze millions d'ariary (12 000 000 Ariary), payé intégralement par l'Acheteur à la Vendeuse ce jour, en espèces, dont la Vendeuse reconnaît avoir reçu le montant et en donne quittance par la signature des présentes."
+          },
+          {
+            "titre": "Article 3 — Transfert de propriété",
+            "texte": "La propriété du terrain est transférée à l'Acheteur à compter de la signature du présent contrat et du paiement intégral du prix, constaté ce jour. Les risques liés au terrain sont supportés par l'Acheteur à compter de ce transfert."
+          },
+          {
+            "titre": "Article 4 — Garantie d'éviction",
+            "texte": "La Vendeuse garantit à l'Acheteur que le terrain est libre de tout droit, charge, hypothèque ou revendication de tiers. Elle s'engage à garantir l'Acheteur contre tout trouble de droit qui viendrait à affecter sa jouissance du terrain, y compris les revendications émanant d'autres membres de la famille."
+          },
+          {
+            "titre": "Article 5 — Documents remis",
+            "texte": "La Vendeuse remet à l'Acheteur, ce jour, les documents suivants : copie du titre foncier ou du certificat de situation juridique du terrain, plan cadastral de la parcelle (annexe 1), et reçu de paiement des taxes foncières à jour."
+          },
+          {
+            "titre": "Article 6 — Enregistrement et frais",
+            "texte": "Le présent contrat sera enregistré par l'Acheteur auprès des services fiscaux compétents dans le délai légal. Les frais d'enregistrement, de légalisation et le cas échéant de mutation sont à la charge exclusive de l'Acheteur."
+          },
+          {
+            "titre": "Article 7 — Clause familiale de renonciation",
+            "texte": "Les parties déclarent expressément que la présente vente est conclue à titre onéreux et définitif. Aucun autre membre de la famille de la Vendeuse ne pourra se prévaloir d'un droit sur ce terrain du fait de liens familiaux, la Vendeuse étant seule et unique propriétaire à la date des présentes et ayant librement disposé de son bien."
+          },
+          {
+            "titre": "Article 8 — Règlement des litiges",
+            "texte": "En cas de litige relatif au présent contrat, les parties conviennent de rechercher en priorité une solution amiable. À défaut d'accord, le Tribunal de Première Instance d'Antsiranana sera seul compétent."
+          }
+        ],
+        "annexes": ["Annexe 1 : Plan cadastral de la parcelle n° 2014-ATS-0047"],
+        "mentions_finales": "Fait en deux exemplaires originaux à Antsiranana, dont un remis à chaque partie, après lecture et approbation de l'intégralité des dispositions du présent acte.",
+        "signatures": [
+          { "qualite": "La Vendeuse", "nom": "RAKOTOBE Elise" },
+          { "qualite": "L'Acheteur", "nom": "RAKOTOBE Feno" }
+        ]
+      }
+    }
+  ],
+
+  "cas_pratiques": [
+    {
+      "id": 1,
+      "scenario": "Madame SOLO Berthine a vendu verbalement sa machine à coudre à sa voisine, Madame DINA Paulette, pour 500 000 Ariary. Madame DINA a pris possession de la machine et a versé un acompte de 200 000 Ariary. Quelques semaines plus tard, elle refuse de payer le solde, affirmant que le prix convenu était de 300 000 Ariary et non 500 000. Madame SOLO n'a aucun écrit. Madame DINA non plus.",
+      "question": "Madame SOLO peut-elle obtenir le paiement du solde en justice, et quelle leçon tirer de cette situation ?",
+      "choix": [
+        "Non, ou difficilement : sans écrit, Madame SOLO ne peut pas prouver le prix qu'elle invoque. Le tribunal sera dans l'impossibilité de trancher avec certitude, faute de preuve préconstituée. La situation aurait été évitée par un simple contrat écrit signé des deux parties.",
+        "Oui, car la prise de possession de la machine par Madame DINA prouve à elle seule l'existence de la vente et le prix convenu.",
+        "Oui, car Madame DINA a versé un acompte, ce qui vaut reconnaissance du prix total de 500 000 Ariary.",
+        "Non, car une vente verbale n'a aucune existence juridique à Madagascar et le contrat est nul ; Madame SOLO doit récupérer la machine."
+      ],
+      "reponse": "Non, ou difficilement : sans écrit, Madame SOLO ne peut pas prouver le prix qu'elle invoque. Le tribunal sera dans l'impossibilité de trancher avec certitude, faute de preuve préconstituée. La situation aurait été évitée par un simple contrat écrit signé des deux parties.",
+      "indices": "La vente verbale est juridiquement valable — un contrat peut se former par simple accord de volontés. Mais ce n'est pas la validité du contrat qui pose problème ici : c'est sa preuve. Réfléchissez à ce que peut démontrer l'acompte seul.",
+      "explication": "La vente verbale est valable en droit : le contrat s'est formé dès l'accord sur la chose et le prix. Mais sa preuve est une autre affaire. L'acompte de 200 000 Ariary prouve qu'un accord existait, pas que le prix convenu était de 500 000 Ariary — Madame DINA peut soutenir qu'il représentait la totalité du prix. Sans écrit mentionnant le prix total, Madame SOLO ne peut pas prouver son chiffre, et le tribunal ne peut que constater le doute. Cette situation, extrêmement fréquente, illustre pourquoi un simple reçu ou contrat manuscrit, même d'une ligne, protège les deux parties."
+    },
+    {
+      "id": 2,
+      "scenario": "Monsieur FANIRY Haja achète un terrain à Monsieur TOJO René pour 25 000 000 Ariary. Il paie intégralement et signe un contrat de vente. Six mois plus tard, il découvre que Monsieur TOJO n'était pas le propriétaire légal du terrain : le véritable propriétaire, Madame ZARA Bao, se présente avec un titre foncier en règle et réclame la restitution de son bien.",
+      "question": "Monsieur FANIRY peut-il conserver le terrain, et contre qui peut-il agir ?",
+      "choix": [
+        "Non, Monsieur FANIRY ne peut pas conserver le terrain face à Madame ZARA qui présente un titre foncier valide. En revanche, il peut agir en justice contre Monsieur TOJO pour obtenir la restitution intégrale du prix payé, des dommages-intérêts pour le préjudice subi, et le remboursement de tous ses frais.",
+        "Oui, Monsieur FANIRY peut conserver le terrain car il est de bonne foi et a payé le prix en entier.",
+        "Non, et Monsieur FANIRY ne peut rien réclamer à Monsieur TOJO car il aurait dû vérifier les titres avant d'acheter.",
+        "Oui, Monsieur FANIRY conserve le terrain car le contrat de vente signé entre lui et Monsieur TOJO l'emporte sur le titre foncier de Madame ZARA."
+      ],
+      "reponse": "Non, Monsieur FANIRY ne peut pas conserver le terrain face à Madame ZARA qui présente un titre foncier valide. En revanche, il peut agir en justice contre Monsieur TOJO pour obtenir la restitution intégrale du prix payé, des dommages-intérêts pour le préjudice subi, et le remboursement de tous ses frais.",
+      "indices": "À Madagascar, le titre foncier est la preuve absolue de la propriété immobilière. Demandez-vous ce que Monsieur TOJO a vendu en réalité, et quelle garantie le vendeur doit à l'acheteur dans tout contrat de vente.",
+      "explication": "À Madagascar, le titre foncier enregistré fait foi de la propriété et est opposable à tous. Madame ZARA, titulaire du titre, est la propriétaire légale : Monsieur FANIRY ne peut pas lui opposer un contrat signé avec quelqu'un qui n'était pas propriétaire. Le contrat avec Monsieur TOJO est nul pour défaut de qualité du vendeur — on ne peut pas vendre ce qu'on ne possède pas. Monsieur FANIRY dispose d'un recours en garantie d'éviction contre Monsieur TOJO, qui l'obligeait à lui garantir une possession paisible : il peut donc lui réclamer le prix, les frais et les dommages-intérêts. Cette situation montre pourquoi, pour un terrain, il faut toujours exiger le titre foncier original, vérifier sa concordance au bureau topographique, et passer devant notaire."
+    },
+    {
+      "id": 3,
+      "scenario": "Madame VONJY Lala achète à Monsieur KOTO Sam un groupe électrogène d'occasion pour 3 500 000 Ariary. Le contrat signé stipule que la vente est faite « en l'état, sans garantie ». Trois jours après la livraison, le groupe électrogène tombe en panne : un technicien constate que le moteur présente une fissure interne ancienne, invisible à l'œil nu, qui rendait le groupe inutilisable dès avant la vente. Madame VONJY demande l'annulation de la vente. Monsieur KOTO refuse, en invoquant la clause « sans garantie ».",
+      "question": "Madame VONJY peut-elle obtenir l'annulation de la vente malgré la clause « sans garantie » ?",
+      "choix": [
+        "Oui : la clause « sans garantie » ne couvre pas les vices cachés que le vendeur connaissait ou ne pouvait ignorer. Si Monsieur KOTO avait connaissance de la fissure et ne l'a pas révélée, il a commis un dol, et la clause de non-garantie lui est inopposable. Madame VONJY peut demander l'annulation ou la réduction du prix.",
+        "Non : Madame VONJY a signé en connaissance de cause une clause sans garantie qui s'applique à tous les défauts, y compris cachés.",
+        "Non, car le délai pour agir en garantie des vices cachés est de 24 heures seulement après la livraison.",
+        "Oui, mais uniquement si elle prouve que Monsieur KOTO est un professionnel de la vente de matériel électrique."
+      ],
+      "reponse": "Oui : la clause « sans garantie » ne couvre pas les vices cachés que le vendeur connaissait ou ne pouvait ignorer. Si Monsieur KOTO avait connaissance de la fissure et ne l'a pas révélée, il a commis un dol, et la clause de non-garantie lui est inopposable. Madame VONJY peut demander l'annulation ou la réduction du prix.",
+      "indices": "Il faut distinguer deux choses : la portée d'une clause « sans garantie » d'une part, et l'effet du dol ou du vice caché connu du vendeur d'autre part. Une clause contractuelle ne peut pas couvrir la mauvaise foi du vendeur.",
+      "explication": "En droit des contrats, une clause « sans garantie » ou « vendu en l'état » est valable pour les défauts apparents que l'acheteur pouvait constater lui-même. Mais elle ne peut pas exonérer le vendeur qui connaissait un vice caché et l'a délibérément dissimulé : cela constitue un dol, qui vicie le consentement de l'acheteur. Si la preuve est rapportée que Monsieur KOTO connaissait la fissure — ou qu'en tant que vendeur il ne pouvait l'ignorer compte tenu de l'ancienneté du défaut — Madame VONJY peut demander soit l'annulation de la vente avec restitution intégrale du prix, soit une réduction du prix proportionnelle au défaut. Ce cas illustre qu'une clause de style ne peut jamais couvrir la mauvaise foi."
+    },
+    {
+      "id": 4,
+      "scenario": "Monsieur RIVO Jacky et son frère Monsieur RIVO Aina ont vendu ensemble, sans contrat écrit, un terrain familial indivis à un acheteur extérieur, Monsieur MAMINIRINA Luc, pour 20 000 000 Ariary. Monsieur MAMINIRINA a tout payé et pris possession du terrain. Deux ans plus tard, une troisième sœur, Madame RIVO Hanitra, qui n'avait jamais été informée de la vente, revendique sa part du terrain en sa qualité de copropriétaire indivise.",
+      "question": "La vente est-elle valable, et quel est le risque pour Monsieur MAMINIRINA ?",
+      "choix": [
+        "La vente est partiellement nulle ou contestable : les deux frères ne pouvaient vendre la totalité d'un bien indivis sans le consentement de tous les indivisaires. Madame RIVO Hanitra peut agir en justice pour faire valoir ses droits sur sa quote-part, ce qui expose Monsieur MAMINIRINA à perdre une partie du terrain ou à engager une procédure de licitation. Les deux frères s'exposent à des poursuites pour avoir vendu ce qu'ils ne possédaient pas entièrement.",
+        "La vente est totalement valable car Monsieur MAMINIRINA a payé intégralement et pris possession de bonne foi.",
+        "Madame RIVO Hanitra n'a aucun droit car elle n'a pas participé à la vente et n'a pas contesté dans les six mois suivants.",
+        "La vente est valable mais Madame RIVO Hanitra peut seulement demander à ses frères de lui verser sa part du prix de vente, sans pouvoir revendiquer le terrain."
+      ],
+      "reponse": "La vente est partiellement nulle ou contestable : les deux frères ne pouvaient vendre la totalité d'un bien indivis sans le consentement de tous les indivisaires. Madame RIVO Hanitra peut agir en justice pour faire valoir ses droits sur sa quote-part, ce qui expose Monsieur MAMINIRINA à perdre une partie du terrain ou à engager une procédure de licitation. Les deux frères s'exposent à des poursuites pour avoir vendu ce qu'ils ne possédaient pas entièrement.",
+      "indices": "En matière d'indivision, chaque indivisaire est propriétaire d'une quote-part, pas d'une partie matérielle du bien. Demandez-vous si l'on peut vendre la totalité d'un bien dont on ne détient qu'une fraction, et quel est le droit du troisième indivisaire non-consulté.",
+      "explication": "En droit de l'indivision, aucun indivisaire ne peut disposer seul de la totalité du bien commun : la vente de la totalité d'un bien indivis exige le consentement de tous les copropriétaires. Les deux frères ne détenaient ensemble que les deux tiers du terrain (en supposant trois parts égales) : ils ne pouvaient vendre que leur part. Madame RIVO Hanitra, copropriétaire de sa quote-part, peut agir en nullité pour la fraction qui la concerne et revendiquer ses droits. Monsieur MAMINIRINA, acheteur de bonne foi, peut quant à lui se retourner contre les deux frères pour obtenir réparation du préjudice subi. Ce cas, fréquent dans les familles malgaches avec les terres héritées, rappelle une règle d'or : avant d'acheter un terrain, vérifier qu'il n'est pas en indivision, et si c'est le cas, obtenir la signature de tous les indivisaires."
+    }
+  ]
+}
