@@ -1,0 +1,186 @@
+{
+  "titre": "Rédiger un acte de cession de parts sociales",
+  "module": 15,
+  "niveau": "Professionnel",
+
+  "presentation": "Les parts sociales d'une SARL ne sont pas négociables comme des actions : leur cession est encadrée par la Loi n° 2003-036 sur les sociétés commerciales et son décret d'application n° 2004-453, qui distinguent la cession entre associés, en principe libre, de la cession à un tiers, soumise à l'agrément des associés. Ce module suit un dossier complet, de la notification du projet de cession jusqu'à l'acte définitif, en passant par le procès-verbal d'agrément.",
+
+  "contenu": [
+    {
+      "titre": "Les parts sociales : nature et cessibilité",
+      "texte": "Dans les sociétés autres que les sociétés par actions, les titres sociaux émis en contrepartie des apports des associés sont dénommés parts sociales. Ce sont des biens meubles, et l'article 49 de la Loi n° 2003-036 pose le principe selon lequel les parts sociales sont cessibles. Contrairement aux actions des sociétés anonymes, elles ne sont en revanche pas négociables : leur transmission ne peut pas se faire par simple inscription en compte, mais nécessite un véritable acte de cession et le respect de formalités précises."
+    },
+    {
+      "titre": "Cession entre associés et cession à un tiers : deux régimes différents",
+      "texte": "La SARL est une société de personnes où la considération des associés entre eux joue un rôle important. C'est pourquoi la cession des parts sociales obéit à deux régimes distincts : la cession entre associés déjà en place est en principe libre, sauf clause contraire des statuts ; la cession à un tiers étranger à la société, en revanche, est soumise à l'agrément des associés, qui doivent donner leur consentement avant que le nouvel associé ne puisse entrer dans la société."
+    },
+    {
+      "titre": "La procédure d'agrément pour une cession à un tiers",
+      "texte": "Avant toute cession à un tiers, l'associé cédant doit notifier son projet de cession à la société et à chacun des autres associés. L'article 19 du Décret n° 2004-453 du 6 avril 2004 précise que cette notification, prévue aux articles 338 et 342 de la Loi n° 2003-036, doit être faite par acte extrajudiciaire ou par lettre recommandée avec demande d'avis de réception. Les associés doivent ensuite donner leur consentement à la majorité des associés représentant au moins la moitié des parts sociales, sauf si les statuts exigent une majorité plus forte.",
+      "definition": "Agrément : accord donné par les associés d'une SARL, à la majorité requise, permettant à une personne étrangère à la société de devenir associée par acquisition de parts sociales."
+    },
+    {
+      "titre": "Le refus d'agrément et ses conséquences",
+      "texte": "Si les associés refusent d'agréer le cessionnaire proposé, l'associé cédant n'est pas pour autant prisonnier de ses parts : les autres associés, ou la société elle-même, doivent alors organiser le rachat de ses parts. En cas de désaccord sur le prix de ce rachat, l'article 51 de la Loi n° 2003-036 prévoit que la valeur des droits sociaux est déterminée par un expert désigné par les parties ou, à défaut d'accord entre elles, par ordonnance du président du tribunal de commerce statuant en référé. La pratique malgache retient un délai de trois mois pour que le président du tribunal intervienne et fixe le prix des parts en cas de refus persistant."
+    },
+    {
+      "titre": "La rédaction de l'acte de cession : les mentions essentielles",
+      "texte": "Qu'elle intervienne entre associés ou avec un tiers (une fois l'agrément obtenu), la cession doit être constatée par un acte écrit, sous signature privée ou notarié. Cet acte mentionne l'identité complète du cédant et du cessionnaire, la dénomination et le siège de la société, le nombre et la valeur nominale des parts cédées, le prix de cession et ses modalités de paiement, les déclarations du cédant relatives à la situation de la société et aux parts cédées, la date d'effet de la cession, et, lorsque la cession est faite à un tiers, la référence expresse à l'agrément obtenu et à sa date."
+    },
+    {
+      "titre": "Les formalités à accomplir après la signature de l'acte",
+      "texte": "Pour être opposable à la société, la cession doit faire l'objet de l'une des formalités suivantes : signification de la cession à la société par exploit d'huissier, acceptation de la cession par la société dans un acte authentique, ou dépôt d'un original de l'acte de cession au siège social contre remise, par le gérant, d'une attestation de dépôt. Elle n'est opposable aux tiers qu'une fois cette formalité accomplie et après publication par dépôt en annexe au registre du commerce et des sociétés. La cession entraîne, du côté du cédant, la perte de la qualité d'associé pour les parts cédées, et, au niveau de la société, une modification des statuts décidée en assemblée générale extraordinaire."
+    },
+    {
+      "titre": "La fiscalité de la cession",
+      "texte": "Les actes de cession de parts sociales doivent être présentés à la formalité d'enregistrement auprès du centre fiscal territorialement compétent dans un délai de deux mois à compter de leur date, et le contrôleur des impôts doit en être avisé dans un délai de dix jours. La cession est soumise à un droit d'enregistrement proportionnel, assis soit sur le prix augmenté des charges, soit sur la valeur mathématique des parts si elle est supérieure, sans pouvoir être inférieure à l'évaluation administrative fixée par voie réglementaire ; une insuffisance de prix déclarée expose à une amende. Le taux exact applicable évoluant avec les lois de finances successives, il doit toujours être vérifié dans le Code Général des Impôts en vigueur au moment de la cession."
+    },
+    {
+      "titre": "Les conséquences pour le cédant et pour la société",
+      "texte": "Une fois la cession devenue opposable, le cédant perd définitivement sa qualité d'associé pour les parts cédées, et le cessionnaire acquiert à sa place les droits et obligations attachés à ces parts. La société doit mettre à jour le registre de ses associés, ainsi que ses statuts, et procéder aux formalités modificatives auprès du registre du commerce et des sociétés pour que la nouvelle répartition du capital lui soit opposable."
+    }
+  ],
+
+  "modeles_actes": [
+    {
+      "id": 1,
+      "type_acte": "Acte de cession de parts sociales entre associés",
+      "complexite": "simple",
+      "contexte": "La société TOAVINA Distribution SARL, au capital de 20 000 000 Ariary divisé en 200 parts sociales de 100 000 Ariary de valeur nominale, compte trois associés : RANDRIANARISOA Solofo (gérant, 100 parts), BEZAFY Clarisse (60 parts) et RAKOTOZAFY Hery (40 parts). Madame BEZAFY cède 20 de ses parts à Monsieur RANDRIANARISOA, déjà associé : cession libre, sans agrément.",
+      "document": {
+        "titre_acte": "ACTE DE CESSION DE PARTS SOCIALES",
+        "lieu_date": "Antananarivo, le 10 juin 2026",
+        "entre_les_soussignes": "Madame BEZAFY Clarisse, demeurant à Antananarivo, associée de la société TOAVINA Distribution SARL, ci-après dénommée « la cédante »,\n\nET\n\nMonsieur RANDRIANARISOA Solofo, demeurant à Antananarivo, gérant et associé de la société TOAVINA Distribution SARL, ci-après dénommé « le cessionnaire »,",
+        "identification_societe": "TOAVINA Distribution SARL, société à responsabilité limitée au capital de 20 000 000 Ariary, divisé en 200 parts sociales de 100 000 Ariary de valeur nominale chacune.",
+        "objet_cession": "La cédante cède au cessionnaire, qui accepte, vingt (20) parts sociales qu'elle détient dans le capital de la société TOAVINA Distribution SARL, numérotées 41 à 60, représentant 10 % du capital social.",
+        "prix_et_paiement": "La présente cession est consentie et acceptée au prix de 2 500 000 Ariary, payable comptant à la signature des présentes, ce dont la cédante donne quittance.",
+        "declarations_du_cedant": "La cédante déclare que les parts cédées sont libres de tout nantissement, gage ou autre sûreté, et qu'elle a pleine capacité d'en disposer.",
+        "mention_libre_cession": "La présente cession intervenant entre associés, elle n'est soumise à aucune procédure d'agrément, conformément à l'article 49 de la Loi n° 2003-036 sur les sociétés commerciales et aux statuts de la société.",
+        "date_effet": "La présente cession prend effet à la date de signature des présentes.",
+        "formalites_a_accomplir": "Un original du présent acte sera déposé au siège social contre attestation de dépôt délivrée par le gérant, et la cession sera présentée à la formalité d'enregistrement dans le délai légal de deux mois.",
+        "signatures": "Fait en trois originaux à Antananarivo, le 10 juin 2026.\n\nLa cédante : Clarisse BEZAFY                Le cessionnaire : Solofo RANDRIANARISOA"
+      }
+    },
+
+    {
+      "id": 2,
+      "type_acte": "Notification du projet de cession à un tiers",
+      "complexite": "simple",
+      "contexte": "Monsieur RAKOTOZAFY Hery souhaite céder ses 40 parts sociales à Monsieur ANDRIANTSOA Lova, qui n'est pas associé de la société. Il doit notifier son projet à la société et à chacun des autres associés.",
+      "document": {
+        "titre_acte": "NOTIFICATION DE PROJET DE CESSION DE PARTS SOCIALES",
+        "expediteur": "RAKOTOZAFY Hery\nAssocié de la société TOAVINA Distribution SARL\nAntananarivo",
+        "lieu_date": "Antananarivo, le 5 mai 2026",
+        "destinataires": "À la société TOAVINA Distribution SARL, représentée par son gérant, Monsieur RANDRIANARISOA Solofo ; et à Madame BEZAFY Clarisse, associée",
+        "mode_envoi": "Notification faite par lettre recommandée avec demande d'avis de réception à chacun des destinataires, conformément à l'article 19 du Décret n° 2004-453 du 6 avril 2004.",
+        "corps": "J'ai l'honneur de vous notifier mon intention de céder les quarante (40) parts sociales que je détiens dans le capital de la société TOAVINA Distribution SARL, numérotées 161 à 200, représentant 20 % du capital social, à Monsieur ANDRIANTSOA Lova, demeurant à Antananarivo, lequel n'a pas la qualité d'associé.\n\nLa cession envisagée porterait sur la totalité de mes parts, au prix de 6 000 000 Ariary.\n\nConformément à l'article 19 du Décret n° 2004-453 et aux dispositions de la Loi n° 2003-036 sur les sociétés commerciales, je vous demande de bien vouloir vous prononcer sur l'agrément de Monsieur ANDRIANTSOA Lova en qualité de nouvel associé.",
+        "signature": "RAKOTOZAFY Hery"
+      }
+    },
+
+    {
+      "id": 3,
+      "type_acte": "Procès-verbal d'assemblée générale extraordinaire — agrément du cessionnaire",
+      "complexite": "complexe",
+      "contexte": "Réunis sur convocation du gérant à la suite de la notification de Monsieur RAKOTOZAFY, les deux autres associés délibèrent sur l'agrément de Monsieur ANDRIANTSOA Lova. Ensemble, ils représentent 160 parts sur 200, soit 80 % du capital, largement supérieur à la majorité requise de la moitié des parts sociales.",
+      "document": {
+        "titre_acte": "PROCÈS-VERBAL DE L'ASSEMBLÉE GÉNÉRALE EXTRAORDINAIRE",
+        "societe": "TOAVINA Distribution SARL, société à responsabilité limitée au capital de 20 000 000 Ariary",
+        "lieu_date": "Antananarivo, le 20 mai 2026",
+        "presents": "Monsieur RANDRIANARISOA Solofo, gérant, titulaire de 100 parts sociales ; Madame BEZAFY Clarisse, titulaire de 60 parts sociales. Ensemble, les associés présents représentent 160 parts sur 200, soit 80 % du capital social.",
+        "absent_excuse": "Monsieur RAKOTOZAFY Hery, associé cédant, dûment convoqué, ne prend pas part au vote en raison de son intérêt personnel à la délibération.",
+        "ordre_du_jour": "1. Agrément de Monsieur ANDRIANTSOA Lova en qualité de cessionnaire des 40 parts sociales de Monsieur RAKOTOZAFY Hery ; 2. Modification corrélative des statuts.",
+        "expose_des_motifs": "Le Président rappelle que la société a été régulièrement informée, par notification du 5 mai 2026, du projet de cession par Monsieur RAKOTOZAFY Hery de ses 40 parts sociales à Monsieur ANDRIANTSOA Lova, tiers étranger à la société, au prix de 6 000 000 Ariary.",
+        "deliberation": "Après en avoir délibéré, les associés présents, représentant 160 parts sur 200, soit une majorité largement supérieure à la moitié des parts sociales exigée par la loi, décident d'agréer Monsieur ANDRIANTSOA Lova en qualité de nouvel associé.",
+        "resolution_1": "PREMIÈRE RÉSOLUTION : L'assemblée générale agrée Monsieur ANDRIANTSOA Lova en qualité d'associé de la société TOAVINA Distribution SARL, à raison de 40 parts sociales. Cette résolution est adoptée à l'unanimité des associés présents.",
+        "resolution_2": "DEUXIÈME RÉSOLUTION : En conséquence de cet agrément, l'assemblée générale décide de modifier l'article des statuts relatif à la répartition du capital social. Cette résolution est adoptée à l'unanimité des associés présents.",
+        "cloture": "Plus rien n'étant à l'ordre du jour, la séance est levée.",
+        "signatures": "Le Président de séance : Solofo RANDRIANARISOA                L'associée : Clarisse BEZAFY"
+      }
+    },
+
+    {
+      "id": 4,
+      "type_acte": "Acte de cession de parts sociales à un tiers agréé",
+      "complexite": "complexe",
+      "contexte": "L'agrément ayant été obtenu par le procès-verbal du 20 mai 2026, Monsieur RAKOTOZAFY Hery peut désormais céder ses 40 parts sociales à Monsieur ANDRIANTSOA Lova.",
+      "document": {
+        "titre_acte": "ACTE DE CESSION DE PARTS SOCIALES",
+        "lieu_date": "Antananarivo, le 28 mai 2026",
+        "entre_les_soussignes": "Monsieur RAKOTOZAFY Hery, demeurant à Antananarivo, associé de la société TOAVINA Distribution SARL, ci-après dénommé « le cédant »,\n\nET\n\nMonsieur ANDRIANTSOA Lova, demeurant à Antananarivo, ci-après dénommé « le cessionnaire »,",
+        "identification_societe": "TOAVINA Distribution SARL, société à responsabilité limitée au capital de 20 000 000 Ariary, divisé en 200 parts sociales de 100 000 Ariary de valeur nominale chacune, dont le siège est à Antananarivo.",
+        "rappel_agrement": "Il est rappelé que, par procès-verbal d'assemblée générale extraordinaire du 20 mai 2026, les associés représentant 160 parts sociales sur 200 ont agréé Monsieur ANDRIANTSOA Lova en qualité de cessionnaire des parts sociales objet des présentes, conformément à l'article 19 du Décret n° 2004-453 du 6 avril 2004 et à la Loi n° 2003-036 sur les sociétés commerciales.",
+        "objet_cession": "Le cédant cède au cessionnaire, qui accepte, quarante (40) parts sociales qu'il détient dans le capital de la société TOAVINA Distribution SARL, numérotées 161 à 200, représentant 20 % du capital social.",
+        "prix_et_paiement": "La présente cession est consentie et acceptée au prix de 6 000 000 Ariary, payable comptant à la signature des présentes, ce dont le cédant donne quittance.",
+        "declarations_du_cedant": "Le cédant déclare que les parts cédées sont libres de tout nantissement, gage ou autre sûreté, qu'elles sont entièrement libérées, et qu'il a pleine capacité d'en disposer.",
+        "date_effet": "La présente cession prend effet à la date de signature des présentes. Le cessionnaire jouira, à compter de cette date, de tous les droits attachés aux parts cédées.",
+        "formalites_a_accomplir": [
+          "Dépôt d'un original du présent acte au siège social contre attestation de dépôt délivrée par le gérant ;",
+          "Modification des statuts pour tenir compte de la nouvelle répartition du capital, déjà décidée par l'assemblée générale du 20 mai 2026 ;",
+          "Dépôt des statuts modifiés et du procès-verbal d'agrément au registre du commerce et des sociétés, et publication, pour rendre la cession opposable aux tiers ;",
+          "Présentation de l'acte à la formalité d'enregistrement auprès du centre fiscal compétent dans le délai légal de deux mois, et signalement au contrôleur des impôts dans le délai de dix jours."
+        ],
+        "signatures": "Fait en trois originaux à Antananarivo, le 28 mai 2026.\n\nLe cédant : Hery RAKOTOZAFY                Le cessionnaire : Lova ANDRIANTSOA"
+      }
+    }
+  ],
+
+  "cas_pratiques": [
+    {
+      "id": 1,
+      "scenario": "Dans une SARL comptant quatre associés, l'un d'eux souhaite céder ses parts sociales à son frère, qui n'a jamais été associé de la société. Les statuts sont muets sur ce point particulier.",
+      "question": "Cette cession est-elle libre, ou nécessite-t-elle l'agrément des autres associés ?",
+      "choix": [
+        "Elle nécessite l'agrément des autres associés à la majorité requise, car le frère du cédant est un tiers étranger à la société, et non un associé.",
+        "Elle est libre, car les cessions au profit d'un membre de la famille du cédant sont toujours dispensées d'agrément, quelle que soit la forme de société.",
+        "Elle est libre, car seule la cession à un concurrent de la société nécessite un agrément en droit malgache.",
+        "Elle nécessite l'unanimité des associés, quelle que soit la qualité du cessionnaire, dès lors qu'il s'agit d'une SARL."
+      ],
+      "reponse": "Elle nécessite l'agrément des autres associés à la majorité requise, car le frère du cédant est un tiers étranger à la société, et non un associé.",
+      "indices": "La distinction posée par la loi repose sur la qualité du cessionnaire : est-il déjà associé, ou non ? Le lien de parenté avec le cédant ne change pas cette qualification, en l'absence de clause statutaire spécifique.",
+      "explication": "La cession à un tiers étranger à la société est soumise à l'agrément des associés à la majorité représentant au moins la moitié des parts sociales, quelle que soit la relation personnelle entre le cédant et le cessionnaire. Seule une clause statutaire pourrait dispenser certaines cessions familiales d'agrément ; en son absence, c'est le régime de droit commun de la cession à un tiers qui s'applique."
+    },
+    {
+      "id": 2,
+      "scenario": "Une SARL compte cinq associés détenant respectivement 30, 25, 20, 15 et 10 parts sur un total de 100 parts sociales. L'associé détenant 10 parts souhaite céder ses parts à un tiers. Lors de l'assemblée appelée à statuer sur l'agrément, seuls les associés détenant 30 et 20 parts sont présents et votent en faveur de l'agrément.",
+      "question": "L'agrément est-il valablement donné ?",
+      "choix": [
+        "Non, car les associés ayant voté en faveur ne représentent que 50 parts sur 100 : il manque la majorité des associés en nombre, en plus de la majorité en parts.",
+        "Oui, car 50 parts sur 100 représentent la moitié du capital social, ce qui suffit à lui seul, quel que soit le nombre d'associés ayant voté.",
+        "Non, car l'unanimité des associés est toujours requise pour agréer un tiers, quelle que soit la répartition du capital.",
+        "Oui, car la présence de l'associé détenant la part la plus importante du capital suffit à elle seule à valider l'agrément."
+      ],
+      "reponse": "Non, car les associés ayant voté en faveur ne représentent que 50 parts sur 100 : il manque la majorité des associés en nombre, en plus de la majorité en parts.",
+      "indices": "Vérifiez si la règle de majorité est une majorité en capital seule, ou si elle combine un critère de nombre d'associés et un critère de parts détenues. Faites le compte des parts représentées par le vote favorable, par rapport au seuil exigé.",
+      "explication": "L'agrément doit être donné par la majorité des associés représentant au moins la moitié des parts sociales. Ici, seuls deux associés sur cinq ont voté en faveur, ce qui ne constitue pas la majorité des associés en nombre, même si leurs parts représentent exactement la moitié du capital. Pour que l'agrément soit valable, il aurait fallu réunir à la fois une majorité d'associés et une part de capital au moins égale à la moitié."
+    },
+    {
+      "id": 3,
+      "scenario": "Un associé a notifié son projet de cession de parts à un tiers. Les autres associés, réunis en assemblée, refusent d'agréer le cessionnaire proposé. L'associé cédant et les autres associés ne parviennent pas à s'entendre sur le prix de rachat de ses parts.",
+      "question": "Comment ce désaccord sur le prix doit-il être résolu ?",
+      "choix": [
+        "La valeur des parts est déterminée par un expert désigné par les parties ou, à défaut d'accord entre elles, par ordonnance du président du tribunal de commerce statuant en référé, conformément à l'article 51 de la Loi n° 2003-036.",
+        "L'associé cédant est contraint d'accepter le prix proposé par les autres associés, sans recours possible.",
+        "Le refus d'agrément empêche définitivement toute cession ou tout rachat des parts, l'associé restant prisonnier de ses titres.",
+        "Le prix est fixé unilatéralement par le gérant de la société, sans intervention possible d'un tiers extérieur."
+      ],
+      "reponse": "La valeur des parts est déterminée par un expert désigné par les parties ou, à défaut d'accord entre elles, par ordonnance du président du tribunal de commerce statuant en référé, conformément à l'article 51 de la Loi n° 2003-036.",
+      "indices": "Le refus d'agrément n'enferme pas l'associé dans la société : la loi organise un mécanisme de sortie. Cherchez quel texte régit précisément l'évaluation des parts en cas de désaccord sur leur valeur.",
+      "explication": "L'article 51 de la Loi n° 2003-036 prévoit que, dans tous les cas où est prévue la cession des droits sociaux d'un associé ou leur rachat par la société, la valeur de ces droits est déterminée, à défaut d'accord amiable, par un expert désigné par les parties ou, à défaut d'accord entre elles, par ordonnance du président du tribunal de commerce statuant en référé. Le refus d'agrément emporte donc l'obligation, pour les autres associés ou la société, d'organiser le rachat des parts du cédant, le prix étant fixé selon ce mécanisme."
+    },
+    {
+      "id": 4,
+      "scenario": "Un acte de cession de parts sociales à un tiers, dûment agréé par les associés, a été signé par le cédant et le cessionnaire. Aucun original de cet acte n'a toutefois été déposé au siège social, et aucune formalité de publicité n'a été accomplie auprès du registre du commerce et des sociétés. Un créancier de la société, qui ignorait tout de cette cession, continue de considérer le cédant comme associé.",
+      "question": "La position du créancier est-elle fondée ?",
+      "choix": [
+        "Oui, car en l'absence d'accomplissement des formalités de dépôt au siège social et de publicité au registre du commerce et des sociétés, la cession n'est pas opposable aux tiers, qui peuvent continuer à se prévaloir de la situation antérieure.",
+        "Non, la cession produit ses effets à l'égard de tous dès sa simple signature par le cédant et le cessionnaire, sans qu'aucune autre formalité ne soit nécessaire.",
+        "Non, car l'agrément donné par les associés suffit à lui seul à rendre la cession opposable à toute personne, y compris aux tiers à la société.",
+        "Oui, mais uniquement parce que le créancier était informé de la cession ; s'il l'avait ignorée, la cession lui serait malgré tout opposable."
+      ],
+      "reponse": "Oui, car en l'absence d'accomplissement des formalités de dépôt au siège social et de publicité au registre du commerce et des sociétés, la cession n'est pas opposable aux tiers, qui peuvent continuer à se prévaloir de la situation antérieure.",
+      "indices": "Distinguez la validité de la cession entre le cédant et le cessionnaire (acquise dès la signature de l'acte et l'obtention de l'agrément) de son opposabilité aux tiers, qui dépend de formalités supplémentaires bien précises.",
+      "explication": "La cession de parts sociales, même valablement agréée et signée, n'est opposable à la société et aux tiers qu'après l'accomplissement de formalités spécifiques : signification par exploit d'huissier, acceptation par acte authentique, ou dépôt d'un original au siège social contre attestation du gérant, suivi d'une publication par dépôt en annexe au registre du commerce et des sociétés. Tant que ces formalités ne sont pas accomplies, les tiers peuvent continuer à se prévaloir de la situation antérieure et ignorer la cession intervenue."
+    }
+  ]
+}
