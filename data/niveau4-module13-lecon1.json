@@ -1,0 +1,338 @@
+{
+  "titre": "Les charges sociales — CNaPS, OSTIE, cotisations",
+  "module": 13,
+  "niveau": "Professionnel",
+
+  "presentation": "Tout employeur à Madagascar est tenu de déclarer et de verser des cotisations sociales obligatoires dès qu'il emploie au moins un salarié. Ces cotisations alimentent trois organismes distincts : la Caisse Nationale de Prévoyance Sociale (CNaPS), qui couvre la retraite, les prestations familiales et les accidents du travail ; l'Organisme Sanitaire de Travail Inter-Entreprises (OSTIE), qui finance la médecine du travail et la prévention sanitaire ; et le Fonds Malagasy de Formation Professionnelle (FMFP), qui finance la formation continue. À cela s'ajoute l'Impôt sur les Revenus Salariaux et Assimilés (IRSA), retenu à la source par l'employeur. Ce module explique le régime légal de chaque prélèvement, les taux applicables, les règles de calcul, les déclarations à remplir et les sanctions encourues en cas de manquement — avec des modèles d'actes complets.",
+
+  "contenu": [
+    {
+      "titre": "Le cadre légal général",
+      "texte": "Les obligations sociales de l'employeur à Madagascar sont encadrées par plusieurs textes fondamentaux : le Code du Travail (Loi n°2003-044 et ses révisions), l'Ordonnance n°62-075 du 29 septembre 1962 instituant le régime de prévoyance sociale, le Décret n°2003-1162 relatif à la médecine d'entreprise et à l'OSTIE, la Loi n°2017-025 portant création du Fonds Malagasy de Formation Professionnelle (FMFP), et le Code Général des Impôts pour l'IRSA. Ces textes imposent à l'employeur trois grandes obligations : affilier ses salariés aux organismes compétents dès leur embauche, déclarer chaque trimestre leurs rémunérations via la Déclaration Nominative des Salaires (DNS), et verser les cotisations dans les délais légaux.",
+      "definition": "DNS — Déclaration Nominative des Salaires : document trimestriel que l'employeur soumet à la CNaPS et à l'OSTIE, listant chaque salarié, son salaire brut, les cotisations dues et les montants versés. C'est la pièce centrale du contrôle des obligations sociales."
+    },
+    {
+      "titre": "Le salaire minimum et le plafond de cotisation",
+      "texte": "Le Salaire Minimum d'Embauche (SME) constitue le plancher légal de rémunération à Madagascar. Il est révisé périodiquement par décret après négociation au sein du Conseil National du Travail. En vigueur depuis le 1er mars 2026, le SME est fixé à 300 000 Ariary bruts par mois pour la catégorie M1 (main-d'œuvre non qualifiée). Ce montant sert de base de calcul pour le plafond de cotisation sociale : toutes les cotisations CNaPS et OSTIE sont calculées sur le salaire brut mensuel dans la limite de huit fois le SME, soit un plafond de 2 400 000 Ariary par mois (8 × 300 000 Ar). La fraction du salaire qui dépasse ce plafond n'est pas soumise aux cotisations CNaPS et OSTIE, mais elle reste soumise à l'IRSA.",
+      "definition": "Plafond de cotisation : montant maximum du salaire brut pris en compte pour calculer les cotisations sociales. Au-delà de ce plafond (2 400 000 Ar/mois), aucune cotisation CNaPS ni OSTIE n'est due sur la fraction excédentaire."
+    },
+    {
+      "titre": "La CNaPS — Caisse Nationale de Prévoyance Sociale",
+      "texte": "La CNaPS est l'organisme public de sécurité sociale malgache. Elle gère trois branches de prestations : la branche vieillesse-invalidité-décès (retraite), la branche prestations familiales (allocations pour enfants à charge), et la branche accidents du travail et maladies professionnelles (AT/MP). Tout employeur doit s'affilier à la CNaPS et immatriculer chaque salarié dès le premier jour de travail. Les taux de cotisation applicables au salaire brut plafonné sont les suivants : part salariale de 1 %, entièrement à la charge du salarié et retenue par l'employeur sur le salaire net ; part patronale de 13 %, à la charge exclusive de l'employeur. Le total CNaPS représente donc 14 % du salaire brut plafonné, dont 13 % payés par l'employeur et 1 % prélevé sur le salarié. Les cotisations sont déclarées et versées trimestriellement, avant le dernier jour du mois suivant la fin de chaque trimestre.",
+      "definition": "Immatriculation CNaPS : enregistrement obligatoire du salarié auprès de la CNaPS, à effectuer dans les huit jours suivant l'embauche. L'immatriculation donne au salarié un numéro CNaPS personnel qui suit toute sa carrière."
+    },
+    {
+      "titre": "Le FMFP — Fonds Malagasy de Formation Professionnelle",
+      "texte": "Le FMFP a été institué par la Loi n°2017-025. Il finance la formation professionnelle continue des salariés du secteur privé. La cotisation FMFP est exclusivement à la charge de l'employeur, sans aucune part salariale. Son taux est de 1 % du salaire brut plafonné (même plafond que la CNaPS, soit 8 × SME). En pratique, la cotisation FMFP est collectée par la CNaPS en même temps que les cotisations de prévoyance sociale, et figure sur le même bordereau de versement trimestriel. L'employeur doit donc prévoir, au total, une charge patronale CNaPS + FMFP de 14 % du salaire brut plafonné (13 % CNaPS + 1 % FMFP).",
+      "definition": "FMFP : organisme public chargé de financer la formation professionnelle continue. Il est alimenté par la cotisation patronale de 1 % sur les salaires bruts plafonnés de tous les salariés du secteur privé formel."
+    },
+    {
+      "titre": "L'OSTIE — Organisme Sanitaire de Travail Inter-Entreprises",
+      "texte": "L'OSTIE assure la médecine du travail et la prévention des risques professionnels pour les entreprises qui n'ont pas de service médical interne. L'affiliation à l'OSTIE est obligatoire pour tout employeur soumis au Code du Travail. Les taux de cotisation sont les suivants : part patronale de 5 % du salaire brut plafonné ; part salariale de 1 % du salaire brut plafonné, retenue par l'employeur. Le total OSTIE est donc de 6 % du salaire brut plafonné. Comme pour la CNaPS, le plafond applicable est de 8 × SME, soit 2 400 000 Ariary par mois. La déclaration et le versement sont également trimestriels.",
+      "definition": "Médecine du travail : service de prévention sanitaire auquel tout salarié a droit, comprenant notamment la visite médicale d'embauche, les visites périodiques annuelles, et le suivi des maladies professionnelles. L'OSTIE fournit ce service aux entreprises affiliées."
+    },
+    {
+      "titre": "L'IRSA — Impôt sur les Revenus Salariaux et Assimilés",
+      "texte": "L'IRSA est l'impôt sur le revenu applicable aux salaires. Il est retenu à la source par l'employeur et versé mensuellement à la Direction Générale des Impôts (DGI) avant le 15 du mois suivant. La base imposable à l'IRSA est le salaire brut diminué des cotisations salariales CNaPS (1 %) et OSTIE (1 %), soit : Base IRSA = Salaire brut − CNaPS salarié − OSTIE salarié. Le barème IRSA 2026 est progressif et comprend six tranches mensuelles : de 0 à 350 000 Ariary : 0 % ; de 350 001 à 400 000 Ariary : 5 % ; de 400 001 à 500 000 Ariary : 10 % ; de 500 001 à 600 000 Ariary : 15 % ; de 600 001 à 4 000 000 Ariary : 20 % ; au-delà de 4 000 000 Ariary : 25 %. Le montant minimum d'IRSA est de 3 000 Ariary par mois, même pour un salarié dont la base imposable est inférieure au seuil. Une réduction de 2 000 Ariary par mois est accordée pour chaque personne à charge légalement reconnue.",
+      "definition": "Retenue à la source : mécanisme par lequel l'employeur prélève directement l'impôt sur le salaire avant de le verser au salarié, puis reverse cet impôt à l'administration fiscale. Le salarié ne reçoit donc que son salaire net après impôt."
+    },
+    {
+      "titre": "Tableau synthétique des charges sociales obligatoires",
+      "texte": "Le tableau suivant récapitule l'ensemble des prélèvements obligatoires applicables en 2026, sur la base d'un SME de 300 000 Ariary et d'un plafond de 2 400 000 Ariary :\n\n• CNaPS retraite/AT/PF — Part salariale : 1 % — Part patronale : 13 % — Base : salaire brut plafonné\n• FMFP — Part salariale : 0 % — Part patronale : 1 % — Base : salaire brut plafonné\n• OSTIE — Part salariale : 1 % — Part patronale : 5 % — Base : salaire brut plafonné\n• IRSA — Entièrement retenu sur le salarié selon barème progressif — Base : salaire brut − CNaPS salarié − OSTIE salarié\n\nCharge salariale totale (hors IRSA) : 2 % du salaire brut plafonné\nCharge patronale totale : 19 % du salaire brut plafonné (13 % CNaPS + 1 % FMFP + 5 % OSTIE)\nCoût total employeur = Salaire brut + 19 % du salaire brut plafonné"
+    },
+    {
+      "titre": "Les délais de déclaration et de versement",
+      "texte": "Les cotisations CNaPS, FMFP et OSTIE sont déclarées et versées par trimestre. La déclaration du premier trimestre (janvier-mars) doit être déposée et payée avant le 30 avril. Celle du deuxième trimestre (avril-juin) avant le 31 juillet. Celle du troisième trimestre (juillet-septembre) avant le 31 octobre. Celle du quatrième trimestre (octobre-décembre) avant le 31 janvier de l'année suivante. L'IRSA, en revanche, est mensuel : la déclaration et le versement doivent intervenir avant le 15 du mois suivant chaque mois de paie. Ces délais sont impératifs : tout retard expose l'employeur à des pénalités de retard, calculées en pourcentage des sommes dues."
+    },
+    {
+      "titre": "Les sanctions en cas de manquement",
+      "texte": "L'employeur qui ne respecte pas ses obligations sociales s'expose à plusieurs types de sanctions. En matière de CNaPS : une majoration de retard de 10 % des cotisations dues par trimestre de retard, plus une astreinte journalière en cas de retard prolongé ; le défaut d'affiliation ou d'immatriculation d'un salarié constitue en outre une infraction pénale passible d'amendes. En matière d'OSTIE : des majorations similaires s'appliquent, et l'absence de visites médicales peut engager la responsabilité civile de l'employeur en cas d'accident ou de maladie professionnelle. En matière d'IRSA : la DGI applique une pénalité de 40 % des droits éludés en cas de déclaration insuffisante, avec intérêts de retard. Le non-versement de l'IRSA retenu sur le salarié est constitutif d'abus de confiance, infraction pénale distincte.",
+      "definition": "Majoration de retard : somme supplémentaire due par l'employeur en cas de versement tardif des cotisations, calculée en pourcentage du montant principal dû. Elle est automatique et ne nécessite pas de mise en demeure préalable."
+    },
+    {
+      "titre": "L'affiliation : démarches pratiques",
+      "texte": "Dès la création de l'entreprise, l'employeur doit accomplir deux démarches d'affiliation distinctes. Pour la CNaPS : dépôt d'un dossier comprenant le formulaire d'affiliation employeur, l'extrait de statuts ou le registre de commerce, et la liste des premiers salariés avec leurs pièces d'identité ; un numéro d'employeur CNaPS est attribué, puis chaque salarié reçoit son numéro individuel. Pour l'OSTIE : dépôt d'un formulaire d'adhésion avec les mêmes justificatifs ; l'OSTIE programme ensuite les visites médicales d'embauche obligatoires pour chaque salarié. Ces affiliations doivent intervenir au plus tard dans les huit jours suivant l'embauche du premier salarié. À Diego-Suarez (Antsiranana), les antennes régionales de la CNaPS et de l'OSTIE sont compétentes pour recevoir ces dossiers."
+    }
+  ],
+
+  "modeles_actes": [
+    {
+      "id": 1,
+      "type": "Bulletin de paie",
+      "complexite": "simple",
+      "contexte": "Salarié employé comme agent de bureau, salaire brut de 450 000 Ariary par mois, sans personne à charge, à Antsiranana.",
+      "document": {
+        "entete_employeur": {
+          "raison_sociale": "COMMERCE GÉNÉRAL DIANA SARL",
+          "adresse": "Rue Colbert, Antsiranana 201",
+          "NIF": "1002345678",
+          "STAT": "47120 11 2020 0 00123",
+          "numero_CNaPS_employeur": "CNaPS/DI/2021/00456",
+          "numero_OSTIE": "OSTIE/DI/2021/00789"
+        },
+        "informations_salarie": {
+          "nom": "ANDRIANIVO Tojo",
+          "poste": "Agent de bureau",
+          "numero_CNaPS": "CNaPS/001/2021/12345",
+          "date_embauche": "15 mars 2021",
+          "periode": "Mois de mars 2026",
+          "personnes_a_charge": 0
+        },
+        "calcul": {
+          "salaire_brut": 450000,
+          "plafond_cotisation": 2400000,
+          "base_cotisation": 450000,
+          "note_plafond": "Le salaire brut (450 000 Ar) est inférieur au plafond (2 400 000 Ar) : la base de cotisation est donc le salaire brut en entier.",
+          "cotisations_salariales": {
+            "CNaPS_1_pourcent": 4500,
+            "OSTIE_1_pourcent": 4500,
+            "total_retenues_sociales_salariales": 9000
+          },
+          "base_IRSA": {
+            "calcul": "450 000 − 4 500 (CNaPS) − 4 500 (OSTIE) = 441 000 Ariary",
+            "montant": 441000
+          },
+          "calcul_IRSA": {
+            "tranche_1": "0 à 350 000 Ar × 0 % = 0 Ar",
+            "tranche_2": "350 001 à 400 000 Ar (soit 50 000 Ar) × 5 % = 2 500 Ar",
+            "tranche_3": "400 001 à 441 000 Ar (soit 41 000 Ar) × 10 % = 4 100 Ar",
+            "IRSA_brut": 6600,
+            "reduction_personnes_charge": 0,
+            "IRSA_net": 6600,
+            "note_minimum": "L'IRSA calculé (6 600 Ar) est supérieur au minimum légal de 3 000 Ar : on retient 6 600 Ar."
+          },
+          "total_retenues": 15600,
+          "salaire_net_a_payer": 434400
+        },
+        "charges_patronales": {
+          "CNaPS_13_pourcent": 58500,
+          "FMFP_1_pourcent": 4500,
+          "OSTIE_5_pourcent": 22500,
+          "total_charges_patronales": 85500,
+          "cout_total_employeur": 535500,
+          "note": "Coût total employeur = Salaire brut (450 000) + charges patronales (85 500) = 535 500 Ariary"
+        },
+        "recapitulatif_bulletin": {
+          "salaire_brut": 450000,
+          "CNaPS_salarie": -4500,
+          "OSTIE_salarie": -4500,
+          "IRSA": -6600,
+          "salaire_net_verse": 434400
+        }
+      }
+    },
+
+    {
+      "id": 2,
+      "type": "Bulletin de paie — salarié cadre au-dessus du plafond",
+      "complexite": "complexe",
+      "contexte": "Directeur commercial, salaire brut de 3 800 000 Ariary, deux personnes à charge. Illustration de l'application du plafond CNaPS/OSTIE et du barème IRSA sur une base élevée.",
+      "document": {
+        "entete_employeur": {
+          "raison_sociale": "SOCIÉTÉ EXPORTATION DIANA SA",
+          "adresse": "Zone Portuaire, Antsiranana 201",
+          "NIF": "1005678901",
+          "numero_CNaPS_employeur": "CNaPS/DI/2019/00112"
+        },
+        "informations_salarie": {
+          "nom": "RAZAFIMANDIMBY Hery",
+          "poste": "Directeur commercial",
+          "periode": "Mois de mars 2026",
+          "personnes_a_charge": 2
+        },
+        "calcul": {
+          "salaire_brut": 3800000,
+          "plafond_cotisation": 2400000,
+          "base_cotisation": 2400000,
+          "note_plafond": "Le salaire brut (3 800 000 Ar) dépasse le plafond (2 400 000 Ar). Les cotisations CNaPS et OSTIE sont calculées sur 2 400 000 Ar uniquement. La fraction au-dessus du plafond (1 400 000 Ar) est exonérée de CNaPS et OSTIE, mais reste dans la base IRSA.",
+          "cotisations_salariales": {
+            "CNaPS_1_pourcent_sur_plafond": 24000,
+            "OSTIE_1_pourcent_sur_plafond": 24000,
+            "total_retenues_sociales_salariales": 48000
+          },
+          "base_IRSA": {
+            "calcul": "3 800 000 − 24 000 (CNaPS) − 24 000 (OSTIE) = 3 752 000 Ariary",
+            "montant": 3752000
+          },
+          "calcul_IRSA": {
+            "tranche_1": "0 à 350 000 Ar × 0 % = 0 Ar",
+            "tranche_2": "350 001 à 400 000 Ar (50 000 Ar) × 5 % = 2 500 Ar",
+            "tranche_3": "400 001 à 500 000 Ar (100 000 Ar) × 10 % = 10 000 Ar",
+            "tranche_4": "500 001 à 600 000 Ar (100 000 Ar) × 15 % = 15 000 Ar",
+            "tranche_5": "600 001 à 3 752 000 Ar (3 152 000 Ar) × 20 % = 630 400 Ar",
+            "IRSA_brut": 657900,
+            "reduction_personnes_charge": 4000,
+            "IRSA_net": 653900
+          },
+          "total_retenues": 701900,
+          "salaire_net_a_payer": 3098100
+        },
+        "charges_patronales": {
+          "CNaPS_13_pourcent_sur_plafond": 312000,
+          "FMFP_1_pourcent_sur_plafond": 24000,
+          "OSTIE_5_pourcent_sur_plafond": 120000,
+          "total_charges_patronales": 456000,
+          "cout_total_employeur": 4256000
+        }
+      }
+    },
+
+    {
+      "id": 3,
+      "type": "Lettre d'affiliation CNaPS — employeur",
+      "complexite": "simple",
+      "contexte": "Une SARL nouvellement créée à Antsiranana procède à l'affiliation de son premier salarié.",
+      "document": {
+        "coordonnees_expediteur": {
+          "raison_sociale": "PÊCHERIES DU NORD SARL",
+          "adresse": "Lot II B 14, Rue Joffre, Antsiranana 201",
+          "NIF": "1009876543",
+          "numero_RC": "2026 B 00341 Antsiranana",
+          "telephone": "+261 32 78 901 23",
+          "email": "contact@pecheriesdunord.mg"
+        },
+        "lieu_date": "Antsiranana, le 2 avril 2026",
+        "destinataire": "À Monsieur le Directeur de l'Antenne Régionale CNaPS d'Antsiranana",
+        "objet": "Demande d'affiliation employeur et immatriculation d'un salarié",
+        "formule_appel": "Monsieur le Directeur,",
+        "corps": "Nous avons l'honneur de solliciter l'affiliation de notre société auprès de la Caisse Nationale de Prévoyance Sociale, ainsi que l'immatriculation de notre premier salarié, Monsieur TSARAFARA Jean, recruté en qualité de marin-pêcheur à compter du 1er avril 2026.\n\nNotre société PÊCHERIES DU NORD SARL a été immatriculée au Registre de Commerce et des Sociétés d'Antsiranana sous le numéro 2026 B 00341, le 15 mars 2026. Elle exerce une activité de pêche artisanale et de commercialisation de produits de la mer.\n\nNous joignons à la présente les pièces constitutives du dossier d'affiliation.",
+        "pieces_jointes": [
+          "Formulaire d'affiliation employeur CNaPS dûment rempli et signé",
+          "Copie certifiée conforme de l'extrait du Registre de Commerce",
+          "Copie certifiée conforme des statuts de la société",
+          "Copie de la carte statistique (STAT)",
+          "Copie de la pièce d'identité du gérant",
+          "Formulaire d'immatriculation individuelle de Monsieur TSARAFARA Jean",
+          "Photocopie légalisée de la pièce d'identité de Monsieur TSARAFARA Jean",
+          "Copie du contrat de travail de Monsieur TSARAFARA Jean"
+        ],
+        "formule_politesse": "Dans l'attente de la confirmation de notre affiliation et de l'attribution du numéro d'employeur CNaPS, nous vous prions d'agréer, Monsieur le Directeur, l'expression de notre considération distinguée.",
+        "signature": {
+          "nom": "RAKOTONDRABE Faly",
+          "qualite": "Gérant de PÊCHERIES DU NORD SARL"
+        }
+      }
+    },
+
+    {
+      "id": 4,
+      "type": "Bordereau trimestriel de déclaration et de versement CNaPS-FMFP",
+      "complexite": "complexe",
+      "contexte": "Une entreprise de trois salariés dépose sa déclaration du premier trimestre 2026 (janvier-mars). Illustration d'une DNS simplifiée avec calcul des cotisations totales.",
+      "document": {
+        "entete_employeur": {
+          "raison_sociale": "MENUISERIE ARTISANALE DIANA SARL",
+          "numero_CNaPS_employeur": "CNaPS/DI/2023/00891",
+          "NIF": "1003456789",
+          "periode": "1er trimestre 2026 (janvier — mars 2026)",
+          "date_depot": "28 avril 2026"
+        },
+        "liste_salaries": [
+          {
+            "nom": "RAKOTO Paul",
+            "poste": "Chef menuisier",
+            "numero_CNaPS": "CNaPS/001/2019/55678",
+            "salaire_brut_trim": 1350000,
+            "base_cotisation_trim": 1350000,
+            "CNaPS_salarie_1pct": 13500,
+            "CNaPS_patronal_13pct": 175500,
+            "FMFP_patronal_1pct": 13500
+          },
+          {
+            "nom": "ANDRIANA Solofo",
+            "poste": "Menuisier",
+            "numero_CNaPS": "CNaPS/001/2022/78901",
+            "salaire_brut_trim": 1050000,
+            "base_cotisation_trim": 1050000,
+            "CNaPS_salarie_1pct": 10500,
+            "CNaPS_patronal_13pct": 136500,
+            "FMFP_patronal_1pct": 10500
+          },
+          {
+            "nom": "VELO Marie",
+            "poste": "Assistante administrative",
+            "numero_CNaPS": "CNaPS/001/2024/34567",
+            "salaire_brut_trim": 900000,
+            "base_cotisation_trim": 900000,
+            "CNaPS_salarie_1pct": 9000,
+            "CNaPS_patronal_13pct": 117000,
+            "FMFP_patronal_1pct": 9000
+          }
+        ],
+        "totaux": {
+          "masse_salariale_brute_trim": 3300000,
+          "total_CNaPS_salariale": 33000,
+          "total_CNaPS_patronale": 429000,
+          "total_FMFP_patronale": 33000,
+          "total_a_verser_CNaPS_FMFP": 495000,
+          "note": "Total à verser = CNaPS salariale (33 000) + CNaPS patronale (429 000) + FMFP (33 000) = 495 000 Ariary"
+        },
+        "certification": "Je soussigné RABEMANANJARA Luc, gérant de MENUISERIE ARTISANALE DIANA SARL, certifie l'exactitude des informations portées sur la présente déclaration.",
+        "signature": {
+          "nom": "RABEMANANJARA Luc",
+          "qualite": "Gérant",
+          "date": "28 avril 2026"
+        }
+      }
+    }
+  ],
+
+  "cas_pratiques": [
+    {
+      "id": 1,
+      "scenario": "Madame RATSIMA Hanta vient d'ouvrir une épicerie à Antsiranana et vient d'embaucher son premier salarié, Monsieur FENO Désiré, au salaire brut de 300 000 Ariary (soit le SME 2026), sans personne à charge. Madame RATSIMA n'a encore effectué aucune démarche auprès de la CNaPS ni de l'OSTIE. Elle vous demande de lui expliquer ce qu'elle doit faire immédiatement, quel est le coût total de son salarié pour son entreprise, et quel sera le salaire net effectivement versé à Monsieur FENO.",
+      "question": "Quelles obligations immédiates pèsent sur Madame RATSIMA, et quel est le coût complet de l'embauche de Monsieur FENO ?",
+      "choix": [
+        "Madame RATSIMA doit affilier son entreprise à la CNaPS et à l'OSTIE dans les huit jours et immatriculer Monsieur FENO. Le coût total employeur est de 357 000 Ariary (300 000 + 57 000 de charges patronales). Le salaire net de Monsieur FENO est de 291 000 Ariary après retenue CNaPS salarié (3 000), OSTIE salarié (3 000) et IRSA (3 000 — minimum légal).",
+        "Madame RATSIMA doit uniquement déclarer le salarié aux impôts pour l'IRSA. La CNaPS et l'OSTIE sont facultatives pour une petite épicerie.",
+        "Madame RATSIMA peut attendre la fin du premier trimestre pour effectuer toutes les formalités en même temps, y compris l'immatriculation CNaPS.",
+        "Le coût total employeur est de 300 000 Ariary uniquement : les charges patronales ne sont dues que si le salarié en fait la demande."
+      ],
+      "reponse": "Madame RATSIMA doit affilier son entreprise à la CNaPS et à l'OSTIE dans les huit jours et immatriculer Monsieur FENO. Le coût total employeur est de 357 000 Ariary (300 000 + 57 000 de charges patronales). Le salaire net de Monsieur FENO est de 291 000 Ariary après retenue CNaPS salarié (3 000), OSTIE salarié (3 000) et IRSA (3 000 — minimum légal).",
+      "indices": "Commencez par vérifier le délai légal d'affiliation. Ensuite, appliquez les taux : CNaPS salarié 1 %, OSTIE salarié 1 %, CNaPS patronal 13 %, FMFP 1 %, OSTIE patronal 5 %. Pour l'IRSA, le salaire brut étant de 300 000 Ar, calculez la base IRSA puis appliquez le barème en vérifiant le minimum.",
+      "explication": "L'affiliation CNaPS et OSTIE est obligatoire pour tout employeur dès le premier salarié, dans les huit jours. Les charges patronales s'élèvent à 19 % du salaire brut plafonné : 13 % (CNaPS) + 1 % (FMFP) + 5 % (OSTIE) = 19 % × 300 000 = 57 000 Ar. Le coût total employeur est donc 357 000 Ar. Du côté du salarié : CNaPS 1 % = 3 000 Ar, OSTIE 1 % = 3 000 Ar. Base IRSA = 300 000 − 3 000 − 3 000 = 294 000 Ar. La base IRSA étant inférieure à 350 000 Ar, le taux est 0 % mais le minimum légal de 3 000 Ar s'applique. Salaire net = 300 000 − 3 000 − 3 000 − 3 000 = 291 000 Ar."
+    },
+    {
+      "id": 2,
+      "scenario": "La société BÂTIMENT DIANA SARL emploie un ingénieur dont le salaire brut mensuel est de 5 000 000 Ariary. Le comptable de la société calcule les cotisations CNaPS, FMFP et OSTIE sur la totalité des 5 000 000 Ariary. Le directeur général conteste ce calcul et affirme que le plafond doit s'appliquer.",
+      "question": "Qui a raison, et quel est le montant correct des charges patronales CNaPS + FMFP + OSTIE pour ce salarié ?",
+      "choix": [
+        "Le directeur général a raison. Les cotisations sont plafonnées à 8 × SME = 2 400 000 Ariary. Les charges patronales correctes sont : 13 % + 1 % + 5 % = 19 % × 2 400 000 = 456 000 Ariary, et non 19 % × 5 000 000 = 950 000 Ariary.",
+        "Le comptable a raison. Le plafond de cotisation ne s'applique qu'à la part salariale, pas à la part patronale.",
+        "Le comptable a raison car le plafond de 8 × SME ne s'applique qu'à la CNaPS, pas à l'OSTIE ni au FMFP.",
+        "Le directeur général a raison, mais le plafond applicable est de 4 × SME, soit 1 200 000 Ariary."
+      ],
+      "reponse": "Le directeur général a raison. Les cotisations sont plafonnées à 8 × SME = 2 400 000 Ariary. Les charges patronales correctes sont : 13 % + 1 % + 5 % = 19 % × 2 400 000 = 456 000 Ariary, et non 19 % × 5 000 000 = 950 000 Ariary.",
+      "indices": "Le plafond de cotisation de 8 × SME s'applique à toutes les cotisations sociales (CNaPS, FMFP, OSTIE), tant pour la part salariale que pour la part patronale. Ce plafond est unique et commun aux deux parties.",
+      "explication": "Le plafond mensuel de cotisation est fixé à 8 × SME = 8 × 300 000 = 2 400 000 Ariary. Pour un salaire brut de 5 000 000 Ar, seuls les 2 400 000 premiers Ariary servent de base de calcul. Les charges patronales correctes sont : CNaPS 13 % × 2 400 000 = 312 000 Ar + FMFP 1 % × 2 400 000 = 24 000 Ar + OSTIE 5 % × 2 400 000 = 120 000 Ar = 456 000 Ar au total. La fraction de salaire au-dessus du plafond (2 600 000 Ar) n'est soumise ni à CNaPS, ni à FMFP, ni à OSTIE — mais reste intégralement dans la base IRSA."
+    },
+    {
+      "id": 3,
+      "scenario": "L'entreprise TRANSPORT DIANA EURL a versé les salaires de janvier, février et mars 2026 sans effectuer aucune déclaration ni aucun versement auprès de la CNaPS. Elle souhaite régulariser sa situation en avril 2026, mais son gérant se demande si la régularisation tardive aura des conséquences financières supplémentaires au-delà des cotisations dues.",
+      "question": "Quelles sont les conséquences financières d'un versement tardif des cotisations CNaPS pour le premier trimestre 2026 ?",
+      "choix": [
+        "L'entreprise doit verser les cotisations dues pour le trimestre, majorées d'une pénalité de retard de 10 % par trimestre de retard, plus d'éventuelles astreintes journalières si le retard se prolonge. Le défaut d'immatriculation des salariés constitue en outre une infraction pénale.",
+        "Il n'y a aucune conséquence financière supplémentaire si la régularisation intervient dans les six mois suivant la fin du trimestre.",
+        "L'entreprise doit uniquement verser les cotisations dues, sans aucune majoration, car c'est son premier retard.",
+        "La majoration de retard est de 2 % par mois, calculée uniquement sur la part salariale des cotisations."
+      ],
+      "reponse": "L'entreprise doit verser les cotisations dues pour le trimestre, majorées d'une pénalité de retard de 10 % par trimestre de retard, plus d'éventuelles astreintes journalières si le retard se prolonge. Le défaut d'immatriculation des salariés constitue en outre une infraction pénale.",
+      "indices": "Rappelez-vous que les cotisations du premier trimestre devaient être versées avant le 30 avril. Une régularisation effectuée après cette date entraîne automatiquement des majorations. Vérifiez également les conséquences du défaut d'immatriculation des salariés.",
+      "explication": "La CNaPS applique une majoration automatique de 10 % des cotisations dues par trimestre de retard, sans qu'aucune mise en demeure ne soit nécessaire. Si le retard se prolonge au-delà du trimestre suivant, des astreintes journalières viennent s'y ajouter. Par ailleurs, l'absence d'immatriculation des salariés auprès de la CNaPS constitue une infraction pénale distincte, indépendante des majorations financières. La régularisation en avril 2026 après le 30 avril déclenche donc au minimum la majoration de 10 % sur l'ensemble des cotisations du premier trimestre."
+    },
+    {
+      "id": 4,
+      "scenario": "Monsieur RANDRIANASOLO Tina est salarié avec un salaire brut de 600 000 Ariary par mois et a trois personnes à charge légalement reconnues. Son employeur lui remet un bulletin de paie indiquant un IRSA de 5 000 Ariary. Monsieur RANDRIANASOLO suspecte une erreur et vous demande de vérifier le calcul.",
+      "question": "L'IRSA de 5 000 Ariary figurant sur le bulletin est-il correct ?",
+      "choix": [
+        "Non. La base IRSA est de 591 000 Ar (600 000 − 6 000 de cotisations salariales). L'IRSA brut est de 14 550 Ar. Après déduction de 6 000 Ar pour trois personnes à charge (3 × 2 000 Ar), l'IRSA net correct est de 8 550 Ariary, et non 5 000 Ariary.",
+        "Oui, le calcul est correct : l'employeur a bien appliqué la réduction pour personnes à charge.",
+        "Non, car avec trois personnes à charge le salarié est totalement exonéré d'IRSA quel que soit son salaire.",
+        "Non, l'IRSA correct est de 3 000 Ariary, car le minimum légal s'applique dès que le salarié a des personnes à charge."
+      ],
+      "reponse": "Non. La base IRSA est de 591 000 Ar (600 000 − 6 000 de cotisations salariales). L'IRSA brut est de 14 550 Ar. Après déduction de 6 000 Ar pour trois personnes à charge (3 × 2 000 Ar), l'IRSA net correct est de 8 550 Ariary, et non 5 000 Ariary.",
+      "indices": "Calculez d'abord la base IRSA : salaire brut moins CNaPS salarié (1 %) et OSTIE salarié (1 %). Appliquez ensuite le barème progressif tranche par tranche. Enfin, déduisez 2 000 Ar par personne à charge.",
+      "explication": "CNaPS salarié = 1 % × 600 000 = 6 000 Ar. OSTIE salarié = 1 % × 600 000 = 6 000 Ar (mais sur base plafonnée ; ici 600 000 < 2 400 000 donc la totalité est prise). Total retenues sociales salariales = 12 000 Ar. Base IRSA = 600 000 − 6 000 − 6 000 = 588 000 Ar. Calcul IRSA : tranche 0-350 000 = 0 Ar ; tranche 350 001-400 000 (50 000 Ar) × 5 % = 2 500 Ar ; tranche 400 001-500 000 (100 000 Ar) × 10 % = 10 000 Ar ; tranche 500 001-588 000 (88 000 Ar) × 15 % = 13 200 Ar. IRSA brut = 25 700 Ar. Réduction personnes à charge : 3 × 2 000 = 6 000 Ar. IRSA net = 25 700 − 6 000 = 19 700 Ariary. L'IRSA de 5 000 Ar figurant sur le bulletin est donc largement sous-évalué, ce qui constitue un manquement fiscal engageant la responsabilité de l'employeur."
+    }
+  ]
+}
