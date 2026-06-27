@@ -1,0 +1,249 @@
+{
+  "titre": "Rédiger un recours administratif et une plainte pénale",
+  "module": 19,
+  "niveau": "Professionnel",
+
+  "presentation": "Ce module traite de deux actes distincts que tout professionnel du droit doit maîtriser : le recours administratif, qui permet à un citoyen ou à une entreprise de contester une décision d'une administration avant de saisir un juge ; et la plainte pénale, qui permet à une victime de signaler une infraction aux autorités compétentes. Ces deux démarches ont des finalités radicalement différentes — l'une relève du contentieux administratif, l'autre du droit pénal — mais elles partagent une exigence commune : être rédigées avec précision, dans les délais, et en visant les bons destinataires. À Madagascar, ces deux procédures sont encadrées par des règles spécifiques qu'il convient de connaître.",
+
+  "contenu": [
+    {
+      "titre": "Qu'est-ce qu'un recours administratif ?",
+      "texte": "Un recours administratif est la démarche par laquelle une personne — physique ou morale — conteste une décision prise par une administration publique (ministère, préfecture, commune, établissement public) avant d'engager une procédure judiciaire. Il ne s'agit pas encore d'un procès : c'est une demande adressée à l'administration elle-même, pour lui donner la possibilité de revoir sa position. Le recours administratif est donc une étape préalable, souvent obligatoire, avant toute saisine du tribunal administratif. Il se distingue du recours juridictionnel (judiciaire) qui, lui, est adressé à un juge.",
+      "definition": "Décision administrative : acte unilatéral pris par une autorité publique dans l'exercice de ses prérogatives, qui produit des effets de droit à l'égard de ses destinataires (exemples : refus de permis, sanction disciplinaire, décision de licenciement d'un agent public, rejet d'une demande de subvention)."
+    },
+    {
+      "titre": "Les deux types de recours administratifs : gracieux et hiérarchique",
+      "texte": "Le recours gracieux est adressé à l'autorité même qui a pris la décision contestée, en lui demandant de la retirer ou de la modifier. C'est la forme la plus simple : on s'adresse à la même personne en exposant les raisons pour lesquelles la décision est contestée. Le recours hiérarchique, quant à lui, est adressé au supérieur hiérarchique de l'autorité qui a pris la décision — par exemple, au ministre si la décision émane d'un directeur de département, ou au préfet si elle émane du maire. Ces deux recours peuvent être exercés alternativement ou successivement. En cas de rejet — explicite (réponse de refus) ou implicite (absence de réponse dans le délai légal) — la voie du recours juridictionnel devant le tribunal administratif est alors ouverte.",
+      "definition": "Décision implicite de rejet : silence gardé par l'administration pendant un délai fixé par la loi, qui vaut refus de la demande et ouvre le droit de saisir le juge administratif."
+    },
+    {
+      "titre": "À Madagascar : qui peut être contesté et devant qui ?",
+      "texte": "À Madagascar, les décisions administratives susceptibles de faire l'objet d'un recours sont notamment : les décisions individuelles défavorables (refus de délivrance d'un document, refus d'autorisation, sanction administrative, décision de résiliation d'un marché public), les décisions réglementaires illégales, et les actes des collectivités décentralisées (communes, régions). Le recours gracieux s'adresse à l'auteur de la décision ; le recours hiérarchique, à son supérieur. En dernier recours, c'est la Chambre Administrative de la Cour Suprême qui est compétente pour statuer sur les recours pour excès de pouvoir contre les actes administratifs à Madagascar, selon la Constitution et la loi sur la Cour Suprême."
+    },
+    {
+      "titre": "La structure d'un recours administratif bien rédigé",
+      "texte": "Un recours administratif efficace comporte toujours les éléments suivants : l'identification complète du requérant (nom, adresse, qualité) ; la désignation précise de la décision contestée (date, référence, auteur, objet) ; l'exposé clair et factuel des raisons pour lesquelles la décision est contestée, en liant les faits aux moyens de droit lorsqu'ils existent ; les conclusions, c'est-à-dire ce que le requérant demande concrètement (annulation, modification, réexamen) ; et les pièces jointes pertinentes (copie de la décision, justificatifs). Le recours doit être envoyé en recommandé avec accusé de réception, ou déposé contre récépissé, pour conserver une preuve de la date de dépôt — ce point est essentiel pour le calcul des délais."
+    },
+    {
+      "titre": "Qu'est-ce qu'une plainte pénale ?",
+      "texte": "La plainte pénale est l'acte par lequel une personne — la victime ou toute personne ayant intérêt à agir — signale aux autorités compétentes qu'une infraction pénale a été commise à son encontre ou dont elle a eu connaissance. À Madagascar, la plainte est déposée soit auprès du commissariat de police (Commissariat de la circonscription concernée), soit auprès de la brigade de gendarmerie, soit directement auprès du parquet (Procureur de la République). La plainte déclenche l'ouverture d'une enquête préliminaire ou de flagrance, conduite par la police judiciaire sous l'autorité du procureur.",
+      "definition": "Police judiciaire : ensemble des agents (officiers et agents de police judiciaire, gendarmes) chargés de constater les infractions, d'en rassembler les preuves et d'en livrer les auteurs aux autorités de poursuite."
+    },
+    {
+      "titre": "Les infractions pouvant faire l'objet d'une plainte",
+      "texte": "Le droit pénal malgache, issu du Code pénal, distingue trois catégories d'infractions selon leur gravité : les contraventions (infractions mineures sanctionnées par des amendes légères) ; les délits (infractions d'une gravité intermédiaire, pouvant entraîner des peines d'emprisonnement et des amendes) ; les crimes (infractions les plus graves, jugées par la Cour criminelle, passibles des peines les plus lourdes). Une plainte peut être déposée pour n'importe laquelle de ces catégories. Les infractions les plus fréquemment objet de plaintes sont : le vol, l'escroquerie, les coups et blessures volontaires, le faux et usage de faux, l'abus de confiance, les violences, la diffamation, et les infractions au Code de procédure civile dans un contexte pénal."
+    },
+    {
+      "titre": "La structure d'une plainte pénale bien rédigée",
+      "texte": "Qu'elle soit rédigée en français ou en malgache, une plainte pénale doit impérativement contenir : l'identification complète du plaignant (nom, prénoms, date et lieu de naissance, adresse, profession, filiation) ; l'identification de la personne mise en cause (nom si connu, ou description si inconnue) ; l'exposé chronologique et précis des faits (dates, lieux, circonstances, témoins éventuels) ; la qualification pénale des faits reprochés si le plaignant la connaît (vol, escroquerie, coups et blessures…) ; les demandes du plaignant (ouverture d'une enquête, poursuite de l'auteur) ; et les pièces jointes disponibles (certificat médical, reçus, contrats, témoignages écrits). La plainte se termine par une formule de politesse et la signature du plaignant."
+    },
+    {
+      "titre": "Plainte au commissariat versus plainte avec constitution de partie civile",
+      "texte": "Il existe deux voies principales pour déclencher des poursuites pénales. La première est le dépôt de plainte simple auprès de la police ou de la gendarmerie : c'est la démarche la plus accessible, gratuite, qui permet au parquet de décider ensuite d'ouvrir ou non des poursuites. Le parquet peut classer sans suite s'il estime que les faits ne sont pas suffisamment caractérisés. La seconde est la plainte avec constitution de partie civile, adressée directement au doyen des juges d'instruction : cette voie oblige le parquet à ouvrir une information judiciaire si la plainte est recevable, et donne à la victime le statut de partie civile lui permettant de réclamer des dommages et intérêts. La constitution de partie civile est plus contraignante (consignation éventuelle) mais offre plus de garanties à la victime.",
+      "definition": "Partie civile : victime d'une infraction qui se joint à la procédure pénale pour demander réparation du préjudice subi. Elle peut produire des preuves, être entendue, et interjeter appel de la décision pénale sur les intérêts civils."
+    }
+  ],
+
+  "modeles_actes": [
+    {
+      "id": 1,
+      "type": "recours_administratif_gracieux",
+      "variante": "particulier",
+      "complexite": "simple",
+      "contexte": "Madame RASOA Berthine a déposé une demande de permis de construire auprès de la Commune Urbaine d'Antananarivo le 10 février 2026. Par décision du 15 avril 2026, le Maire a rejeté sa demande sans motiver sa décision, alors que son terrain est régulièrement immatriculé et que son projet respecte le plan d'urbanisme applicable. Elle souhaite exercer un recours gracieux avant de saisir la Chambre Administrative.",
+      "document": {
+        "expediteur": {
+          "nom": "RASOA Berthine",
+          "adresse": "Lot IVA 22, Ambohipo, Antananarivo 101",
+          "telephone": "+261 34 12 345 67"
+        },
+        "lieu_date": "Antananarivo, le 20 mai 2026",
+        "destinataire": {
+          "qualite": "Monsieur le Maire",
+          "institution": "Commune Urbaine d'Antananarivo",
+          "adresse": "Hôtel de Ville, Place de l'Indépendance, Antananarivo 101"
+        },
+        "objet": "Recours gracieux contre la décision de refus de permis de construire du 15 avril 2026",
+        "reference_decision": "Décision n° [référence si disponible] du 15 avril 2026",
+        "pieces_jointes_annoncees": [
+          "Copie de la décision de refus du 15 avril 2026",
+          "Copie de la demande de permis de construire déposée le 10 février 2026",
+          "Titre foncier n° [numéro] — Terrain sis à Ambohipo",
+          "Plan de situation du terrain",
+          "Plan de masse du projet"
+        ],
+        "formule_appel": "Monsieur le Maire,",
+        "expose_faits": "Le 10 février 2026, j'ai déposé auprès de vos services une demande de permis de construire concernant mon terrain sis à Ambohipo, Antananarivo, régulièrement immatriculé sous le titre foncier n° [numéro], pour l'édification d'un immeuble à usage d'habitation conforme aux dispositions du plan d'urbanisme en vigueur dans cette zone.\n\nPar décision en date du 15 avril 2026, vous avez rejeté cette demande. Or, cette décision ne comporte aucune motivation : elle ne précise ni les motifs de droit ni les motifs de fait qui justifieraient ce refus.",
+        "moyens": "L'absence de motivation de la décision de refus constitue une irrégularité, dès lors que toute décision administrative défavorable doit être motivée afin de permettre à son destinataire d'en comprendre les raisons et, le cas échéant, d'y répondre utilement.\n\nPar ailleurs, mon projet satisfait à l'ensemble des prescriptions du plan d'urbanisme applicable à la zone concernée : l'usage prévu (habitation), l'emprise au sol, la hauteur du bâtiment et le respect des distances de recul par rapport aux limites séparatives sont conformes aux règlements d'urbanisme en vigueur.",
+        "conclusions": "C'est pourquoi j'ai l'honneur de vous demander de bien vouloir reconsidérer la décision du 15 avril 2026 et de m'accorder le permis de construire sollicité, ou à tout le moins, de me communiquer les motifs précis de ce refus afin que je puisse y répondre.",
+        "formule_politesse": "Dans l'attente de votre réponse, je vous prie d'agréer, Monsieur le Maire, l'expression de ma considération distinguée.",
+        "signature": "RASOA Berthine"
+      }
+    },
+    {
+      "id": 2,
+      "type": "recours_administratif_hierarchique",
+      "variante": "professionnel",
+      "complexite": "complexe",
+      "contexte": "La société TARATRA SARL a répondu à un appel d'offres lancé par le Ministère des Travaux Publics pour la réfection d'une route nationale. Son offre a été écartée par la commission d'appel d'offres par une décision du 5 mars 2026, sans que le procès-verbal d'évaluation lui ait été communiqué malgré sa demande. La société, dont l'offre était techniquement et financièrement conforme, soupçonne une irrégularité dans la procédure. Elle exerce un recours hiérarchique auprès du Ministre.",
+      "document": {
+        "entete": {
+          "raison_sociale": "TARATRA SARL",
+          "siege": "Immeuble Analakely Center, 4ème étage, Antananarivo 101",
+          "nif": "4009876543",
+          "representant": "Monsieur RAKOTO Fidy, Gérant",
+          "telephone": "+261 20 22 567 89",
+          "email": "direction@taratra-sarl.mg"
+        },
+        "lieu_date": "Antananarivo, le 15 avril 2026",
+        "destinataire": {
+          "qualite": "Monsieur le Ministre des Travaux Publics",
+          "adresse": "Ministère des Travaux Publics, Anosy, Antananarivo 101"
+        },
+        "objet": "Recours hiérarchique contre la décision d'éviction de la Commission d'Appel d'Offres du 5 mars 2026 — Appel d'offres n° MTP/AO/2026/007",
+        "pieces_jointes_annoncees": [
+          "Copie de la décision d'éviction du 5 mars 2026",
+          "Copie de l'offre déposée par la SARL TARATRA le 10 janvier 2026",
+          "Demande de communication du procès-verbal d'évaluation en date du 10 mars 2026",
+          "Preuve de dépôt de la demande de communication (récépissé)",
+          "Copie du dossier d'appel d'offres"
+        ],
+        "formule_appel": "Monsieur le Ministre,",
+        "expose_faits": "La SARL TARATRA a déposé une offre en réponse à l'appel d'offres n° MTP/AO/2026/007 lancé par votre Ministère le 5 décembre 2025, portant sur la réfection de la RN7 entre Fianarantsoa et Ihosy, pour un montant de 4 850 000 000 ariary.\n\nPar décision notifiée le 5 mars 2026, la Commission d'Appel d'Offres a déclaré l'offre de la SARL TARATRA non retenue, sans indiquer les motifs de cette décision. Par courrier du 10 mars 2026, dûment réceptionné par les services de votre Ministère, la SARL TARATRA a sollicité la communication du procès-verbal d'évaluation des offres. À ce jour, aucune réponse n'a été donnée à cette demande.",
+        "moyens": "La procédure d'appel d'offres est soumise au principe de transparence et au droit des soumissionnaires évincés d'obtenir communication des motifs du rejet de leur offre. L'absence de tout motif dans la décision d'éviction, combinée au refus implicite opposé à notre demande de communication du procès-verbal d'évaluation, constitue une irrégularité grave de la procédure.\n\nPar ailleurs, la SARL TARATRA est une entreprise malgache de BTP disposant d'une expérience de douze ans dans les travaux routiers, régulièrement inscrite sur la liste des entreprises agréées. Son offre répondait à l'ensemble des critères techniques et financiers définis dans le dossier d'appel d'offres.",
+        "conclusions": "C'est pourquoi la SARL TARATRA a l'honneur de vous demander de bien vouloir : ordonner la communication intégrale du procès-verbal d'évaluation des offres établi dans le cadre de l'appel d'offres n° MTP/AO/2026/007 ; et procéder au réexamen de la procédure afin de vérifier la régularité de l'éviction de l'offre de la SARL TARATRA.",
+        "formule_politesse": "Veuillez agréer, Monsieur le Ministre, l'expression de notre haute considération.",
+        "signature": {
+          "nom": "RAKOTO Fidy",
+          "qualite": "Gérant de la SARL TARATRA"
+        }
+      }
+    },
+    {
+      "id": 3,
+      "type": "plainte_penale_simple",
+      "variante": "particulier",
+      "langue": "français",
+      "complexite": "simple",
+      "qualification_penale": "Escroquerie (article 405 du Code pénal malgache)",
+      "contexte": "Monsieur ANDRY Faneva a remis la somme de 8 000 000 ariary à un individu se présentant comme un agent immobilier agréé, en échange d'une promesse de vente d'un terrain. Après encaissement, cet individu a disparu et Monsieur ANDRY a découvert que le terrain en question appartient à une tierce personne qui n'a jamais mandaté cet agent.",
+      "document": {
+        "lieu_date": "Antananarivo, le 22 mai 2026",
+        "destinataire": "À Monsieur le Commissaire de Police du 5ème Arrondissement d'Antananarivo",
+        "objet": "Plainte pour escroquerie",
+        "plaignant": {
+          "nom_prenoms": "ANDRY Faneva",
+          "date_naissance": "14 mars 1985",
+          "lieu_naissance": "Antananarivo",
+          "adresse": "Lot II B 18, Mahamasina, Antananarivo 101",
+          "telephone": "+261 33 56 789 01",
+          "profession": "Comptable",
+          "filiation": "fils de ANDRY Honoré et de RASOA Félicité"
+        },
+        "mise_en_cause": {
+          "nom_prenoms": "RANDRIANTSOA Michel (identité sous réserve de vérification)",
+          "adresse_connue": "Lot IV A 5, Ankadivato, Antananarivo 101 (adresse communiquée par l'intéressé)"
+        },
+        "formule_introductive": "J'ai l'honneur de porter à votre connaissance les faits suivants et de déposer plainte pour escroquerie à l'encontre de Monsieur RANDRIANTSOA Michel :",
+        "expose_faits": "Le 5 février 2026, j'ai été contacté par un individu se présentant sous le nom de RANDRIANTSOA Michel, se disant agent immobilier agréé, qui m'a proposé la vente d'un terrain de 1 200 m² sis à Ambohidratrimo, immatriculé sous le titre foncier n° [numéro communiqué], pour un prix de 20 000 000 ariary.\n\nCet individu m'a présenté un document se présentant comme une procuration établie par le propriétaire dudit terrain, lui donnant mandat de vendre le bien en son nom. Faisant confiance à ces éléments, j'ai signé une promesse de vente le 15 février 2026 et remis à cet individu un acompte de 8 000 000 ariary en espèces, contre un reçu manuscrit signé par lui.\n\nDepuis le 15 février 2026, Monsieur RANDRIANTSOA Michel est devenu injoignable. J'ai tenté de le contacter à l'adresse qu'il m'avait communiquée : cette adresse ne correspond à aucun domicile réel. J'ai également contacté le véritable propriétaire du terrain, dont j'ai retrouvé les coordonnées auprès du Service des Domaines : celui-ci m'a formellement confirmé n'avoir jamais mandaté Monsieur RANDRIANTSOA et ne jamais avoir eu l'intention de vendre ce bien.\n\nJ'ai ainsi été victime d'une escroquerie : Monsieur RANDRIANTSOA a utilisé des manœuvres frauduleuses (présentation d'une procuration fausse, usurpation de la qualité d'agent mandaté) pour me convaincre de lui remettre une somme d'argent.",
+        "qualification": "Les faits que je viens d'exposer sont constitutifs du délit d'escroquerie tel que prévu et réprimé par le Code pénal malgache : emploi de manœuvres frauduleuses pour se faire remettre des fonds.",
+        "demandes": "Je vous demande de bien vouloir recevoir la présente plainte, d'ouvrir une enquête aux fins de retrouver Monsieur RANDRIANTSOA Michel, d'établir les faits et d'en informer le Parquet compétent pour que des poursuites soient engagées.",
+        "pieces_jointes": [
+          "Copie de la promesse de vente signée le 15 février 2026",
+          "Copie du reçu manuscrit de 8 000 000 ariary signé par RANDRIANTSOA Michel",
+          "Copie de la prétendue procuration présentée par RANDRIANTSOA Michel",
+          "Attestation du véritable propriétaire du terrain confirmant n'avoir donné aucun mandat",
+          "Relevé de tentatives d'appel téléphonique demeuré sans réponse"
+        ],
+        "formule_politesse": "Veuillez agréer, Monsieur le Commissaire, l'expression de ma haute considération.",
+        "signature": "ANDRY Faneva"
+      }
+    },
+    {
+      "id": 4,
+      "type": "plainte_penale_gendarmerie",
+      "variante": "particulier",
+      "langue": "malgache",
+      "complexite": "simple",
+      "qualification_penale": "Fitoriana — Halatra (Vol)",
+      "contexte": "Modèle de plainte en langue malgache adressée au Commissaire, sur le modèle officiel fourni. Madame VOLA Sahondra signale le vol de son téléphone portable et de son sac à main survenus à Fianarantsoa.",
+      "document": {
+        "toerana_daty": "Fianarantsoa, ny 20 mey 2026",
+        "kaomisera": "Kaomiserin'ny Zana-tàny Fianarantsoa",
+        "antony": "Fitoriana an'i [anarana raha fantatra] — Halatra",
+        "plaignante": {
+          "anarana": "VOLA Sahondra",
+          "teraka": "ny 8 aprily 1990 tao Fianarantsoa",
+          "monina": "Lot II C 4, Ambozontany, Fianarantsoa 301",
+          "asa": "Mpivarotra",
+          "zanaky": "VOLA Honoré sy RANDRIA Marie"
+        },
+        "votoatiny_fitoriana": "Ny faha-15 mey 2026, tamin'ny tokony ho 14 ora, niaraka tamin'ny fanaovana ny raharahako tany amin'ny tsena Bazar be, dia nisy olona tsy fantatro ny anarany naka tampoka ny lasibatro sy ny finday naliny teny an-tanako. Tsy hita intsony izy tamin'io fotoana io. Tao anatin'ny lasibatra : vola 150.000 ariary, kara-panondroana, ary fitaovan-javatra samihafa. Ny finday naliny dia marque Samsung Galaxy A34, lavanty volon-kena, misy ny laharana +261 34 XX XXX XX.",
+        "fangataham_famotorana": "Mangataka aminareo ny hanokafana fanadihadiana momba izao raharahy izao ary ny hankatoavana ny fitoriana.",
+        "taratasy_ampiarahana": [
+          "Kara-panondroana (fonosina)"
+        ],
+        "sonia": "VOLA Sahondra"
+      }
+    }
+  ],
+
+  "cas_pratiques": [
+    {
+      "id": 1,
+      "scenario": "Monsieur RABE Jean-Pierre est fonctionnaire au Ministère de la Santé. Il a postulé à un poste de chef de service et a été classé premier à l'issue de l'évaluation des candidats. Le directeur des ressources humaines a cependant nommé à ce poste un autre candidat, classé troisième. Monsieur RABE a reçu notification d'une décision de rejet de sa candidature, sans aucune motivation. Il consulte un avocat pour savoir quelle démarche entreprendre.",
+      "question": "Quelle est la voie de recours appropriée pour Monsieur RABE, et à qui doit-il s'adresser en premier ?",
+      "choix": [
+        "Monsieur RABE doit d'abord exercer un recours administratif — gracieux auprès du directeur des ressources humaines, ou hiérarchique auprès du Ministre — avant de saisir la Chambre Administrative de la Cour Suprême. Le recours administratif est la première étape obligatoire.",
+        "Monsieur RABE doit déposer une plainte pénale au commissariat pour abus d'autorité, car le directeur a nommé un candidat moins bien classé.",
+        "Monsieur RABE doit saisir directement la Chambre Administrative de la Cour Suprême sans passer par un recours administratif préalable.",
+        "Monsieur RABE n'a aucun recours possible car les décisions de nomination des fonctionnaires relèvent du pouvoir discrétionnaire de l'administration."
+      ],
+      "reponse": "Monsieur RABE doit d'abord exercer un recours administratif — gracieux auprès du directeur des ressources humaines, ou hiérarchique auprès du Ministre — avant de saisir la Chambre Administrative de la Cour Suprême. Le recours administratif est la première étape obligatoire.",
+      "indices": "La décision contestée est une décision administrative (nomination à un poste). Quel est le principe général applicable avant de saisir le juge administratif ? Et vers qui se tourne-t-on en cas de recours hiérarchique ?",
+      "explication": "La contestation d'une décision de nomination relève du contentieux administratif, non du droit pénal. Avant de saisir le juge, Monsieur RABE doit exercer un recours administratif : soit gracieux (auprès du directeur qui a pris la décision), soit hiérarchique (auprès du Ministre). Ce n'est qu'en cas de rejet — explicite ou implicite (absence de réponse dans le délai légal) — qu'il pourra saisir la Chambre Administrative. Déposer une plainte pénale ne serait pas le bon outil ici : une décision de nomination irrégulière est une illégalité administrative, pas nécessairement une infraction pénale."
+    },
+    {
+      "id": 2,
+      "scenario": "Madame SOLO Christiane a prêté 5 000 000 ariary à une amie, Madame TIANA, en janvier 2025, contre un simple reçu manuscrit. Madame TIANA refuse depuis de rembourser, affirmant que c'était un don. Madame SOLO souhaite récupérer son argent et hésite entre une plainte pénale et une action en justice civile.",
+      "question": "Une plainte pénale est-elle la bonne démarche pour Madame SOLO ? Pourquoi ?",
+      "choix": [
+        "Une plainte pénale n'est pas le bon outil ici. Un simple refus de remboursement d'un prêt est un litige civil, non une infraction pénale. Madame SOLO doit saisir le tribunal civil compétent, en produisant le reçu comme preuve du prêt.",
+        "Madame SOLO doit déposer une plainte pour escroquerie, car Madame TIANA a obtenu de l'argent en affirmant qu'elle rembourserait.",
+        "Madame SOLO doit déposer une plainte pour abus de confiance, car Madame TIANA a reçu l'argent et refuse de le restituer.",
+        "Madame SOLO peut indifféremment choisir la voie pénale ou civile : les deux aboutissent au même résultat."
+      ],
+      "reponse": "Une plainte pénale n'est pas le bon outil ici. Un simple refus de remboursement d'un prêt est un litige civil, non une infraction pénale. Madame SOLO doit saisir le tribunal civil compétent, en produisant le reçu comme preuve du prêt.",
+      "indices": "Une infraction pénale nécessite un élément intentionnel (dol, fraude, manœuvre) dès l'origine. Un simple désaccord sur la nature d'un versement (prêt ou don) est-il une infraction ou un litige ?",
+      "explication": "L'escroquerie suppose des manœuvres frauduleuses dès la remise des fonds. L'abus de confiance suppose une remise à titre précaire (dépôt, mandat) qui est détournée. Ici, Madame TIANA affirme que la somme était un don : c'est un désaccord sur la nature de la remise, ce qui est un litige contractuel civil. La voie appropriée est une action en remboursement devant le Tribunal de Première Instance, en produisant le reçu. Si ce reçu porte la mention 'prêt' ou 'à rembourser', la preuve est constituée. La plainte pénale serait irrecevable ou classée sans suite faute d'infraction caractérisée."
+    },
+    {
+      "id": 3,
+      "scenario": "La SARL AVENIR a soumis une demande d'autorisation d'exercice d'activité commerciale à la mairie de Toamasina le 3 janvier 2026. Deux mois plus tard, la mairie n'a toujours pas répondu. Le gérant s'interroge : peut-il agir, et si oui, comment ?",
+      "question": "Le silence de la mairie depuis deux mois constitue-t-il une décision ? La SARL AVENIR peut-elle agir ?",
+      "choix": [
+        "Oui. Le silence gardé par l'administration pendant le délai légal vaut décision implicite de rejet. La SARL AVENIR peut exercer un recours administratif (gracieux ou hiérarchique) contre cette décision implicite, puis saisir la Chambre Administrative en cas de nouveau rejet.",
+        "Non. Tant que la mairie n'a pas rendu de décision explicite, aucun recours n'est possible. La SARL AVENIR doit attendre indéfiniment.",
+        "La SARL AVENIR doit déposer une plainte pénale pour abus de pouvoir contre les agents de la mairie qui ont ignoré sa demande.",
+        "La SARL AVENIR doit relancer sa demande depuis le début, le délai de deux mois ayant fait prescrire sa première demande."
+      ],
+      "reponse": "Oui. Le silence gardé par l'administration pendant le délai légal vaut décision implicite de rejet. La SARL AVENIR peut exercer un recours administratif (gracieux ou hiérarchique) contre cette décision implicite, puis saisir la Chambre Administrative en cas de nouveau rejet.",
+      "indices": "Qu'est-ce qu'une décision implicite de rejet ? Quel est l'effet du silence de l'administration au-delà du délai légal de réponse ?",
+      "explication": "En droit administratif malgache, comme dans la plupart des systèmes inspirés du droit français, le silence gardé par l'administration au-delà d'un délai légal de réponse vaut décision implicite de rejet. Ce rejet implicite est une décision contestable, exactement comme un rejet explicite. La SARL AVENIR peut donc exercer un recours gracieux (auprès du Maire) ou hiérarchique (auprès du représentant de l'État dans la région), puis saisir la Chambre Administrative si le recours administratif est également rejeté ou sans réponse."
+    },
+    {
+      "id": 4,
+      "scenario": "Monsieur HAJAINA Patrice a été victime d'une agression physique dans la rue. Il est allé aux urgences et dispose d'un certificat médical constatant une incapacité totale de travail de 10 jours. Il reconnaît son agresseur, qui est un voisin. Il veut à la fois voir son agresseur puni et être indemnisé pour ses soins et son préjudice moral.",
+      "question": "Quelle démarche Monsieur HAJAINA doit-il entreprendre, et comment maximiser ses chances d'obtenir à la fois une condamnation pénale et une indemnisation ?",
+      "choix": [
+        "Monsieur HAJAINA doit déposer une plainte pénale pour coups et blessures volontaires, et se constituer partie civile afin d'obtenir réparation de son préjudice dans le cadre de la même procédure pénale. Il doit joindre le certificat médical à sa plainte.",
+        "Monsieur HAJAINA doit d'abord engager une action civile en dommages et intérêts, et ensuite seulement déposer une plainte pénale.",
+        "Monsieur HAJAINA ne peut pas obtenir à la fois une condamnation pénale et une indemnisation : il doit choisir entre la voie pénale et la voie civile.",
+        "Monsieur HAJAINA doit déposer un recours administratif auprès du Préfet, car l'agression a eu lieu dans un espace public."
+      ],
+      "reponse": "Monsieur HAJAINA doit déposer une plainte pénale pour coups et blessures volontaires, et se constituer partie civile afin d'obtenir réparation de son préjudice dans le cadre de la même procédure pénale. Il doit joindre le certificat médical à sa plainte.",
+      "indices": "Quel mécanisme permet à la victime d'une infraction pénale de réclamer des dommages et intérêts dans le cadre du procès pénal lui-même, sans engager une procédure civile séparée ?",
+      "explication": "Une agression physique volontaire est une infraction pénale (coups et blessures volontaires). Monsieur HAJAINA doit déposer une plainte pénale au commissariat ou à la gendarmerie. En se constituant partie civile — soit dès le dépôt de plainte, soit lors de l'audience — il pourra obtenir une indemnisation de son préjudice (frais médicaux, préjudice moral, incapacité de travail) dans le cadre du même procès pénal. Le certificat médical est une pièce essentielle car il établit la réalité des blessures et leur durée. Le recours administratif est sans objet ici : l'agression par un particulier ne relève pas du contentieux administratif."
+    }
+  ]
+}
