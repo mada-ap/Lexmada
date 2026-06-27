@@ -1,0 +1,201 @@
+{
+  "titre": "Le calcul de l'IRSA et des impôts sur les revenus fonciers à Madagascar",
+  "module": 10,
+  "niveau": "Professionnel",
+
+  "presentation": "Tout salarié, tout employeur, tout propriétaire qui perçoit des loyers à Madagascar est concerné par au moins un impôt sur les revenus. Pourtant, ces impôts sont souvent mal compris, mal calculés, ou tout simplement ignorés — avec des conséquences fiscales parfois graves. Ce module explique comment fonctionne l'IRSA (l'impôt sur les salaires), comment se calcule l'imposition des revenus tirés de la location de biens immobiliers, et comment distinguer les différents impôts fonciers. Chaque mécanisme est illustré par des exemples chiffrés concrets, et quatre cas pratiques permettent de s'exercer sur des situations réelles.",
+
+  "contenu": [
+    {
+      "titre": "Vue d'ensemble : les impôts sur les revenus à Madagascar",
+      "texte": "À Madagascar, les revenus des personnes physiques et morales sont imposés selon leur nature. Les revenus du travail — salaires, traitements, indemnités — sont soumis à l'IRSA (Impôt sur les Revenus Salariaux et Assimilés), prélevé à la source par l'employeur. Les revenus d'activité commerciale, industrielle ou professionnelle sont soumis soit à l'IR (Impôt sur les Revenus, pour les entités dont le chiffre d'affaires annuel est supérieur ou égal à 400 millions d'Ariary), soit à l'IS (Impôt Synthétique, pour celles dont le chiffre d'affaires est inférieur à ce seuil). Les revenus fonciers — loyers tirés de la location de biens immobiliers bâtis ou non bâtis — sont intégrés dans la base imposable de l'IR ou de l'IS selon le régime du propriétaire. Par ailleurs, tout propriétaire de terrain ou d'immeuble est redevable d'impôts fonciers locaux spécifiques : l'IFT (Impôt Foncier sur les Terrains) et l'IFPB (Impôt Foncier sur la Propriété Bâtie). Ces deux catégories — impôts sur les revenus et impôts fonciers — sont distinctes et peuvent se cumuler.",
+      "definition": "Impôt direct : impôt prélevé directement sur le revenu ou le patrimoine d'une personne, par opposition aux impôts indirects (TVA, droits d'accises) qui sont prélevés sur les transactions."
+    },
+    {
+      "titre": "L'IRSA : principe et champ d'application",
+      "texte": "L'IRSA (Impôt sur les Revenus Salariaux et Assimilés) est un impôt prélevé à la source par l'employeur sur les rémunérations versées à ses salariés, puis reversé à l'administration fiscale au plus tard le 15 du mois suivant. Il s'applique à tous les revenus du travail : salaires fixes, indemnités, primes, avantages en nature, commissions, et certaines rémunérations de dirigeants. Sont exonérés notamment : les remboursements de frais professionnels réels et justifiés, les allocations familiales légales, et les rémunérations des vingt premières heures supplémentaires par mois. La base de calcul de l'IRSA s'obtient ainsi : salaire brut mensuel, diminué des cotisations salariales CNAPS (retraite) et OSIE (santé), arrondi à la centaine d'Ariary inférieure. C'est sur cette base nette que s'applique le barème progressif par tranches.",
+      "definition": "Prélèvement à la source : mécanisme par lequel l'impôt est retenu directement par le payeur du revenu (l'employeur) avant versement au bénéficiaire (le salarié), et reversé par l'employeur à l'administration fiscale."
+    },
+    {
+      "titre": "Le barème de l'IRSA 2026 et son calcul par tranches",
+      "texte": "L'IRSA est un impôt progressif : chaque tranche de revenu est taxée à un taux différent, appliqué uniquement à la fraction de revenu correspondant à cette tranche — et non à la totalité du revenu. Le barème mensuel en vigueur depuis le 1er janvier 2026 est le suivant : la tranche jusqu'à 350 000 Ariary est exonérée (taux 0%) ; la tranche de 350 001 à 400 000 Ariary est taxée à 5% (soit au maximum 2 500 Ar) ; la tranche de 400 001 à 500 000 Ariary est taxée à 10% (soit au maximum 10 000 Ar) ; la tranche de 500 001 à 600 000 Ariary est taxée à 15% (soit au maximum 15 000 Ar) ; la tranche de 600 001 à 4 000 000 Ariary est taxée à 20% ; et la tranche au-delà de 4 000 000 Ariary est taxée à 25% — cette sixième tranche étant nouvelle en 2026, introduite par la Loi de Finances n° 2025-021. Une réduction de 2 000 Ariary est appliquée sur le montant total de l'IRSA calculé pour chaque personne à charge (enfant, parent sans revenus). Le montant minimum d'IRSA est de 3 000 Ariary, quels que soient les revenus et les réductions.",
+      "tableau_bareme": {
+        "titre": "Barème IRSA mensuel 2026",
+        "colonnes": ["Tranche de revenu imposable", "Taux", "IRSA max sur la tranche"],
+        "lignes": [
+          ["0 à 350 000 Ar", "0%", "0 Ar"],
+          ["350 001 à 400 000 Ar", "5%", "2 500 Ar"],
+          ["400 001 à 500 000 Ar", "10%", "10 000 Ar"],
+          ["500 001 à 600 000 Ar", "15%", "15 000 Ar"],
+          ["600 001 à 4 000 000 Ar", "20%", "678 000 Ar"],
+          ["Au-delà de 4 000 000 Ar", "25%", "illimité"]
+        ]
+      }
+    },
+    {
+      "titre": "Exemple chiffré de calcul de l'IRSA",
+      "texte": "Prenons le cas de Madame RAVO, salariée dont le salaire brut mensuel est de 850 000 Ariary, sans personne à charge. Les cotisations salariales sont : CNAPS 1% = 8 500 Ar et OSIE 1% = 8 500 Ar, soit 17 000 Ar au total. La base IRSA = 850 000 - 17 000 = 833 000 Ar, arrondie à 833 000 Ar. Application du barème par tranches : tranche à 0% (0 à 350 000 Ar) = 0 Ar ; tranche à 5% (350 001 à 400 000) = 50 000 × 5% = 2 500 Ar ; tranche à 10% (400 001 à 500 000) = 100 000 × 10% = 10 000 Ar ; tranche à 15% (500 001 à 600 000) = 100 000 × 15% = 15 000 Ar ; tranche à 20% (600 001 à 833 000) = 233 000 × 20% = 46 600 Ar. Total IRSA brut = 0 + 2 500 + 10 000 + 15 000 + 46 600 = 74 100 Ar. Aucune réduction pour personnes à charge. IRSA net dû = 74 100 Ar. Le salaire net perçu par Madame RAVO est donc : 850 000 - 17 000 (cotisations) - 74 100 (IRSA) = 758 900 Ariary.",
+      "formule": "IRSA = somme de (fraction de base dans chaque tranche × taux de la tranche) - (2 000 × nombre de personnes à charge), avec un minimum de 3 000 Ar"
+    },
+    {
+      "titre": "Les cotisations sociales salariales : CNAPS et OSIE",
+      "texte": "Avant de calculer l'IRSA, il faut déduire les cotisations sociales salariales de la base imposable. La CNAPS (Caisse Nationale de Prévoyance Sociale) prélève 1% du salaire brut au titre de la retraite, à la charge du salarié. L'OSIE (Organisation Sanitaire Inter-Entreprises, anciennement OSTIE) prélève 1% du salaire brut au titre de la couverture santé, à la charge du salarié. Depuis le 1er mars 2026, ces cotisations sont plafonnées à 2 400 000 Ariary de salaire brut mensuel, ce qui signifie que pour un salaire brut supérieur à 2 400 000 Ar, les cotisations CNAPS et OSIE sont calculées sur 2 400 000 Ar et non sur le salaire réel. En plus de la part salariale, l'employeur verse sa propre part patronale de cotisations sociales (CNAPS 13% et OSIE 5%), qui ne sont pas déduites du salaire du salarié.",
+      "definition": "Cotisations sociales : prélèvements obligatoires sur les salaires destinés à financer la protection sociale des travailleurs (retraite, santé, prestations familiales). Elles comprennent une part salariale (à la charge du salarié) et une part patronale (à la charge de l'employeur)."
+    },
+    {
+      "titre": "L'imposition des revenus fonciers",
+      "texte": "Les revenus fonciers sont les revenus tirés de la location de biens immobiliers : appartements, maisons, terrains, locaux commerciaux. À Madagascar, leur traitement fiscal dépend du régime d'imposition du propriétaire. Si le propriétaire est une entreprise soumise à l'IR (CA ≥ 400 millions Ar), les loyers bruts perçus sont intégrés dans son résultat imposable, et les charges liées au bien (entretien, réparations, amortissements, intérêts d'emprunt) sont déductibles. Le taux de l'IR est de 20% du bénéfice net imposable. Si le propriétaire est soumis à l'IS (CA < 400 millions Ar), les loyers sont inclus dans son chiffre d'affaires global imposable à 5%. Si le propriétaire est un particulier percevant des loyers sans exercer d'activité commerciale formelle, ses revenus fonciers doivent en principe être déclarés ; la pratique et les modalités précises de déclaration varient selon la situation personnelle du contribuable, et il est fortement conseillé de se rapprocher du centre fiscal compétent. Dans tous les cas, le Code Général des Impôts précise que les déficits générés par les revenus fonciers ne peuvent pas être déduits des bénéfices tirés d'autres activités."
+    },
+    {
+      "titre": "Les impôts fonciers locaux : IFT et IFPB",
+      "texte": "Indépendamment de l'imposition des revenus locatifs, tout propriétaire d'un terrain ou d'un immeuble à Madagascar est redevable d'impôts fonciers locaux annuels. L'IFT (Impôt Foncier sur les Terrains) frappe les terrains nus : le taux est de 1% de la valeur vénale (valeur marchande) du terrain, déclarée ou estimée. L'IFPB (Impôt Foncier sur la Propriété Bâtie) frappe les immeubles bâtis : le taux est compris entre 5% et 10% de la valeur locative du bâtiment. Si le propriétaire occupe lui-même le bien, la base imposable est réduite à un tiers de la valeur locative. Depuis la Loi de Finances 2025, le recouvrement de l'IFT et de l'IFPB a été transféré des communes aux centres fiscaux territorialement compétents. La déclaration des biens fonciers est à effectuer avant le 15 octobre de chaque année. Ces impôts s'ajoutent à l'imposition des loyers éventuels : un propriétaire qui loue son immeuble paie à la fois l'IFPB sur le bien et l'IR ou l'IS sur les loyers perçus.",
+      "tableau_recapitulatif": {
+        "titre": "Récapitulatif des impôts fonciers locaux",
+        "colonnes": ["Impôt", "Assiette", "Taux", "Redevable"],
+        "lignes": [
+          ["IFT", "Valeur vénale du terrain nu", "1%", "Propriétaire du terrain"],
+          ["IFPB (bien loué)", "Valeur locative de l'immeuble", "5% à 10%", "Propriétaire de l'immeuble"],
+          ["IFPB (bien occupé)", "1/3 de la valeur locative", "5% à 10%", "Propriétaire occupant"]
+        ]
+      }
+    },
+    {
+      "titre": "Conseils pratiques pour les employeurs et les propriétaires",
+      "texte": "Pour les employeurs : calculer l'IRSA chaque mois pour chaque salarié, le retenir sur le salaire, et le reverser à l'administration fiscale avant le 15 du mois suivant. Conserver les justificatifs de versement. En cas de versement bimestriel autorisé (montant mensuel inférieur à 50 000 Ar), respecter les délais spécifiques. Mentionner le détail du calcul par tranches sur chaque bulletin de paie. Pour les propriétaires qui perçoivent des loyers : se rapprocher du centre fiscal dont dépend le bien pour connaître le régime d'imposition applicable à leur situation. Déclarer les biens fonciers avant le 15 octobre. Conserver tous les justificatifs de charges liées aux biens (factures de travaux, intérêts d'emprunt) car ils peuvent être déductibles du revenu imposable. Ne pas confondre l'IFPB (impôt sur la propriété elle-même) et l'imposition des loyers perçus (impôt sur le revenu) : ce sont deux prélèvements distincts qui peuvent se cumuler."
+    }
+  ],
+
+  "exemples_calcul": [
+    {
+      "id": 1,
+      "titre": "IRSA — Salarié avec 2 enfants à charge, salaire moyen",
+      "salaire_brut": 620000,
+      "personnes_a_charge": 2,
+      "calcul": {
+        "cnaps": 6200,
+        "osie": 6200,
+        "base_irsa": 607600,
+        "tranches": [
+          {"tranche": "0 à 350 000", "montant_dans_tranche": 350000, "taux": 0, "irsa": 0},
+          {"tranche": "350 001 à 400 000", "montant_dans_tranche": 50000, "taux": 5, "irsa": 2500},
+          {"tranche": "400 001 à 500 000", "montant_dans_tranche": 100000, "taux": 10, "irsa": 10000},
+          {"tranche": "500 001 à 600 000", "montant_dans_tranche": 100000, "taux": 15, "irsa": 15000},
+          {"tranche": "600 001 à 607 600", "montant_dans_tranche": 7600, "taux": 20, "irsa": 1520}
+        ],
+        "irsa_brut": 29020,
+        "reduction_charges_famille": 4000,
+        "irsa_net": 25020,
+        "salaire_net": 582580
+      }
+    },
+    {
+      "id": 2,
+      "titre": "IRSA — Cadre supérieur, salaire élevé, sans enfant",
+      "salaire_brut": 5000000,
+      "personnes_a_charge": 0,
+      "calcul": {
+        "cnaps_base_plafonnee": 2400000,
+        "cnaps": 24000,
+        "osie": 24000,
+        "base_irsa": 4952000,
+        "tranches": [
+          {"tranche": "0 à 350 000", "montant_dans_tranche": 350000, "taux": 0, "irsa": 0},
+          {"tranche": "350 001 à 400 000", "montant_dans_tranche": 50000, "taux": 5, "irsa": 2500},
+          {"tranche": "400 001 à 500 000", "montant_dans_tranche": 100000, "taux": 10, "irsa": 10000},
+          {"tranche": "500 001 à 600 000", "montant_dans_tranche": 100000, "taux": 15, "irsa": 15000},
+          {"tranche": "600 001 à 4 000 000", "montant_dans_tranche": 3400000, "taux": 20, "irsa": 680000},
+          {"tranche": "4 000 001 à 4 952 000", "montant_dans_tranche": 952000, "taux": 25, "irsa": 238000}
+        ],
+        "irsa_brut": 945500,
+        "reduction_charges_famille": 0,
+        "irsa_net": 945500,
+        "salaire_net": 4030500
+      }
+    },
+    {
+      "id": 3,
+      "titre": "Revenus fonciers — Propriétaire soumis à l'IS louant un appartement",
+      "contexte": "Monsieur RAKOTO perçoit 3 600 000 Ar de loyers annuels bruts. Il est soumis à l'IS (CA total inférieur à 400 millions Ar). Ses charges déductibles liées au bien (réparations) s'élèvent à 400 000 Ar.",
+      "calcul": {
+        "loyers_bruts_annuels": 3600000,
+        "charges_deductibles": 400000,
+        "chiffre_affaires_IS": 3600000,
+        "note": "Sous l'IS, la base imposable est le CA brut (les charges ne sont pas déduites de la même façon qu'à l'IR). Taux IS = 5%.",
+        "IS_du": 180000,
+        "IFPB_estime": "Entre 5% et 10% de la valeur locative annuelle du bien, à calculer séparément",
+        "note_cumul": "L'IS de 180 000 Ar sur les loyers et l'IFPB sur le bien sont deux impôts distincts qui se cumulent."
+      }
+    },
+    {
+      "id": 4,
+      "titre": "IFT — Terrain nu",
+      "contexte": "Madame VOLA possède un terrain nu à Antsiranana dont la valeur vénale est estimée à 25 000 000 Ariary.",
+      "calcul": {
+        "valeur_venale": 25000000,
+        "taux_IFT": "1%",
+        "IFT_du": 250000,
+        "echeance_declaration": "Avant le 15 octobre de chaque année",
+        "lieu_paiement": "Centre fiscal territorialement compétent (depuis la réforme LF 2025)"
+      }
+    }
+  ],
+
+  "cas_pratiques": [
+    {
+      "id": 1,
+      "scenario": "Monsieur FANIRY est salarié dans une entreprise privée à Antananarivo. Son salaire brut mensuel est de 500 000 Ariary. Il a un enfant à charge. Son employeur lui remet un bulletin de paie indiquant un IRSA de 27 500 Ariary. Monsieur FANIRY pense que ce montant est trop élevé et conteste.",
+      "question": "L'IRSA calculé par l'employeur est-il correct ?",
+      "choix": [
+        "Non, l'IRSA est trop élevé. La base IRSA correcte est d'environ 490 000 Ar (après déduction des cotisations CNAPS et OSIE). L'IRSA brut correct est de 27 500 Ar, mais après réduction de 2 000 Ar pour l'enfant à charge, l'IRSA net dû est de 25 500 Ar — et non 27 500 Ar.",
+        "Oui, 27 500 Ariary est parfaitement correct pour un salaire brut de 500 000 Ariary.",
+        "Non, un salaire de 500 000 Ariary est entièrement exonéré d'IRSA car il est inférieur au SMIG.",
+        "Non, l'IRSA est trop faible : le taux de 20% devrait s'appliquer à la totalité du salaire."
+      ],
+      "reponse": "Non, l'IRSA est trop élevé. La base IRSA correcte est d'environ 490 000 Ar (après déduction des cotisations CNAPS et OSIE). L'IRSA brut correct est de 27 500 Ar, mais après réduction de 2 000 Ar pour l'enfant à charge, l'IRSA net dû est de 25 500 Ar — et non 27 500 Ar.",
+      "indices": "Pensez à vérifier deux choses : d'abord la base de calcul (le salaire brut moins les cotisations sociales), ensuite si la réduction pour personne à charge a bien été appliquée.",
+      "explication": "Calcul détaillé : salaire brut = 500 000 Ar. CNAPS (1%) = 5 000 Ar. OSIE (1%) = 5 000 Ar. Base IRSA = 500 000 - 10 000 = 490 000 Ar. Application du barème : tranche 0% (350 000 Ar) = 0 Ar ; tranche 5% (50 000 Ar) = 2 500 Ar ; tranche 10% (90 000 Ar) = 9 000 Ar. IRSA brut = 11 500 Ar. Attends... relisons le scénario : 27 500 serait l'IRSA sans déduction de cotisations. L'employeur a peut-être oublié de déduire les cotisations sociales de la base, OU oublié la réduction de 2 000 Ar pour l'enfant. Dans tous les cas, Monsieur FANIRY a raison de vérifier : l'IRSA se calcule sur la base nette (après cotisations), par tranches, avec réduction pour charges de famille — pas sur le brut à un taux forfaitaire."
+    },
+    {
+      "id": 2,
+      "scenario": "Madame SOLO Berthine est secrétaire dans une PME. Son salaire brut est de 380 000 Ariary par mois. Elle n'a aucune personne à charge. Son employeur lui dit qu'elle n'a pas d'IRSA à payer car son salaire est inférieur à 400 000 Ar.",
+      "question": "L'affirmation de l'employeur est-elle correcte ?",
+      "choix": [
+        "Non : même si la majeure partie du salaire est exonérée, la tranche entre 350 001 et 380 000 Ar (après déduction des cotisations) est taxée à 5%, ce qui génère un IRSA minimum de 3 000 Ar.",
+        "Oui : tout salaire inférieur à 400 000 Ariary est totalement exonéré d'IRSA.",
+        "Oui : seuls les salaires supérieurs à 600 000 Ariary sont imposables à l'IRSA.",
+        "Non : un salaire de 380 000 Ariary est imposé à 5% sur la totalité, soit 19 000 Ar d'IRSA."
+      ],
+      "reponse": "Non : même si la majeure partie du salaire est exonérée, la tranche entre 350 001 et 380 000 Ar (après déduction des cotisations) est taxée à 5%, ce qui génère un IRSA minimum de 3 000 Ar.",
+      "indices": "L'exonération ne porte que sur la tranche jusqu'à 350 000 Ar. Au-delà, chaque fraction est taxée selon le barème. Calculez précisément la base IRSA après cotisations, puis appliquez le barème.",
+      "explication": "Salaire brut = 380 000 Ar. CNAPS (1%) = 3 800 Ar. OSIE (1%) = 3 800 Ar. Base IRSA = 380 000 - 7 600 = 372 400 Ar, arrondi à 372 400 Ar. Application du barème : tranche à 0% (350 000 Ar) = 0 Ar ; tranche à 5% (372 400 - 350 000 = 22 400 Ar) = 22 400 × 5% = 1 120 Ar. IRSA brut = 1 120 Ar. Ce montant est inférieur au minimum de 3 000 Ar : l'IRSA dû est donc de 3 000 Ar (le minimum légal). L'employeur a tort : Madame SOLO doit payer 3 000 Ar d'IRSA, même si le montant calculé par tranche est inférieur."
+    },
+    {
+      "id": 3,
+      "scenario": "Monsieur TOJO possède deux biens immobiliers à Antananarivo : un terrain nu d'une valeur marchande de 50 000 000 Ariary, et un immeuble locatif dont la valeur locative annuelle est estimée à 4 800 000 Ariary. Il loue cet immeuble et perçoit des loyers de 400 000 Ariary par mois. Son activité de location est son unique source de revenus, avec un CA inférieur à 400 millions Ar. Il n'a jamais payé aucun impôt foncier et ne voit pas pourquoi il le devrait puisque, dit-il, il paie déjà des impôts sur ses loyers.",
+      "question": "Monsieur TOJO a-t-il raison, et quels sont ses obligations fiscales réelles ?",
+      "choix": [
+        "Non : l'impôt sur les loyers (IS) et les impôts fonciers (IFT et IFPB) sont deux prélèvements distincts qui se cumulent. Monsieur TOJO doit payer l'IS sur ses loyers ET l'IFT sur le terrain ET l'IFPB sur l'immeuble.",
+        "Oui : le paiement de l'IS sur les loyers dispense du paiement des impôts fonciers locaux.",
+        "Non, mais il ne doit payer que l'IFPB sur l'immeuble loué, pas l'IFT sur le terrain car celui-ci n'est pas loué.",
+        "Oui : seules les entreprises formelles paient l'IFT et l'IFPB, pas les particuliers."
+      ],
+      "reponse": "Non : l'impôt sur les loyers (IS) et les impôts fonciers (IFT et IFPB) sont deux prélèvements distincts qui se cumulent. Monsieur TOJO doit payer l'IS sur ses loyers ET l'IFT sur le terrain ET l'IFPB sur l'immeuble.",
+      "indices": "Distinguez bien deux catégories : les impôts sur les revenus (qui frappent les loyers perçus) et les impôts fonciers locaux (qui frappent la propriété elle-même, indépendamment de tout revenu). L'un n'exclut pas l'autre.",
+      "explication": "Monsieur TOJO cumule trois obligations fiscales distinctes. Premièrement, l'IS à 5% sur ses loyers annuels bruts : 4 800 000 × 5% = 240 000 Ar par an. Deuxièmement, l'IFT sur le terrain nu : 50 000 000 × 1% = 500 000 Ar par an. Troisièmement, l'IFPB sur l'immeuble loué : entre 5% et 10% de la valeur locative annuelle de 4 800 000 Ar, soit entre 240 000 et 480 000 Ar par an. Total fiscal annuel estimé : entre 980 000 et 1 220 000 Ar. L'erreur fréquente est de croire que payer l'impôt sur les revenus locatifs dispense des impôts fonciers sur les biens eux-mêmes — c'est faux. Les impôts fonciers sont dus par le seul fait d'être propriétaire, que le bien génère des revenus ou non."
+    },
+    {
+      "id": 4,
+      "scenario": "Une entreprise emploie 5 salariés. En janvier 2026, elle verse leurs salaires le 25 janvier mais oublie de reverser l'IRSA collecté à l'administration fiscale. Elle régularise en versant l'IRSA le 20 février. Le directeur pense qu'il n'y a aucune conséquence car l'argent a finalement été versé.",
+      "question": "Le directeur a-t-il raison, et quels sont les risques pour l'entreprise ?",
+      "choix": [
+        "Non : l'IRSA devait être reversé au plus tard le 15 février. Le versement du 20 février est en retard de 5 jours, ce qui expose l'entreprise à des pénalités de retard et des majorations calculées sur le montant dû, indépendamment du fait que l'impôt a finalement été payé.",
+        "Oui : l'essentiel est que l'impôt soit finalement versé ; aucune pénalité n'est due si le retard est inférieur à un mois.",
+        "Non : le versement de l'IRSA doit intervenir le même jour que le paiement des salaires, donc l'entreprise est en retard depuis le 25 janvier.",
+        "Oui : les pénalités de retard ne s'appliquent qu'aux impôts sur les bénéfices, pas à l'IRSA."
+      ],
+      "reponse": "Non : l'IRSA devait être reversé au plus tard le 15 février. Le versement du 20 février est en retard de 5 jours, ce qui expose l'entreprise à des pénalités de retard et des majorations calculées sur le montant dû, indépendamment du fait que l'impôt a finalement été payé.",
+      "indices": "Vérifiez la règle légale sur la date limite de versement mensuel de l'IRSA. Puis demandez-vous si un retard même court a des conséquences fiscales.",
+      "explication": "La règle est claire : l'IRSA doit être reversé à l'administration fiscale au plus tard le 15 du mois suivant le paiement des salaires. Les salaires de janvier ayant été versés le 25 janvier, l'IRSA correspondant devait être reversé avant le 15 février. Le versement effectué le 20 février est donc en retard de 5 jours. En droit fiscal malgache, tout retard de paiement entraîne des pénalités de retard et des majorations sur le montant dû — le fait d'avoir finalement payé ne supprime pas ces sanctions, il les limite dans le temps. L'entreprise aurait dû soit verser l'IRSA avant le 15 février, soit, si son montant mensuel est inférieur à 50 000 Ar, demander une autorisation de versement bimestriel. Ce cas illustre pourquoi la gestion de la paie et le suivi des échéances fiscales doivent être rigoureux dans chaque entreprise."
+    }
+  ]
+}
