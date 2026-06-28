@@ -1378,13 +1378,25 @@ function openReader(fi, mi, li) {
    QUIZ ENGINE
    ═══════════════════════════════════════════ */
 function normalizeQuestion(q) {
+  const choix = q.choix || q.options || [];
+  let reponse = 0;
+  if (q.reponse_correcte !== undefined) {
+    reponse = q.reponse_correcte;
+  } else if (q.reponse !== undefined) {
+    if (typeof q.reponse === 'number') {
+      reponse = q.reponse;
+    } else if (typeof q.reponse === 'string') {
+      // reponse est le texte exact du bon choix — on cherche son index
+      const idx = choix.indexOf(q.reponse);
+      reponse = idx >= 0 ? idx : 0;
+    }
+  }
   return {
     question:    q.question || '',
-    choix:       q.choix || q.options || [],
-    reponse:     q.reponse_correcte !== undefined ? q.reponse_correcte
-                 : (q.reponse !== undefined ? q.reponse : 0),
+    choix:       choix,
+    reponse:     reponse,
     explication: q.explication || '',
-    indices:     q.indices || []
+    indices:     q.indices ? (Array.isArray(q.indices) ? q.indices : [q.indices]) : []
   };
 }
 
@@ -1410,23 +1422,26 @@ function normalizeQuiz(data) {
 
     data.cas_pratiques.forEach(cp => {
 
-      // Format 1 : cp a directement choix[] et reponse (nombre ou texte)
+      // Format 1 : cp a directement choix[] et reponse (nombre ou texte exact)
       if (cp.choix && cp.choix.length > 0 && !cp.etapes) {
         let repIndex = 0;
-        if (typeof cp.reponse === 'number') {
+        if (cp.reponse_correcte !== undefined) {
+          repIndex = cp.reponse_correcte;
+        } else if (typeof cp.reponse === 'number') {
           repIndex = cp.reponse;
         } else if (typeof cp.reponse === 'string') {
           const idx = cp.choix.indexOf(cp.reponse);
           repIndex = idx >= 0 ? idx : 0;
-        } else if (cp.reponse_correcte !== undefined) {
-          repIndex = cp.reponse_correcte;
         }
+        const question = cp.scenario
+          ? cp.scenario + (cp.question ? '\n\n' + cp.question : '')
+          : (cp.question || cp.titre || '');
         cpQuestions.push({
-          question:    cp.scenario || cp.question || cp.titre || '',
+          question:    question,
           choix:       cp.choix,
           reponse:     repIndex,
           explication: cp.explication || cp.lecon_tiree || '',
-          indices:     cp.indices ? [cp.indices] : []
+          indices:     cp.indices ? (Array.isArray(cp.indices) ? cp.indices : [cp.indices]) : []
         });
 
       // Format 2 : cp.etapes[] (dossier immersif niveau 4 module 20)
