@@ -1,0 +1,489 @@
+{
+  "titre": "Le contrôle de constitutionnalité à Madagascar",
+  "module": 2,
+  "niveau": "Avancé",
+  "contenu": [
+    {
+      "titre": "1. Introduction : notion et fondements du contrôle de constitutionnalité",
+      "texte": "Le contrôle de constitutionnalité est le mécanisme juridique qui permet de vérifier qu'une norme — traité, loi, ordonnance ou règlement — respecte la Constitution, norme suprême de l'ordre juridique interne. À Madagascar, ce contrôle constitue une garantie essentielle de l'État de droit affirmé par le préambule de la Constitution de 2010, selon lequel les gouvernants et les gouvernés sont soumis aux mêmes normes juridiques. La fonction de contrôle de constitutionnalité a connu plusieurs évolutions institutionnelles depuis l'indépendance : exercée par le Conseil Supérieur des Institutions sous la Ière République (Constitution du 29 avril 1959), puis confiée à une Haute Cour Constitutionnelle dont la composition et les compétences ont varié sous les régimes successifs, jusqu'à la Constitution de la IVe République, adoptée par référendum le 17 novembre 2010 et promulguée le 11 décembre 2010, qui consacre la Haute Cour Constitutionnelle (HCC) comme juridiction exclusivement compétente en matière de contentieux constitutionnel.",
+      "definition": "Le contrôle de constitutionnalité est le mécanisme juridictionnel par lequel une juridiction spécialisée vérifie la conformité d'une norme à la Constitution, afin de garantir la suprématie de celle-ci sur l'ensemble des autres normes de l'ordre juridique interne."
+    },
+    {
+      "titre": "2. La Haute Cour Constitutionnelle : une institution de l'État",
+      "texte": "La Haute Cour Constitutionnelle figure, selon l'article 40 de la Constitution, parmi les Institutions de l'État de la IVe République, aux côtés notamment du Président de la République, du Gouvernement et du Parlement. Ce statut institutionnel la place au sommet de l'ordre juridictionnel malgache, en tant que gardienne de la Constitution. Sa mission essentielle est de veiller à ce qu'aucun texte ni aucune action, qu'elle émane du Gouvernement ou du Parlement, ne déroge aux principes fixés par la Constitution. La HCC ne dispose toutefois d'aucune initiative politique propre : elle ne peut s'autosaisir d'une question de constitutionnalité d'une loi en dehors des cas prévus par les textes, et ne saurait davantage s'opposer par principe à une initiative gouvernementale conforme à l'intérêt général et respectueuse des procédés démocratiques. Les décisions rendues par la HCC s'inscrivent dans l'ordonnancement juridique en tant que jurisprudence constitutionnelle, contribuant ainsi à l'évolution du droit malgache.",
+      "definition": "Une Institution de l'État, au sens de la Constitution malgache, est l'un des organes constitutionnels fondamentaux exerçant une fonction étatique déterminée — exécutive, législative ou juridictionnelle — et dont l'existence et les attributions sont directement consacrées par le texte constitutionnel.",
+      "exemple": "Lorsque le Parlement adopte une loi modifiant le régime électoral, c'est en tant qu'Institution de l'État, au même titre que le Gouvernement, que la Haute Cour Constitutionnelle est appelée à en vérifier la conformité à la Constitution avant sa promulgation."
+    },
+    {
+      "titre": "3. La composition de la Haute Cour Constitutionnelle",
+      "texte": "L'article 114 de la Constitution fixe la composition de la HCC : elle comprend neuf membres, dont le mandat est de sept ans, non renouvelable. Ces neuf membres sont désignés selon une répartition équilibrée entre les pouvoirs de l'État : trois sont nommés par le Président de la République, deux sont élus par l'Assemblée Nationale, deux par le Sénat, et deux par le Conseil Supérieur de la Magistrature. Cette pluralité des autorités de nomination vise à garantir l'indépendance de la HCC à l'égard de chacun des pouvoirs représentés. Le Président de la HCC est élu par et parmi les membres de la Cour elle-même, ce qui renforce son autonomie vis-à-vis du pouvoir exécutif. L'élection du Président ainsi que la désignation des autres membres sont constatées par décret du Président de la République, lequel ne dispose toutefois d'aucun pouvoir d'appréciation sur le choix opéré par les autres institutions.",
+      "definition": "La composition pluraliste d'une juridiction constitutionnelle désigne un mode de désignation de ses membres impliquant plusieurs autorités distinctes de l'État, destiné à garantir l'indépendance de cette juridiction à l'égard de chacun des pouvoirs qu'elle est appelée à contrôler.",
+      "exemple": "Sur les neuf membres de la HCC, deux sont élus par le Sénat ; si le Sénat malgache souhaite renouveler ces deux représentants à l'expiration de leur mandat de sept ans, il devra procéder à une nouvelle élection, le mandat n'étant pas renouvelable pour les mêmes personnes."
+    },
+    {
+      "titre": "4. Le statut et les incompatibilités des membres de la HCC",
+      "texte": "L'article 115 de la Constitution organise un régime strict d'incompatibilités destiné à garantir l'indépendance et l'impartialité des membres de la HCC. Les fonctions de membre de la Haute Cour Constitutionnelle sont incompatibles avec celles de membre du Gouvernement, avec tout mandat parlementaire, avec tout mandat public électif, ainsi qu'avec toute autre activité professionnelle rémunérée — à l'exception des activités d'enseignement, qui demeurent autorisées. Les membres de la HCC ne peuvent pas davantage exercer d'activité au sein d'un parti politique ou d'un syndicat, ce qui vise à préserver leur neutralité politique dans l'exercice de leurs fonctions juridictionnelles. Par ailleurs, les personnalités exerçant les plus hautes fonctions de l'État, parmi lesquelles figurent les membres de la HCC, sont tenues de déposer auprès de celle-ci une déclaration de patrimoine, et ne peuvent accepter, sous peine de déchéance, des émoluments ou rétributions de la part d'une personne physique ou morale, étrangère ou nationale, dans le cadre de leurs fonctions.",
+      "definition": "L'incompatibilité de fonctions est une règle juridique interdisant à une personne d'exercer simultanément deux fonctions déterminées, destinée à prévenir les conflits d'intérêts et à garantir l'indépendance de la fonction la plus sensible, telle que celle de juge constitutionnel.",
+      "exemple": "Un membre de la HCC qui souhaiterait se présenter à une élection législative devrait, conformément à l'article 115 de la Constitution, démissionner préalablement de ses fonctions au sein de la Haute Cour Constitutionnelle."
+    },
+    {
+      "titre": "5. Le contrôle de constitutionnalité a priori obligatoire des lois organiques",
+      "texte": "L'article 117 de la Constitution pose le principe du contrôle de constitutionnalité a priori : avant leur promulgation, les lois organiques, les lois et les ordonnances sont soumises à la Haute Cour Constitutionnelle. Ce contrôle préalable à la promulgation, qui s'exerce donc avant l'entrée en vigueur du texte, permet d'écarter, en amont, toute disposition législative qui méconnaîtrait la Constitution. La transmission des lois organiques à la HCC revêt un caractère systématique et obligatoire, en raison de l'importance particulière de ces textes, qui complètent directement la Constitution sur des matières qu'elle leur réserve expressément, telles que l'organisation et le fonctionnement de la Haute Cour Constitutionnelle elle-même. Ce contrôle obligatoire des lois organiques constitue ainsi une garantie renforcée de la cohérence de l'ordre juridique constitutionnel, en s'assurant qu'aucune loi organique ne puisse entrer en vigueur sans avoir préalablement fait l'objet d'un examen de constitutionnalité.",
+      "definition": "Une loi organique est une catégorie de loi expressément prévue par la Constitution pour compléter ses dispositions sur des matières déterminées (telles que l'organisation des institutions), et dont l'adoption et le contrôle de constitutionnalité obéissent à des règles plus exigeantes que celles applicables aux lois ordinaires.",
+      "exemple": "Les règles relatives à l'organisation, au fonctionnement et aux attributions de la Haute Cour Constitutionnelle elle-même doivent être fixées par une loi organique, qui sera nécessairement soumise au contrôle de constitutionnalité avant sa promulgation."
+    },
+    {
+      "titre": "6. Les autorités habilitées à saisir la HCC en contrôle a priori des lois ordinaires",
+      "texte": "Si le contrôle des lois organiques revêt un caractère systématique, la saisine de la HCC pour le contrôle des lois ordinaires et des ordonnances avant leur promulgation suppose en pratique l'intervention d'une autorité habilitée, au premier rang de laquelle figure le Président de la République. Celui-ci a exercé ce pouvoir de saisine à plusieurs reprises pour des textes sensibles, tels que la loi n°2014-035 portant abolition de la peine de mort, ayant donné lieu à la décision n°01-HCC/D3 du 7 janvier 2015, ou la loi n°2023-002 relative aux investissements étrangers, ayant donné lieu à la décision n°06-HCC/D3 du 25 juillet 2023. Ce mécanisme de contrôle a priori, exercé sur saisine, permet aux autorités habilitées de s'assurer, avant l'entrée en vigueur d'un texte, qu'il ne contrevient à aucune disposition constitutionnelle, évitant ainsi l'insécurité juridique qui résulterait de l'annulation ultérieure d'un texte déjà appliqué.",
+      "definition": "Le contrôle a priori est un contrôle de constitutionnalité qui intervient avant la promulgation et l'entrée en vigueur d'une norme, par opposition au contrôle a posteriori qui s'exerce après son entrée en vigueur, à l'occasion de son application.",
+      "exemple": "En saisissant la HCC de la loi portant abolition de la peine de mort avant sa promulgation, le Président de la République a permis à la Haute Cour de vérifier, dès le 7 janvier 2015, la conformité de ce texte à la Constitution, avant même qu'il ne produise ses effets juridiques."
+    },
+    {
+      "titre": "7. Le contrôle de constitutionnalité a posteriori : l'exception d'inconstitutionnalité",
+      "texte": "Au-delà du contrôle a priori, le droit malgache organise un mécanisme de contrôle a posteriori permettant de contester la constitutionnalité d'un texte déjà en vigueur, à l'occasion d'un litige. Lorsque, devant une juridiction de l'ordre judiciaire ou administratif, une partie à un procès soulève une exception d'inconstitutionnalité à l'encontre d'une disposition légale ou réglementaire qui lui est opposée, la juridiction saisie du litige doit surseoir à statuer — c'est-à-dire suspendre provisoirement l'examen de l'affaire — et transmettre la question à la Haute Cour Constitutionnelle, seule compétente pour se prononcer sur la constitutionnalité de la disposition contestée. Ce mécanisme permet ainsi à tout justiciable, par la voie incidente d'un procès en cours, de remettre en cause la constitutionnalité d'un texte qui n'aurait pas été contrôlé a priori, ou dont l'inconstitutionnalité ne serait apparue qu'à l'épreuve de son application concrète. La décision n°02-HCC/D2 du 4 juillet 2003, rendue à la suite d'une exception d'inconstitutionnalité soulevée par un justiciable, illustre concrètement le fonctionnement de cette procédure.",
+      "definition": "L'exception d'inconstitutionnalité est un moyen de défense par lequel une partie à un procès soutient, devant la juridiction saisie du litige, qu'une disposition légale ou réglementaire qui lui est appliquée est contraire à la Constitution, ce qui contraint cette juridiction à surseoir à statuer et à saisir la Haute Cour Constitutionnelle.",
+      "exemple": "Si, au cours d'un procès civil, une partie soutient que la loi sur laquelle se fonde la demande de son adversaire est contraire à la Constitution, le tribunal saisi doit suspendre l'instance et transmettre la question à la Haute Cour Constitutionnelle avant de pouvoir statuer sur le fond."
+    },
+    {
+      "titre": "8. L'exception tirée d'une atteinte aux droits fondamentaux",
+      "texte": "Le droit malgache du contrôle de constitutionnalité connaît une seconde voie de saisine incidente, distincte de l'exception d'inconstitutionnalité classique, mais qui poursuit un objectif similaire de protection des droits fondamentaux. Lorsque, devant une juridiction, une partie soutient qu'une disposition d'un texte législatif ou réglementaire porte atteinte à ses droits fondamentaux reconnus par la Constitution — tels que ceux énumérés au Titre II relatif aux libertés, aux droits et aux devoirs des citoyens — la juridiction saisie doit, de la même manière, surseoir à statuer et saisir la Haute Cour Constitutionnelle. Cette voie de droit renforce concrètement l'effectivité des droits et libertés constitutionnellement garantis, en permettant à tout justiciable de faire censurer, à l'occasion d'un litige concret, une disposition qui porterait atteinte à ses droits fondamentaux, alors même que cette disposition aurait pu être déclarée conforme à la Constitution lors d'un contrôle a priori antérieur portant sur d'autres aspects du texte.",
+      "definition": "L'atteinte aux droits fondamentaux, dans le cadre du contentieux constitutionnel, désigne la méconnaissance, par une disposition légale ou réglementaire, d'un droit ou d'une liberté garantis par le Titre II de la Constitution, dont la victime peut faire constater la violation par la voie d'une saisine incidente de la Haute Cour Constitutionnelle.",
+      "exemple": "Une personne poursuivie en justice sur le fondement d'un texte réglementaire qui restreindrait sa liberté d'expression au-delà de ce que permet l'article 10 de la Constitution peut invoquer, devant la juridiction saisie, l'atteinte portée à ce droit fondamental, ce qui contraindra cette juridiction à saisir la Haute Cour Constitutionnelle."
+    },
+    {
+      "titre": "9. Le contrôle de constitutionnalité des actes des collectivités territoriales décentralisées",
+      "texte": "Les compétences de la Haute Cour Constitutionnelle ne se limitent pas au contrôle des lois et ordonnances nationales. La HCC est également compétente pour statuer sur la conformité à la Constitution et aux lois organiques des actes à caractère législatif et réglementaire adoptés par les Collectivités Territoriales Décentralisées (CTD), c'est-à-dire les communes, les régions et les provinces, dont l'autonomie administrative et financière est garantie par la Constitution. Ce contrôle permet de s'assurer que les délibérations et actes pris par ces collectivités, dans l'exercice de leurs compétences propres, demeurent conformes à la hiérarchie des normes et ne contredisent ni la Constitution ni les lois organiques applicables. Cette compétence revêt une importance pratique croissante à mesure que le processus de décentralisation se développe à Madagascar, les collectivités territoriales étant amenées à adopter un nombre croissant d'actes normatifs locaux.",
+      "definition": "Une Collectivité Territoriale Décentralisée (CTD) est une entité publique locale — commune, région ou province — dotée de la personnalité morale et d'une autonomie administrative et financière garantie par la Constitution, habilitée à adopter des actes à caractère législatif et réglementaire dans le cadre de ses compétences propres.",
+      "exemple": "Une délibération communale qui instaurerait une taxe locale en violation des compétences fiscales réservées à l'État par la Constitution pourrait faire l'objet d'un contrôle de conformité devant la Haute Cour Constitutionnelle."
+    },
+    {
+      "titre": "10. Le règlement des conflits de compétence entre institutions",
+      "texte": "Parmi ses compétences les plus structurantes pour l'équilibre des pouvoirs, la Haute Cour Constitutionnelle est chargée de régler les conflits de compétence qui peuvent surgir entre deux ou plusieurs Institutions de l'État, entre l'État et une ou plusieurs Collectivités Territoriales Décentralisées, ou encore entre deux ou plusieurs Collectivités Territoriales Décentralisées elles-mêmes. Cette compétence fait de la HCC l'arbitre institutionnel des litiges relatifs à la répartition constitutionnelle des compétences, évitant que de tels différends ne soient tranchés par la seule force politique des institutions en présence. Un conflit de compétence peut par exemple naître d'un désaccord entre le Gouvernement et le Parlement sur la nature, législative ou réglementaire, d'une matière déterminée, ou encore d'un différend entre une région et l'État sur l'exercice d'une compétence décentralisée. La résolution de tels conflits par une juridiction indépendante constitue une garantie essentielle du fonctionnement harmonieux des institutions de la République.",
+      "definition": "Un conflit de compétence, en droit constitutionnel, est un désaccord entre deux ou plusieurs institutions ou collectivités publiques sur l'attribution du pouvoir de décider ou de légiférer dans un domaine déterminé, dont le règlement est confié à une juridiction spécialisée afin de préserver l'équilibre constitutionnel des pouvoirs.",
+      "exemple": "Si une région et le Ministère chargé des transports revendiquent simultanément la compétence pour réglementer le transport public dans une même zone, ce conflit pourra être porté devant la Haute Cour Constitutionnelle pour qu'elle détermine l'institution compétente."
+    },
+    {
+      "titre": "11. Le contentieux électoral et référendaire",
+      "texte": "La Haute Cour Constitutionnelle exerce une compétence essentielle en matière électorale et référendaire : elle statue sur le contentieux des opérations de référendum, de l'élection du Président de la République, ainsi que des élections des Députés et des Sénateurs. Elle est par ailleurs chargée de proclamer le résultat officiel des élections présidentielles, législatives, ainsi que des consultations organisées par voie de référendum. Cette double fonction contentieuse et proclamatoire place la HCC au cœur du processus démocratique malgache : elle tranche les recours et contestations relatifs à la régularité des opérations électorales, et confère, par sa proclamation officielle, une autorité juridique définitive aux résultats des scrutins. C'est notamment en cette qualité que la HCC a validé, le 6 décembre 2010, les résultats du référendum constitutionnel ayant conduit à l'adoption de la Constitution de la IVe République elle-même.",
+      "definition": "Le contentieux électoral est l'ensemble des recours et contestations portant sur la régularité des opérations de vote, de dépouillement ou de proclamation des résultats d'une élection ou d'un référendum, dont le jugement est confié, à Madagascar, à la Haute Cour Constitutionnelle.",
+      "exemple": "Un candidat à l'élection présidentielle qui conteste la régularité du dépouillement des votes dans une circonscription déterminée doit porter sa contestation devant la Haute Cour Constitutionnelle, seule compétente pour statuer sur le contentieux électoral et proclamer les résultats définitifs."
+    },
+    {
+      "titre": "12. La fonction consultative de la HCC : les avis",
+      "texte": "Outre ses fonctions contentieuses, la Haute Cour Constitutionnelle exerce une fonction consultative prévue par l'article 119 de la Constitution. Elle peut être consultée par tout Chef d'Institution ainsi que par tout organe des Collectivités Territoriales Décentralisées, afin de donner son avis sur la constitutionnalité d'un projet d'acte, ou sur l'interprétation d'une disposition de la Constitution. Cette fonction consultative se distingue nettement du contrôle de constitutionnalité proprement dit : elle ne porte pas sur un texte déjà adopté et destiné à entrer en vigueur, mais sur un projet d'acte non encore finalisé, ou sur une simple question d'interprétation constitutionnelle soumise en amont de toute décision. Bien que dépourvus de la force contraignante propre aux arrêts et décisions, les avis rendus par la HCC dans ce cadre disposent d'une haute valeur juridique et d'une grande autorité morale, les autorités sollicitant un tel avis s'y conformant en pratique dans la quasi-totalité des cas.",
+      "definition": "Un avis de la Haute Cour Constitutionnelle est une prise de position consultative, dépourvue de force contraignante mais dotée d'une haute autorité morale et juridique, rendue à la demande d'un Chef d'Institution ou d'un organe d'une Collectivité Territoriale Décentralisée sur la constitutionnalité d'un projet d'acte ou sur l'interprétation d'une disposition constitutionnelle.",
+      "exemple": "Avant de prendre un décret dont la constitutionnalité lui paraît incertaine, le Premier Ministre peut solliciter l'avis de la Haute Cour Constitutionnelle sur ce projet de texte, sans que cet avis ne s'impose juridiquement, à la différence d'une décision rendue en matière de contrôle de constitutionnalité."
+    },
+    {
+      "titre": "13. La distinction entre arrêts, décisions et avis",
+      "texte": "L'article 120 de la Constitution organise une distinction terminologique précise entre les actes rendus par la Haute Cour Constitutionnelle, selon la nature du contentieux concerné. En matière de contentieux électoral et de consultation populaire directe, la HCC rend des arrêts. Dans les autres matières relevant de sa compétence — hormis le cas de la fonction consultative prévue à l'article 119, qui donne lieu à des avis — elle rend des décisions. Cette distinction, bien que principalement terminologique, reflète la diversité des contentieux soumis à la HCC : le contrôle de constitutionnalité des lois donne ainsi lieu à des décisions (telles que la décision n°01-HCC/D3 du 7 janvier 2015 sur l'abolition de la peine de mort), tandis que le contentieux relatif à la régularité d'une élection présidentielle donne lieu à des arrêts. Les arrêts et les décisions de la HCC doivent, dans tous les cas, être motivés, c'est-à-dire exposer les raisons de droit et de fait qui en justifient le dispositif.",
+      "definition": "La motivation d'une décision juridictionnelle est l'obligation, pour la juridiction qui la rend, d'exposer dans le corps de cet acte les raisons de droit et de fait qui justifient la solution retenue, permettant ainsi d'en contrôler la légalité et d'en comprendre la portée.",
+      "exemple": "La décision n°06-HCC/D3 du 25 juillet 2023, relative à la loi sur les investissements étrangers, expose dans ses motifs les raisons pour lesquelles la Haute Cour Constitutionnelle a estimé que ce texte ne contrevenait à aucune disposition constitutionnelle."
+    },
+    {
+      "titre": "14. L'autorité des décisions de la HCC : force obligatoire et absence de recours",
+      "texte": "L'article 120 de la Constitution confère aux arrêts et décisions de la Haute Cour Constitutionnelle une autorité particulièrement forte : ils ne sont susceptibles d'aucun recours, et s'imposent à tous les pouvoirs publics ainsi qu'aux autorités administratives et juridictionnelles. Cette double caractéristique place les décisions de la HCC au sommet de la hiérarchie des actes juridictionnels malgaches : aucune juridiction, fût-elle la Cour Suprême, ne peut remettre en cause une décision rendue par la Haute Cour Constitutionnelle, et aucune autorité administrative ou politique ne peut s'y soustraire. Cette autorité absolue se justifie par la nature même de la fonction exercée par la HCC, gardienne ultime de la Constitution : si ses décisions pouvaient être remises en cause par une autre autorité, la suprématie de la Constitution elle-même s'en trouverait fragilisée. Les arrêts, décisions et avis de la HCC sont, pour être connus de tous les citoyens, publiés au Journal Officiel de la République ainsi que sur son site internet officiel.",
+      "definition": "L'autorité absolue d'une décision juridictionnelle est la qualité reconnue à certaines décisions de ne pouvoir faire l'objet d'aucun recours et de s'imposer impérativement à l'ensemble des pouvoirs publics, des autorités administratives et des juridictions, sans qu'aucune contestation ultérieure ne soit recevable.",
+      "exemple": "Une fois que la Haute Cour Constitutionnelle a déclaré une loi conforme à la Constitution par une décision motivée, aucune juridiction, y compris la Cour Suprême, ne peut ultérieurement remettre en cause cette appréciation à l'occasion d'un litige distinct."
+    },
+    {
+      "titre": "15. Jurisprudence emblématique de la Haute Cour Constitutionnelle",
+      "texte": "La jurisprudence de la Haute Cour Constitutionnelle illustre concrètement l'exercice de ses différentes compétences. En matière de contrôle a priori, la décision n°01-HCC/D3 du 7 janvier 2015 a déclaré conforme à la Constitution la loi n°2014-035 portant abolition de la peine de mort, après saisine du Président de la République ; la décision n°06-HCC/D3 du 25 juillet 2023 a, de la même manière, validé la loi n°2023-002 relative aux investissements étrangers. En matière de contrôle a posteriori, la décision n°02-HCC/D2 du 4 juillet 2003, rendue à l'occasion d'une exception d'inconstitutionnalité soulevée par un justiciable devant une juridiction de l'ordre judiciaire, illustre la mise en œuvre de cette voie de droit incidente. Sur le plan du contentieux institutionnel, la décision n°17-HCC/D3 relative à l'empêchement du Président de la République illustre la compétence exceptionnelle de la HCC dans le cadre des procédures constitutionnelles d'empêchement présidentiel. Cette jurisprudence constitue un corpus de référence pour l'interprétation des dispositions constitutionnelles.",
+      "definition": "La jurisprudence constitutionnelle est l'ensemble des décisions rendues par une juridiction constitutionnelle, qui interprètent et précisent la portée des dispositions de la Constitution, et qui s'intègrent à l'ordonnancement juridique en complétant le texte constitutionnel lui-même.",
+      "exemple": "Un avocat qui souhaite plaider l'inconstitutionnalité d'une loi devant la Haute Cour Constitutionnelle s'appuiera utilement sur la jurisprudence antérieure de la Cour, telle que la décision n°01-HCC/D3 du 7 janvier 2015, pour étayer son argumentation."
+    },
+    {
+      "titre": "16. L'évolution historique du contrôle de constitutionnalité à Madagascar",
+      "texte": "Le contrôle de constitutionnalité a connu, à Madagascar, une évolution institutionnelle étroitement liée aux changements de régime politique. Sous la Ière République, instituée par la Constitution du 29 avril 1959, cette fonction était exercée par le Conseil Supérieur des Institutions, composé de cinq membres désignés par le Président de la République, l'Assemblée Nationale et le Président du Sénat. Sous la IIe République, une Haute Cour Constitutionnelle de sept membres, désignés pour cinq ans, exerçait des compétences classiques de juridiction constitutionnelle, incluant déjà le contrôle de constitutionnalité, l'exception d'inconstitutionnalité et les avis consultatifs. La chute de la IIe République en 1991 a conduit, par la Convention de 1991 et l'ordonnance n°92-018 du 8 juillet 1992, à porter le nombre de membres de la HCC à onze, désignés par le Président de la République, la Haute Autorité de l'État et le Premier Ministre. La Constitution de la IIIe République, adoptée en 1992 puis révisée en 1998, a réorganisé la HCC, dont l'ordonnance n°2001-003 du 18 novembre 2001 portant loi organique relative à la Haute Cour Constitutionnelle précise encore aujourd'hui certaines modalités d'organisation et de fonctionnement, dans l'attente de l'adoption d'une nouvelle loi organique pleinement conforme à la Constitution de la IVe République de 2010.",
+      "definition": "Une loi organique relative à une institution constitutionnelle est un texte de rang législatif renforcé, expressément prévu par la Constitution pour en préciser l'organisation, le fonctionnement et les attributions, et dont l'adoption obéit à une procédure et un contrôle de constitutionnalité plus exigeants que ceux des lois ordinaires.",
+      "exemple": "Tant qu'une nouvelle loi organique pleinement conforme à la Constitution de 2010 n'a pas été adoptée pour remplacer entièrement les textes antérieurs, certaines dispositions de l'ordonnance n°2001-003 du 18 novembre 2001 continuent d'être appliquées par la Haute Cour Constitutionnelle dans l'exercice de ses attributions."
+    }
+  ],
+  "quiz": [
+    {
+      "question": "Qu'est-ce que le contrôle de constitutionnalité ?",
+      "choix": ["A. Le contrôle exercé par le Parlement sur le Gouvernement", "B. Le mécanisme par lequel une juridiction vérifie la conformité d'une norme à la Constitution", "C. Le contrôle des comptes publics par la Cour des Comptes", "D. Le contrôle exercé par la presse sur les institutions"],
+      "reponse": "B",
+      "indices": ["Il s'agit d'un mécanisme juridictionnel", "Il garantit la suprématie de la Constitution"],
+      "explication": "Le contrôle de constitutionnalité est le mécanisme juridictionnel par lequel une juridiction spécialisée vérifie la conformité d'une norme à la Constitution, afin de garantir la suprématie de celle-ci sur l'ensemble des autres normes de l'ordre juridique interne."
+    },
+    {
+      "question": "Quelle institution exerçait la fonction de juridiction constitutionnelle sous la Ière République, en vertu de la Constitution du 29 avril 1959 ?",
+      "choix": ["A. La Haute Cour Constitutionnelle", "B. Le Conseil Supérieur des Institutions", "C. La Cour Suprême", "D. Le Conseil National de la Justice"],
+      "reponse": "B",
+      "indices": ["Cet organe comptait cinq membres", "Il a précédé la création d'une Haute Cour Constitutionnelle"],
+      "explication": "Sous la Ière République, instituée par la Constitution du 29 avril 1959, la fonction de juridiction constitutionnelle revenait au Conseil Supérieur des Institutions, composé de cinq membres désignés par le Président de la République, l'Assemblée Nationale et le Président du Sénat."
+    },
+    {
+      "question": "En vertu de quel article de la Constitution la Haute Cour Constitutionnelle figure-t-elle parmi les Institutions de l'État ?",
+      "choix": ["A. Article 7", "B. Article 40", "C. Article 114", "D. Article 120"],
+      "reponse": "B",
+      "indices": ["Cet article énumère les Institutions de l'État de la IVe République", "La HCC y figure aux côtés du Président de la République, du Gouvernement et du Parlement"],
+      "explication": "L'article 40 de la Constitution énumère les Institutions de l'État de la IVe République, parmi lesquelles figure la Haute Cour Constitutionnelle, aux côtés notamment du Président de la République, du Gouvernement et du Parlement."
+    },
+    {
+      "question": "Combien de membres compte la Haute Cour Constitutionnelle selon l'article 114 de la Constitution ?",
+      "choix": ["A. Sept", "B. Neuf", "C. Onze", "D. Treize"],
+      "reponse": "B",
+      "indices": ["Ce nombre a varié selon les régimes successifs", "Sous la IVe République, ce nombre est impair pour permettre une délibération sans risque d'égalité des voix"],
+      "explication": "L'article 114 de la Constitution dispose que la Haute Cour Constitutionnelle comprend neuf membres, dont le mandat est de sept ans, non renouvelable."
+    },
+    {
+      "question": "Quelle est la durée du mandat des membres de la HCC, et ce mandat est-il renouvelable ?",
+      "choix": ["A. Cinq ans, renouvelable une fois", "B. Sept ans, non renouvelable", "C. Sept ans, renouvelable indéfiniment", "D. Dix ans, non renouvelable"],
+      "reponse": "B",
+      "indices": ["Cette durée garantit une certaine indépendance dans le temps", "L'absence de renouvellement évite que le membre ne cherche à plaire à l'autorité qui l'a désigné"],
+      "explication": "L'article 114 de la Constitution fixe le mandat des membres de la Haute Cour Constitutionnelle à sept ans, mandat qui n'est pas renouvelable."
+    },
+    {
+      "question": "Comment se répartit la désignation des neuf membres de la HCC entre les différentes autorités ?",
+      "choix": ["A. 3 par le Président de la République, 2 par l'Assemblée Nationale, 2 par le Sénat, 2 par le Conseil Supérieur de la Magistrature", "B. 9 par le Président de la République seul", "C. 5 par l'Assemblée Nationale, 4 par le Sénat", "D. 3 par chacune de trois institutions seulement"],
+      "reponse": "A",
+      "indices": ["Quatre autorités distinctes participent à la désignation", "Cette pluralité vise à garantir l'indépendance de la Cour"],
+      "explication": "L'article 114 de la Constitution répartit la désignation des neuf membres de la HCC ainsi : trois sont nommés par le Président de la République, deux sont élus par l'Assemblée Nationale, deux par le Sénat, et deux par le Conseil Supérieur de la Magistrature."
+    },
+    {
+      "question": "Comment est désigné le Président de la Haute Cour Constitutionnelle ?",
+      "choix": ["A. Il est nommé directement par le Président de la République", "B. Il est élu par et parmi les membres de la Cour elle-même", "C. Il est désigné par l'Assemblée Nationale", "D. Il est le plus ancien des neuf membres"],
+      "reponse": "B",
+      "indices": ["Ce mode d'élection renforce l'autonomie de la Cour", "L'élection est ensuite constatée par décret du Président de la République"],
+      "explication": "Le Président de la Haute Cour Constitutionnelle est élu par et parmi les membres de la Cour elle-même, ce qui renforce son autonomie vis-à-vis du pouvoir exécutif ; cette élection est ensuite constatée par décret du Président de la République."
+    },
+    {
+      "question": "Quel acte constate l'élection du Président de la HCC et la désignation des autres membres ?",
+      "choix": ["A. Une loi organique", "B. Un décret du Président de la République", "C. Une décision de l'Assemblée Nationale", "D. Un arrêté du Premier Ministre"],
+      "reponse": "B",
+      "indices": ["Le Président de la République ne dispose d'aucun pouvoir d'appréciation sur ce choix", "Cet acte a une portée purement constatative"],
+      "explication": "L'élection du Président de la HCC ainsi que la désignation des autres membres sont constatées par décret du Président de la République, lequel ne dispose d'aucun pouvoir d'appréciation sur le choix opéré par les autres institutions."
+    },
+    {
+      "question": "Quel article de la Constitution organise les incompatibilités applicables aux membres de la HCC ?",
+      "choix": ["A. Article 113", "B. Article 114", "C. Article 115", "D. Article 117"],
+      "reponse": "C",
+      "indices": ["Cet article vise à garantir l'indépendance et l'impartialité des membres", "Il interdit notamment tout mandat public électif"],
+      "explication": "L'article 115 de la Constitution organise un régime strict d'incompatibilités applicables aux membres de la HCC, destiné à garantir leur indépendance et leur impartialité."
+    },
+    {
+      "question": "Les fonctions de membre de la HCC sont-elles compatibles avec l'exercice d'une activité d'enseignement rémunérée ?",
+      "choix": ["A. Non, aucune activité rémunérée n'est autorisée", "B. Oui, les activités d'enseignement sont expressément exceptées de l'interdiction", "C. Oui, mais seulement à temps partiel", "D. Non, sauf autorisation du Président de la République"],
+      "reponse": "B",
+      "indices": ["L'article 115 prévoit une exception précise", "Cette exception concerne un seul type d'activité"],
+      "explication": "L'article 115 de la Constitution dispose que les fonctions de membre de la HCC sont incompatibles avec toute activité professionnelle rémunérée, à l'exception des activités d'enseignement, qui demeurent expressément autorisées."
+    },
+    {
+      "question": "Un membre de la HCC peut-il exercer une activité au sein d'un syndicat ?",
+      "choix": ["A. Oui, sans restriction", "B. Non, cette activité est incompatible avec ses fonctions", "C. Oui, à condition de ne pas y exercer de mandat dirigeant", "D. Oui, uniquement dans un syndicat de magistrats"],
+      "reponse": "B",
+      "indices": ["L'article 115 vise à préserver la neutralité politique des membres", "L'activité syndicale est mentionnée au même titre que l'activité politique"],
+      "explication": "L'article 115 de la Constitution dispose que les membres de la HCC ne peuvent exercer aucune activité au sein d'un parti politique ou d'un syndicat, afin de préserver leur neutralité dans l'exercice de leurs fonctions juridictionnelles."
+    },
+    {
+      "question": "Quel article de la Constitution impose la transmission systématique à la HCC, avant promulgation, des lois organiques, des lois et des ordonnances ?",
+      "choix": ["A. Article 113", "B. Article 116", "C. Article 117", "D. Article 119"],
+      "reponse": "C",
+      "indices": ["Cet article pose le principe du contrôle a priori", "Il distingue trois catégories de textes soumis à la HCC avant leur promulgation"],
+      "explication": "L'article 117 de la Constitution dispose qu'avant leur promulgation, les lois organiques, les lois et les ordonnances sont soumises à la Haute Cour Constitutionnelle, posant ainsi le principe du contrôle de constitutionnalité a priori."
+    },
+    {
+      "question": "Pour quelle catégorie de textes la transmission à la HCC avant promulgation revêt-elle un caractère systématique et obligatoire ?",
+      "choix": ["A. Les décrets", "B. Les lois organiques", "C. Les arrêtés ministériels", "D. Les délibérations communales"],
+      "reponse": "B",
+      "indices": ["Ces textes complètent directement la Constitution sur des matières qu'elle leur réserve", "Leur importance particulière justifie ce contrôle renforcé"],
+      "explication": "La transmission à la HCC avant promulgation revêt un caractère systématique et obligatoire pour les lois organiques, en raison de leur importance particulière, ces textes complétant directement la Constitution sur des matières qu'elle leur réserve expressément."
+    },
+    {
+      "question": "La saisine de la HCC pour le contrôle d'une loi ordinaire avant sa promulgation est-elle automatique ?",
+      "choix": ["A. Oui, systématiquement comme pour les lois organiques", "B. Non, elle suppose l'intervention d'une autorité habilitée, notamment le Président de la République", "C. Non, aucune loi ordinaire ne peut être soumise à la HCC", "D. Oui, mais uniquement si un parti d'opposition le demande"],
+      "reponse": "B",
+      "indices": ["Le Président de la République dispose d'un pouvoir de saisine déterminant en pratique", "Cette saisine reste facultative pour les lois ordinaires"],
+      "explication": "Contrairement aux lois organiques, la saisine de la HCC pour le contrôle d'une loi ordinaire avant sa promulgation n'est pas automatique : elle suppose l'intervention d'une autorité habilitée, le Président de la République ayant exercé ce pouvoir à plusieurs reprises pour des textes sensibles."
+    },
+    {
+      "question": "Quelle décision de la HCC a déclaré conforme à la Constitution la loi portant abolition de la peine de mort ?",
+      "choix": ["A. La décision n°02-HCC/D2 du 4 juillet 2003", "B. La décision n°01-HCC/D3 du 7 janvier 2015", "C. La décision n°06-HCC/D3 du 25 juillet 2023", "D. La décision n°17-HCC/D3"],
+      "reponse": "B",
+      "indices": ["Cette décision a été rendue après saisine du Président de la République", "Elle concerne la loi n°2014-035"],
+      "explication": "La décision n°01-HCC/D3 du 7 janvier 2015 a déclaré conforme à la Constitution la loi n°2014-035 portant abolition de la peine de mort, après saisine du Président de la République en application de l'article 117 de la Constitution."
+    },
+    {
+      "question": "Quelle décision de la HCC a validé la loi n°2023-002 relative aux investissements étrangers ?",
+      "choix": ["A. La décision n°01-HCC/D3 du 7 janvier 2015", "B. La décision n°02-HCC/D2 du 4 juillet 2003", "C. La décision n°06-HCC/D3 du 25 juillet 2023", "D. La décision n°10-HCC/D3 du 14 octobre 2025"],
+      "reponse": "C",
+      "indices": ["Cette décision est plus récente que celle relative à la peine de mort", "Elle a été rendue dans le cadre du contrôle a priori"],
+      "explication": "La décision n°06-HCC/D3 du 25 juillet 2023 a déclaré conforme à la Constitution la loi n°2023-002 relative aux investissements étrangers, dans le cadre du contrôle de constitutionnalité a priori prévu par l'article 117 de la Constitution."
+    },
+    {
+      "question": "Qu'est-ce que l'exception d'inconstitutionnalité ?",
+      "choix": ["A. Un recours direct formé par un citoyen devant la HCC, sans procès préalable", "B. Un moyen de défense soulevé devant une juridiction, par lequel une partie soutient qu'une disposition qui lui est appliquée est contraire à la Constitution", "C. Un pouvoir d'auto-saisine de la HCC", "D. Un recours en appel contre une décision de la HCC"],
+      "reponse": "B",
+      "indices": ["Ce moyen est soulevé à l'occasion d'un procès en cours", "Il contraint la juridiction saisie à surseoir à statuer"],
+      "explication": "L'exception d'inconstitutionnalité est un moyen de défense par lequel une partie à un procès soutient, devant la juridiction saisie du litige, qu'une disposition légale ou réglementaire qui lui est appliquée est contraire à la Constitution, ce qui contraint cette juridiction à surseoir à statuer et à saisir la HCC."
+    },
+    {
+      "question": "Lorsqu'une exception d'inconstitutionnalité est soulevée devant une juridiction, que doit faire celle-ci ?",
+      "choix": ["A. Trancher elle-même la question de constitutionnalité", "B. Rejeter automatiquement l'exception sans l'examiner", "C. Surseoir à statuer et saisir la Haute Cour Constitutionnelle", "D. Renvoyer l'affaire devant la Cour Suprême"],
+      "reponse": "C",
+      "indices": ["Aucune juridiction autre que la HCC n'est compétente pour apprécier la constitutionnalité d'un texte", "« Surseoir à statuer » signifie suspendre provisoirement l'examen de l'affaire"],
+      "explication": "Lorsqu'une partie soulève une exception d'inconstitutionnalité devant une juridiction, celle-ci doit surseoir à statuer, c'est-à-dire suspendre provisoirement l'examen de l'affaire, et saisir la Haute Cour Constitutionnelle, seule compétente pour se prononcer sur la constitutionnalité de la disposition contestée."
+    },
+    {
+      "question": "Quelle décision de la HCC illustre la mise en œuvre du mécanisme de l'exception d'inconstitutionnalité ?",
+      "choix": ["A. La décision n°01-HCC/D3 du 7 janvier 2015", "B. La décision n°02-HCC/D2 du 4 juillet 2003", "C. La décision n°06-HCC/D3 du 25 juillet 2023", "D. La décision n°17-HCC/D3"],
+      "reponse": "B",
+      "indices": ["Cette décision a été rendue à la suite d'une exception soulevée par un justiciable", "Elle date de 2003"],
+      "explication": "La décision n°02-HCC/D2 du 4 juillet 2003, rendue à la suite d'une exception d'inconstitutionnalité soulevée par un justiciable devant une juridiction de l'ordre judiciaire, illustre concrètement le fonctionnement de cette procédure de contrôle a posteriori."
+    },
+    {
+      "question": "Quelle seconde voie de saisine incidente de la HCC, distincte de l'exception d'inconstitutionnalité classique, permet à un justiciable de contester une disposition portant atteinte à ses droits fondamentaux ?",
+      "choix": ["A. Le recours en interprétation", "B. L'exception tirée d'une atteinte aux droits fondamentaux reconnus par la Constitution", "C. Le pourvoi en cassation", "D. Le recours pour excès de pouvoir"],
+      "reponse": "B",
+      "indices": ["Cette voie vise spécifiquement les droits et libertés du Titre II de la Constitution", "Elle impose, comme l'exception d'inconstitutionnalité, de surseoir à statuer"],
+      "explication": "Le droit malgache reconnaît une seconde voie de saisine incidente : lorsqu'une partie soutient devant une juridiction qu'une disposition porte atteinte à ses droits fondamentaux reconnus par la Constitution, notamment ceux du Titre II, la juridiction doit surseoir à statuer et saisir la Haute Cour Constitutionnelle."
+    },
+    {
+      "question": "La HCC est-elle compétente pour contrôler la conformité à la Constitution des actes adoptés par les Collectivités Territoriales Décentralisées ?",
+      "choix": ["A. Non, ce contrôle relève exclusivement des tribunaux administratifs", "B. Oui, elle statue sur la conformité à la Constitution et aux lois organiques des actes à caractère législatif et réglementaire des CTD", "C. Non, les CTD ne sont soumises à aucun contrôle de constitutionnalité", "D. Oui, mais uniquement pour les communes, à l'exclusion des régions et provinces"],
+      "reponse": "B",
+      "indices": ["Les CTD comprennent les communes, les régions et les provinces", "Cette compétence garantit le respect de la hiérarchie des normes au niveau local"],
+      "explication": "La HCC est compétente pour statuer sur la conformité à la Constitution et aux lois organiques des actes à caractère législatif et réglementaire adoptés par les Collectivités Territoriales Décentralisées, qui comprennent les communes, les régions et les provinces."
+    },
+    {
+      "question": "Quelles entités composent les Collectivités Territoriales Décentralisées à Madagascar ?",
+      "choix": ["A. Les communes, les régions et les provinces", "B. Les districts et les fokontany uniquement", "C. Les seules régions", "D. Les ministères déconcentrés"],
+      "reponse": "A",
+      "indices": ["Leur autonomie administrative et financière est garantie par la Constitution", "Ce sont des entités publiques locales dotées de la personnalité morale"],
+      "explication": "Les Collectivités Territoriales Décentralisées (CTD) à Madagascar comprennent les communes, les régions et les provinces, entités publiques locales dotées de la personnalité morale et d'une autonomie administrative et financière garantie par la Constitution."
+    },
+    {
+      "question": "Quelle compétence permet à la HCC d'arbitrer un désaccord entre deux Institutions de l'État sur l'attribution d'un pouvoir de décision ?",
+      "choix": ["A. Le contentieux électoral", "B. Le règlement des conflits de compétence", "C. La fonction consultative", "D. Le contrôle des actes des CTD"],
+      "reponse": "B",
+      "indices": ["Cette compétence évite que de tels différends ne soient tranchés par la seule force politique", "Elle s'étend aussi aux conflits impliquant les Collectivités Territoriales Décentralisées"],
+      "explication": "La HCC est chargée de régler les conflits de compétence qui peuvent surgir entre deux ou plusieurs Institutions de l'État, entre l'État et une ou plusieurs Collectivités Territoriales Décentralisées, ou entre deux ou plusieurs CTD elles-mêmes."
+    },
+    {
+      "question": "Sur quels contentieux électoraux la HCC est-elle compétente pour statuer ?",
+      "choix": ["A. Uniquement les élections municipales", "B. Le référendum, l'élection du Président de la République et les élections des Députés et Sénateurs", "C. Uniquement les élections législatives", "D. Aucun contentieux électoral, qui relève de la CENI"],
+      "reponse": "B",
+      "indices": ["La HCC statue également sur le contentieux de la consultation populaire directe", "Elle proclame ensuite les résultats officiels"],
+      "explication": "La Haute Cour Constitutionnelle statue sur le contentieux des opérations de référendum, de l'élection du Président de la République, ainsi que des élections des Députés et des Sénateurs."
+    },
+    {
+      "question": "Quelle compétence permet à la HCC de conférer une autorité juridique définitive aux résultats d'un scrutin ?",
+      "choix": ["A. La proclamation du résultat officiel des élections et des consultations par référendum", "B. Le règlement des conflits de compétence", "C. La fonction consultative", "D. Le contrôle des lois organiques"],
+      "reponse": "A",
+      "indices": ["Cette compétence complète le contentieux électoral proprement dit", "Elle est mentionnée immédiatement après la compétence contentieuse en matière électorale"],
+      "explication": "La HCC est chargée de proclamer le résultat officiel des élections présidentielles, législatives et des consultations organisées par voie de référendum, conférant ainsi une autorité juridique définitive aux résultats des scrutins."
+    },
+    {
+      "question": "La HCC a-t-elle validé les résultats du référendum constitutionnel du 17 novembre 2010 ?",
+      "choix": ["A. Non, ce référendum n'a fait l'objet d'aucune validation par la HCC", "B. Oui, le 6 décembre 2010", "C. Oui, mais seulement en 2015", "D. Non, c'est la Cour Suprême qui a validé ce référendum"],
+      "reponse": "B",
+      "indices": ["Cette validation a précédé la promulgation de la Constitution de quelques jours", "La promulgation a eu lieu le 11 décembre 2010"],
+      "explication": "La HCC a validé, le 6 décembre 2010, les résultats du référendum constitutionnel du 17 novembre 2010, avant que la Constitution de la IVe République ne soit promulguée le 11 décembre 2010."
+    },
+    {
+      "question": "Quel article de la Constitution prévoit la fonction consultative de la HCC, exercée par voie d'avis ?",
+      "choix": ["A. Article 114", "B. Article 117", "C. Article 119", "D. Article 120"],
+      "reponse": "C",
+      "indices": ["Cette fonction porte sur des projets d'actes non encore finalisés", "Elle peut aussi porter sur l'interprétation d'une disposition constitutionnelle"],
+      "explication": "L'article 119 de la Constitution prévoit la fonction consultative de la HCC, qui peut être consultée par tout Chef d'Institution et tout organe des Collectivités Territoriales Décentralisées pour donner son avis sur la constitutionnalité d'un projet d'acte ou sur l'interprétation d'une disposition de la Constitution."
+    },
+    {
+      "question": "Qui peut consulter la HCC pour obtenir un avis au sens de l'article 119 de la Constitution ?",
+      "choix": ["A. Tout citoyen malgache", "B. Tout Chef d'Institution et tout organe des Collectivités Territoriales Décentralisées", "C. Uniquement le Président de la République", "D. Uniquement les juridictions de l'ordre judiciaire"],
+      "reponse": "B",
+      "indices": ["Cette liste comprend des autorités nationales et des autorités locales décentralisées", "Aucun simple citoyen ne peut directement solliciter cet avis"],
+      "explication": "L'article 119 de la Constitution réserve la faculté de consulter la HCC à tout Chef d'Institution ainsi qu'à tout organe des Collectivités Territoriales Décentralisées."
+    },
+    {
+      "question": "Un avis rendu par la HCC en application de l'article 119 a-t-il un caractère contraignant ?",
+      "choix": ["A. Oui, il s'impose comme une décision", "B. Non, il est dépourvu de force contraignante mais dispose d'une haute autorité morale et juridique", "C. Oui, mais seulement s'il est suivi par le Parlement", "D. Non, il n'a aucune valeur"],
+      "reponse": "B",
+      "indices": ["L'avis se distingue nettement de la décision ou de l'arrêt", "En pratique, les autorités s'y conforment presque toujours"],
+      "explication": "Un avis rendu par la HCC en application de l'article 119 est dépourvu de la force contraignante propre aux arrêts et décisions, mais dispose d'une haute valeur juridique et d'une grande autorité morale, à laquelle les autorités se conforment en pratique dans la quasi-totalité des cas."
+    },
+    {
+      "question": "Quel article de la Constitution organise la distinction entre arrêts, décisions et avis rendus par la HCC ?",
+      "choix": ["A. Article 113", "B. Article 117", "C. Article 119", "D. Article 120"],
+      "reponse": "D",
+      "indices": ["Cet article précise aussi le caractère motivé et insusceptible de recours des arrêts et décisions", "Il distingue les matières électorales des autres matières"],
+      "explication": "L'article 120 de la Constitution organise la distinction terminologique entre les arrêts, les décisions et les avis rendus par la HCC, et précise le régime juridique applicable à chacun de ces actes."
+    },
+    {
+      "question": "Dans quelle matière la HCC rend-elle des arrêts, plutôt que des décisions ?",
+      "choix": ["A. En matière de contrôle de constitutionnalité des lois organiques", "B. En matière de contentieux électoral et de consultation populaire directe", "C. En matière de conflits de compétence entre institutions", "D. En matière de contrôle des actes des CTD"],
+      "reponse": "B",
+      "indices": ["C'est la seule matière pour laquelle l'article 120 emploie le terme « arrêts »", "Dans les autres matières contentieuses, elle rend des décisions"],
+      "explication": "Selon l'article 120 de la Constitution, c'est uniquement en matière de contentieux électoral et de consultation populaire directe que la HCC rend des arrêts ; dans les autres matières relevant de sa compétence contentieuse, elle rend des décisions."
+    },
+    {
+      "question": "Les arrêts et décisions de la HCC doivent-ils être motivés ?",
+      "choix": ["A. Non, aucune motivation n'est exigée", "B. Oui, ils doivent obligatoirement être motivés", "C. Seulement les arrêts, pas les décisions", "D. Seulement si une partie le demande expressément"],
+      "reponse": "B",
+      "indices": ["La motivation permet d'en comprendre la portée et d'en contrôler la cohérence", "Cette exigence figure expressément à l'article 120"],
+      "explication": "L'article 120 de la Constitution dispose que les arrêts et décisions de la Haute Cour Constitutionnelle sont motivés, c'est-à-dire qu'ils doivent exposer les raisons de droit et de fait qui en justifient le dispositif."
+    },
+    {
+      "question": "Les arrêts et décisions de la HCC sont-ils susceptibles de recours ?",
+      "choix": ["A. Oui, devant la Cour Suprême", "B. Oui, devant le Conseil National de la Justice", "C. Non, ils ne sont susceptibles d'aucun recours", "D. Oui, mais uniquement en cassation"],
+      "reponse": "C",
+      "indices": ["Cette absence de recours s'explique par le rôle de gardienne ultime de la Constitution qu'exerce la HCC", "Aucune juridiction ne peut remettre en cause une telle décision"],
+      "explication": "L'article 120 de la Constitution dispose que les arrêts et décisions de la Haute Cour Constitutionnelle ne sont susceptibles d'aucun recours, ce qui en fait des actes juridictionnels définitifs et insusceptibles de toute contestation ultérieure."
+    },
+    {
+      "question": "À qui s'imposent les arrêts et décisions de la HCC, selon l'article 120 de la Constitution ?",
+      "choix": ["A. Uniquement aux parties au litige", "B. À tous les pouvoirs publics ainsi qu'aux autorités administratives et juridictionnelles", "C. Uniquement au Gouvernement", "D. Uniquement aux Collectivités Territoriales Décentralisées"],
+      "reponse": "B",
+      "indices": ["Cette force obligatoire s'étend à l'ensemble des institutions de l'État", "Aucune autorité administrative ou juridictionnelle ne peut s'y soustraire"],
+      "explication": "L'article 120 de la Constitution dispose que les arrêts et décisions de la HCC s'imposent à tous les pouvoirs publics ainsi qu'aux autorités administratives et juridictionnelles."
+    },
+    {
+      "question": "Où sont publiés les arrêts, décisions et avis de la HCC pour être connus de tous les citoyens ?",
+      "choix": ["A. Uniquement dans la presse écrite privée", "B. Au Journal Officiel de la République et sur le site internet officiel de la HCC", "C. Uniquement auprès des avocats inscrits au barreau", "D. Ils ne sont pas publiés, par souci de confidentialité"],
+      "reponse": "B",
+      "indices": ["Cette publication garantit l'accessibilité du droit constitutionnel à tous", "Le site officiel de la HCC est mentionné comme second support de publication"],
+      "explication": "Pour être connus de tous les citoyens, les arrêts, décisions et avis de la Haute Cour Constitutionnelle sont publiés au Journal Officiel de la République, ainsi que sur son site internet officiel."
+    },
+    {
+      "question": "Pourquoi l'autorité des décisions de la HCC est-elle qualifiée d'absolue ?",
+      "choix": ["A. Parce qu'aucune juridiction, y compris la Cour Suprême, ne peut les remettre en cause, et qu'elles s'imposent à tous les pouvoirs publics", "B. Parce qu'elles ne peuvent être contestées que par le Président de la République", "C. Parce qu'elles sont rendues à l'unanimité des neuf membres", "D. Parce qu'elles ne concernent que des questions mineures"],
+      "reponse": "A",
+      "indices": ["Cette autorité absolue protège la suprématie de la Constitution elle-même", "Si une autre autorité pouvait remettre en cause ces décisions, la hiérarchie des normes serait fragilisée"],
+      "explication": "L'autorité des décisions de la HCC est qualifiée d'absolue car aucune juridiction, fût-elle la Cour Suprême, ne peut les remettre en cause, et qu'elles s'imposent impérativement à tous les pouvoirs publics ainsi qu'aux autorités administratives et juridictionnelles, ce qui protège la suprématie de la Constitution."
+    },
+    {
+      "question": "Sous la IIe République, combien de membres comptait la Haute Cour Constitutionnelle, et pour quelle durée de mandat ?",
+      "choix": ["A. Cinq membres pour cinq ans", "B. Sept membres pour cinq ans", "C. Neuf membres pour sept ans", "D. Onze membres pour sept ans"],
+      "reponse": "B",
+      "indices": ["Ce nombre est différent de celui retenu par la Constitution de 2010", "La durée du mandat est elle aussi distincte"],
+      "explication": "Sous la IIe République, la Haute Cour Constitutionnelle était composée de sept membres, désignés pour un mandat de cinq ans, exerçant des compétences classiques de juridiction constitutionnelle."
+    },
+    {
+      "question": "Quel texte a porté à onze le nombre de membres de la HCC à la suite de la chute de la IIe République en 1991 ?",
+      "choix": ["A. La Constitution de 1992", "B. L'ordonnance n°92-018 du 8 juillet 1992", "C. La loi organique n°2001-003", "D. La Constitution de 2010"],
+      "reponse": "B",
+      "indices": ["Ce texte a mis en œuvre la Convention de 1991", "Les onze membres étaient désignés par le Président de la République, la Haute Autorité de l'État et le Premier Ministre"],
+      "explication": "L'ordonnance n°92-018 du 8 juillet 1992, prise pour mettre en œuvre la Convention de 1991, a porté à onze le nombre de membres de la HCC, désignés par le Président de la République, la Haute Autorité de l'État et le Premier Ministre."
+    },
+    {
+      "question": "Quel texte fixe encore aujourd'hui certaines modalités d'organisation et de fonctionnement de la HCC, dans l'attente d'une nouvelle loi organique pleinement conforme à la Constitution de 2010 ?",
+      "choix": ["A. L'ordonnance n°2001-003 du 18 novembre 2001 portant loi organique relative à la Haute Cour Constitutionnelle", "B. L'ordonnance n°60-133 du 3 octobre 1960", "C. La loi n°2014-007", "D. La loi n°2015-001"],
+      "reponse": "A",
+      "indices": ["Ce texte a été adopté sous la IIIe République", "Il est encore visé dans les décisions récentes de la HCC"],
+      "explication": "L'ordonnance n°2001-003 du 18 novembre 2001 portant loi organique relative à la Haute Cour Constitutionnelle continue de préciser certaines modalités d'organisation et de fonctionnement de la HCC, dans l'attente d'une nouvelle loi organique pleinement conforme à la Constitution de la IVe République."
+    },
+    {
+      "question": "La HCC peut-elle s'autosaisir librement de la constitutionnalité d'une loi en dehors des cas prévus par les textes ?",
+      "choix": ["A. Oui, elle dispose d'une totale initiative politique", "B. Non, elle ne dispose d'aucune initiative politique propre et ne peut s'autosaisir en dehors des cas prévus", "C. Oui, mais uniquement une fois par an", "D. Non, sauf en matière électorale"],
+      "reponse": "B",
+      "indices": ["La HCC est une juridiction, et non un organe politique d'initiative", "Sa mission est de contrôler, non de proposer des réformes"],
+      "explication": "La Haute Cour Constitutionnelle ne dispose d'aucune initiative politique propre : elle ne peut s'autosaisir d'une question de constitutionnalité d'une loi en dehors des cas prévus par les textes, sa mission consistant à veiller au respect de la Constitution sans empiéter sur les prérogatives des autres institutions."
+    },
+    {
+      "question": "Quelle est la principale différence entre le contrôle a priori et le contrôle a posteriori de constitutionnalité ?",
+      "choix": ["A. Le contrôle a priori intervient avant la promulgation, le contrôle a posteriori après l'entrée en vigueur de la norme", "B. Le contrôle a priori ne concerne que les lois organiques, le contrôle a posteriori toutes les lois", "C. Le contrôle a priori est facultatif, le contrôle a posteriori est obligatoire", "D. Il n'existe aucune différence entre les deux"],
+      "reponse": "A",
+      "indices": ["Le moment de l'intervention du contrôle est le critère de distinction", "Le contrôle a posteriori s'exerce à l'occasion de l'application du texte"],
+      "explication": "Le contrôle a priori est un contrôle de constitutionnalité qui intervient avant la promulgation et l'entrée en vigueur d'une norme, tandis que le contrôle a posteriori s'exerce après son entrée en vigueur, à l'occasion de son application concrète dans un litige."
+    },
+    {
+      "question": "Une loi qui n'aurait pas été soumise au contrôle a priori peut-elle néanmoins faire l'objet d'un contrôle de constitutionnalité après son entrée en vigueur ?",
+      "choix": ["A. Non, une fois promulguée, une loi ne peut plus jamais être contrôlée", "B. Oui, par la voie de l'exception d'inconstitutionnalité ou de l'atteinte aux droits fondamentaux soulevée devant une juridiction", "C. Oui, mais uniquement par une nouvelle loi qui l'abroge", "D. Non, sauf décision du Président de la République"],
+      "reponse": "B",
+      "indices": ["Ces deux mécanismes constituent des voies de saisine incidente, à l'occasion d'un procès en cours", "Ils contraignent la juridiction saisie du litige à surseoir à statuer"],
+      "explication": "Une loi qui n'aurait pas été soumise au contrôle a priori peut néanmoins faire l'objet d'un contrôle de constitutionnalité a posteriori, par la voie de l'exception d'inconstitutionnalité ou de l'exception tirée d'une atteinte aux droits fondamentaux, soulevées devant une juridiction à l'occasion d'un litige."
+    },
+    {
+      "question": "Quelle décision de la HCC est relative à la procédure d'empêchement du Président de la République ?",
+      "choix": ["A. La décision n°01-HCC/D3 du 7 janvier 2015", "B. La décision n°02-HCC/D2 du 4 juillet 2003", "C. La décision n°17-HCC/D3", "D. La décision n°06-HCC/D3 du 25 juillet 2023"],
+      "reponse": "C",
+      "indices": ["Cette décision illustre une compétence exceptionnelle de la HCC", "Elle concerne l'empêchement définitif du Chef de l'État"],
+      "explication": "La décision n°17-HCC/D3 est relative à l'empêchement du Président de la République, illustrant la compétence exceptionnelle exercée par la Haute Cour Constitutionnelle dans le cadre des procédures constitutionnelles d'empêchement présidentiel."
+    },
+    {
+      "question": "Pourquoi la pluralité des autorités de nomination des membres de la HCC (Président de la République, Assemblée Nationale, Sénat, Conseil Supérieur de la Magistrature) est-elle importante ?",
+      "choix": ["A. Elle n'a aucune importance particulière", "B. Elle vise à garantir l'indépendance de la HCC à l'égard de chacun des pouvoirs qu'elle est appelée à contrôler", "C. Elle permet au Président de la République de garder le contrôle exclusif de la Cour", "D. Elle vise uniquement à respecter un équilibre régional"],
+      "reponse": "B",
+      "indices": ["Si une seule autorité désignait tous les membres, l'indépendance de la Cour serait fragilisée", "Cette pluralité reflète un principe de séparation des pouvoirs"],
+      "explication": "La pluralité des autorités de nomination des membres de la HCC vise à garantir l'indépendance de cette juridiction à l'égard de chacun des pouvoirs de l'État qu'elle est appelée à contrôler, qu'il s'agisse de l'exécutif, du Parlement ou de l'autorité judiciaire représentée par le Conseil Supérieur de la Magistrature."
+    },
+    {
+      "question": "Une décision de la HCC déclarant une loi conforme à la Constitution peut-elle être ultérieurement remise en cause par une autre juridiction lors d'un litige distinct portant sur la même loi ?",
+      "choix": ["A. Oui, si une nouvelle juridiction l'estime nécessaire", "B. Non, aucune juridiction ne peut remettre en cause une décision rendue par la HCC", "C. Oui, mais uniquement la Cour Suprême peut le faire", "D. Oui, si cinq ans se sont écoulés depuis la décision"],
+      "reponse": "B",
+      "indices": ["L'autorité absolue des décisions de la HCC s'oppose à toute remise en cause ultérieure", "Cette règle protège la sécurité juridique et la suprématie de la Constitution"],
+      "explication": "Une fois que la Haute Cour Constitutionnelle a déclaré une loi conforme à la Constitution par une décision motivée, aucune juridiction, y compris la Cour Suprême, ne peut ultérieurement remettre en cause cette appréciation à l'occasion d'un litige distinct, en application du caractère absolu de l'autorité des décisions de la HCC."
+    },
+    {
+      "question": "Quel est le rôle du Conseil National de la Justice, prévu par l'article 113 de la Constitution, par rapport à la HCC ?",
+      "choix": ["A. C'est le même organe que la HCC, sous une autre appellation", "B. C'est un organe consultatif distinct, qui peut proposer des mesures législatives ou réglementaires relatives à l'organisation des juridictions et au statut des magistrats", "C. C'est l'organe chargé de juger les membres de la HCC", "D. C'est une chambre spécialisée de la HCC"],
+      "reponse": "B",
+      "indices": ["Cet organe est consultatif et comprend notamment des représentants de la HCC parmi ses membres", "Il ne doit pas être confondu avec la Haute Cour Constitutionnelle elle-même"],
+      "explication": "Le Conseil National de la Justice, prévu par l'article 113 de la Constitution, est un organe consultatif distinct de la HCC, composé notamment du Premier Président de la Cour Suprême, du Procureur général, des Chefs de Cours et de représentants de plusieurs institutions dont la HCC, qui peut proposer au Gouvernement des mesures législatives ou réglementaires relatives à l'organisation des juridictions et au statut des magistrats."
+    },
+    {
+      "question": "Selon l'article 116 de la Constitution, sur quelles catégories de normes la HCC statue-t-elle la conformité à la Constitution ?",
+      "choix": ["A. Les traités, les lois, les ordonnances et les règlements", "B. Uniquement les lois ordinaires", "C. Uniquement les décrets ministériels", "D. Uniquement les conventions collectives de travail"],
+      "reponse": "A",
+      "indices": ["Cette compétence générale figure au tout début de l'énumération des attributions de la HCC", "Elle ne se limite pas aux seules lois"],
+      "explication": "Selon l'article 116 de la Constitution, la HCC statue, dans les conditions fixées par une loi organique, sur la conformité à la Constitution des traités, des lois, des ordonnances et des règlements, ce qui constitue sa compétence générale de contrôle de constitutionnalité des normes."
+    },
+    {
+      "question": "Quelles personnalités sont tenues de déposer une déclaration de patrimoine auprès de la HCC, en vertu des dispositions constitutionnelles relatives aux plus hautes fonctions de l'État ?",
+      "choix": ["A. Uniquement les ministres", "B. Les personnalités exerçant les plus hautes fonctions de l'État, dont les membres de la HCC eux-mêmes", "C. Uniquement les députés", "D. Aucune personnalité n'y est tenue"],
+      "reponse": "B",
+      "indices": ["Cette obligation vise à prévenir les conflits d'intérêts", "Le non-respect de cette règle peut entraîner la déchéance"],
+      "explication": "Les personnalités exerçant les plus hautes fonctions de l'État, parmi lesquelles figurent les membres de la HCC, sont tenues de déposer auprès de celle-ci une déclaration de patrimoine, sous peine de déchéance en cas de manquement aux règles relatives aux émoluments et rétributions perçus dans le cadre de leurs fonctions."
+    },
+    {
+      "question": "Combien de membres comptait le Conseil Supérieur des Institutions sous la Ière République ?",
+      "choix": ["A. Trois", "B. Cinq", "C. Sept", "D. Neuf"],
+      "reponse": "B",
+      "indices": ["Ces membres étaient désignés par le Président de la République, l'Assemblée Nationale et le Président du Sénat", "Ce nombre est inférieur à celui de la HCC actuelle"],
+      "explication": "Sous la Ière République, le Conseil Supérieur des Institutions comptait cinq membres, désignés par le Président de la République (deux membres), l'Assemblée Nationale (deux membres) et le Président du Sénat (un membre)."
+    },
+    {
+      "question": "La Constitution de la IIIe République, adoptée en 1992, a-t-elle été révisée ultérieurement ?",
+      "choix": ["A. Non, elle est restée inchangée jusqu'à son remplacement en 2010", "B. Oui, elle a été révisée par une loi constitutionnelle annexée et adoptée le 8 avril 1998", "C. Oui, mais uniquement en 2001", "D. Non, aucune révision constitutionnelle n'a eu lieu sous la IIIe République"],
+      "reponse": "B",
+      "indices": ["Cette révision est intervenue avant l'adoption de l'ordonnance organique de 2001 relative à la HCC", "Elle a notamment traité de la Haute Cour Constitutionnelle"],
+      "explication": "La Constitution de la IIIe République, adoptée le 18 septembre 1992, a été révisée par une loi constitutionnelle annexée et adoptée le 8 avril 1998, laquelle a notamment traité de la Haute Cour Constitutionnelle, au sous-titre qui lui est consacré."
+    }
+  ],
+  "exercices": [
+    {
+      "question": "CAS PRATIQUE N°1 — La loi sur les chefs de district et le recours de Maître RAKOTOZAFY\n\nL'Assemblée Nationale adopte une loi ordinaire modifiant les attributions des chefs de district en matière de police administrative. Le Président de la République, estimant le texte conforme à la Constitution, le promulgue sans le soumettre à la Haute Cour Constitutionnelle. Six mois plus tard, Maître RAKOTOZAFY Solofo, avocat, représente un commerçant d'Ambanja poursuivi pour avoir refusé de se conformer à un arrêté pris par un chef de district sur le fondement de cette loi. Devant le tribunal de première instance, Maître RAKOTOZAFY soutient que la loi en question porte atteinte à la liberté de commerce et d'industrie de son client, et qu'elle est de surcroît inconstitutionnelle car elle aurait dû, selon lui, être qualifiée de loi organique. Le tribunal, embarrassé, se demande s'il peut lui-même écarter l'application de cette loi.\n\nQuestions :\n1. Le Président de la République était-il tenu de soumettre cette loi ordinaire à la HCC avant sa promulgation ?\n2. Le tribunal de première instance peut-il lui-même écarter l'application de la loi qu'il estime inconstitutionnelle ?\n3. Quelle est la procédure que doit suivre le tribunal face à l'argument de Maître RAKOTOZAFY ?\n4. La qualification de « loi organique » revendiquée par Maître RAKOTOZAFY change-t-elle la procédure applicable à ce stade ?",
+      "choix": [
+        "A. Le Président était tenu de transmettre systématiquement toute loi à la HCC ; le tribunal peut lui-même écarter la loi qu'il juge inconstitutionnelle ; aucune procédure particulière n'est requise ; la qualification de loi organique est sans incidence.",
+        "B. Le Président n'était tenu de transmettre systématiquement à la HCC que les lois organiques, et non les lois ordinaires comme en l'espèce, pour lesquelles la saisine demeure facultative ; le tribunal de première instance n'a pas le pouvoir de se prononcer lui-même sur la constitutionnalité de la loi et doit surseoir à statuer pour saisir la Haute Cour Constitutionnelle, dès lors qu'une partie soulève une exception d'inconstitutionnalité ou une atteinte à ses droits fondamentaux ; la question de la qualification de la loi en loi organique relève elle-même de l'appréciation de la HCC, mais n'affecte pas l'obligation du tribunal de surseoir à statuer et de transmettre la question.",
+        "C. Le Président était tenu de transmettre la loi à la HCC car toute loi relative aux attributions des autorités administratives est nécessairement organique ; le tribunal peut juger l'affaire sans saisir la HCC car il s'agit d'une simple question d'interprétation ; aucune transmission n'est nécessaire.",
+        "D. Le Président n'était pas tenu de transmettre la loi ; le tribunal doit rejeter purement et simplement l'argument de Maître RAKOTOZAFY sans saisir la HCC, car seul le Président de la République peut soulever une exception d'inconstitutionnalité."
+      ],
+      "reponse": "B",
+      "indices": [
+        "L'article 117 impose la transmission systématique des lois organiques, mais la saisine pour les lois ordinaires reste facultative et relève d'une décision politique",
+        "Le mécanisme de l'exception d'inconstitutionnalité et celui de l'atteinte aux droits fondamentaux imposent tous deux à la juridiction saisie de surseoir à statuer",
+        "Seule la HCC est compétente pour apprécier la constitutionnalité d'une loi, y compris sa qualification organique ou ordinaire"
+      ],
+      "explication": "1. Le Président de la République n'était pas tenu de soumettre systématiquement cette loi ordinaire à la HCC avant sa promulgation : seules les lois organiques font l'objet d'une transmission systématique et obligatoire en application de l'article 117 de la Constitution ; la saisine de la HCC pour une loi ordinaire demeure facultative et relève de l'appréciation des autorités habilitées à la saisir. 2. Le tribunal de première instance ne peut en aucun cas écarter lui-même l'application d'une loi qu'il estimerait inconstitutionnelle : seule la Haute Cour Constitutionnelle est compétente pour apprécier la constitutionnalité d'un texte législatif à Madagascar. 3. Dès lors que Maître RAKOTOZAFY soulève à la fois une exception d'inconstitutionnalité et une atteinte aux droits fondamentaux de son client, le tribunal doit surseoir à statuer, c'est-à-dire suspendre l'examen du litige, et transmettre la question à la Haute Cour Constitutionnelle, seule habilitée à se prononcer sur ces deux moyens. 4. La qualification de la loi en loi organique, revendiquée par l'avocat, ne change rien à la procédure que doit suivre le tribunal à ce stade : il appartiendra à la Haute Cour Constitutionnelle elle-même, saisie de la question, d'apprécier le bien-fondé de cette qualification ainsi que la constitutionnalité du texte contesté."
+    },
+    {
+      "question": "CAS PRATIQUE N°2 — Le conflit entre la Région Diana et le Ministère des Transports, et le membre démissionnaire de la HCC\n\nMonsieur ANDRIAMANANA Tovo, élu depuis quatre ans membre de la Haute Cour Constitutionnelle au titre des deux membres désignés par le Sénat, décide de se porter candidat aux élections sénatoriales prochaines. Parallèlement, un conflit oppose la Région Diana et le Ministère chargé des Transports : la Région a adopté une délibération organisant elle-même le transport routier inter-urbain sur son territoire, tandis que le Ministère soutient que cette matière relève exclusivement de la compétence de l'État. La Région saisit directement la Haute Cour Constitutionnelle pour qu'elle tranche ce conflit, et demande, à titre accessoire, que M. ANDRIAMANANA soit déclaré démissionnaire d'office de la HCC en raison de sa candidature.\n\nQuestions :\n1. M. ANDRIAMANANA peut-il rester membre de la HCC tout en étant candidat aux élections sénatoriales ?\n2. La Haute Cour Constitutionnelle est-elle compétente pour trancher le conflit entre la Région Diana et le Ministère des Transports ?\n3. Si la HCC tranche ce conflit par une décision, cette dernière peut-elle faire l'objet d'un recours devant la Cour Suprême ?\n4. Le mandat de M. ANDRIAMANANA, s'il devait être renouvelé à son terme, pourrait-il l'être pour les mêmes fonctions ?",
+      "choix": [
+        "A. M. ANDRIAMANANA peut cumuler les deux fonctions sans difficulté ; la HCC n'est pas compétente pour ce conflit, qui relève des tribunaux administratifs ; la décision de la HCC est susceptible de recours devant la Cour Suprême ; son mandat est renouvelable indéfiniment.",
+        "B. M. ANDRIAMANANA ne peut pas cumuler sa fonction de membre de la HCC avec un mandat public électif tel qu'une candidature sénatoriale, en application de l'article 115 de la Constitution, et doit démissionner de la HCC pour se présenter ; la HCC est compétente pour trancher le conflit de compétence entre la Région Diana et l'État, conformément à ses attributions en la matière ; sa décision, comme tous les arrêts et décisions de la HCC, n'est susceptible d'aucun recours et s'impose à toutes les parties ; le mandat de M. ANDRIAMANANA, fixé à sept ans, n'est pas renouvelable.",
+        "C. M. ANDRIAMANANA peut rester membre de la HCC durant sa campagne, à condition de suspendre temporairement ses fonctions juridictionnelles ; la HCC n'est pas compétente, ce contentieux relevant du Conseil National de la Justice ; la décision de la HCC est susceptible d'appel ; son mandat est renouvelable une fois.",
+        "D. M. ANDRIAMANANA doit démissionner de la HCC pour se présenter ; la HCC n'est pas compétente pour ce conflit, qui relève exclusivement du Gouvernement ; la décision est définitive ; son mandat est renouvelable une fois."
+      ],
+      "reponse": "B",
+      "indices": [
+        "L'article 115 de la Constitution rend incompatibles les fonctions de membre de la HCC avec tout mandat public électif",
+        "L'article 116 attribue à la HCC la compétence de régler les conflits de compétence entre l'État et les Collectivités Territoriales Décentralisées",
+        "L'article 120 prévoit que les arrêts et décisions de la HCC ne sont susceptibles d'aucun recours",
+        "L'article 114 fixe le mandat des membres de la HCC à sept ans, non renouvelable"
+      ],
+      "explication": "1. M. ANDRIAMANANA ne peut pas cumuler sa fonction de membre de la Haute Cour Constitutionnelle avec une candidature à un mandat public électif tel qu'un mandat sénatorial : l'article 115 de la Constitution rend ces fonctions incompatibles, et il doit donc démissionner de la HCC avant de pouvoir valablement se présenter à cette élection. 2. La Haute Cour Constitutionnelle est bien compétente pour trancher ce conflit : elle est chargée par la Constitution de régler les conflits de compétence entre l'État et une ou plusieurs Collectivités Territoriales Décentralisées, catégorie à laquelle appartient la Région Diana. 3. La décision rendue par la HCC dans cette matière, comme tous les arrêts et décisions qu'elle rend, n'est susceptible d'aucun recours, conformément à l'article 120 de la Constitution, et s'impose à toutes les parties ainsi qu'à l'ensemble des pouvoirs publics. 4. Le mandat des membres de la Haute Cour Constitutionnelle, fixé à sept ans par l'article 114 de la Constitution, n'est pas renouvelable : M. ANDRIAMANANA, à l'expiration de son mandat, ne pourrait donc pas être désigné une seconde fois pour exercer les mêmes fonctions."
+    }
+  ]
+}
